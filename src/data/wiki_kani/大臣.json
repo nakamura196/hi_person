@@ -1,0 +1,667 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大臣（だいじん）は、本来は皇帝・国王等を輔弼して国政を司る重要官職だが、今日一般的には君主制と共和制とに関わらず、政府を構成し、各行政部門の長に位置する官職。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1532971
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2971"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "84"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 56423736
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大日本帝国憲法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/漢字文化圏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/副大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/召使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣制度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/相国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/インド"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/特命全権公使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣府特命担当大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/漢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古フランス語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/総統"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国務長官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/閣外大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国務大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ合衆国国防長官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イタリア"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外務大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣官房長官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/人民委員"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ合衆国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三省六部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮内大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/主任の大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イギリスの首相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣総理大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/行政院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国の宰相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大臣補佐官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イギリス"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宰相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/諸侯王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/欽差大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/コミッサール"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中華民国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中華人民共和国外交部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ソビエト連邦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/共和制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/無任所大臣_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大臣政務官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/台湾"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/君主制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国家の承認"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尚書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/閣僚評議会議長_(イタリア)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇帝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/防衛大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中央省庁再編"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ドイツ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令外の官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:公務員"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:政治家・官僚の称号"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:政治史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/パレスチナ自治政府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丞相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内大臣府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大統領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/首相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本国憲法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国家主席"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/軍機大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:閣僚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/連邦"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Poli-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Main"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:公務員"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:閣僚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:政治史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:政治家・官僚の称号"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大臣（だいじん）は、本来は皇帝・国王等を輔弼して国政を司る重要官職だが、今日一般的には君主制と共和制とに関わらず、政府を構成し、各行政部門の長に位置する官職。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大臣"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/部長"
+        },
+        {
+            "type": "uri",
+            "value": "http://sh.dbpedia.org/resource/Ministar"
+        },
+        {
+            "type": "uri",
+            "value": "http://bg.dbpedia.org/resource/Министър"
+        },
+        {
+            "type": "uri",
+            "value": "http://eo.dbpedia.org/resource/Ministro"
+        },
+        {
+            "type": "uri",
+            "value": "http://simple.dbpedia.org/resource/Minister"
+        },
+        {
+            "type": "uri",
+            "value": "http://az.dbpedia.org/resource/Nazir_(hökumət)"
+        },
+        {
+            "type": "uri",
+            "value": "http://lv.dbpedia.org/resource/Ministrs"
+        },
+        {
+            "type": "uri",
+            "value": "http://nl.dbpedia.org/resource/Minister"
+        },
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Міністр"
+        },
+        {
+            "type": "uri",
+            "value": "http://hi.dbpedia.org/resource/मंत्री"
+        },
+        {
+            "type": "uri",
+            "value": "http://als.dbpedia.org/resource/Minister"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Minister_(government)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ro.dbpedia.org/resource/Ministru"
+        },
+        {
+            "type": "uri",
+            "value": "http://cs.dbpedia.org/resource/Ministr"
+        },
+        {
+            "type": "uri",
+            "value": "http://sv.dbpedia.org/resource/Minister"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Minister"
+        },
+        {
+            "type": "uri",
+            "value": "http://fy.dbpedia.org/resource/Minister"
+        },
+        {
+            "type": "uri",
+            "value": "http://eu.dbpedia.org/resource/Ministro"
+        },
+        {
+            "type": "uri",
+            "value": "http://jv.dbpedia.org/resource/Mentri_departemen"
+        },
+        {
+            "type": "uri",
+            "value": "http://gl.dbpedia.org/resource/Ministro_(goberno)"
+        },
+        {
+            "type": "uri",
+            "value": "http://am.dbpedia.org/resource/ሚኒስትር"
+        },
+        {
+            "type": "uri",
+            "value": "http://pl.dbpedia.org/resource/Minister"
+        },
+        {
+            "type": "uri",
+            "value": "http://oc.dbpedia.org/resource/Ministre"
+        },
+        {
+            "type": "uri",
+            "value": "http://sk.dbpedia.org/resource/Minister"
+        },
+        {
+            "type": "uri",
+            "value": "http://hr.dbpedia.org/resource/Ministar"
+        },
+        {
+            "type": "uri",
+            "value": "http://hu.dbpedia.org/resource/Miniszter"
+        },
+        {
+            "type": "uri",
+            "value": "http://id.dbpedia.org/resource/Menteri"
+        },
+        {
+            "type": "uri",
+            "value": "http://he.dbpedia.org/resource/שר"
+        },
+        {
+            "type": "uri",
+            "value": "http://is.dbpedia.org/resource/Ráðherra"
+        },
+        {
+            "type": "uri",
+            "value": "http://ga.dbpedia.org/resource/Aire_Rialtas"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Ministro"
+        },
+        {
+            "type": "uri",
+            "value": "http://af.dbpedia.org/resource/Minister"
+        },
+        {
+            "type": "uri",
+            "value": "http://ta.dbpedia.org/resource/அமைச்சர்"
+        },
+        {
+            "type": "uri",
+            "value": "http://be.dbpedia.org/resource/Міністр"
+        },
+        {
+            "type": "uri",
+            "value": "http://tr.dbpedia.org/resource/Bakan"
+        },
+        {
+            "type": "uri",
+            "value": "http://fa.dbpedia.org/resource/وزیر_(دولت)"
+        },
+        {
+            "type": "uri",
+            "value": "http://sco.dbpedia.org/resource/Meenister_(govrenment)"
+        },
+        {
+            "type": "uri",
+            "value": "http://et.dbpedia.org/resource/Minister"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/장관"
+        },
+        {
+            "type": "uri",
+            "value": "http://no.dbpedia.org/resource/Minister"
+        },
+        {
+            "type": "uri",
+            "value": "http://io.dbpedia.org/resource/Ministro"
+        },
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Министр"
+        },
+        {
+            "type": "uri",
+            "value": "http://ms.dbpedia.org/resource/Menteri"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q83307"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q83307"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Ministro"
+        },
+        {
+            "type": "uri",
+            "value": "http://arz.dbpedia.org/resource/وزير"
+        },
+        {
+            "type": "uri",
+            "value": "http://sr.dbpedia.org/resource/Министар"
+        },
+        {
+            "type": "uri",
+            "value": "http://fi.dbpedia.org/resource/Ministeri"
+        },
+        {
+            "type": "uri",
+            "value": "http://da.dbpedia.org/resource/Minister"
+        },
+        {
+            "type": "uri",
+            "value": "http://ca.dbpedia.org/resource/Ministre"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Ministre"
+        },
+        {
+            "type": "uri",
+            "value": "http://mk.dbpedia.org/resource/Министер"
+        },
+        {
+            "type": "uri",
+            "value": "http://el.dbpedia.org/resource/Υπουργός"
+        },
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Ministro"
+        },
+        {
+            "type": "uri",
+            "value": "http://sl.dbpedia.org/resource/Minister"
+        },
+        {
+            "type": "uri",
+            "value": "http://th.dbpedia.org/resource/รัฐมนตรี"
+        },
+        {
+            "type": "uri",
+            "value": "http://nn.dbpedia.org/resource/Minister"
+        },
+        {
+            "type": "uri",
+            "value": "http://ar.dbpedia.org/resource/وزير"
+        },
+        {
+            "type": "uri",
+            "value": "http://lt.dbpedia.org/resource/Ministras"
+        },
+        {
+            "type": "uri",
+            "value": "http://bs.dbpedia.org/resource/Ministar"
+        },
+        {
+            "type": "uri",
+            "value": "http://vi.dbpedia.org/resource/Bộ_trưởng"
+        },
+        {
+            "type": "uri",
+            "value": "http://ka.dbpedia.org/resource/მინისტრი"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/大臣?oldid=56423736"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/大臣"
+        }
+    ]
+}

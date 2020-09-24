@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/大内記.json",
+    "http://schema.org/description": [
+      {
+        "@value": "内記（ないき）は律令制において中務省に属した品官。唐名は起居郎・柱下。和訓は「うちのしるすつかさ」。"
+      },
+      {
+        "@value": "〘名〙 令制で、中務省に属して詔勅をつくり、御所の記録のことをつかさどった大、中、少内記六人のうち、上位二名の職名。正六位上相当官。だいだいき。〔令義解（718）〕"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "内記"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大内記"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/大内記"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/内記"
+      }
+    ]
+  }
+]

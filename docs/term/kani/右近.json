@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/右近.json",
+    "http://schema.org/description": [
+      {
+        "@value": "１ 「右近衛府(うこんえふ)」の略。⇔左近。２ 「右近の橘(たちばな)」の略。[補説]曲名別項。→右近"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "右近"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/右近"
+      }
+    ]
+  }
+]

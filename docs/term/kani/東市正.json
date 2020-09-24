@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/東市正.json",
+    "http://schema.org/description": [
+      {
+        "@value": "市司（いちのつかさ）は律令制において京職に属する機関。都の東西の市それぞれに設置され、東市司（ひがしのいちのつかさ）は左京職に西市司（にしのいちのつかさ）は右京職に属していた。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "市司"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "東市正"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/市司"
+      }
+    ]
+  }
+]

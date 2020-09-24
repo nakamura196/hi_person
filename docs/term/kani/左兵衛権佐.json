@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/左兵衛権佐.json",
+    "http://schema.org/description": [
+      {
+        "@value": "兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "兵衛府"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "左兵衛権佐"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/兵衛府"
+      }
+    ]
+  }
+]

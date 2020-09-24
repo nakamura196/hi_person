@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/筑前守.json",
+    "http://schema.org/description": [
+      {
+        "@value": "筑前国（ちくぜんのくに）は、かつて日本の地方行政区分だった令制国の一つ。西海道に属する。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "筑前国"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "筑前守"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/筑前国"
+      }
+    ]
+  }
+]

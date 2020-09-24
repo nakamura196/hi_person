@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/左馬助.json",
+    "http://schema.org/description": [
+      {
+        "@value": "左馬寮(さまりょう)の次官。正六位下相当。ひだりのうまのすけ。"
+      },
+      {
+        "@value": "馬寮（めりょう/うまのつかさ）は、律令制における官司の一つ。唐名では典厩（てんきゅう）。左馬寮（さめりょう/さまりょう）と右馬寮（うめりょう/うまりょう）に分かれていた。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "馬寮"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "左馬助"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/左馬助"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/馬寮"
+      }
+    ]
+  }
+]

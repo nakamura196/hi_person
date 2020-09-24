@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/甲斐守.json",
+    "http://schema.org/description": [
+      {
+        "@value": "甲斐国（かいのくに）は、かつて日本の地方行政区分だった令制国の一つ。東海道に属する。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "甲斐国"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "甲斐守"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/甲斐国"
+      }
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "法師（ほうし或いはほっし、のりのし、Skt:dharma-bhaanaka）は僧侶に対する呼称の1つ。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 412771
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "778"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "25"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58204880
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/修行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ツクツクボウシ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/僧房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/読誦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/法華経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仏教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/影法師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/粟津温泉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坊主"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/禅定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/暗証の禅師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一寸法師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薬王菩薩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/起き上がり小法師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戒律"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/禅師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/経典"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/釈迦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:僧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/琵琶法師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/僧侶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源氏物語"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:ラテン翻字"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Buddhism-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Buddhism2"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Otheruses"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:僧"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "法師（ほうし或いはほっし、のりのし、Skt:dharma-bhaanaka）は僧侶に対する呼称の1つ。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "法師"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/법사"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q1306861"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1306861"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/法师"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/法師?oldid=58204880"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/法師"
+        }
+    ]
+}

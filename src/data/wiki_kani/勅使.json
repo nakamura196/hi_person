@@ -1,0 +1,243 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "勅使（ちょくし）とは、天皇・皇帝・王など国の元首が出す使者のこと。上皇の使者は院使（いんし）、皇后の使者は皇后宮使（こうごうぐうし）、中宮の使者は中宮使（ちゅうぐうし）、皇太后の使者は皇太后宮使（こうたいごうぐうし）、女院の使者は女院使（にょいんし）と呼ばれる。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 545182
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "1040"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "42"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 56315211
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅祭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/幕末"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太上天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江沼郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/掌典職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元首"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/納采"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮内庁侍従職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/結納"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇太后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇帝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/赤穂事件"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/香川県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宣旨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/シルクハット"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の皇室"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外様大名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/将軍宣下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅使町"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石川県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅使村"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高松市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅祭社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正倉院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅使門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/饗応役"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/モーニングコート"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢神宮"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の皇室"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "勅使（ちょくし）とは、天皇・皇帝・王など国の元首が出す使者のこと。上皇の使者は院使（いんし）、皇后の使者は皇后宮使（こうごうぐうし）、中宮の使者は中宮使（ちゅうぐうし）、皇太后の使者は皇太后宮使（こうたいごうぐうし）、女院の使者は女院使（にょいんし）と呼ばれる。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "勅使"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11399920"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11399920"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/勅使?oldid=56315211"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/勅使"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/下野守.json",
+    "http://schema.org/description": [
+      {
+        "@value": "下野国（しもつけのくに）は、かつて日本の地方行政区分だった令制国の一つ。東山道に属する。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "下野国"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "下野守"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/下野国"
+      }
+    ]
+  }
+]

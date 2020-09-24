@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/大夫.json",
+    "http://schema.org/description": [
+      {
+        "@value": "もと中国古代の官位名。その後広く有位高官の者をいった。日本では，律令制下，中宮職，春宮 (とうぐう) 職，その他の各職の長官名をいい，「だいぶ」と呼んだ。また一位以下，五位以上の有位者を総じて大夫といったが，のち五位だけに用い，「たいふ」「たゆう」と呼んだ。"
+      },
+      {
+        "@value": "大夫（たいふ／だいぶ／たゆう）とは、ほんらい古代中国における身分呼称のひとつ。日本では太夫（たゆう）とも表記し、人物の呼称として色々な意味を持つようになった。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大夫"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/大夫"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/大夫"
+      }
+    ]
+  }
+]

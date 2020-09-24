@@ -1,0 +1,199 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "蔵人別当（くろうどのべっとう）とは、令外官の役職で、蔵人所の長官にあたる。組織上は蔵人頭以下を指揮する立場にあるが、所内の実務全般は蔵人頭が責任を負い、蔵人別当は対外的な代表者の地位として蔵人頭の任免や昇殿定、蔵人所の管轄下に置かれた所の人事などに関与したが、実際の実務には携わらなかった。定員は1名。殿上人を束ねる役目なので「殿上の別当」とも言う。詔勅を各省に伝達することが役目である。なお、通常、大臣が兼職して二位の者が補任されるが、令外官であるため官位相当は無い。897年（寛平9年）、平安時代前期の公卿藤原時平が任じられたのが最初であるが、後に左大臣が兼任することとなる。ただし、一上と同様に左大臣が関白であった時は、右大臣が別当となる。例としては室町幕府の将軍である足利義満が1382年2月9日（弘和2年/永徳2年1月26日）に、左大臣就任の後、3月4日（閏1月19日）、蔵人別当を兼務している。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 695736
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "638"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "29"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58245067
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/征夷大将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昇殿定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/閏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/補任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原時平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/詔勅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1382年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/室町幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/897年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位相当"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/殿上人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義満"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:令外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弘和"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:令外官"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "蔵人別当（くろうどのべっとう）とは、令外官の役職で、蔵人所の長官にあたる。組織上は蔵人頭以下を指揮する立場にあるが、所内の実務全般は蔵人頭が責任を負い、蔵人別当は対外的な代表者の地位として蔵人頭の任免や昇殿定、蔵人所の管轄下に置かれた所の人事などに関与したが、実際の実務には携わらなかった。定員は1名。殿上人を束ねる役目なので「殿上の別当」とも言う。詔勅を各省に伝達することが役目である。なお、通常、大臣が兼職して二位の者が補任されるが、令外官であるため官位相当は無い。897年（寛平9年）、平安時代前期の公卿藤原時平が任じられたのが最初であるが、後に左大臣が兼任することとなる。ただし、一上と同様に左大臣が関白であった時は、右大臣が別当となる。例としては室町幕府の将軍である足利義満が1382年2月9日（弘和2年/永徳2年1月26日）に、左大臣就任の後、3月4日（閏1月19日）、蔵人別当を兼務している。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "蔵人別当"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11621871"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11621871"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/蔵人別当?oldid=58245067"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/蔵人別当"
+        }
+    ]
+}

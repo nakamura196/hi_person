@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/僧綱.json",
+    "http://schema.org/description": [
+      {
+        "@value": "僧綱（そうごう）とは日本における仏教の僧尼を管理するためにおかれた僧官の職である。"
+      },
+      {
+        "@value": "仏教の僧尼を統轄し，大寺院などを管理する役職。中国の僧官にならって，推古 32 (624) 年に僧正，僧都，法頭が設けられたが，さらに弘仁 10 (819) 年に僧正，僧都，律師の3綱がおかれ，各階級が定められ，のちにはただの称号と化した。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "僧綱"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/僧綱"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/僧綱"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/刑部少丞.json",
+    "http://schema.org/description": [
+      {
+        "@value": "刑部省（ぎょうぶしょう）は、古代日本の律令制下の八省の一つ、もしくは明治時代の省庁の一つ。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "刑部省"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "刑部少丞"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/刑部省"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/大舎人頭.json",
+    "http://schema.org/description": [
+      {
+        "@value": "大舎人寮（おおとねりりょう）は律令制において中務省に属する機関の一つである。律令制初期においては左右の大舎人寮が設定されていたが、大同3年（808年）に左大舎人寮と右大舎人寮が統合されて、大舎人寮となった。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "大舎人寮"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大舎人頭"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/大舎人寮"
+      }
+    ]
+  }
+]

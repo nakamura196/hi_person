@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/勅使.json",
+    "http://schema.org/description": [
+      {
+        "@value": "天皇の意思を直接に伝えるために派遣される使い。"
+      },
+      {
+        "@value": "勅使（ちょくし）とは、天皇・皇帝・王など国の元首が出す使者のこと。上皇の使者は院使（いんし）、皇后の使者は皇后宮使（こうごうぐうし）、中宮の使者は中宮使（ちゅうぐうし）、皇太后の使者は皇太后宮使（こうたいごうぐうし）、女院の使者は女院使（にょいんし）と呼ばれる。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "勅使"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/勅使"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/勅使"
+      }
+    ]
+  }
+]

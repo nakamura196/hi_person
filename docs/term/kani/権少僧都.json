@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/権少僧都.json",
+    "http://schema.org/description": [
+      {
+        "@value": "僧綱（そうごう）とは日本における仏教の僧尼を管理するためにおかれた僧官の職である。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "僧綱"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "権少僧都"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/僧綱"
+      }
+    ]
+  }
+]

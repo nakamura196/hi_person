@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/弾正少弼.json",
+    "http://schema.org/description": [
+      {
+        "@value": "弾正台（だんじょうだい、彈正臺）は、律令制下の八省の一つ明治時代の省庁の一つ"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "弾正台"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "弾正少弼"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/弾正台"
+      }
+    ]
+  }
+]

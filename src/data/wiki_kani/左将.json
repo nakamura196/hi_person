@@ -1,0 +1,151 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "左将（さしょう）は、将棋の駒の一つ。本将棋にはなく、大大将棋・泰将棋・大局将棋に存在する。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 45139
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2749"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "12"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 47452460
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/将棋類の一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:将棋の駒"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大大将棋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/将棋類の駒の一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/将棋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/将棋天国社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/金将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡野伸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/泰将棋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/駒_(将棋)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大局将棋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/梅林勲"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:大局将棋の駒"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Color"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:脚注ヘルプ"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:将棋の駒"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "左将（さしょう）は、将棋の駒の一つ。本将棋にはなく、大大将棋・泰将棋・大局将棋に存在する。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "左将"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/左將"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11057046"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11057046"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/左将?oldid=47452460"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/左将"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/小舎人童.json",
+    "http://schema.org/description": [
+      {
+        "@value": "近衛(このえ)中将・少将が召し使った少年。また、公家・武家に仕えて雑用をつとめた少年。「―ちひさくて髪いとうるはしきが」〈枕・五四〉"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "小舎人童"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/小舎人童"
+      }
+    ]
+  }
+]

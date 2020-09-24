@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/弾正尹.json",
+    "http://schema.org/description": [
+      {
+        "@value": "弾正尹（だんじょうのかみあるいはだんじょういん）は、律令制度における弾正台の長官（かみ）である。従三位相当。職務として、非違の糾弾、弾劾を司る。二官八省から独立して検察を行う。太政大臣を除くすべての役人の不正を摘発するのが主な任務である。平安時代の9世紀初頭に令外官の検非違使が設置された後は、皇族に与えられる名誉職のようになり実権は余りなかったという。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "弾正尹"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/弾正尹"
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/春宮大夫.json",
+    "http://schema.org/description": [
+      {
+        "@value": "春宮坊の長官。みこのみやのつかさのかみ。[補説]「東宮大夫」とも書く。"
+      },
+      {
+        "@value": "春宮坊（とうぐうぼう）は日本古代の律令制において存在した機関。和訓は「みこのみやのつかさ」。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "春宮坊"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "春宮大夫"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/春宮大夫"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/春宮坊"
+      }
+    ]
+  }
+]

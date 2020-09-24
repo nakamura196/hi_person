@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/中宮大夫.json",
+    "http://schema.org/description": [
+      {
+        "@value": "中宮職（ちゅうぐうしき）は、律令制において中務省に属して后妃に関わる事務などを扱う役所。元来は、全ての后妃の世話を行うために設置されたが後には皇后と中宮､皇太后などとの並立によりそれぞれに太皇太后宮職、皇太后宮職、皇后宮職と専属の職が置かれる。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "中宮職"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "中宮大夫"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/中宮職"
+      }
+    ]
+  }
+]

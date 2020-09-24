@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/大学頭.json",
+    "http://schema.org/description": [
+      {
+        "@value": "大学寮（だいがくりょう）は、律令制のもとで作られた式部省（現在の人事院に相当する）直轄下の官僚育成機関である。官僚の候補生である学生に対する教育と試験及び儒教における重要儀式である釋奠を行った。"
+      },
+      {
+        "@value": "１ 律令制で、大学寮の長官。従五位上相当。学生(がくしょう)の試験と釈奠(せきてん)のことを管掌。２ 江戸時代、昌平坂学問所の長官。元禄4年（1691）林信篤（鳳岡）が任命され、以後代々林家が世襲。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "大学寮"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大学頭"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/大学頭"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/大学寮"
+      }
+    ]
+  }
+]

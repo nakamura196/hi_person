@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/大学助.json",
+    "http://schema.org/description": [
+      {
+        "@value": "大学寮（だいがくりょう）は、律令制のもとで作られた式部省（現在の人事院に相当する）直轄下の官僚育成機関である。官僚の候補生である学生に対する教育と試験及び儒教における重要儀式である釋奠を行った。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "大学寮"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大学助"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/大学寮"
+      }
+    ]
+  }
+]

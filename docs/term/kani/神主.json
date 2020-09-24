@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/神主.json",
+    "http://schema.org/description": [
+      {
+        "@value": "神社に奉仕して、神事に従うことを業としている人。神官。神職。また、その長。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "神主"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/神主"
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/左近大夫.json",
+    "http://schema.org/description": [
+      {
+        "@value": "左近衛将監で官位が五位の者。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "左近大夫"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/左近大夫"
+      }
+    ]
+  }
+]

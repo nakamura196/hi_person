@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/主計助.json",
+    "http://schema.org/description": [
+      {
+        "@value": "主計寮（しゅけいりょう）は律令制において民部省に属した機関。訓はかずえのつかさなど。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "主計寮"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "主計助"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/主計寮"
+      }
+    ]
+  }
+]

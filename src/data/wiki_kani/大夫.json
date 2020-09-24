@@ -1,0 +1,419 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大夫（たいふ／だいぶ／たゆう）とは、ほんらい古代中国における身分呼称のひとつ。日本では太夫（たゆう）とも表記し、人物の呼称として色々な意味を持つようになった。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 415271
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2675"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "78"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 55065996
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/被疑者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/遊廓"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/夕霧太夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/竹本義太夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/命婦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/散位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嶋原"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左衛門尉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:領主・貴族の称号"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/猿まわし"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/晋_(春秋)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/郡県制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/諸侯"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/自供"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/観世太夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢神宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉原_(東京都)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高尾太夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/座"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:春秋戦国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本書紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/家老"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宝暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/能楽"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花魁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浄瑠璃"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/警察"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女形"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1754年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/門付芸人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:夏殷周"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/遊女"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/春秋戦国時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崇神天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/周"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌舞伎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:中国の制度史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近畿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉野太夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/隠語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国_(令制国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/座元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東宮大夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/士大夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/マツ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/萬歳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神楽"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/幇間"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:江戸時代の文化"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寮_(律令制)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:脚注ヘルプ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:See_also"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Redirect"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:江戸時代の文化"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:中国の制度史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:夏殷周"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:春秋戦国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:領主・貴族の称号"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の律令制"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大夫（たいふ／だいぶ／たゆう）とは、ほんらい古代中国における身分呼称のひとつ。日本では太夫（たゆう）とも表記し、人物の呼称として色々な意味を持つようになった。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大夫"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/대부_(칭호)"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q14126428"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q14126428"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/大夫_(官名)"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/大夫?oldid=55065996"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/大夫"
+        }
+    ]
+}

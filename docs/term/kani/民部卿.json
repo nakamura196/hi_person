@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/民部卿.json",
+    "http://schema.org/description": [
+      {
+        "@value": "民部省の長官。たみのつかさのかみ。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "民部卿"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/民部卿"
+      }
+    ]
+  }
+]

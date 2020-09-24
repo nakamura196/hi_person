@@ -1,0 +1,1245 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "甲斐国（かいのくに）は、かつて日本の地方行政区分だった令制国の一つ。東海道に属する。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Kai-Choshizuka-kofun_№1.JPG?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://www.rekihaku.ac.jp/up-cgi/login.pl?p=param/kyud/db_param"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 13670
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "10021"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "276"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 59029242
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:甲斐国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上野晴朗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/穴山梅雪"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本列島"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関ヶ原の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/幕府直轄領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東海道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福岡藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古事記伝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲府勤番"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東八代郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平川南"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/穴山氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田政義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/巨摩郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信虎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/渡来人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:東海道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坂本美夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/市川県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大坪遺跡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令制国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令制国一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一宮浅間神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/姥塚古墳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筑前国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲斐銚子塚古墳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/躑躅ヶ崎館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲斐の黒駒"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文室秋津"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1871年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1868年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原内麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1869年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1870年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南アルプス市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神護景雲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小谷直五百依"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河尻秀隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳥居元忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/春日居町"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅野氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富士河口湖町"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/信濃国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀州藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲斐国分寺跡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲斐国分尼寺跡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲斐源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲府城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中山道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/782年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/墨書土器"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒野藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/美和神社_(笛吹市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田長邦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田長重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田長韶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田長義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田長舒"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天文_(元号)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田長貞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田長徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田長恵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜式内社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/笛吹市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柏原市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:山梨県の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加藤貞泰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月27日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣秀勝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/百々遺跡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月10日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲府盆地"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小早川実義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八代郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の旧国名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1351年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1336年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲斐市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ヤマト王権"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1331年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八幡神社_(甲府市宮前町)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大化改新"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Ichinomiya_asama-jinja.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1373年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松平忠良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1359年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣政権"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小山田氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/速水守久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/室町時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/谷村城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1417年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1419年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1466年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲州市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山梨県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1455年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1450年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1507年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安宿郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅間神社_(笛吹市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅間神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Kai_Kokuga_government_ruins.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一宮町_(山梨県)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和名類聚抄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1519年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/旧高旧領取調帳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/萩原元克"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正倉院文書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国_(令制国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1551年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1541年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白根町"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国郡制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1573年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出土文字資料"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秋月藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/代官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国衙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/本居宣長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加藤光泰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/相武国造"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上代特殊仮名遣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲府県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上杉禅秀の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/矢作藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/穴山勝千代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加藤氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八代郡_(甲斐国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山梨郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲斐府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲府代官所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大垣藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/瑞祥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲斐の三御牧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三郷町"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大阪府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石和県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武蔵国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信玄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田勝頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/木下良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後北条氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/玉諸神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中巨摩郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川家康"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河口浅間神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月13日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寺本廃寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/荒川義広"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月27日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広瀬広一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天正壬午の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅野長政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅野幸長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月19日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲斐犬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/府中県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/田安徳川家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田信長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月11日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡部村"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲州街道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲府市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲府藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/慶応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/春日居古墳群"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7世紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/毛利広包"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/都留郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日高守喜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月20日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国大名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/駿河国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/羽柴氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豪族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名神大社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/817年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月28日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御坂町"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月26日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲斐奈神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲斐国分寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/角川日本地名大辞典"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1032年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1029年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月24日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/相模国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/本能寺の変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月20日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/続日本紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲斐国の仏教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲斐国造"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田長政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橋本進吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山崎家治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/総社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月4日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加牟那塚古墳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信武"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信満"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信縄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信昌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信春"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜式神名帳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国造"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:令制国一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_令制国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:座標一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Vertical_images_list"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:甲斐国の郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:令制国地図_(令制国テンプレート用)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Commonscat"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:ウィキ座標"
+        }
+    ],
+    "http://ja.dbpedia.org/property/一宮": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅間神社_(笛吹市)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別称": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "甲州（こうしゅう）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国分寺": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "山梨県笛吹市（甲斐国分寺跡）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国分尼寺": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "山梨県笛吹市（甲斐国分尼寺跡）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国力": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "甲斐国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国府": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "（推定）山梨県笛吹市内の3ヶ所"
+        }
+    ],
+    "http://ja.dbpedia.org/property/所属": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東海道"
+        }
+    ],
+    "http://ja.dbpedia.org/property/距離": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国_(令制国)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/郡": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 4
+        }
+    ],
+    "http://ja.dbpedia.org/property/領域": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山梨県"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の旧国名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:東海道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:甲斐国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:山梨県の歴史"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "甲斐国（かいのくに）は、かつて日本の地方行政区分だった令制国の一つ。東海道に属する。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "甲斐国"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Kai_(provincia)"
+        },
+        {
+            "type": "uri",
+            "value": "http://fa.dbpedia.org/resource/ولایت_کای"
+        },
+        {
+            "type": "uri",
+            "value": "http://eo.dbpedia.org/resource/Kai_(provinco)"
+        },
+        {
+            "type": "uri",
+            "value": "http://fi.dbpedia.org/resource/Kain_provinssi"
+        },
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Каи_(провинция)"
+        },
+        {
+            "type": "uri",
+            "value": "http://simple.dbpedia.org/resource/Kai_Province"
+        },
+        {
+            "type": "uri",
+            "value": "http://cs.dbpedia.org/resource/Provincie_Kai"
+        },
+        {
+            "type": "uri",
+            "value": "http://nl.dbpedia.org/resource/Kai_(provincie)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/가이_국"
+        },
+        {
+            "type": "uri",
+            "value": "http://eu.dbpedia.org/resource/Kai_probintzia"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q858076"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Provinz_Kai"
+        },
+        {
+            "type": "uri",
+            "value": "http://id.dbpedia.org/resource/Provinsi_Kai"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Província_de_Kai"
+        },
+        {
+            "type": "uri",
+            "value": "http://gl.dbpedia.org/resource/Provincia_de_Kai"
+        },
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Провінція_Кай"
+        },
+        {
+            "type": "uri",
+            "value": "http://sk.dbpedia.org/resource/Kai_(provincia)"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Kai_Province"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q858076"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Province_de_Kai"
+        },
+        {
+            "type": "uri",
+            "value": "http://lt.dbpedia.org/resource/Kajaus_žemė"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Provincia_de_Kai"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/甲斐國"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/甲斐国?oldid=59029242"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Kai-Choshizuka-kofun_№1.JPG"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/甲斐国"
+        }
+    ]
+}

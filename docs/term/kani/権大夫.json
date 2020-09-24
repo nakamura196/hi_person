@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/権大夫.json",
+    "http://schema.org/description": [
+      {
+        "@value": "大夫の権官。定員外の大夫。※紫式部日記（1010頃か）寛弘五年九月一九日「九日夜は春宮権大夫つかうまつりたまふ」"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "権の大夫"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "権大夫"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/権の大夫-2040915"
+      }
+    ]
+  }
+]

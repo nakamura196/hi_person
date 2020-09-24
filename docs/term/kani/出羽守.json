@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/出羽守.json",
+    "http://schema.org/description": [
+      {
+        "@value": "出羽国（でわのくに）は、かつて日本の地方行政区分だった令制国の一つ。東山道に属する。"
+      },
+      {
+        "@value": "１ 出羽国の長官。２ 《連語「では」と「出羽」をかけて》「海外では」「他業界では」のように、何かにつけて他者の例を引き合いに出して語る人のこと。多くは揶揄(やゆ)の気持ちをこめていう。→ではのかみ"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "出羽国"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "出羽守"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/出羽国"
+      },
+      {
+        "@id": "https://kotobank.jp/word/出羽守"
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/少監物.json",
+    "http://schema.org/description": [
+      {
+        "@value": "監物（けんもつ）は律令制において中務省に属した品官（ほんかん）。"
+      },
+      {
+        "@value": "〘名〙 令制の官職の一つ。中務(なかつかさ)省に属して、大蔵寮・内蔵寮の倉庫の収納物の出納の管理をつかさどった。正七位下相当。下物職(おろしもののつかさ)※令義解（718）職員「少監物四人。〈掌同二中監物一〉」"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "監物"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "少監物"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/監物"
+      },
+      {
+        "@id": "https://kotobank.jp/word/少監物"
+      }
+    ]
+  }
+]

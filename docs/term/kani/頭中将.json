@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/頭中将.json",
+    "http://schema.org/description": [
+      {
+        "@value": "頭中将（とうのちゅうじょう）は、日本の律令制における公家官職の呼称の一つ。位階が四位の殿上人で、蔵人頭（蔵人所の実質的な責任者）と近衛中将（近衛府の次官）を兼任した者に対する通称。"
+      },
+      {
+        "@value": "近衛中将で、蔵人頭(くろうどのとう)を兼ねた人。源氏物語の登場人物。左大臣の長男。雲井の雁・柏木・玉鬘(たまかずら)などの父。光源氏と親友で、太政大臣に至る。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "頭中将"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/頭中将"
+      },
+      {
+        "@id": "https://kotobank.jp/word/頭中将"
+      }
+    ]
+  }
+]

@@ -1,0 +1,631 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "給与（きゅうよ、英語: Salary（サラリー））は、雇用契約に基づいて雇用主から従業員へ定期的に支払われる、労働の対価報酬。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 259404
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "5095"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "84"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58396982
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/給与支払報告書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/給与明細書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1995年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/就業規則"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/労働"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従業員"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/サラリーマン"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/随時改定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国税庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/経常利益"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/法人企業統計調査"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/財務省_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貨幣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/労働者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/給料"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/芸能人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/誤用"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/賃金"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/標準報酬月額"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/毎月勤労統計調査"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/基本給"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/租税"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/最低賃金"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/所得税法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/労働時間"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/プロスポーツ選手"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/控除"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/電子給与明細"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/所得税"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/労働協約"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/塩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ガイウス・プリニウス・セクンドゥス"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/初任給"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:報酬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/博物誌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公務員"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/給与"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/給与計算"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/厚生労働省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/銀行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/企業"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/船員"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源泉徴収"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/年俸制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ギャランティー"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:人事労務管理"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昇給"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/収入"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源泉徴収票"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/農林水産省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/雇用契約"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/報酬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/テレビ東京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ソリドゥス金貨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2012年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/読売新聞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/芸人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2006年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/雇用"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1960年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アルバイト"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保険料"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/特別徴収"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/労働基準法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石_(単位)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1949年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1998年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/雇い人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/雇用主"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1997年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石高"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民間給与実態統計調査"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/地方公共団体"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Redirect"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Lang-en"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Economy-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Law"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Main"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:個人ファイナンス"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:就業"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:報酬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:人事労務管理"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "給与（きゅうよ、英語: Salary（サラリー））は、雇用契約に基づいて雇用主から従業員へ定期的に支払われる、労働の対価報酬。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "給与"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://eo.dbpedia.org/resource/Salajro"
+        },
+        {
+            "type": "uri",
+            "value": "http://kn.dbpedia.org/resource/ಸಂಬಳ"
+        },
+        {
+            "type": "uri",
+            "value": "http://hi.dbpedia.org/resource/वेतन"
+        },
+        {
+            "type": "uri",
+            "value": "http://eu.dbpedia.org/resource/Soldata"
+        },
+        {
+            "type": "uri",
+            "value": "http://sr.dbpedia.org/resource/Плата"
+        },
+        {
+            "type": "uri",
+            "value": "http://lv.dbpedia.org/resource/Alga"
+        },
+        {
+            "type": "uri",
+            "value": "http://fa.dbpedia.org/resource/حقوق_(دستمزد)"
+        },
+        {
+            "type": "uri",
+            "value": "http://cv.dbpedia.org/resource/Шалу"
+        },
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Salario"
+        },
+        {
+            "type": "uri",
+            "value": "http://vi.dbpedia.org/resource/Tiền_lương"
+        },
+        {
+            "type": "uri",
+            "value": "http://hr.dbpedia.org/resource/Plaća"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Arbeitsentgelt"
+        },
+        {
+            "type": "uri",
+            "value": "http://pl.dbpedia.org/resource/Płaca"
+        },
+        {
+            "type": "uri",
+            "value": "http://lt.dbpedia.org/resource/Darbo_užmokestis"
+        },
+        {
+            "type": "uri",
+            "value": "http://simple.dbpedia.org/resource/Salary"
+        },
+        {
+            "type": "uri",
+            "value": "http://tr.dbpedia.org/resource/Ücret"
+        },
+        {
+            "type": "uri",
+            "value": "http://wa.dbpedia.org/resource/Traitmint_(cwårs)"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Salaire"
+        },
+        {
+            "type": "uri",
+            "value": "http://et.dbpedia.org/resource/Palk"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/임금_(경제학)"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/工资"
+        },
+        {
+            "type": "uri",
+            "value": "http://te.dbpedia.org/resource/వేతనం"
+        },
+        {
+            "type": "uri",
+            "value": "http://hu.dbpedia.org/resource/Munkabér"
+        },
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Тарифна_ставка"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q194489"
+        },
+        {
+            "type": "uri",
+            "value": "http://nl.dbpedia.org/resource/Arbeidsloon"
+        },
+        {
+            "type": "uri",
+            "value": "http://he.dbpedia.org/resource/שכר"
+        },
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Тарифная_ставка"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Salario"
+        },
+        {
+            "type": "uri",
+            "value": "http://qu.dbpedia.org/resource/Hurkay"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Salary"
+        },
+        {
+            "type": "uri",
+            "value": "http://sq.dbpedia.org/resource/Paga"
+        },
+        {
+            "type": "uri",
+            "value": "http://sv.dbpedia.org/resource/Lön"
+        },
+        {
+            "type": "uri",
+            "value": "http://hy.dbpedia.org/resource/Աշխատավարձ"
+        },
+        {
+            "type": "uri",
+            "value": "http://mr.dbpedia.org/resource/पगार"
+        },
+        {
+            "type": "uri",
+            "value": "http://kk.dbpedia.org/resource/Жалақы"
+        },
+        {
+            "type": "uri",
+            "value": "http://tg.dbpedia.org/resource/Моҳона"
+        },
+        {
+            "type": "uri",
+            "value": "http://no.dbpedia.org/resource/Lønn_(økonomi)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ml.dbpedia.org/resource/കൂലി"
+        },
+        {
+            "type": "uri",
+            "value": "http://ca.dbpedia.org/resource/Salari"
+        },
+        {
+            "type": "uri",
+            "value": "http://sk.dbpedia.org/resource/Mzda"
+        },
+        {
+            "type": "uri",
+            "value": "http://sh.dbpedia.org/resource/Plata"
+        },
+        {
+            "type": "uri",
+            "value": "http://da.dbpedia.org/resource/Løn"
+        },
+        {
+            "type": "uri",
+            "value": "http://ta.dbpedia.org/resource/சம்பளம்"
+        },
+        {
+            "type": "uri",
+            "value": "http://ur.dbpedia.org/resource/تنخواہ"
+        },
+        {
+            "type": "uri",
+            "value": "http://sl.dbpedia.org/resource/Plača"
+        },
+        {
+            "type": "uri",
+            "value": "http://bg.dbpedia.org/resource/Надница"
+        },
+        {
+            "type": "uri",
+            "value": "http://sah.dbpedia.org/resource/Хамнас"
+        },
+        {
+            "type": "uri",
+            "value": "http://ar.dbpedia.org/resource/راتب"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q194489"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Salário"
+        },
+        {
+            "type": "uri",
+            "value": "http://id.dbpedia.org/resource/Gaji"
+        },
+        {
+            "type": "uri",
+            "value": "http://tl.dbpedia.org/resource/Gantimbayad"
+        },
+        {
+            "type": "uri",
+            "value": "http://ro.dbpedia.org/resource/Remunerație"
+        },
+        {
+            "type": "uri",
+            "value": "http://af.dbpedia.org/resource/Loon"
+        },
+        {
+            "type": "uri",
+            "value": "http://fi.dbpedia.org/resource/Palkka"
+        },
+        {
+            "type": "uri",
+            "value": "http://cs.dbpedia.org/resource/Mzda"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/給与?oldid=58396982"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/給与"
+        }
+    ]
+}

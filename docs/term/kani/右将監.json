@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/右将監.json",
+    "http://schema.org/description": [
+      {
+        "@value": "〘名〙 ＝うこんえ（右近衛）の将監※小右記‐寛和元年（985）正月一八日「右将監栗秀蔭申レ障不レ被レ免」"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "右将監"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/右将監"
+      }
+    ]
+  }
+]

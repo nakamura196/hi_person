@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/玄蕃頭.json",
+    "http://schema.org/description": [
+      {
+        "@value": "玄蕃寮（げんばりょう）は、日本の律令制において治部省に属する機関である。和名は「ほうしまらひとのつかさ」、唐名は崇玄署、典客署、鴻臚寺。「玄」は僧侶（ほうし）、「蕃」は外国人・賓客（まらひと）のこと。"
+      },
+      {
+        "@value": "玄蕃寮の長官。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "玄蕃寮"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "玄蕃頭"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/玄蕃寮"
+      },
+      {
+        "@id": "https://kotobank.jp/word/玄蕃頭"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/少納言.json",
+    "http://schema.org/description": [
+      {
+        "@value": "少納言（しょうなごん）は、日本の朝廷の最高機関である太政官の職の一つ。"
+      },
+      {
+        "@value": "令制における太政官の判官。詔勅宣下のことを司り，駅鈴，内印 (天皇御璽) ，外印 (太政官印) の出納を取扱った。定員3人で侍従を兼任した。弘仁1 (810) 年蔵人所が設置されると主要な職務はそれに移り職権は弱まった。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "少納言"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/少納言"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/少納言"
+      }
+    ]
+  }
+]

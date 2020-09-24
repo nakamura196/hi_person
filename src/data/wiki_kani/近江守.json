@@ -1,0 +1,2335 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "近江国（おうみのくに）は、かつて日本の地方行政区分だった令制国の一つ。東山道に属する。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://www.rekihaku.ac.jp/up-cgi/login.pl?p=param/kyud/db_param"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 13584
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "13444"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "586"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 59081337
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出羽国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菰野藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/成務天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東山道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/琵琶湖"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1338年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:近江国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/掛川城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大溝藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1184年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小浜藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/版籍奉還"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高倉福信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木定綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加藤光泰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1062年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1052年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大津宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角氏綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角高頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐久間安政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木頼綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/彦根城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/志賀清林"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/膳所城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小浜城_(若狭国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1041年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1048年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/淀県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大嶋神社奥津嶋神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/膳所藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/粟津の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延長_(元号)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/滋賀県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弘仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/景行天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/彦根藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/康平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義仲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広島藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月28日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の旧国名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝日山県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月17日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木信綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木秀綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飯尾定宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐野藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月17日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜式神名帳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/彦根県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月14日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京極高清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/村国男依"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/杉原家次"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山上藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮川県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月4日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊香郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京極持清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/水口県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月24日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京極政経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京極氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月17日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月19日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京極勝秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山上県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月23日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令制国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原武智麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月28日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原仲麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月14日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅井氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅井長政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月7日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月22日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朽木藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月14日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月15日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊庭貞剛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月28日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仙台藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月22日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月2日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三好之長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/川越藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉見藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/在原行平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/771年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/776年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/766年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/観音寺城の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月13日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/741年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多治比水守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/745年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/如意ヶ嶽の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/781年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/786年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/789年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飯山藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田信治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/峰山藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丸亀藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福知山藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/在原善淵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/志賀の陣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐和山城の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/群馬県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/比叡山"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大津城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名古屋県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武蔵国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大津裁判所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹後国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山形藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石川総貨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/忠貞王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹波国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源勤"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長束正家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近江高島藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山内一豊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原助"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛地"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原顕家_(小野宮流)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石川総茂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石川総親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長田王_(摂津大夫)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小谷城の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原氏宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小浜県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多治比長野"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京極孫童子丸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月27日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筑紫広門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原玄上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原有実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大中臣諸魚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小谷城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原恒佐"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原師成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近江牛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長浜城_(近江国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/観音寺城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月19日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上野国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/郡山藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹羽長秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/賤ヶ岳の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三河吉田藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/立花宗茂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/続日本後紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下野国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野洲郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近江商人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近江町"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中村一氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陪都"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柴田勝家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上総国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加納久堅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Districts_of_Omi_province.png"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角高経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/栃木県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉見県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近江八景"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南淵年名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弘文天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原貞嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮津藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宝亀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/入間県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保良宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角政頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原是善"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:戦国時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田寛定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石田正継"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原種継"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原緒嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞観_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/良岑安世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高島郡_(滋賀県)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秋篠安人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本三代実録"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伯太藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/川越県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/巨勢野足"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月20日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月14日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/相良氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月4日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝倉氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/越前国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名神大社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月3日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月23日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/淀藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/最澄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月30日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁正寺藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月2日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:滋賀県の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天応_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月27日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天平神護"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八幡山城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣秀次"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山内就綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月30日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月25日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月26日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/預地"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐野県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅野長員"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅野長容"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昭和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大溝陣屋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月11日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木泰綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明智光秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小野篁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紫香楽宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紫香楽宮跡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安土城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江州音頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和歌山藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菰野県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名古屋藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本書紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神戸藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本後紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/姉川の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前橋県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸奥国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/比叡山焼き討ち_(1571年)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伯太県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大内義興"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大同_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石川氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石田正澄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/森可成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜式内社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多賀大社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長浜県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐久奈度神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天智天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊岡県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/郡山県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/門跡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蒲生郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月23日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月25日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月27日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大津市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月29日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源隆俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月1日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月13日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源是忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野洲河原の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月10日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊香具神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/狭山藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堀秀政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/相良長毎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多賀高忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源融"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/若狭国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/孝謙天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源範頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅井郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下館藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大和国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坂本城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/栗太郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鹿沼藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角氏頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角満綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角満高"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/総社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角久頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角時信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源多"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小野神社_(大津市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天武天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三上藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵主大社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/続日本紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/肥後国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/地方知行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/聖武天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上平寺城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戊辰戦争"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/春澄善縄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁正寺陣屋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/川田神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朽木稙綱_(土浦藩主)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/讃岐国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/慶応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/愛知郡_(滋賀県)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/減封"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/津田信澄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木広綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘南備神前"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田信長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/霊亀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浦上宗助"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣秀吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近江国庁跡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/滋賀郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飯野藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川家康"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宝律令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川政元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川澄元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川高国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/木簡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/各務元正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/犬上県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/末次元康"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:安土桃山時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藩庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/壬申の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西大路藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/淳仁天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西大路県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鞠山藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝日山藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/増田長盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/熊谷氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延暦寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝倉景健"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/廃藩置県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/932年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅野長政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:東山道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堀尾吉晴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀伊国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/水尾神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/885年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/873年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/水口岡山城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福知山県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/927年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/常陸国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/916年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/920年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/907年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/911年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坂田郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/膳所県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原縄麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/835年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/839年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/暦応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原岳守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木道誉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/820年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/810年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/812年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和泉国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/816年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/868年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/870年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐和山城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/857年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/860年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/864年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/851年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/853年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐久間信盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/842年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/845年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/847年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/848年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/水口城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/708年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/710年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/712年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/716年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/701年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/池田恒興"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/672年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/808年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神崎郡_(滋賀県)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊橋県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大津城の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/764年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/施薬院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/滋賀院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三上山"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/水口藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仲哀天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/志賀高穴穂宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石田三成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野良田の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮津県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/峰山県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/青地茂綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角直綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/青木持通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源冷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原継業"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原家依"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国分尼寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古事記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/毛利秀包"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岐阜城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国分寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁寿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角政堯"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/最上義俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山城国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1964年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尾張国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山内信詮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和銅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/角川日本地名大辞典"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八田藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新庄直頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京極高次"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/敦賀藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇佐山城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲賀市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南淵永河"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小早川秀秋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/転封"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堅田藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1868年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1869年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1870年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1871年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1872年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近江宮川藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近江小室藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/旧高旧領取調帳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀勝長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奥津嶋神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本文徳天皇実録"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/生駒親正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近江弁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寺社領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大溝城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/結城尚豊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/金沢県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1600年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原有相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1568年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1570年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1560年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日吉大社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/采女比良夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/犬上郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/額田県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前橋藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1583年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1571年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大津県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角義治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御上神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1491年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加賀藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲賀郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1487年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大国_(令制国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承平_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1509年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建部大社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊橋藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大津代官所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1468年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1469年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角定頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角義賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長享・延徳の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角持綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原仲麻呂の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角虎千代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角虎夜叉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六角義信"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Main"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:令制国地図_(令制国テンプレート用)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Commonscat"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:脚注ヘルプ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_令制国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:令制国一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:近江国の郡"
+        }
+    ],
+    "http://ja.dbpedia.org/property/一宮": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建部大社"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別称": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "江州（ごうしゅう）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国分寺": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 2
+        },
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 3
+        },
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1
+        }
+    ],
+    "http://ja.dbpedia.org/property/国分尼寺": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "（未詳）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国力": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大国_(令制国)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "近江国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国府": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "滋賀県大津市（近江国庁跡）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/所属": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東山道"
+        }
+    ],
+    "http://ja.dbpedia.org/property/距離": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/郡": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 12
+        }
+    ],
+    "http://ja.dbpedia.org/property/領域": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/滋賀県"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:安土桃山時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:東山道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:戦国時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:近江国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の旧国名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:滋賀県の歴史"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "近江国（おうみのくに）は、かつて日本の地方行政区分だった令制国の一つ。東山道に属する。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "近江国"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://simple.dbpedia.org/resource/Ōmi_Province"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Província_de_Ōmi"
+        },
+        {
+            "type": "uri",
+            "value": "http://nl.dbpedia.org/resource/Omi_(provincie)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/오미_국"
+        },
+        {
+            "type": "uri",
+            "value": "http://sk.dbpedia.org/resource/Ómi_(provincia)"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q843882"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Province_d'Ōmi"
+        },
+        {
+            "type": "uri",
+            "value": "http://pl.dbpedia.org/resource/Prowincja_Ōmi"
+        },
+        {
+            "type": "uri",
+            "value": "http://id.dbpedia.org/resource/Provinsi_Ōmi"
+        },
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Оми_(провинция)"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Provincia_de_Ōmi"
+        },
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Провінція_Омі"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ōmi_Province"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q843882"
+        },
+        {
+            "type": "uri",
+            "value": "http://fi.dbpedia.org/resource/Ōmin_provinssi"
+        },
+        {
+            "type": "uri",
+            "value": "http://lt.dbpedia.org/resource/Omio_žemė"
+        },
+        {
+            "type": "uri",
+            "value": "http://vi.dbpedia.org/resource/Tỉnh_Ōmi"
+        },
+        {
+            "type": "uri",
+            "value": "http://cs.dbpedia.org/resource/Provincie_Ómi"
+        },
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Omi_(provincia)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ca.dbpedia.org/resource/Província_d'Ōmi"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Provinz_Ōmi"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/近江國"
+        },
+        {
+            "type": "uri",
+            "value": "http://gl.dbpedia.org/resource/Provincia_de_Ōmi"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/近江国?oldid=59081337"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/近江国"
+        }
+    ]
+}

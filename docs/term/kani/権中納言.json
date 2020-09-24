@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/権中納言.json",
+    "http://schema.org/description": [
+      {
+        "@value": "中納言の権官。定員外の中納言。権黄門。※大和（947‐957頃）八一「季縄(すゑなは)の少将のむすめ右近、故后(きさい)の宮にさぶらひけるころ、故権中納言の君おはしける」"
+      },
+      {
+        "@value": "中納言（ちゅうなごん）は、太政官に置かれた令外官のひとつ。太政官においては四等官の次官（すけ）に相当する。訓読みは「すけのものまうすつかさ」あるいは「なかのものまうすつかさ」。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "中納言"
+      },
+      {
+        "@value": "権の中納言"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "権中納言"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/中納言"
+      },
+      {
+        "@id": "https://kotobank.jp/word/権の中納言-2040918"
+      }
+    ]
+  }
+]

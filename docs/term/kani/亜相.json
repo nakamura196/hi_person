@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/亜相.json",
+    "http://schema.org/description": [
+      {
+        "@value": "〔丞相しようじように亜つぐ意〕  大納言の唐名。"
+      },
+      {
+        "@value": "大納言（だいなごん）は、太政官に置かれた官職のひとつ。太政官においては四等官の次官（すけ）に相当する。訓読みは「おほいものまうすのつかさ」。唐名は亜相または亜槐。丞相・槐門（いずれも大臣のこと）に次ぐ者であることからいう。官位相当は三品・四品または正三位。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "大納言"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "亜相"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/亜相"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/大納言"
+      }
+    ]
+  }
+]

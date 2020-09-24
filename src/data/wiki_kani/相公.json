@@ -1,0 +1,127 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "相公（そうこう）は、西周の諸侯である陳の君主。姓は媯、名は皋羊。胡公の子として生まれた。兄の申公の後をうけて陳国の君主となった。孝公の父。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 2278108
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "198"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "6"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 53056105
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/胡公_(陳)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/周"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/申公_(陳)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:陳の君主"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/孝公_(陳)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陳_(春秋)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:陳の君主"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:陳の君主"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "相公（そうこう）は、西周の諸侯である陳の君主。姓は媯、名は皋羊。胡公の子として生まれた。兄の申公の後をうけて陳国の君主となった。孝公の父。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "相公 (陳)"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Duke_Xiang_of_Chen"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/陳相公"
+        },
+        {
+            "type": "uri",
+            "value": "http://vi.dbpedia.org/resource/Trần_Tương_công"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q5952065"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5952065"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/진_상공"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/相公_(陳)?oldid=53056105"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/相公_(陳)"
+        }
+    ]
+}

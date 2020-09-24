@@ -1,0 +1,435 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "薩摩国司（さつまこくし）は、薩摩国の国司。薩摩守、薩摩介、薩摩大掾、薩摩少掾、薩摩大目、薩摩少目の各1人で構成される。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 995717
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "1898"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "89"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58376241
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1337年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1338年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津光久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠興"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松平忠吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/760年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/765年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薩州家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藩主"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大国_(令制国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天平宝字"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天平神護"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大伴家持"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/865年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津斉彬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平忠度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/869年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/次田赤染上麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/862年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/863年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅野宗範"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/忠世貞直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/狂言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/忠度_(能)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/736年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:薩摩国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万葉集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/不正乗車"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南部信行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/824年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高氏海人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/730年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/呉原百足"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武家官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薩摩国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正平_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津実久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薩摩藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮道弥益"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠恒"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正倉院文書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坂上清野"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/韓柔受郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/764年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀広純"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/目_(国司)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/史生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1180年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津国久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/掾"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薩摩守_(狂言)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津吉貴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠辰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津宗信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/雄山田錦麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞観_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津用久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津義虎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1356年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鹿児島県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阿部興氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/慶長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津重年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津重豪"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南部信光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津成久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建武_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/738年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津斉宣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多治比木人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中原師右"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1605年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津綱貴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平家物語"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Wiktionary"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:節stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:統合文字"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:薩摩国の人物"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "薩摩国司（さつまこくし）は、薩摩国の国司。薩摩守、薩摩介、薩摩大掾、薩摩少掾、薩摩大目、薩摩少目の各1人で構成される。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "薩摩国司"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11622281"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11622281"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/薩摩国司?oldid=58376241"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/薩摩国司"
+        }
+    ]
+}

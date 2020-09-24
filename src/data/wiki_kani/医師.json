@@ -1,0 +1,2180 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "医師（いし 英:Doctor）は、医療および保健指導を司る医療従事者。医学に基く傷病の予防、診療および公衆衛生の普及を責務とする。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/The_Doctor_Luke_Fildes_crop.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://licenseif.mhlw.go.jp/search/"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.e-stat.go.jp/SG1/estat/NewList.do?tid=000001030962"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.nichiiren.jp/"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.med.or.jp/"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 23675
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "24715"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "453"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58974997
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歯科医師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/資格"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/チェ・ゲバラ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三河家住宅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田たかよし"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/処方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/田代三喜斎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/傷病"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/診察"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/厚生労働大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/免許"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/診療科"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/診療所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治維新"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/曲直瀬道三"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/香山リカ_(精神科医)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宰府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/博士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/卒業論文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/卒業"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医療保険"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一宮随波斎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小西隆佐"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐野俊二"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医療過誤"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医局"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医療"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医療事故"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医学部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北里柴三郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福島孝徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹波康頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医療法人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇野藤右衛門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北杜夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神奈川県立衛生短期大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ニュージーランド"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/過労死"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学会認定専門医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西川史子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小瀬甫庵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大野曜吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大月景秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/遺伝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小池晃"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/基礎研究"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本医療労働組合連合会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安保徹"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国際アカデミー賞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国際文化栄誉勲章"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/QOML"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ドイツ語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2012年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/心臓血管外科学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医療崩壊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中医師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1999年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉沼美惠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/本草学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/マリーゴールドクリニック"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東京医科歯科大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東京慈恵会医科大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医療法施行規則"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/杉田玄白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/予防医学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高木兼寛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/半井通仙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1874年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1876年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平山晃康"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石川日出鶴丸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保健"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/角倉了以"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/社会保障制度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アスクレーピオス"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/カウンセラー"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/予防"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/自然科学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/脳科学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中谷義雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ合衆国の医療"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海堂尊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小野寺直助"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤田六朗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/情報技術"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一般教育修了上級レベル"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/オンライン"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中華人民共和国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/産業別労働組合"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山口トキコ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/龍野一雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/診療報酬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Paracelsus.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アナウンサー"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/人間ドック"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中央社会保険医療協議会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡田国太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/木下博勝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Afghanistan_-_cardiopulmonary_resuscitation.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/解剖学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:71_ban_shokunin_utaawase_34th_right_kusushi.png"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/向井千秋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保健所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天野篤"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斉藤環"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/自由診療"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Bachelor_of_Medicine,_Bachelor_of_Surgery"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Doctor_of_Medicine"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Doctor_of_Osteopathic_Medicine"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Medicine_aryballos_Louvre_CA1989-2183.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ラジオパーソナリティ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/稲澤譲治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田政重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/世界保健機関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/原志免太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/韓医師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/専門職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/無資格調剤"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/専門医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大韓民国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/総合診療医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/バッキンガム大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/麻酔科学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医師不足"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令制国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高須克弥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/養老孟司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薬師如来"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/クオリティ・オブ・ライフ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/マハティール・ビン・モハマド"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薬剤師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アルベルト・シュヴァイツァー"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医薬分業"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ギリシア神話"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/荻野久作"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/私立病院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤田学園"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中医学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大槻俊斎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小児科学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海原純子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Typhoid_inoculation2.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高野長英"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:The_Doctor_Luke_Fildes_crop.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/性科学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Hippocrates_rubens.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/カール・グスタフ・ユング"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日野原重明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/扁鵲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/マスメディア"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本医師会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/悪魔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南淵明宏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ジル・ドゥルーズ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/癌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/性別"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/臨床化学会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/診療"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/義肢装具士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医療従事者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学会認定医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/政治家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/香港"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/時間外手当"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斎藤茂吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学校医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳島大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/米国法人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イギリス"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/竹田定加"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医療法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医師国家試験"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医師法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川家康"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/士農工商"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/定年制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/介護老人保健施設"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/労働基準監督署"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/等々力英美"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/池田健_(精神科医)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斎藤茂太"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福田稔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/赤十字"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医師賠償責任保険"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石村和敬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/産科学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本共産党"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弁護士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/理事"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衆議院議長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/カール・ヤスパース"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関西医科大学研修医過労死事件"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宗教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2004年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石川太刀雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ合衆国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/華岡青洲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国立病院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/孫文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/子供"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内視鏡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ユニバーサルヘルスケア"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/理学療法士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奴隷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高橋茂樹"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高原喜八郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/理容師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/池田優子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/なだいなだ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/芹澤勝助"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/メーリングリスト"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弓削孟文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医療機関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野口英世記念財団"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東証1部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ドクターシーラボ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/時間外労働"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/聖路加国際病院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/自由連合_(政党)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/華陀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤田啓介"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御典医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/世界医師会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/研修医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡田孝男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イギリスの医療"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平住専安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名誉教授"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本医労連"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野口英世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/自営業"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古代ギリシア"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古代ローマ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ノストラダムス"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/開業医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/投薬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加藤周一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加藤鐐五郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内科学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2005年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/家庭医療"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/直木賞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前野良沢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/オーストラリア"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/典薬寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/厚生労働省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/単位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/介輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/社会医学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坂口力"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/規制改革・民間開放推進会議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/漢方医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ヨーゼフ・メンゲレ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大学院生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島薗順次郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東京大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/根来秀行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アマンタジン"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/市民権"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/船舶に乗り組む衛生管理者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出産"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外科医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安国寺恵瓊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅見鉄男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斎藤学_(精神科医)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イギリス連邦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ドイツの医療"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国境なき医師団"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アーサー・コナン・ドイル"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/州"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/最低賃金"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/レセプトコンピュータ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衆議院議員"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳田虎雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳洲会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/脳神経外科学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治療"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/コラムニスト"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内科医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/産業医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医師_(律令制)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後藤新平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武見太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永田徳本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ドイツ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:国家資格"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上山博康"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/パーソナルコンピュータ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/インフルエンザ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本赤十字社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高須クリニック"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/臨床医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/間中喜雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊東玄朴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/床屋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本放送協会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/臨床研修"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小黒八七郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/漢方医学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/渡辺淳一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/電子カルテ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長濱善夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/緒方洪庵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/軍医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/植民地"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奈良林祥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ジークムント・フロイト"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高木健太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:業務独占資格"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三浦謹之助"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/死体検案書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国家試験"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国家資格"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/田坂定孝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議院議員"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/金鳳漢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陈中伟"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/健康保険制度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/須磨久善"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/眼科"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皮膚科"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/病院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/病気"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/箕作阮甫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/経験主義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/シャンソン"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薬剤師免許"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/城野親德"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/法医学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/診断"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/フェリックス・ガタリ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医道審議会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医師会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/玉木吉保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ英語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/生化学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/フランス語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/板倉勝重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三河義行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/混合診療"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公立病院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/施薬院全宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西洋医学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薬剤師法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勤務医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/産婦人科学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/サービス残業"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/消化器学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/労働基準法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少子化"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/修士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上野直人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/曲直瀬玄朔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/妊娠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藪医者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/当直医"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和漢薬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/全日本民主医療機関連合会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内務省_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/木々高太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/手塚良仙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:医療関連の職業"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/育児"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:医学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公明党"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/氏名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公衆衛生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/16世紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:医師"
+        }
+    ],
+    "http://ja.dbpedia.org/property/activitySector": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医療"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保健"
+        }
+    ],
+    "http://ja.dbpedia.org/property/caption": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Luke Fildes が描いた医師"
+        }
+    ],
+    "http://ja.dbpedia.org/property/competencies": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "医療倫理、医療技術、分析的思考"
+        }
+    ],
+    "http://ja.dbpedia.org/property/employmentField": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/病院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/診療所"
+        }
+    ],
+    "http://ja.dbpedia.org/property/formation": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Doctor_of_Medicine"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Doctor_of_Osteopathic_Medicine"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Bachelor_of_Medicine,_Bachelor_of_Surgery"
+        }
+    ],
+    "http://ja.dbpedia.org/property/name": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Physician"
+        }
+    ],
+    "http://ja.dbpedia.org/property/officialNames": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Physician, medical practitioner, medical doctor or simply doctor"
+        }
+    ],
+    "http://ja.dbpedia.org/property/relatedOccupation": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/総合診療医"
+        }
+    ],
+    "http://ja.dbpedia.org/property/type": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Professional"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:要出典"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:要出典範囲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Columns-list"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Commonscat"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Wiktionary"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Infobox_Occupation"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Seealso"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:See_also"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:PAGENAME"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Main2"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:資格"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:脚注ヘルプ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:JPN"
+        }
+    ],
+    "http://ja.dbpedia.org/property/分野": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "医療"
+        }
+    ],
+    "http://ja.dbpedia.org/property/根拠法令": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医師法"
+        }
+    ],
+    "http://ja.dbpedia.org/property/略称": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "ドクター、M.D、Dr."
+        }
+    ],
+    "http://ja.dbpedia.org/property/等級・称号": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "医師"
+        }
+    ],
+    "http://ja.dbpedia.org/property/英名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Physician"
+        }
+    ],
+    "http://ja.dbpedia.org/property/英項名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Physician"
+        }
+    ],
+    "http://ja.dbpedia.org/property/試験形式": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "一般試験、実技試験"
+        }
+    ],
+    "http://ja.dbpedia.org/property/認定団体": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/厚生労働省"
+        }
+    ],
+    "http://ja.dbpedia.org/property/資格種類": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/資格"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:国家資格"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:業務独占資格"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:医師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:医学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:医療関連の職業"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "医師（いし 英:Doctor）は、医療および保健指導を司る医療従事者。医学に基く傷病の予防、診療および公衆衛生の普及を責務とする。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "医師"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://qu.dbpedia.org/resource/Hampikamayuq"
+        },
+        {
+            "type": "uri",
+            "value": "http://th.dbpedia.org/resource/แพทย์"
+        },
+        {
+            "type": "uri",
+            "value": "http://id.dbpedia.org/resource/Dokter"
+        },
+        {
+            "type": "uri",
+            "value": "http://az.dbpedia.org/resource/Həkim"
+        },
+        {
+            "type": "uri",
+            "value": "http://sl.dbpedia.org/resource/Zdravnik"
+        },
+        {
+            "type": "uri",
+            "value": "http://vi.dbpedia.org/resource/Bác_sĩ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ga.dbpedia.org/resource/Dochtúir_leighis"
+        },
+        {
+            "type": "uri",
+            "value": "http://ckb.dbpedia.org/resource/پزیشک"
+        },
+        {
+            "type": "uri",
+            "value": "http://bn.dbpedia.org/resource/চিকিৎসক"
+        },
+        {
+            "type": "uri",
+            "value": "http://is.dbpedia.org/resource/Læknir"
+        },
+        {
+            "type": "uri",
+            "value": "http://uz.dbpedia.org/resource/Shifokor"
+        },
+        {
+            "type": "uri",
+            "value": "http://fi.dbpedia.org/resource/Lääkäri"
+        },
+        {
+            "type": "uri",
+            "value": "http://fy.dbpedia.org/resource/Dokter"
+        },
+        {
+            "type": "uri",
+            "value": "http://sco.dbpedia.org/resource/Physeecian"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q39631"
+        },
+        {
+            "type": "uri",
+            "value": "http://cs.dbpedia.org/resource/Lékař"
+        },
+        {
+            "type": "uri",
+            "value": "http://et.dbpedia.org/resource/Arst"
+        },
+        {
+            "type": "uri",
+            "value": "http://bs.dbpedia.org/resource/Ljekar"
+        },
+        {
+            "type": "uri",
+            "value": "http://kn.dbpedia.org/resource/ವೈದ್ಯ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ro.dbpedia.org/resource/Medic"
+        },
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Medico"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Arzt"
+        },
+        {
+            "type": "uri",
+            "value": "http://sr.dbpedia.org/resource/Љекар"
+        },
+        {
+            "type": "uri",
+            "value": "http://nn.dbpedia.org/resource/Lege"
+        },
+        {
+            "type": "uri",
+            "value": "http://si.dbpedia.org/resource/වෛද්‍යවරයා"
+        },
+        {
+            "type": "uri",
+            "value": "http://mg.dbpedia.org/resource/Dokotera"
+        },
+        {
+            "type": "uri",
+            "value": "http://sv.dbpedia.org/resource/Läkare"
+        },
+        {
+            "type": "uri",
+            "value": "http://eu.dbpedia.org/resource/Mediku"
+        },
+        {
+            "type": "uri",
+            "value": "http://fo.dbpedia.org/resource/Læknar"
+        },
+        {
+            "type": "uri",
+            "value": "http://hy.dbpedia.org/resource/Բժիշկ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ta.dbpedia.org/resource/மருத்துவர்"
+        },
+        {
+            "type": "uri",
+            "value": "http://ka.dbpedia.org/resource/ექიმი"
+        },
+        {
+            "type": "uri",
+            "value": "http://lv.dbpedia.org/resource/Ārsts"
+        },
+        {
+            "type": "uri",
+            "value": "http://sh.dbpedia.org/resource/Ljekar"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q39631"
+        },
+        {
+            "type": "uri",
+            "value": "http://cy.dbpedia.org/resource/Gwaith_y_meddyg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ky.dbpedia.org/resource/Догдур"
+        },
+        {
+            "type": "uri",
+            "value": "http://no.dbpedia.org/resource/Lege"
+        },
+        {
+            "type": "uri",
+            "value": "http://he.dbpedia.org/resource/רופא"
+        },
+        {
+            "type": "uri",
+            "value": "http://su.dbpedia.org/resource/Dokter"
+        },
+        {
+            "type": "uri",
+            "value": "http://ku.dbpedia.org/resource/Bijîşk"
+        },
+        {
+            "type": "uri",
+            "value": "http://pa.dbpedia.org/resource/ਡਾਕਟਰ"
+        },
+        {
+            "type": "uri",
+            "value": "http://nds.dbpedia.org/resource/Dokter_(Medizin)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/의사"
+        },
+        {
+            "type": "uri",
+            "value": "http://ml.dbpedia.org/resource/ഡോക്ടർ_(വൈദ്യം)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ne.dbpedia.org/resource/चिकित्सक"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Médecin"
+        },
+        {
+            "type": "uri",
+            "value": "http://tr.dbpedia.org/resource/Doktor_(tıp)"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Physician"
+        },
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Лікар"
+        },
+        {
+            "type": "uri",
+            "value": "http://oc.dbpedia.org/resource/Mètge"
+        },
+        {
+            "type": "uri",
+            "value": "http://hu.dbpedia.org/resource/Orvos"
+        },
+        {
+            "type": "uri",
+            "value": "http://hr.dbpedia.org/resource/Liječnik"
+        },
+        {
+            "type": "uri",
+            "value": "http://la.dbpedia.org/resource/Medicus"
+        },
+        {
+            "type": "uri",
+            "value": "http://ia.dbpedia.org/resource/Medico"
+        },
+        {
+            "type": "uri",
+            "value": "http://pl.dbpedia.org/resource/Lekarz"
+        },
+        {
+            "type": "uri",
+            "value": "http://tg.dbpedia.org/resource/Пизишк"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Médico"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/医生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Врач"
+        },
+        {
+            "type": "uri",
+            "value": "http://hi.dbpedia.org/resource/चिकित्सक"
+        },
+        {
+            "type": "uri",
+            "value": "http://sk.dbpedia.org/resource/Lekár"
+        },
+        {
+            "type": "uri",
+            "value": "http://lt.dbpedia.org/resource/Gydytojas"
+        },
+        {
+            "type": "uri",
+            "value": "http://eo.dbpedia.org/resource/Kuracisto"
+        },
+        {
+            "type": "uri",
+            "value": "http://nl.dbpedia.org/resource/Arts"
+        },
+        {
+            "type": "uri",
+            "value": "http://ar.dbpedia.org/resource/طبيب"
+        },
+        {
+            "type": "uri",
+            "value": "http://bg.dbpedia.org/resource/Лекар"
+        },
+        {
+            "type": "uri",
+            "value": "http://scn.dbpedia.org/resource/Mèdicu"
+        },
+        {
+            "type": "uri",
+            "value": "http://io.dbpedia.org/resource/Mediko"
+        },
+        {
+            "type": "uri",
+            "value": "http://ca.dbpedia.org/resource/Metge"
+        },
+        {
+            "type": "uri",
+            "value": "http://wa.dbpedia.org/resource/Medcén"
+        },
+        {
+            "type": "uri",
+            "value": "http://ur.dbpedia.org/resource/طبیب"
+        },
+        {
+            "type": "uri",
+            "value": "http://new.dbpedia.org/resource/चिकित्सक"
+        },
+        {
+            "type": "uri",
+            "value": "http://lmo.dbpedia.org/resource/Dutùr"
+        },
+        {
+            "type": "uri",
+            "value": "http://mn.dbpedia.org/resource/Эмч"
+        },
+        {
+            "type": "uri",
+            "value": "http://be.dbpedia.org/resource/Урач"
+        },
+        {
+            "type": "uri",
+            "value": "http://yi.dbpedia.org/resource/דאקטער_(מעדיצין)"
+        },
+        {
+            "type": "uri",
+            "value": "http://fa.dbpedia.org/resource/پزشک"
+        },
+        {
+            "type": "uri",
+            "value": "http://da.dbpedia.org/resource/Læge"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Médico"
+        },
+        {
+            "type": "uri",
+            "value": "http://simple.dbpedia.org/resource/Medical_doctor"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/医師?oldid=58974997"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/The_Doctor_Luke_Fildes_crop.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/医師"
+        }
+    ]
+}

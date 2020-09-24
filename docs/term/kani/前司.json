@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/前司.json",
+    "http://schema.org/description": [
+      {
+        "@value": "《古くは「せんじ」とも》前任の国司。「信濃(しなの)―行長(ゆきなが)」〈徒然・二二六〉"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "前司"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/前司"
+      }
+    ]
+  }
+]

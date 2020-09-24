@@ -1,0 +1,843 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "中将（ちゅうじょう、ちゅうしょう）は、もともとは律令制における官職の一つ。転じて軍隊の階級の一。将官に区分され、大将の下、少将の上に位置する。英呼称は、陸軍が lieutenant general（ルーテネント・ジェネラル）、海軍が vice admiral（バイス・アドミラル）。また、通常スペイン語でGeneral de divisiónは少将とされているが、中南米では中将位とする国もある。近衛中将。律令制における左右の近衛府の次官。官位相当は従四位下。正三位や従三位の者が在任している場合、三位中将と称された。蔵人頭を兼ねた場合、頭中将と称した。陸軍では主に軍司令官、軍団長等（准将が無い陸軍では師団長）を務める。位階は正四位に相当した。海軍では主に艦隊の司令長官、戦隊司令官等を務める。位階は陸軍同様、正四位に相当した。空軍では主に航空軍司令官等を務める。また、准将を置かずに「上級大将・大将・中将・少将」の将官4階級制を採る軍隊においては「大将」が一般的な中将に相当するとされる（上級大将参照）。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 80211
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "11891"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "175"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58428197
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ海軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/軍務官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/航空方面隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1軍団_(アメリカ陸軍)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イギリス海兵隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参謀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イスラエル陸軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/警備隊_(保安庁)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/軍隊の階級"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/統合幕僚会議議長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イタリア海軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四等官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/統合幕僚長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西側"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/デンマーク陸軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ブラジル海軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/軍区_(中国人民解放軍)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3軍_(アメリカ軍)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/司令長官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/地方隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高等官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イスラエル航空宇宙軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/師団長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/指定職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大日本帝国海軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大日本帝国陸軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ合衆国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保安隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/フランス海軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ合衆国国防総省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ドイツ空軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/軍司令官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イギリス空軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/準軍事組織"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/方面総監"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ドイツ海軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1976年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/空軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸軍州兵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/頭中将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/階級章_(自衛隊)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/教育航空集団"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ合衆国大統領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ海兵隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ独立戦争"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ統合参謀本部議長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/自衛艦隊司令官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/補給統制本部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国人民解放軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国人民解放軍総参謀部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国人民解放軍総後勤部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国人民解放軍総政治部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国人民解放軍総装備部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国人民武装警察部隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/航空支援集団"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国人民解放軍海軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/航空教育集団"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国人民解放軍空軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国人民解放軍陸軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/司令官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/統合幕僚監部の人物一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/航空総隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/航空開発実験集団"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三角形"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸上幕僚長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/軍団"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカミサイル防衛局"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ドイツ陸軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中央即応集団"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勲等"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/艦隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ沿岸警備隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ合衆国国土安全保障省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ空軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ陸軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/次官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海上自衛隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/准将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海上警備隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ中央軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸上自衛隊富士学校"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/航空幕僚長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/統合幕僚学校"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/金鵄勲章"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸上自衛隊幹部学校"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸上自衛隊研究本部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上級大将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/情報本部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ブラジル空軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ブラジル陸軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参謀総長_(イスラエル国防軍)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/フランス陸軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/自衛隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:軍隊の階級"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海上幕僚長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/統合軍_(アメリカ軍)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ジョージ・ワシントン"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/潜水艦隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/将官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛中将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元帥_(アメリカ合衆国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Sankaku195.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大日本帝国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/航空総隊司令官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イスラエル海軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イスラエル国防軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/航空集団"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イタリア陸軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イタリア空軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ国防情報局"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ドイツ陸軍_(ドイツ連邦軍)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イギリス陸軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/フランス空軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1955年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1965年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1988年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元帥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2012年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/軍隊における階級呼称一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメリカ海洋大気庁士官部隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イギリス海軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/警察予備隊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/護衛艦隊"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:軍隊の階級"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Main"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Gunji-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:軍隊の階級"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "中将（ちゅうじょう、ちゅうしょう）は、もともとは律令制における官職の一つ。転じて軍隊の階級の一。将官に区分され、大将の下、少将の上に位置する。英呼称は、陸軍が lieutenant general（ルーテネント・ジェネラル）、海軍が vice admiral（バイス・アドミラル）。また、通常スペイン語でGeneral de divisiónは少将とされているが、中南米では中将位とする国もある。近衛中将。律令制における左右の近衛府の次官。官位相当は従四位下。正三位や従三位の者が在任している場合、三位中将と称された。蔵人頭を兼ねた場合、頭中将と称した。陸軍では主に軍司令官、軍団長等（准将が無い陸軍では師団長）を務める。位階は正四位に相当した。海軍では主に艦隊の司令長官、戦隊司令官等を務める。位階は陸軍同様、正四位に相当した。空軍では主に航空軍司令官等を務める。また、准将を置かずに「上級大将・大将・中将・少将」の将官4階級制を採る軍隊においては「大将」が一般的な中将に相当するとされる（上級大将参照）。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "中将"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://sv.dbpedia.org/resource/Generallöjtnant"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Lieutenant-général"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lieutenant_general"
+        },
+        {
+            "type": "uri",
+            "value": "http://hy.dbpedia.org/resource/Գեներալ-լեյտենանտ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ca.dbpedia.org/resource/Tinent_General"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Generalleutnant"
+        },
+        {
+            "type": "uri",
+            "value": "http://da.dbpedia.org/resource/Generalløjtnant"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/中將"
+        },
+        {
+            "type": "uri",
+            "value": "http://sl.dbpedia.org/resource/Generalpodpolkovnik"
+        },
+        {
+            "type": "uri",
+            "value": "http://ka.dbpedia.org/resource/გენერალ-ლეიტენანტი"
+        },
+        {
+            "type": "uri",
+            "value": "http://fa.dbpedia.org/resource/سپهبد"
+        },
+        {
+            "type": "uri",
+            "value": "http://sr.dbpedia.org/resource/Генерал-потпуковник"
+        },
+        {
+            "type": "uri",
+            "value": "http://th.dbpedia.org/resource/พลโท"
+        },
+        {
+            "type": "uri",
+            "value": "http://et.dbpedia.org/resource/Kindralleitnant"
+        },
+        {
+            "type": "uri",
+            "value": "http://eo.dbpedia.org/resource/Generalleŭtenanto"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q152951"
+        },
+        {
+            "type": "uri",
+            "value": "http://sk.dbpedia.org/resource/Generálporučík"
+        },
+        {
+            "type": "uri",
+            "value": "http://nl.dbpedia.org/resource/Luitenant-generaal"
+        },
+        {
+            "type": "uri",
+            "value": "http://no.dbpedia.org/resource/Generalløytnant"
+        },
+        {
+            "type": "uri",
+            "value": "http://vi.dbpedia.org/resource/Trung_tướng"
+        },
+        {
+            "type": "uri",
+            "value": "http://lt.dbpedia.org/resource/Generolas_leitenantas"
+        },
+        {
+            "type": "uri",
+            "value": "http://bn.dbpedia.org/resource/লেফট্যানেন্ট_জেনারেল"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Teniente_general"
+        },
+        {
+            "type": "uri",
+            "value": "http://cs.dbpedia.org/resource/Generálporučík"
+        },
+        {
+            "type": "uri",
+            "value": "http://az.dbpedia.org/resource/General-leytenant"
+        },
+        {
+            "type": "uri",
+            "value": "http://he.dbpedia.org/resource/לוטננט_גנרל"
+        },
+        {
+            "type": "uri",
+            "value": "http://arz.dbpedia.org/resource/فريق_(رتبه_عسكريه)"
+        },
+        {
+            "type": "uri",
+            "value": "http://pl.dbpedia.org/resource/Generał_porucznik"
+        },
+        {
+            "type": "uri",
+            "value": "http://id.dbpedia.org/resource/Letnan_Jenderal"
+        },
+        {
+            "type": "uri",
+            "value": "http://bg.dbpedia.org/resource/Генерал-лейтенант"
+        },
+        {
+            "type": "uri",
+            "value": "http://simple.dbpedia.org/resource/Lieutenant_general"
+        },
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Генерал-лейтенант"
+        },
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Генерал-лейтенант"
+        },
+        {
+            "type": "uri",
+            "value": "http://el.dbpedia.org/resource/Αντιστράτηγος"
+        },
+        {
+            "type": "uri",
+            "value": "http://ms.dbpedia.org/resource/Leftenan_Jeneral"
+        },
+        {
+            "type": "uri",
+            "value": "http://ar.dbpedia.org/resource/فريق_(رتبة_عسكرية)"
+        },
+        {
+            "type": "uri",
+            "value": "http://nn.dbpedia.org/resource/Generalløytnant"
+        },
+        {
+            "type": "uri",
+            "value": "http://hr.dbpedia.org/resource/General_pukovnik"
+        },
+        {
+            "type": "uri",
+            "value": "http://be.dbpedia.org/resource/Генерал-лейтэнант"
+        },
+        {
+            "type": "uri",
+            "value": "http://ur.dbpedia.org/resource/لیفٹیننٹ_جنرل"
+        },
+        {
+            "type": "uri",
+            "value": "http://sh.dbpedia.org/resource/General-potpukovnik"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Tenente-general"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/중장"
+        },
+        {
+            "type": "uri",
+            "value": "http://tt.dbpedia.org/resource/Генерал-лейтенант"
+        },
+        {
+            "type": "uri",
+            "value": "http://fi.dbpedia.org/resource/Kenraaliluutnantti"
+        },
+        {
+            "type": "uri",
+            "value": "http://jv.dbpedia.org/resource/Lètnan_Jéndral"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q152951"
+        },
+        {
+            "type": "uri",
+            "value": "http://ro.dbpedia.org/resource/General-locotenent"
+        },
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Tenente_generale"
+        },
+        {
+            "type": "uri",
+            "value": "http://tr.dbpedia.org/resource/Korgeneral"
+        },
+        {
+            "type": "uri",
+            "value": "http://sco.dbpedia.org/resource/Lieutenant_general"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/中将?oldid=58428197"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/中将"
+        }
+    ]
+}

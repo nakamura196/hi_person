@@ -1,0 +1,491 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "京職（きょうしき）とは、日本の律令制において京（みやこ）の司法、行政、警察を行った行政機関である。古訓はミサトヅカサ。京は碁盤の目状に大路・小路が整備され（条坊制）、京内の東側を「左京（さきょう＝玉座より見て左）」、西側を「右京（うきょう＝玉座より見て右）」と呼び、「左京職（さきょうしき）」・「右京職（うきょうしき）」に分かれていた。なお、京職（きょうしょく）は京都所司代の別称。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 623185
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "3978"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "106"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 55233275
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後北条氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/雍州"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/行政機関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩城氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京兆府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京戸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/道_(行政区画)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹羽光重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関内道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/行政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/売官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宝寺氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/本貫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/括出"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武家官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/14世紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/条坊制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出羽国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京兆尹"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長岡京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大崎氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川政権_(戦国時代)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都所司代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/司法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/警察"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少初位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐竹義敦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大内氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検非違使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長安県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月19日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/里長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平城京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐竹氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正七位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1058年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正八位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1069年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国大名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹羽氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万年県_(陝西省)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/首都"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/難波京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀今守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/862年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/隠首"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古代日本の地方官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浮浪"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古代日本の戸籍制度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞観_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国人領主"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/室町時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/邸店"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/恭仁京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/州"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宗家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原仲麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久保田藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐竹義宣_(右京大夫)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京畿道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一色氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/逃亡_(律令)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸奥国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹羽長富"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原長房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天喜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保刀禰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二本松藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白丁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従八位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/郡司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/市司"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:節スタブ"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "京職（きょうしき）とは、日本の律令制において京（みやこ）の司法、行政、警察を行った行政機関である。古訓はミサトヅカサ。京は碁盤の目状に大路・小路が整備され（条坊制）、京内の東側を「左京（さきょう＝玉座より見て左）」、西側を「右京（うきょう＝玉座より見て右）」と呼び、「左京職（さきょうしき）」・「右京職（うきょうしき）」に分かれていた。なお、京職（きょうしょく）は京都所司代の別称。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "京職"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11374719"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11374719"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/京職?oldid=55233275"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/京職"
+        }
+    ]
+}

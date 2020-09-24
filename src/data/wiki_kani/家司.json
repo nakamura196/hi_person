@@ -1,0 +1,275 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "家司（けいし/いえのつかさ）とは、親王・内親王家及び職事三位以上の公卿・将軍家などの家に設置され、家政を掌る職員。本来は律令制で定められた職員であったが、平安時代中期以後は公卿・官人・地下の中から私的に任用され、国政機関の職員が権門の私的な家政職員である家司を兼ねる仕組が形成された。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1682085
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "1918"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "48"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 43050257
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御教書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/719年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院政期"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/養老"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/政所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文学_(官職)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8世紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/散位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/納殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/帳内"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/家令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/書吏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/知宅事"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/知家事"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/将軍家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/家符"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/家令職員令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂関期"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太上天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/受領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四等官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富豪層"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/青侍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/地下人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/郡司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/資人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/扶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/職事"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/家政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/諸大夫"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の律令制"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "家司（けいし/いえのつかさ）とは、親王・内親王家及び職事三位以上の公卿・将軍家などの家に設置され、家政を掌る職員。本来は律令制で定められた職員であったが、平安時代中期以後は公卿・官人・地下の中から私的に任用され、国政機関の職員が権門の私的な家政職員である家司を兼ねる仕組が形成された。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "家司"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/家司"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11455396"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11455396"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/家司?oldid=43050257"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/家司"
+        }
+    ]
+}

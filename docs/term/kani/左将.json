@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/左将.json",
+    "http://schema.org/description": [
+      {
+        "@value": "左将（さしょう）は、将棋の駒の一つ。本将棋にはなく、大大将棋・泰将棋・大局将棋に存在する。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "左将"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/左将"
+      }
+    ]
+  }
+]

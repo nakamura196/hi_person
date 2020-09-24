@@ -1,0 +1,401 @@
+{
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 914363
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "1936"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "83"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 56907535
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/フェルディナント1世_(オーストリア皇帝)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/フランク王国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安国寺恵瓊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神聖ローマ帝国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/行政機関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣秀吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田茂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/スウェーデン"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹羽長重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/信西"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アクセル・オクセンシェルナ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小泉純一郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/僧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮宰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高橋是清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川忠興"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/グスタフ2世アドルフ_(スウェーデン王)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宰相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ヨーロッパ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/満済"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野田佳彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/クレメンス・メッテルニヒ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/君主"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ドイツ帝国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武家官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/クリスティーナ_(スウェーデン女王)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/リシュリュー"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/オスマン帝国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ルイ13世_(フランス王)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ルイ14世_(フランス王)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川綱吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/オーストリア帝国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇喜多秀家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒衣の宰相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ジュール・マザラン"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義持"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川家康"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義満"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:政治史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ドイツ国首相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ドイツの首相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:政治家・官僚の称号"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小渕恵三"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/首相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/毛利秀元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/フランツ2世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ワズィール"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/以心崇伝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/政治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣総理大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川綱重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イスラム王朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/通称"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寺内正毅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/メロヴィング朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桂太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官吏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/フランス王国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大平正芳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松平忠昌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣秀勝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天海"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/濱口雄幸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イギリス"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国の宰相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/原敬"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Poli-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Wiktionary"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:政治家・官僚の称号"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:政治史"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "宰相"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q10855192"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q10855192"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/宰相?oldid=56907535"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/宰相"
+        }
+    ]
+}

@@ -1,0 +1,828 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "参議（さんぎ）は、日本の朝廷組織の最高機関である太政官の官職の一つである。四等官の中の次官（すけ）に相当する令外官で、納言に次ぐ。唐名（漢風名称）は宰相・相公・平章事・諫議大夫。和訓はおほまつりことひと。宮中の政（朝政）に参議する（「参政朝議」）という意味で、朝政の議政官に位置する。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 136510
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "5499"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "179"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58175963
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/川口由彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今江広道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上奏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下毛野古麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒板伸夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位相当制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月11日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/副島種臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四等官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大伴安麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/主任の大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/慶応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内務省_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筑摩書房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大久保利通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/肥前藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/虎尾達哉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の行政官職_(廃止)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神亀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉川弘文館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高向麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大蔵大輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天皇旗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大隈重信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長州藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/青林書院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宝_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/立憲政体の詔書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:戦前・戦中の日本の内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/道鏡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/竹内理三"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩倉使節団"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩倉具視"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/郡県制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩波書店"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/粟田真人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新世社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/瀧浪貞子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宣旨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/猪飼隆明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天平神護"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弘仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治六年政変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月22日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/廃藩置県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菊花紋章"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1992年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1991年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土田直鎮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御茶ノ水書房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/766年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:令外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中央公論社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/板垣退助"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元老院_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大同_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八省卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土佐藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍読"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/729年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/講談社学術文庫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/井上馨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/議政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/牧英正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1981年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/810年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/詔勅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原明久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昭和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1998年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/有司専制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1885年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広沢真臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和訓"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1871年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1873年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1868年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1869年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原道真"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1870年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1880年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1875年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/法参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/塙書房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/731年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/702年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/式部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弁官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1983年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/806年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/807年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/木戸孝允"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1987年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月21日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大審院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治政府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松尾正人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/井原今朝男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/非参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/僧侶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古井蒼生夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薩長土肥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊藤博文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江華島事件"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薩摩藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1972年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1957年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江藤新平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1993年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民部大輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小野毛野"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西郷隆盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/准参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2014年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大阪会議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坂野潤治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前原一誠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/観察使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/王政復古_(日本)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:政治の役職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:JPN1868"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://ja.dbpedia.org/property/任命者": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/任命者役職": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/公用語名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "さんぎ"
+        }
+    ],
+    "http://ja.dbpedia.org/property/廃止年月日": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--12-22"
+        }
+    ],
+    "http://ja.dbpedia.org/property/正式名称": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "参議"
+        }
+    ],
+    "http://ja.dbpedia.org/property/紋章": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Flag of the Japanese Emperor.svg"
+        }
+    ],
+    "http://ja.dbpedia.org/property/紋章名": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菊花紋章"
+        }
+    ],
+    "http://ja.dbpedia.org/property/紋章説明": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "（天皇旗）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/設置年月日": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--06-11"
+        },
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--04-21"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:戦前・戦中の日本の内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:令外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の行政官職_(廃止)"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "参議（さんぎ）は、日本の朝廷組織の最高機関である太政官の官職の一つである。四等官の中の次官（すけ）に相当する令外官で、納言に次ぐ。唐名（漢風名称）は宰相・相公・平章事・諫議大夫。和訓はおほまつりことひと。宮中の政（朝政）に参議する（「参政朝議」）という意味で、朝政の議政官に位置する。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "参議"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Sangi"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q1133663"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sangi_(Japan)"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/參議"
+        },
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Санґі"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Sangi_(Japon)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/참의_(일본사)"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1133663"
+        },
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Санги"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/参議?oldid=58175963"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/参議"
+        }
+    ]
+}

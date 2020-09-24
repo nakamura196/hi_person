@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/上総介.json",
+    "http://schema.org/description": [
+      {
+        "@value": "上総国（かずさのくに、正字体：上總國、正仮名遣：かづさのくに）は、かつて日本の地方行政区分だった令制国の一つ。東海道に属する。常陸国・上野国とともに親王が国司を務める親王任国であり、国府の実質的長官は上総介であった。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "上総国"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "上総介"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/上総国"
+      }
+    ]
+  }
+]

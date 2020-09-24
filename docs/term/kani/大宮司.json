@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/大宮司.json",
+    "http://schema.org/description": [
+      {
+        "@value": "宮司（ぐうじ、みやづかさ）とは神職や巫女をまとめる神社の長（おさ）である神職の職階（職名・職称）である。"
+      },
+      {
+        "@value": "伊勢神宮および熱田，宇佐，阿蘇，香椎，宗像などの神宮，神社の神職の長。祭祀および行政事務を総括する。多くは世襲。現在は伊勢神宮だけである。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "宮司"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大宮司"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/大宮司"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/宮司"
+      }
+    ]
+  }
+]

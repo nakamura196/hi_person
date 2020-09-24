@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/少輔.json",
+    "http://schema.org/description": [
+      {
+        "@value": "日本の官制（にほんのかんせい）では、日本の前近代､とくに律令制期の廃止された統治機構について概観する。なお近代の官制は近代日本の官制を､現在の官制については日本の国家機関を参照。"
+      },
+      {
+        "@value": "律令制で、諸省の次官(すけ)で、大輔(たいふ)の下に位するもの。しょうゆう。すないすけ。[補説]歴史的仮名遣いは「せうふ」の音変化した「せふ」とする説もある。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "日本の官制"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "少輔"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/日本の官制"
+      },
+      {
+        "@id": "https://kotobank.jp/word/少輔"
+      }
+    ]
+  }
+]

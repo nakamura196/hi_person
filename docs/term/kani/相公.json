@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/相公.json",
+    "http://schema.org/description": [
+      {
+        "@value": "①  宰相の敬称。  ②  参議の唐名。"
+      },
+      {
+        "@value": "相公（そうこう）は、西周の諸侯である陳の君主。姓は媯、名は皋羊。胡公の子として生まれた。兄の申公の後をうけて陳国の君主となった。孝公の父。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "相公_(陳)"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "相公"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/相公"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/相公_(陳)"
+      }
+    ]
+  }
+]

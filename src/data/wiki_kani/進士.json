@@ -1,0 +1,223 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "進士（しんし）とは、隋から北宋中期にかけては科挙の六科の一つ。王安石の改革で進士科以外が廃止された後は、科挙の登第者（合格者）を指し、以降の南宋から清まで続いた制度である。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 189840
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "904"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "29"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 59112761
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元_(王朝)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明経科"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南宋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/隋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/探花"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/進士_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/殿試"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:科挙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:中国の制度史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/漢字文化圏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:中国の教育"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:栄誉称号"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/満州語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/科挙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:学位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宋_(王朝)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/王安石"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/605年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北宋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:儒教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/儒学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/状元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/榜眼"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Chinese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:儒教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:中国の教育"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:栄誉称号"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:科挙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:中国の制度史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:学位"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "進士（しんし）とは、隋から北宋中期にかけては科挙の六科の一つ。王安石の改革で進士科以外が廃止された後は、科挙の登第者（合格者）を指し、以降の南宋から清まで続いた制度である。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "進士"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/进士"
+        },
+        {
+            "type": "uri",
+            "value": "http://vi.dbpedia.org/resource/Hoàng_giáp"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q420477"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/진사_(칭호)"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q420477"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/進士?oldid=59112761"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/進士"
+        }
+    ]
+}

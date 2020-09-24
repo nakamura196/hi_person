@@ -1,0 +1,551 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "衛門府（えもんふ）とは、律令制における官司。当初は1つであったが、大同3年（808年）に（左右）衛士府と統合されて一旦廃止され、弘仁3年（811年）に左右衛士府の改称に伴って復置された際、左衛門府と右衛門府の2つが置かれた。和訓にて「ゆげひのつかさ」と呼び、「靫負」という漢字をあてる場合がある。唐名は金吾。監門。監府。長は衛門督 （後に左衛門督・右衛門督）である。「柏木」は王朝和歌における衛門府、衛門督の雅称である。※当初、（左右）衛士府、（左右）兵衛府とあわせて「五衛府」と呼ばれ、復置後は（左右）近衛府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。ここでは便宜上、衛士府統合以前を「前期」、衛士府の改称による復置以後を「後期」と表記する。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 450692
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "3846"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "141"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 59140697
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建礼門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/村上義清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源兼綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/相良為続"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宜秋門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足立遠元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/811年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和訓"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/執金吾"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇都宮業綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/偉鑒門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/五衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位相当"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/赤松範資"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建春門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小早川隆景"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/氏族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/殷富門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/楠木正成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国大名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/真田信繁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/酒井忠次"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/酒井氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柏木_(源氏物語)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇都宮朝綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松井宗信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/遠山景元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/町奉行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津歳久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大同_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朔平門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小早川秀秋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/畠山政長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木道誉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/畠山氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柏木"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/畠山満家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衛士府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/畠山持国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1037年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朱雀門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御家人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Sokutai-Hanadahou_for_the_gatekeepers.JPG"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/被官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原仲麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/百官名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陽明門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠景"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右衛門佐局"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原千常"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原顕家_(小野宮流)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源満政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天平宝字"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武家官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安達景盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/靫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長尾景春"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源為義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/受領名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仮名_(通称)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小山朝政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弘仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四等官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検非違使庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衛士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/工藤祐経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大崎義隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/室町時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/楠木正行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大内裏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検非違使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/808年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝倉義景"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/764年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/758年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/旗本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安土桃山時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月22日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/隼人司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の将軍"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "衛門府（えもんふ）とは、律令制における官司。当初は1つであったが、大同3年（808年）に（左右）衛士府と統合されて一旦廃止され、弘仁3年（811年）に左右衛士府の改称に伴って復置された際、左衛門府と右衛門府の2つが置かれた。和訓にて「ゆげひのつかさ」と呼び、「靫負」という漢字をあてる場合がある。唐名は金吾。監門。監府。長は衛門督 （後に左衛門督・右衛門督）である。「柏木」は王朝和歌における衛門府、衛門督の雅称である。※当初、（左右）衛士府、（左右）兵衛府とあわせて「五衛府」と呼ばれ、復置後は（左右）近衛府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。ここでは便宜上、衛士府統合以前を「前期」、衛士府の改称による復置以後を「後期」と表記する。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "衛門府"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11626338"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11626338"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/衛門府?oldid=59140697"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/衛門府"
+        }
+    ]
+}

@@ -1,0 +1,2302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://schema.org/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:ns2="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/太政大臣.json">
+    <ns1:description>太政大臣（だいじょうだいじん／だじょうだいじん）は、太政官の長官。前近代日本の律令官制と明治時代の太政官制における最高職。唐名は「（大）相国」「太師」。和訓は「おおまつりごとのおおまえつぎみ／おおきおとど」。定員1名。具体的な職掌のない名誉職で、適任者がなければ設置しない則闕（そっけつ）の官とされた。</ns1:description>
+    <ns1:description>(1) 律令官制の最高官で，「だいじょうだいじん」と読まれた。左右大臣の上に位置する太政官の長官であるが，特に職掌は定められておらず『大宝令』では適任者がなければおかない則闕の官であった。天智 10 (671) 年大友皇子が任命されたのが最初。その後令制の制定によってその制度が明確となった。天平宝字4 (760) 年に藤原仲麻呂が大師と名称を改め任命され，天平神護1 (765) 年に道鏡が太政大臣禅師として任命された。天安1 (857) 年藤原良房が任じられてからは藤原氏や源氏が相次いで任命されている。一位相当官で，封戸，職田，年給などの俸禄も最高であった。 (2) 明治4 (1871) 年7月 29日の官制改革により，政治の最高機関となった正院を司るために設けられた官職。太政大臣は，天皇を輔翼，庶政を総判，祭祀，外交，宣戦，講和，立約の権，海陸軍の統治および宮中軍務を任とした。 1877年1月 18日正院廃止ののちも，85年 12月 22日太政官達 69号にその職制が廃されるまで，明治初期政治の中枢に位置し国事を掌握した。</ns1:description>
+    <rdfs:label>太政大臣</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/太政大臣"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/太政大臣"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右少史.json">
+    <ns1:name>史_(律令制)</ns1:name>
+    <ns1:description>史（し）とは、日本律令制において神祇官・太政官（弁官局）に設置された大史・少史の総称。四等官の4番目である主典（さかん）に相当する。官位相当は神祇官の大史は正八位下、同少史は従八位上であるのに対して、太政官の大史は正六位上、同少史は正七位上とそれよりも高く位置づけられている。定員は神祇官は大少各1名（全2名）、太政官は左右弁官局に大少各2名（全8名）。古くから文筆を掌る官を「史（ふひと/ふみひと）」と呼び、この職に就いた渡来人系の氏族に対して史の姓が授けられる事があった。律令制においては、上級者の命令を受けて公文書の記録・作成を掌り、公文書の内容を吟味して上級者の判断を仰ぎ、読申することを職掌とした。太政官の史は、弁官が率いる弁官局に属しており、同局が左右に分かれていることから、左大史・右大史・左少史・左少史に各2名合わせて8名存在することから八史（はちし）とも呼ばれた。後に弁官局の大史から五位の位階（大夫）に昇るものが現れるようになり、これを特に大夫史（史大夫）と呼んだ。小槻奉親が五位の左大史に就任して以後、小槻氏（壬生家・大宮家）は代々にわたって大史上席（官務）を務めたため、「官務家」と称され、太政官の記録・文書の伝領保存の任にあたるようになる。史は、六位蔵人・式部丞・民部丞・外記・近衛将監・衛門尉などと同様に正月の叙位で叙爵枠があり、毎年、上﨟者（在職年数の長い者）1名が従五位下に叙された（巡爵）。史8名のうち五位左大史（大夫史）1名が別格で、六位の史は左大史1人、右大史2人、左少史2人、右少史2人の計7人であるため、右少史に任じられた者は左少史・右大史を経て左大史に昇進し、史を計七年間務めて叙爵されることになる。六位蔵人・式部丞・民部丞・外記・検非違使衛門尉などから叙爵した者と同様に史から五位に叙された者は受領に任じられる資格があり、叙爵後一定の待機期間の後、受領に任じられた。左大史の辞令（口宣案）の例 　「長興宿禰記」上卿　中御門中納言文明十八年七月十二日　宣旨從五位上小槻時元宜任左大史藏人頭左中辨藤原元長奉（訓読文）上卿　中御門中納言（中御門宣胤　45歳　従二位権中納言） 文明18年（1486年）7月12日　宣旨 　従五位上小槻時元（大宮時元　18歳） 宜しく左大史に任ずべし、蔵人頭左中辨藤原元長（甘露寺元長　31歳　正四位上）奉（うけたまは）る</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/史_(律令制)"/>
+    <rdfs:label>右少史</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/中務大丞.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/中務省"/>
+    <ns1:description>中務省（なかつかさしょう）は、律令制における八省のひとつ。和名はナカノマツリゴトノツカサ。唐名は中書省など。「中」は禁中の意。</ns1:description>
+    <rdfs:label>中務大丞</rdfs:label>
+    <ns1:name>中務省</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/刑部大輔.json">
+    <rdfs:label>刑部大輔</rdfs:label>
+    <ns1:name>刑部省</ns1:name>
+    <ns1:description>刑部省（ぎょうぶしょう）は、古代日本の律令制下の八省の一つ、もしくは明治時代の省庁の一つ。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/刑部省"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左近衛将監.json">
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <ns1:description>左近衛府の三等官。従六位上相当。定員四名。さこんのじょう。さこんのしょうげん。</ns1:description>
+    <ns1:name>近衛府</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左近衛将監"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <rdfs:label>左近衛将監</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大監物.json">
+    <ns1:description>監物（けんもつ）は律令制において中務省に属した品官（ほんかん）。</ns1:description>
+    <ns1:name>監物</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/大監物"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/監物"/>
+    <rdfs:label>大監物</rdfs:label>
+    <ns1:description>〘名〙 令制で中務(なかつかさ)省の職員。監物のうちで上位のもの。大蔵省、内蔵寮などの倉の鍵を管理する責任者。従五位下相当で、定員二名。おおきおろしもののつかさ。おおいおろしもののつかさ。〔令義解（718）〕※金刀比羅本平治（1220頃か）中「三河守を落さんと防ぐさぶらひどもには、大監物(ダイケンモツ)、小けんもつ〈略〉を始として」</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左馬権頭.json">
+    <rdfs:label>左馬権頭</rdfs:label>
+    <ns1:description>馬寮（めりょう/うまのつかさ）は、律令制における官司の一つ。唐名では典厩（てんきゅう）。左馬寮（さめりょう/さまりょう）と右馬寮（うめりょう/うまりょう）に分かれていた。</ns1:description>
+    <ns1:name>馬寮</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/馬寮"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/宮内少丞.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/宮内省"/>
+    <rdfs:label>宮内少丞</rdfs:label>
+    <ns1:name>宮内省</ns1:name>
+    <ns1:description>宮内省（くないしょう）は、1947年（昭和22年）まで日本に存在した官庁名。古代のものと近代のものがあり、近代のものが1949年（昭和24年）以降の宮内庁の前身となる。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右近衛将監.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右近衛将監"/>
+    <ns1:description>右近衛府の三等官。従六位上相当。定員四名。うこんのじょう。</ns1:description>
+    <ns1:name>近衛府</ns1:name>
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <rdfs:label>右近衛将監</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/駿河守.json">
+    <rdfs:label>駿河守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大和守.json">
+    <ns1:name>大和国</ns1:name>
+    <rdfs:label>大和守</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大和国"/>
+    <ns1:description>大和国（やまとのくに）は、かつて日本の地方行政区分だった令制国の一つ。畿内に属する。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左京亮.json">
+    <ns1:description>京職（きょうしき）とは、日本の律令制において京（みやこ）の司法、行政、警察を行った行政機関である。古訓はミサトヅカサ。京は碁盤の目状に大路・小路が整備され（条坊制）、京内の東側を「左京（さきょう＝玉座より見て左）」、西側を「右京（うきょう＝玉座より見て右）」と呼び、「左京職（さきょうしき）」・「右京職（うきょうしき）」に分かれていた。なお、京職（きょうしょく）は京都所司代の別称。</ns1:description>
+    <ns1:name>京職</ns1:name>
+    <rdfs:label>左京亮</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/京職"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/神祇官.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/神祇官"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/神祇官"/>
+    <rdfs:label>神祇官</rdfs:label>
+    <ns1:description>神祇官（じんぎかん、かみづかさ、かんづかさ）古代の律令制で設置された、国家機関の一。#神祇官 (律令制)を参照。明治時代初期に改めて設置された、日本の国家機関の一。#神祇官 (明治時代)を参照。「神祇」とは、「神」は天津神である「天神」を、「祇」は国津神である「地祇」を表し、その名の通り祭祀を司る。</ns1:description>
+    <ns1:description>令制下にあって神祇の祭祀関係を司る官庁。「かんつかさ」とも読む。太政官と相並んで独立した一官であった。律令の母体となった唐令には神祇に関する制度はなかったので，日本独自の制度であろう。大宝・養老令制 (→大宝律令 ,　養老律令 ) に規定がみえる。『日本書紀』天武天皇紀に「神官」とみえるが，これは神職の意味ではなく，神祇官の前身であった。「令」の神祇官の職員は伯，副，祐，史のほかに神部，卜部，使部，使丁が所属していた。神祇官は平安時代後期にはその機能を失い，室町時代には吉田家がこれに代わった。明治の維新政府は慶応4＝明治1 (1868) 年神祇官を復興したが，明治4 (1871) 年には神祇省に，明治5 (1872) 年には教部省となった。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/兵部少輔.json">
+    <ns1:name>兵部省</ns1:name>
+    <rdfs:label>兵部少輔</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵部省"/>
+    <ns1:description>兵部省（ひょうぶしょう、つわもののつかさ）はかつて日本にあった軍政（国防）を司る行政機関。 律令制下の八省の一つ 明治時代の省庁の一つ</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/弾正少忠.json">
+    <ns1:description>弾正台（だんじょうだい、彈正臺）は、律令制下の八省の一つ明治時代の省庁の一つ</ns1:description>
+    <rdfs:label>弾正少忠</rdfs:label>
+    <ns1:name>弾正台</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/弾正台"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右兵衛尉.json">
+    <ns1:name>兵衛府</ns1:name>
+    <ns1:description>兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右兵衛尉"/>
+    <ns1:description>右兵衛府の判官。</ns1:description>
+    <rdfs:label>右兵衛尉</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵衛府"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/式部大輔.json">
+    <ns1:name>式部省</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/式部省"/>
+    <ns1:description>式部省（しきぶしょう）は、日本の律令制における八省のひとつ。和名は「のりのつかさ」。天平宝字2年（758年）から同8年（764年）の間のみ文部省（ぶんぶしょう）に改称された。大学寮・散位寮の二寮を管掌していた。</ns1:description>
+    <rdfs:label>式部大輔</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左京大夫.json">
+    <ns1:name>京職</ns1:name>
+    <rdfs:label>左京大夫</rdfs:label>
+    <ns1:description>左京職の長官。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/京職"/>
+    <ns1:description>京職（きょうしき）とは、日本の律令制において京（みやこ）の司法、行政、警察を行った行政機関である。古訓はミサトヅカサ。京は碁盤の目状に大路・小路が整備され（条坊制）、京内の東側を「左京（さきょう＝玉座より見て左）」、西側を「右京（うきょう＝玉座より見て右）」と呼び、「左京職（さきょうしき）」・「右京職（うきょうしき）」に分かれていた。なお、京職（きょうしょく）は京都所司代の別称。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左京大夫"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/勘解由次官.json">
+    <ns1:name>勘解由使</ns1:name>
+    <ns1:description>勘解由使（かげゆし）は、日本の律令制下の令外官の一つ。平安時代初期、地方行政を監査するために設置された。その後、監査の対象は内官（京都の各官職）へと拡大した。勘解由使の官庁である勘解由使庁は、太政官の北西、中務省の南に位置した。和名は「とくるよしかんがふるのつかさ」。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/勘解由使"/>
+    <rdfs:label>勘解由次官</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/兵部卿.json">
+    <rdfs:label>兵部卿</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵部省"/>
+    <ns1:name>兵部省</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/兵部卿"/>
+    <ns1:description>①  兵部省の長官。  ②  香の名。数種の香を調合したもので匂い袋に入れて用いる。                「身に－、袖にたきかけ／浮世草子・一代男  1」</ns1:description>
+    <ns1:description>兵部省（ひょうぶしょう、つわもののつかさ）はかつて日本にあった軍政（国防）を司る行政機関。 律令制下の八省の一つ 明治時代の省庁の一つ</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大内記.json">
+    <ns1:name>内記</ns1:name>
+    <ns1:description>〘名〙 令制で、中務省に属して詔勅をつくり、御所の記録のことをつかさどった大、中、少内記六人のうち、上位二名の職名。正六位上相当官。だいだいき。〔令義解（718）〕</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/大内記"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/内記"/>
+    <rdfs:label>大内記</rdfs:label>
+    <ns1:description>内記（ないき）は律令制において中務省に属した品官。唐名は起居郎・柱下。和訓は「うちのしるすつかさ」。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/備後守.json">
+    <rdfs:label>備後守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/木工頭.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/木工寮"/>
+    <ns1:name>木工寮</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/木工頭"/>
+    <rdfs:label>木工頭</rdfs:label>
+    <ns1:description>木工寮（もくりょう）は律令制において宮内省に属する機関。和名はコダクミノツカサ（古多久美乃豆加佐）。主に造営、および材木採集を掌り各職工を支配する役所である。</ns1:description>
+    <ns1:description>１ 木工寮(もくりょう)の長官。こだくみのかみ。むくのかみ。２ 大工の棟梁(とうりょう)。「惣門の内で羽のきく―」〈柳多留・五〉</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/宮内卿.json">
+    <rdfs:label>宮内卿</rdfs:label>
+    <ns1:description>[生]?[没]元久1(1204).11.10以後鎌倉時代初期の女流歌人。父は右京権大夫源師光 (もろみつ) ，母は後白河院の女房安芸 (あき) という。歌才を認められて後鳥羽院に女房として出仕，『正治二年第二度百首』 (1200) ，『老若五十首歌合』 (01) ，『千五百番歌合』 (02) ，『春日社歌合』 (04) など院主催の宮廷和歌行事の多くに参加，『千五百番歌合』での秀歌「薄く濃き野辺の緑の若草にあとまで見ゆる雪のむら消え」により，「若草の宮内卿」と呼ばれた。苦吟し，20歳前後で夭折したと伝えられる。歌風は巧緻で，理知的傾向が強く，抒情性には乏しい。『新古今集』に 15首入集。</ns1:description>
+    <ns1:description>宮内省（くないしょう）は、1947年（昭和22年）まで日本に存在した官庁名。古代のものと近代のものがあり、近代のものが1949年（昭和24年）以降の宮内庁の前身となる。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/宮内省"/>
+    <ns1:name>宮内省</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/宮内卿"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/権大夫.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/権の大夫-2040915"/>
+    <ns1:name>権の大夫</ns1:name>
+    <ns1:description>大夫の権官。定員外の大夫。※紫式部日記（1010頃か）寛弘五年九月一九日「九日夜は春宮権大夫つかうまつりたまふ」</ns1:description>
+    <rdfs:label>権大夫</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左馬少允.json">
+    <rdfs:label>左馬少允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/上卿.json">
+    <ns1:description>上卿（しょうけい/じょうけい）は、平安時代以降の朝廷において、公卿が関わる組織や儀式・政務・公事などの各種行事における役目の中の筆頭の者を指す。転じて、上卿になれる資格を持った者すなわち、公卿そのものを指す別称として用いられた例もある。上（しょう）の一字で表されることもある。「上卿」という言葉がよく使われた例として、次の2つがあげられる。1つは律令制の行政機関である太政官機構の事実上の最高審議会議体である「陣定」（陣議）などの公卿による会議の場における議長に相当する一番上位の序列（上首）の者を指す。ただし、公卿の中でも摂政・関白は天皇の補佐・代理人の位置づけであるので陣定には加わらず、太政大臣も名誉職であるので通常の場合は、筆頭は 左大臣、欠員の場合には右大臣あるいは内大臣となる。これに相当する公卿は実質上の太政官の長にあたるため、特に一上と呼んだ。通常は、一上が太政官の会議を主宰することになるが、常に出席している訳ではないため、実際の運営においては当日の会議に参加した公卿の中で上首にあたる人物が一上であるなしに関わらず上卿として会議を主宰した（ただし、中納言以上に限られ、参議のみ出席の場合には会議は成立しなかった）。これを「日の上卿」すなわち、日上（ひのしょう）と呼ぶ。上卿となった公卿は弁官・外記・史を動員して準備を行い、会議の内容を天皇への上奏および摂関への報告を行ったり、太政官符・官宣旨などの必要な公文書の発給手続などを行ったりした。天皇・摂関の裁可を必要とする文書を奉勅宣、上卿の判断で裁可・発給が可能な文書を上宣と称した。もう1つは年中行事など、あらかじめ翌年行われる事が明らかな行事に関しては、その行事を取り仕切る行事所の長官を務める公卿を前年末に予め担当する公卿を除目により補任した。この除目を公卿分配（上達部分配）、担当者を行事上卿と称した。ただし、節会や祈年穀奉幣は一上が務めて内弁と称し、大嘗会や仁王会は大納言が務めて検校と称する慣例があった。この時の上卿は参議が務める場合もあるが国忌・大祓・吉田祭・梅宮祭といった「小行事」と称される小規模あるいは重要性が低い行事に限定され、多くの行事は中納言以上が務めていた。院政期以降になると、元は別当と称されていた所の長官や社寺などとの取次役を指して、上卿と称する例が現れる。前者の代表的な例として記録所の長官などが挙げられ、後者の場合は伊勢神宮・賀茂神社・六勝寺などの重要な社寺に関する奏宣などを担当し、宣下によって補任した。後者は鎌倉時代後期以降、寺社伝奏へと発展したとみられている。いずれの上卿も準備から後処理まで、様々な手続や作法を必要とするため、様々な故実に通じている必要があり、公卿にはそのための知識の熟達が求められた。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/上卿"/>
+    <ns1:description>平安時代以降，朝廷の行事を担当奉行する上首の公卿。節会など大行事には大臣が，小公事には大・中納言，参議が上卿となる。恒例の行事の一部分については，前年の 12月頃に公卿分配があって上卿が予定された。このほか公卿の別称にも用いられ，記録所の長官 (かみ) も上卿と呼ばれた。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/上卿"/>
+    <rdfs:label>上卿</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/式部権大輔.json">
+    <rdfs:label>式部権大輔</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/式部省"/>
+    <ns1:name>式部省</ns1:name>
+    <ns1:description>式部省（しきぶしょう）は、日本の律令制における八省のひとつ。和名は「のりのつかさ」。天平宝字2年（758年）から同8年（764年）の間のみ文部省（ぶんぶしょう）に改称された。大学寮・散位寮の二寮を管掌していた。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/刑部少丞.json">
+    <ns1:name>刑部省</ns1:name>
+    <ns1:description>刑部省（ぎょうぶしょう）は、古代日本の律令制下の八省の一つ、もしくは明治時代の省庁の一つ。</ns1:description>
+    <rdfs:label>刑部少丞</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/刑部省"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/近江守.json">
+    <rdfs:label>近江守</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近江国"/>
+    <ns1:description>近江国（おうみのくに）は、かつて日本の地方行政区分だった令制国の一つ。東山道に属する。</ns1:description>
+    <ns1:name>近江国</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/図書頭.json">
+    <rdfs:label>図書頭</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/図書寮"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/図書頭"/>
+    <ns1:name>図書寮</ns1:name>
+    <ns1:description>図書寮（ずしょりょう）は日本の律令制において中務省に属する機関の一つである。また、明治以後の宮内省にも同名の機関が設置された。</ns1:description>
+    <ns1:description>図書寮の長官。従五位上相当。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右近衛権中将.json">
+    <rdfs:label>右近衛権中将</rdfs:label>
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <ns1:name>近衛府</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右衛門大夫.json">
+    <ns1:name>衛門府</ns1:name>
+    <ns1:description>衛門府（えもんふ）とは、律令制における官司。当初は1つであったが、大同3年（808年）に（左右）衛士府と統合されて一旦廃止され、弘仁3年（811年）に左右衛士府の改称に伴って復置された際、左衛門府と右衛門府の2つが置かれた。和訓にて「ゆげひのつかさ」と呼び、「靫負」という漢字をあてる場合がある。唐名は金吾。監門。監府。長は衛門督 （後に左衛門督・右衛門督）である。「柏木」は王朝和歌における衛門府、衛門督の雅称である。※当初、（左右）衛士府、（左右）兵衛府とあわせて「五衛府」と呼ばれ、復置後は（左右）近衛府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。ここでは便宜上、衛士府統合以前を「前期」、衛士府の改称による復置以後を「後期」と表記する。</ns1:description>
+    <ns1:description>右衛門尉(うえもんのじょう)（従六位下相当）で、特に五位に昇任した者。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/衛門府"/>
+    <rdfs:label>右衛門大夫</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右衛門大夫"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右大史.json">
+    <ns1:name>史_(律令制)</ns1:name>
+    <rdfs:label>右大史</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/史_(律令制)"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右大史"/>
+    <ns1:description>史（し）とは、日本律令制において神祇官・太政官（弁官局）に設置された大史・少史の総称。四等官の4番目である主典（さかん）に相当する。官位相当は神祇官の大史は正八位下、同少史は従八位上であるのに対して、太政官の大史は正六位上、同少史は正七位上とそれよりも高く位置づけられている。定員は神祇官は大少各1名（全2名）、太政官は左右弁官局に大少各2名（全8名）。古くから文筆を掌る官を「史（ふひと/ふみひと）」と呼び、この職に就いた渡来人系の氏族に対して史の姓が授けられる事があった。律令制においては、上級者の命令を受けて公文書の記録・作成を掌り、公文書の内容を吟味して上級者の判断を仰ぎ、読申することを職掌とした。太政官の史は、弁官が率いる弁官局に属しており、同局が左右に分かれていることから、左大史・右大史・左少史・左少史に各2名合わせて8名存在することから八史（はちし）とも呼ばれた。後に弁官局の大史から五位の位階（大夫）に昇るものが現れるようになり、これを特に大夫史（史大夫）と呼んだ。小槻奉親が五位の左大史に就任して以後、小槻氏（壬生家・大宮家）は代々にわたって大史上席（官務）を務めたため、「官務家」と称され、太政官の記録・文書の伝領保存の任にあたるようになる。史は、六位蔵人・式部丞・民部丞・外記・近衛将監・衛門尉などと同様に正月の叙位で叙爵枠があり、毎年、上﨟者（在職年数の長い者）1名が従五位下に叙された（巡爵）。史8名のうち五位左大史（大夫史）1名が別格で、六位の史は左大史1人、右大史2人、左少史2人、右少史2人の計7人であるため、右少史に任じられた者は左少史・右大史を経て左大史に昇進し、史を計七年間務めて叙爵されることになる。六位蔵人・式部丞・民部丞・外記・検非違使衛門尉などから叙爵した者と同様に史から五位に叙された者は受領に任じられる資格があり、叙爵後一定の待機期間の後、受領に任じられた。左大史の辞令（口宣案）の例 　「長興宿禰記」上卿　中御門中納言文明十八年七月十二日　宣旨從五位上小槻時元宜任左大史藏人頭左中辨藤原元長奉（訓読文）上卿　中御門中納言（中御門宣胤　45歳　従二位権中納言） 文明18年（1486年）7月12日　宣旨 　従五位上小槻時元（大宮時元　18歳） 宜しく左大史に任ずべし、蔵人頭左中辨藤原元長（甘露寺元長　31歳　正四位上）奉（うけたまは）る</ns1:description>
+    <ns1:description>〘名〙 太政官、右弁官局に属し、正六位上相当の官。定員二人。※令義解（718）職員「左大史二人。右大史二人」</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/備前守.json">
+    <ns1:name>備前国</ns1:name>
+    <ns1:description>備前国（びぜんのくに）は、かつて日本の地方行政区分だった令制国の一つ。山陽道に属する。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/備前国"/>
+    <rdfs:label>備前守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/黄門.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/黄門"/>
+    <ns1:description>中納言の唐名。唐の黄門侍郎(こうもんじろう)という官職と職掌が似ているのでいう。《中納言であったところから》徳川光圀(とくがわみつくに)の通称。水戸黄門。</ns1:description>
+    <rdfs:label>黄門</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右衛門少尉.json">
+    <ns1:description>衛門府（えもんふ）とは、律令制における官司。当初は1つであったが、大同3年（808年）に（左右）衛士府と統合されて一旦廃止され、弘仁3年（811年）に左右衛士府の改称に伴って復置された際、左衛門府と右衛門府の2つが置かれた。和訓にて「ゆげひのつかさ」と呼び、「靫負」という漢字をあてる場合がある。唐名は金吾。監門。監府。長は衛門督 （後に左衛門督・右衛門督）である。「柏木」は王朝和歌における衛門府、衛門督の雅称である。※当初、（左右）衛士府、（左右）兵衛府とあわせて「五衛府」と呼ばれ、復置後は（左右）近衛府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。ここでは便宜上、衛士府統合以前を「前期」、衛士府の改称による復置以後を「後期」と表記する。</ns1:description>
+    <rdfs:label>右衛門少尉</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/衛門府"/>
+    <ns1:name>衛門府</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/中宮大夫.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/中宮職"/>
+    <ns1:name>中宮職</ns1:name>
+    <ns1:description>中宮職（ちゅうぐうしき）は、律令制において中務省に属して后妃に関わる事務などを扱う役所。元来は、全ての后妃の世話を行うために設置されたが後には皇后と中宮､皇太后などとの並立によりそれぞれに太皇太后宮職、皇太后宮職、皇后宮職と専属の職が置かれる。</ns1:description>
+    <rdfs:label>中宮大夫</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/公卿.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/公卿"/>
+    <ns1:description>公卿（くぎょう）とは公家の中でも日本の律令の規定に基づく太政官の最高幹部として国政を担う職位、すなわち太政大臣・左大臣・右大臣・大納言・中納言・参議ら（もしくは従三位以上（非参議））の高官（総称して議政官という）を差す用語である。平安時代に公卿と呼ばれるようになった。</ns1:description>
+    <ns1:description>明治維新以前の公家社会で，中国王朝の三公九卿にならって太政大臣，左大臣，右大臣を三公もしくは公，大納言，中納言，参議および三位以上の朝官を卿といい，合せて公卿と称した。唐名で卿相，月卿，棘路といい，また大臣を除いた公卿を上達部 (かんだちめ) とも呼んだ。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/公卿"/>
+    <rdfs:label>公卿</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主計大允.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/主計寮"/>
+    <ns1:description>主計寮（しゅけいりょう）は律令制において民部省に属した機関。訓はかずえのつかさなど。</ns1:description>
+    <rdfs:label>主計大允</rdfs:label>
+    <ns1:name>主計寮</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/摂州.json">
+    <rdfs:label>摂州</rdfs:label>
+    <ns1:description>摂津国（せっつのくに）は、かつて日本の地方行政区分だった令制国の一つ。畿内に属する。現在の大阪府北西部と兵庫県南東部にあたる</ns1:description>
+    <ns1:description>摂津せつつ国の別名。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/摂津国"/>
+    <ns1:name>摂津国</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/摂州"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大蔵卿.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/大蔵卿"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/日本の大蔵大臣・財務大臣一覧"/>
+    <ns1:description>イギリスの財務府高官。起源は中世にあるが，近代国家の公職としては，16世紀後半に大蔵省 Treasuryが財政官庁 Exchequerから分離したあとに発達。それを受けて 1714年以降常に複数の大蔵委員が任じられることになり，その首席，大蔵総裁 First Lord of the Treasuryは首相となっていった。財政担当大臣の職は財務府長官 Chancellor of the Exchequerがつとめたが，19世紀前半まで首相が下院議員のときはこれを兼任した。</ns1:description>
+    <ns1:description>日本の大蔵大臣・財務大臣一覧では、近代日本の財務責任を負った歴代の人物をあげる。</ns1:description>
+    <rdfs:label>大蔵卿</rdfs:label>
+    <ns1:name>日本の大蔵大臣・財務大臣一覧</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/権律師.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/僧綱"/>
+    <ns1:description>僧綱（そうごう）とは日本における仏教の僧尼を管理するためにおかれた僧官の職である。</ns1:description>
+    <rdfs:label>権律師</rdfs:label>
+    <ns1:name>僧綱</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左大将.json">
+    <ns1:name>近衛大将</ns1:name>
+    <rdfs:label>左大将</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛大将"/>
+    <ns1:description>「左近衛大将さこんえのだいしよう」の略。</ns1:description>
+    <ns1:description>近衛大将（このえ の だいしょう）は、日本の律令官制における令外官の一つ。宮中の警固などを司る左右の近衛府の長官。左近衛府には左近衛大将（さこんえのだいしょう）、右近衛府には右近衛大将（うこんえのだいしょう）が置かれ、それぞれ略して「左大将」「右大将」ともいう。定員は各1名で、権官はない。官位相当は従三位。常設武官の最高職で、馬御監の兼任とされた。和訓は「ちかきまもりのつかさのかみ」。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左大将"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/少内記.json">
+    <rdfs:label>少内記</rdfs:label>
+    <ns1:description>内記（ないき）は律令制において中務省に属した品官。唐名は起居郎・柱下。和訓は「うちのしるすつかさ」。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/少内記"/>
+    <ns1:name>内記</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/内記"/>
+    <ns1:description>〘名〙 令制で中務省の官人。大内記の次位。詔勅、記録を草し、位記をかく。正八位上相当。※令義解（718）職員「少内記二人。〈掌同二中内記一〉」</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/医師.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/医師"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/医師"/>
+    <ns1:description>医師（いし 英:Doctor）は、医療および保健指導を司る医療従事者。医学に基く傷病の予防、診療および公衆衛生の普及を責務とする。</ns1:description>
+    <rdfs:label>医師</rdfs:label>
+    <ns1:description>１ 医術を仕事にする人。医師法の適用を受けて、病気の診察・治療に当たる人。医者。古くは「くすし」「くすりし」といった。２ 律令制で、典薬寮(てんやくりょう)の職員。治療と医生(いしょう)の教授をつかさどった者。３ 中世、公家や僧侶で医術の知識を持って施療した者。４ 江戸幕府の職名。僧体で医療をつかさどった。これに対し、民間では士分・公卿の服装をした古方(こほう)派があった。→奥医師</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左近大夫.json">
+    <ns1:description>左近衛将監で官位が五位の者。</ns1:description>
+    <rdfs:label>左近大夫</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左近大夫"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左兵衛権佐.json">
+    <ns1:name>兵衛府</ns1:name>
+    <ns1:description>兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵衛府"/>
+    <rdfs:label>左兵衛権佐</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左兵衛督.json">
+    <ns1:description>左兵衛府の長官。従五位上相当。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左兵衛督"/>
+    <ns1:description>兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。</ns1:description>
+    <rdfs:label>左兵衛督</rdfs:label>
+    <ns1:name>兵衛府</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵衛府"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右大弁.json">
+    <ns1:description>右弁官の長官。従四位上相当。</ns1:description>
+    <ns1:name>弁官</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/弁官"/>
+    <ns1:description>弁官（べんかん、辨官）は、朝廷の最高機関、太政官の職である左大弁（さだいべん）・右大弁（うだいべん）・左中弁（さちゅうべん）・右中弁（うちゅうべん）・左少弁（さしょうべん）・右少弁（うしょうべん）の総称である。唐名（漢風名称）は尚書。通説においては四等官の中の判官（じょう）に相当するが、異説として弁官を含めた弁官局を太政官の別局として捉え、元は本来の四等官の系列には含まない品官であったする説もある。また、『延喜式』においても、季禄・時服・馬料・要劇料などの給与の支給手続やそのために必要な上日の集計・考文の送付などが太政官とは別個に行われ、人事・財政体系における太政官からの独立性が確認できる。大弁は従四位上、中弁は正五位上相当、少弁は正五位下相当（養老令官位令）。官庁を指揮監督する役を負っていたため、後には少納言より高位に位置づけられ、参議と大弁を兼任する者もいた。また、蔵人頭と大弁または中弁を兼ねる者もおり、特に頭弁（とうのべん）と称された。左中弁以上の経験者には参議に昇進する資格があり（右中弁以下にはない）、将来三位以上に昇る道が開かれた出世の登竜門であった。</ns1:description>
+    <rdfs:label>右大弁</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右大弁"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主殿助.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/主殿助"/>
+    <ns1:name>主殿寮</ns1:name>
+    <rdfs:label>主殿助</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/主殿寮"/>
+    <ns1:description>主殿寮（とのもりょう・しゅでんりょう・とのもづかさ・とのもりづかさ）は律令制において宮内省に属した機関。</ns1:description>
+    <ns1:description>主殿寮(とのもりょう)の次官。従六位相当の官。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右近衛少将.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <ns1:description>令外(りょうげ)の官。右近衛府の次官。正五位下相当。右近少将(うこんのしょうしょう)。</ns1:description>
+    <rdfs:label>右近衛少将</rdfs:label>
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <ns1:name>近衛府</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右近衛少将"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/相公.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/相公"/>
+    <rdfs:label>相公</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/相公_(陳)"/>
+    <ns1:name>相公_(陳)</ns1:name>
+    <ns1:description>①  宰相の敬称。  ②  参議の唐名。</ns1:description>
+    <ns1:description>相公（そうこう）は、西周の諸侯である陳の君主。姓は媯、名は皋羊。胡公の子として生まれた。兄の申公の後をうけて陳国の君主となった。孝公の父。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主膳正.json">
+    <rdfs:label>主膳正</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左馬助.json">
+    <ns1:name>馬寮</ns1:name>
+    <ns1:description>左馬寮(さまりょう)の次官。正六位下相当。ひだりのうまのすけ。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/馬寮"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左馬助"/>
+    <rdfs:label>左馬助</rdfs:label>
+    <ns1:description>馬寮（めりょう/うまのつかさ）は、律令制における官司の一つ。唐名では典厩（てんきゅう）。左馬寮（さめりょう/さまりょう）と右馬寮（うめりょう/うまりょう）に分かれていた。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主計助.json">
+    <rdfs:label>主計助</rdfs:label>
+    <ns1:name>主計寮</ns1:name>
+    <ns1:description>主計寮（しゅけいりょう）は律令制において民部省に属した機関。訓はかずえのつかさなど。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/主計寮"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/蔵人.json">
+    <rdfs:label>蔵人</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/蔵人"/>
+    <ns1:description>蔵人（くろうど、藏人）は日本の律令制下の令外官の一つ。天皇の秘書的役割を果たした。唐名は侍中（じちゅう）、夕郎（せきろう）、夕拝郎（せきはいろう）。蔵人所は事務を行う場所のことで、内裏校書殿の北部に置かれた。また、蔵人は百官名或いは人名の一つで、この場合は「くらんど」と読む。</ns1:description>
+    <ns1:description>職事 (しきじ) ，青色とも呼ばれた。令外官で蔵人所の職員。もとは天皇の御物を納めた倉の管理を司っていたが，弘仁1 (810) 年，蔵人所が設置されると，それに加えて，天皇の側近にあって奏上，命令の取次ぎにあたり，昇殿を許され，宮中の事務，行事万端にあずかり，大きな勢力をもった。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/蔵人"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/兵部.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵部"/>
+    <rdfs:label>兵部</rdfs:label>
+    <ns1:description>中国の中央官庁で，六部の一つ。武官の人事，軍政，兵馬，武器庫などを管轄。『周官』の夏官大司馬の後身と考えられており，長官－尚書，次官－侍郎，判官－郎中・員外郎以下で構成される。直接軍隊を指揮するのではなく，文書行政を通じて軍事を統轄した。五代から宋・元代にかけては軍政機関として枢密院が台頭し兵部は名目化したが，明・清代では再び実権を握った。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/兵部"/>
+    <ns1:description>兵部（へいぶ）は中国古代の役所で、六部の一つ。国防を担当し、長官を兵部尚書、次官を兵部侍郎という。兵部は隋唐の時に設置され、武官の人事・兵器・軍政などを担当した。その後も兵部の設置を踏襲したが、王朝により権限は異なっていた。宋、遼、金、元では軍政を担当しなかった。明ではその権限は重かったが、清では武官の選抜と処分・兵器・兵站を担当するだけで兵権に干渉できなかった。光緒32年（1906年）、光緒新政で陸軍部と改められ、後に海軍部も設置され、兵部の名称は廃せられた。de:Ministerium für öffentliche Arbeitennl:Ministerie van Openbare Werken</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右近衛大将.json">
+    <ns1:description>近衛大将（このえ の だいしょう）は、日本の律令官制における令外官の一つ。宮中の警固などを司る左右の近衛府の長官。左近衛府には左近衛大将（さこんえのだいしょう）、右近衛府には右近衛大将（うこんえのだいしょう）が置かれ、それぞれ略して「左大将」「右大将」ともいう。定員は各1名で、権官はない。官位相当は従三位。常設武官の最高職で、馬御監の兼任とされた。和訓は「ちかきまもりのつかさのかみ」。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛大将"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右近衛大将"/>
+    <ns1:name>近衛大将</ns1:name>
+    <ns1:description>令外(りょうげ)の官。右近衛府の長官。従三位相当。多くは大臣・納言などが兼任。右近大将(うこんのだいしょう)。右大将(うだいしょう)。</ns1:description>
+    <rdfs:label>右近衛大将</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/周防守.json">
+    <rdfs:label>周防守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大外記.json">
+    <ns1:description>外記の上位の官。                →                  外記</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/外記"/>
+    <ns1:description>外記（げき）は律令制において朝廷組織の最高機関・太政官に属した職の一つである。四等官の中の主典（さかん）に相当する。唐名は外史・門下起居郎・門下令史。和訓は「とのおおいしるすつかさ」。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/大外記"/>
+    <ns1:name>外記</ns1:name>
+    <rdfs:label>大外記</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大将.json">
+    <ns1:description>大将（たいしょう）は、軍隊の階級の一つ。将官に区分され、中将の上に位置する。北大西洋条約機構の階級符号ではOF-9に相当する。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/大将"/>
+    <ns1:description>《「だいしょう」とも》１ 全軍または一軍の指揮・統率をする者。２ 軍人の階級の一。将官の最上位で、中将の上。３ 近衛府(このえふ)の長官。左右各一人。４ 剣道や柔道などの団体戦で、最後に戦う人。→先鋒 →次鋒 →中堅 →副将５ 一つの集団の中のかしら。「お山の大将」６ 同輩・目下の男性を、親しみやからかいの気持ちを込めて呼ぶ語。「よう大将、元気か」</ns1:description>
+    <rdfs:label>大将</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大将"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/権大宮司.json">
+    <rdfs:label>権大宮司</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/頭弁.json">
+    <ns1:description>弁官で、蔵人頭(くろうどのとう)を兼ねた人。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/頭弁"/>
+    <ns1:description>頭弁（とうのべん）とは日本の官制において、弁官を兼帯した蔵人頭に対する呼称の事である。頭中将が近衛中将の兼帯であったのに対して、頭弁は（左右）中弁の兼帯であったと解されることが多いが、特に平安時代末期以前には大弁と蔵人頭との兼帯例も見られ、以後も稀ながらそうした事例が存在する。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/頭弁"/>
+    <rdfs:label>頭弁</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/治部卿.json">
+    <ns1:description>治部省の長官。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/治部卿"/>
+    <ns1:description>治部省（じぶしょう）は律令制における八省のうちのひとつ。和名は「おさむるつかさ」。</ns1:description>
+    <rdfs:label>治部卿</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/治部省"/>
+    <ns1:name>治部省</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左少将.json">
+    <rdfs:label>左少将</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左少将"/>
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <ns1:description>⇒                  左近衛少将さこんえのしようしよう</ns1:description>
+    <ns1:name>近衛府</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左中将.json">
+    <ns1:description>「左近衛中将さこんえのちゆうじよう」の略。</ns1:description>
+    <ns1:name>近衛府</ns1:name>
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左中将"/>
+    <rdfs:label>左中将</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/阿波守.json">
+    <ns1:name>阿波国</ns1:name>
+    <rdfs:label>阿波守</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/阿波国"/>
+    <ns1:description>阿波国（あわのくに）は、かつて日本の地方行政区分だった令制国の一つ。南海道に属する。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/民部少輔.json">
+    <ns1:name>民部省</ns1:name>
+    <ns1:description>民部省（みんぶしょう）は、律令制下の八省の一つ明治時代の省庁の一つ</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/民部省"/>
+    <rdfs:label>民部少輔</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/法師.json">
+    <rdfs:label>法師</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/法師"/>
+    <ns1:description>１ 仏法によく通じ、人々を導く師となる者。また一般に、僧。出家。ほっし。２ 俗人で僧形をした者。「琵琶(びわ)法師」「田楽法師」３ 《昔、男の子は頭髪をそっていたところから》男の子。「いつかまた―が母にあひたけの、乱れ心や狂ふらん」〈虎明狂・法師が母〉４ 名詞に添えて「人」の意を表す。多く「ぼうし」と濁る。「一寸法師」「影法師」</ns1:description>
+    <ns1:description>法師（ほうし或いはほっし、のりのし、Skt:dharma-bhaanaka）は僧侶に対する呼称の1つ。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/法師"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/給料.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/給与"/>
+    <rdfs:label>給料</rdfs:label>
+    <ns1:description>給料とは、会社で働く会社員などが労働の見返りとして、
+事業主から支払われるすべてのもの(諸手当を含む)と定められています。
+
+労働基準法などの労働法では「賃金」、
+健康保険法などの社会保険では「報酬」とも呼ばれます。
+
+会社員が実際に支給を受ける給料では、
+社会保険料(健康保険料、厚生年金保険料、介護保険料)、
+雇用保険料、所得税、住民税などが差引かれており、
+差引かれた後の給料を手取り給料とも言います。</ns1:description>
+    <ns1:name>給与</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/給料"/>
+    <ns1:description>給与（きゅうよ、英語: Salary（サラリー））は、雇用契約に基づいて雇用主から従業員へ定期的に支払われる、労働の対価報酬。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大蔵少輔.json">
+    <rdfs:label>大蔵少輔</rdfs:label>
+    <ns1:description>大蔵省（おおくらしょう、Ministry of Finance, MOF）は、明治維新から2001年（平成13年）1月6日まで存在した日本の中央官庁である。後継官庁は財務省と金融庁。前近代の律令制による大蔵省も奈良時代の大宝律令から明治維新まで存続していたため、「大蔵省」という名称は1300年の長きにわたって用いられたことになる。</ns1:description>
+    <ns1:name>大蔵省</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大蔵省"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大法師.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/大法師"/>
+    <ns1:description>〘名〙① 法師のうち、特にすぐれた者を尊んでいう称。※書紀（720）大化元年八月「故沙門狛の大法師福亮。恵雲〈略〉恵隣を以ては、而十の師とす」② 天平宝字四年（七六〇）に置かれた僧位の九階の上位。伝灯位四階、または、修行位四階を経てこれに昇る。※続日本紀‐天平神護二年（766）一〇月二〇日「故、諸諸の大法師等を率ゐて、上といます太政大臣禅師の理の如く勧め行はしめ」</ns1:description>
+    <rdfs:label>大法師</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/法橋.json">
+    <rdfs:label>法橋</rdfs:label>
+    <ns1:description>法橋上人位の略。律師の僧綱に授けられる僧位で，法印，法眼とともに貞観6 (864) 年2月に制定された。のちに一般の僧にも授けられるようになり，人数も次第に増加し，さらに仏師や絵師にも叙任されるにいたった。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/僧位"/>
+    <ns1:description>僧位（そうい）とは日本において僧侶に対し与えられた位階のことである。以前から僧位らしいものはあったが760年（天平宝字4年）大法師位のもとに伝法位と修行位がおかれ伝灯位と修行位とにそれぞれ法師位、満位、住位、入位の4種の位階が置かれた。864年（貞観6年）には僧綱に対応する僧位として僧正に法印大和尚位（略して法印ともいう）、僧都に法眼和上位（略して法眼ともいう）、律師に法橋上人位（略して法橋ともいう）が与えられた。平安時代後期以降は定朝が叙されたのを皮切りに、仏師や絵仏師、連歌師などにも与えられるようになった。近世になると絵師が任命される例が増え、武士の入道、儒者、医師などにも及んだ。絵師の中では、御用絵師だけでなく民間絵師も叙任されたが、その手続きは面倒であった。門跡寺院を窓口としてしかるべき旗本などの名義を借り師匠などに保証人を頼んだ上で町奉行に願書を提出し許可を得た後、寺院に再度申請を差し出し評定にかけられ武家伝奏を介して叙任の宣旨が下された。</ns1:description>
+    <ns1:name>僧位</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/法橋"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大臣.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/大臣"/>
+    <ns1:description>大臣（だいじん）は、本来は皇帝・国王等を輔弼して国政を司る重要官職だが、今日一般的には君主制と共和制とに関わらず、政府を構成し、各行政部門の長に位置する官職。</ns1:description>
+    <rdfs:label>大臣</rdfs:label>
+    <ns1:description>古代，令制以前に大連 (おおむらじ) とともに朝政をとった最高官。『日本書紀』によると，武内宿禰が最初，続いてその子孫平群 (へぐり) ，蘇我 (そが) ，巨勢 (こせ) ，葛城 (かつらぎ) 諸氏が就任した。雄略天皇以前は，大臣，大連のいずれか一方で，併置されるようになったのは雄略天皇以後である。用明2 (587) 年，大連物部氏が滅んでのちは，大連をおかず，大臣蘇我氏が執政した。大化1 (645) 年，蘇我氏も滅びるに及んで大臣も廃され，同年おかれた左，右大臣が天下の諸政をとるにいたった。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大臣"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主水正.json">
+    <ns1:description>…また主水をのちには〈もんど〉ともよんだ。中世には主水正は清原氏が任じられ，氷室も一部存続した。【石上 英一】。…</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/主水司"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/主水正"/>
+    <rdfs:label>主水正</rdfs:label>
+    <ns1:name>主水司</ns1:name>
+    <ns1:description>主水司（しゅすいし/もいとりのつかさ）は律令制において宮内省に属する機関の一つである。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左衛門大尉.json">
+    <ns1:name>左衛門尉</ns1:name>
+    <rdfs:label>左衛門大尉</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/左衛門尉"/>
+    <ns1:description>左衛門尉（さえもんのじょう）とは、日本の律令制下の官職のひとつ。左衛門府の判官であり、六位相当の官職であった。五位の者が任ぜられた場合、左衛門大夫または大夫尉という他、検非違使と兼ねた場合には廷尉と俗称された。平家追討において活躍した源義経も任ぜられている。鎌倉時代以降、官職としては有名無実化したが、武士の任官が広くなされるようになるにつれ、左衛門尉などの武官の職は武士から広く好まれるようになり、鎌倉～江戸期を通じて多くの武将たちが任ぜられるか、受領名として使用されるようになっていった。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/亜相.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大納言"/>
+    <rdfs:label>亜相</rdfs:label>
+    <ns1:name>大納言</ns1:name>
+    <ns1:description>大納言（だいなごん）は、太政官に置かれた官職のひとつ。太政官においては四等官の次官（すけ）に相当する。訓読みは「おほいものまうすのつかさ」。唐名は亜相または亜槐。丞相・槐門（いずれも大臣のこと）に次ぐ者であることからいう。官位相当は三品・四品または正三位。</ns1:description>
+    <ns1:description>〔丞相しようじように亜つぐ意〕  大納言の唐名。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/亜相"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/権大僧都.json">
+    <rdfs:label>権大僧都</rdfs:label>
+    <ns1:name>僧綱</ns1:name>
+    <ns1:description>僧綱（そうごう）とは日本における仏教の僧尼を管理するためにおかれた僧官の職である。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/僧綱"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/中務大輔.json">
+    <ns1:name>中務省</ns1:name>
+    <ns1:description>中務省（なかつかさしょう）は、律令制における八省のひとつ。和名はナカノマツリゴトノツカサ。唐名は中書省など。「中」は禁中の意。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/中務省"/>
+    <rdfs:label>中務大輔</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/図書助.json">
+    <rdfs:label>図書助</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/宮内大丞.json">
+    <rdfs:label>宮内大丞</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/宮内省"/>
+    <ns1:name>宮内省</ns1:name>
+    <ns1:description>宮内省（くないしょう）は、1947年（昭和22年）まで日本に存在した官庁名。古代のものと近代のものがあり、近代のものが1949年（昭和24年）以降の宮内庁の前身となる。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/上総介.json">
+    <ns1:description>上総国（かずさのくに、正字体：上總國、正仮名遣：かづさのくに）は、かつて日本の地方行政区分だった令制国の一つ。東海道に属する。常陸国・上野国とともに親王が国司を務める親王任国であり、国府の実質的長官は上総介であった。</ns1:description>
+    <rdfs:label>上総介</rdfs:label>
+    <ns1:name>上総国</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/上総国"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/相模守.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/相模国"/>
+    <ns1:name>相模国</ns1:name>
+    <rdfs:label>相模守</rdfs:label>
+    <ns1:description>相模国（さがみのくに）は、かつて日本の地方行政区分だった令制国の一つ。東海道に属する。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/山城守.json">
+    <ns1:description>山城国 （やましろのくに） は、かつて日本の地方行政区分だった令制国の一つ。畿内に属する。</ns1:description>
+    <ns1:name>山城国</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/山城国"/>
+    <rdfs:label>山城守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左衛門大夫.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左衛門大夫"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/左衛門尉"/>
+    <ns1:name>左衛門尉</ns1:name>
+    <rdfs:label>左衛門大夫</rdfs:label>
+    <ns1:description>左衛門尉(じょう)（従六位下相当）で五位の者。</ns1:description>
+    <ns1:description>左衛門尉（さえもんのじょう）とは、日本の律令制下の官職のひとつ。左衛門府の判官であり、六位相当の官職であった。五位の者が任ぜられた場合、左衛門大夫または大夫尉という他、検非違使と兼ねた場合には廷尉と俗称された。平家追討において活躍した源義経も任ぜられている。鎌倉時代以降、官職としては有名無実化したが、武士の任官が広くなされるようになるにつれ、左衛門尉などの武官の職は武士から広く好まれるようになり、鎌倉～江戸期を通じて多くの武将たちが任ぜられるか、受領名として使用されるようになっていった。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/織部正.json">
+    <rdfs:label>織部正</rdfs:label>
+    <ns1:name>織部司</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/織部正"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/織部司"/>
+    <ns1:description>律令制で、織部司おりべのつかさの長官。正六位下相当。</ns1:description>
+    <ns1:description>織部司（おりべのつかさ/おりべし/おんべのつかさ）は日本古代の律令制において大蔵省に属する機関の一つである。織染の高度な技術をもち、高級織物の生産に従事した。唐名は織染署。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右兵衛大尉.json">
+    <rdfs:label>右兵衛大尉</rdfs:label>
+    <ns1:description>兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵衛府"/>
+    <ns1:name>兵衛府</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/治部権少輔.json">
+    <ns1:description>治部省（じぶしょう）は律令制における八省のうちのひとつ。和名は「おさむるつかさ」。</ns1:description>
+    <ns1:name>治部省</ns1:name>
+    <rdfs:label>治部権少輔</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/治部省"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/内大臣.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/内大臣"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/内大臣"/>
+    <rdfs:label>内大臣</rdfs:label>
+    <ns1:description>内大臣（ないだいじん）は、日本の律令官制において太政官に置かれた令外官の一つ。唐名は「内府（だいふ）」「内丞相」「内相国」「内僕射」。和訓は「うちのおおまえつぎみ/うちのおとど」。定員1名。官位相当は正・従二位。員外の大臣の意から「数の外（ほか）の大臣」とも、太政大臣と左・右大臣の三公を三台星と呼ぶのに対して「かげなびく星」とも呼ばれる。左大臣および右大臣の両人が欠員の場合や何らかの事情のために出仕できない場合に、代理として政務・儀式を司った。熊本県上益城郡山都町には、平家の落人伝説があり、「内大臣」という地名が残っている。</ns1:description>
+    <ns1:description>(1) 令外官の一つ。内府ともいう。天智8 (669) 年藤原姓を賜わった中臣鎌足が任じられたのが最初で，左右大臣の下に位し，権限，待遇は左右大臣に準じた。その後いったん中絶し，奈良時代末期に復活，明治にいたったが，任命されない時期もあった。 (2) 1885年内閣制度発足に際し，宮中，府中の区別を厳にするために設けられた宮内官の一つ。内大臣と同義である内府は内大臣府の略称としても用いられる。内大臣は御璽，国璽を保管し，詔勅，その他宮中の諸文書に関する事務を管掌し，天皇の側近に常に侍して輔弼の任にあたった。元来，内大臣は宮内大臣や他の国務大臣のように皇室事務や一般国務について輔弼の責に任じるものではないが，宮内大臣が欠けていたり，内閣が総辞職して新内閣の発足するまでの期間のように輔弼の責にあるものが欠けている場合は天皇に奉仕し，意見を述べ補佐する任にあった。したがって，政変に際しては後継内閣の首班について天皇の下問に奉答するのが内大臣の職務のはずであったが，実際には内大臣の責任において奉答せず，元老に下問されるように奉答するのが常であった。しかし元老西園寺公望の晩年には後継内閣の首班奏薦について内大臣の意見が重要視され，太平洋戦争に突入してからは，政治的にきわめて重要な役割を果した。 1945年 11月廃官。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/権守.json">
+    <ns1:description>国司（こくし、くにのつかさ）は、古代から中世の日本で、地方行政単位である国の行政官として中央から派遣された官吏で、四等官である守（かみ）、介（すけ）、掾（じょう）、目（さかん）等を指す（詳細は古代日本の地方官制も併せて参照のこと）。守の唐名は刺史、太守など。郡の官吏（郡司）は在地の有力者、いわゆる旧豪族からの任命だったので、中央からの支配のかなめは国司にあった。任期は6年（のちに4年）であった。国司は国衙において政務に当たり、祭祀・行政・司法・軍事のすべてを司り、管内では絶大な権限を持った。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/権守"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/国司"/>
+    <rdfs:label>権守</rdfs:label>
+    <ns1:name>国司</ns1:name>
+    <ns1:description>守(かみ)（国司の長官）、または、頭(かみ)（寮の長官）の権官(ごんかん)。「何の―、大夫などいふ人の」〈枕・一七七〉</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/中宮.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/中宮"/>
+    <rdfs:label>中宮</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/中宮"/>
+    <ns1:description>律令制では，太皇太后宮 (天皇の祖母) ，皇太后 (天皇の母) ，皇后の三宮を中宮といい，平安時代以降には皇后および同資格の天皇の後宮をさした。一条天皇の正暦1 (990) 年藤原遵子 (じゅんし) の中宮を改めて皇后とし，藤原定子 (ていし) を中宮とした。ここに皇后と中宮が並立するようになったが，遵子は本来天皇の父円融天皇の中宮で，このとき皇太后に一条天皇の生母藤原詮子 (せんし) がなっていたため皇太后となれず，中宮と称していた。長保2 (1000) 年藤原道長の娘彰子 (しょうし) が中宮となり，定子が皇后となるに及んで，一帝に二后の立つ例が始った。このときから二后並立はときどき行われ，中宮が優勢であることが多かった。</ns1:description>
+    <ns1:description>中宮（ちゅうぐう）は、日本の天皇の妻たちの呼称の一つ。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/雅楽大允.json">
+    <rdfs:label>雅楽大允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右近大夫.json">
+    <ns1:description>従六位上相当の右近衛将監(うこんえのしょうげん)で、五位に昇進した者。</ns1:description>
+    <rdfs:label>右近大夫</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右近大夫"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/掃部頭.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/掃部寮"/>
+    <rdfs:label>掃部頭</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/掃部頭"/>
+    <ns1:description>掃部寮の長官。従五位下に相当。</ns1:description>
+    <ns1:name>掃部寮</ns1:name>
+    <ns1:description>掃部寮（かもんりょう・かもんづかさ・かんもりのつかさ）は、律令制において宮内省に属する令外官。『倭名抄』ではかにもりのつかさとされる。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右京大夫.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/京職"/>
+    <ns1:description>京職（きょうしき）とは、日本の律令制において京（みやこ）の司法、行政、警察を行った行政機関である。古訓はミサトヅカサ。京は碁盤の目状に大路・小路が整備され（条坊制）、京内の東側を「左京（さきょう＝玉座より見て左）」、西側を「右京（うきょう＝玉座より見て右）」と呼び、「左京職（さきょうしき）」・「右京職（うきょうしき）」に分かれていた。なお、京職（きょうしょく）は京都所司代の別称。</ns1:description>
+    <ns1:description>1422－1509　室町-戦国時代の女性。応永29年生まれ。永享11年18歳のとき三条西家にはいる。公保(きんやす),実隆(さねたか)の2代につかえて83歳まで家政を担当。実隆は死期がせまった彼女を小庵にうつす際には輿(こし)をもちい,死後も供養のため写経をしたという。永正(えいしょう)6年2月10日死去。88歳。</ns1:description>
+    <ns1:name>京職</ns1:name>
+    <rdfs:label>右京大夫</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右京大夫"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左馬大記.json">
+    <rdfs:label>左馬大記</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/文章博士.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/文章博士"/>
+    <rdfs:label>文章博士</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/文章博士"/>
+    <ns1:description>文章博士（もんじょうはかせ）は、大学寮紀伝道の教官（令外官）。文章生に対して漢文学及び中国正史などの歴史学を教授した。唐名は翰林学士（かんりんがくし）。</ns1:description>
+    <ns1:description>文章道を担当した大学寮の教官。神亀5 (728) 年令外官として設置。定員1人。奈良時代末に淡海三船が大学頭兼文章博士に任じられて以来，急速に権威が高まり，弘仁 11 (820) 年には従来の正七位相当から従五位下相当の官となった。承和1 (834) 年紀伝博士の廃止により，文章博士の定員は2人となった。この頃から天皇，皇太子の侍講 (じこう) をも兼ねた。9世紀末から菅原，大江両氏の独占となり，貴族社会の衰微とともに形式化した官職となった。唐名を翰林学士という。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/頭権中将.json">
+    <rdfs:label>頭権中将</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/西市正.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/市司"/>
+    <ns1:name>市司</ns1:name>
+    <rdfs:label>西市正</rdfs:label>
+    <ns1:description>市司（いちのつかさ）は律令制において京職に属する機関。都の東西の市それぞれに設置され、東市司（ひがしのいちのつかさ）は左京職に西市司（にしのいちのつかさ）は右京職に属していた。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右京亮.json">
+    <ns1:name>京職</ns1:name>
+    <rdfs:label>右京亮</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/京職"/>
+    <ns1:description>京職（きょうしき）とは、日本の律令制において京（みやこ）の司法、行政、警察を行った行政機関である。古訓はミサトヅカサ。京は碁盤の目状に大路・小路が整備され（条坊制）、京内の東側を「左京（さきょう＝玉座より見て左）」、西側を「右京（うきょう＝玉座より見て右）」と呼び、「左京職（さきょうしき）」・「右京職（うきょうしき）」に分かれていた。なお、京職（きょうしょく）は京都所司代の別称。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/内匠少允.json">
+    <rdfs:label>内匠少允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/蔵人別当.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/蔵人別当"/>
+    <ns1:description>蔵人別当（くろうどのべっとう）とは、令外官の役職で、蔵人所の長官にあたる。組織上は蔵人頭以下を指揮する立場にあるが、所内の実務全般は蔵人頭が責任を負い、蔵人別当は対外的な代表者の地位として蔵人頭の任免や昇殿定、蔵人所の管轄下に置かれた所の人事などに関与したが、実際の実務には携わらなかった。定員は1名。殿上人を束ねる役目なので「殿上の別当」とも言う。詔勅を各省に伝達することが役目である。なお、通常、大臣が兼職して二位の者が補任されるが、令外官であるため官位相当は無い。897年（寛平9年）、平安時代前期の公卿藤原時平が任じられたのが最初であるが、後に左大臣が兼任することとなる。ただし、一上と同様に左大臣が関白であった時は、右大臣が別当となる。例としては室町幕府の将軍である足利義満が1382年2月9日（弘和2年/永徳2年1月26日）に、左大臣就任の後、3月4日（閏1月19日）、蔵人別当を兼務している。</ns1:description>
+    <rdfs:label>蔵人別当</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左兵衛尉.json">
+    <ns1:description>兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵衛府"/>
+    <ns1:description>左兵衛府の判官。</ns1:description>
+    <ns1:name>兵衛府</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左兵衛尉"/>
+    <rdfs:label>左兵衛尉</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大炊頭.json">
+    <ns1:description>大炊寮（おおいりょう）とは日本の律令制において宮内省に属する機関の一つである。大炊とは大飯炊（おおいかしぐ）の略称といわれる。「おほい(おおい)つかさ」等とも言う。</ns1:description>
+    <rdfs:label>大炊頭</rdfs:label>
+    <ns1:name>大炊寮</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大炊寮"/>
+    <ns1:description>大炊寮おおいりようの長官。従五位下相当。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/大炊頭"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大学助.json">
+    <ns1:name>大学寮</ns1:name>
+    <rdfs:label>大学助</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大学寮"/>
+    <ns1:description>大学寮（だいがくりょう）は、律令制のもとで作られた式部省（現在の人事院に相当する）直轄下の官僚育成機関である。官僚の候補生である学生に対する教育と試験及び儒教における重要儀式である釋奠を行った。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/舎人助.json">
+    <rdfs:label>舎人助</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大弁.json">
+    <ns1:name>弁官</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/大弁"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/弁官"/>
+    <rdfs:label>大弁</rdfs:label>
+    <ns1:description>弁官（べんかん、辨官）は、朝廷の最高機関、太政官の職である左大弁（さだいべん）・右大弁（うだいべん）・左中弁（さちゅうべん）・右中弁（うちゅうべん）・左少弁（さしょうべん）・右少弁（うしょうべん）の総称である。唐名（漢風名称）は尚書。通説においては四等官の中の判官（じょう）に相当するが、異説として弁官を含めた弁官局を太政官の別局として捉え、元は本来の四等官の系列には含まない品官であったする説もある。また、『延喜式』においても、季禄・時服・馬料・要劇料などの給与の支給手続やそのために必要な上日の集計・考文の送付などが太政官とは別個に行われ、人事・財政体系における太政官からの独立性が確認できる。大弁は従四位上、中弁は正五位上相当、少弁は正五位下相当（養老令官位令）。官庁を指揮監督する役を負っていたため、後には少納言より高位に位置づけられ、参議と大弁を兼任する者もいた。また、蔵人頭と大弁または中弁を兼ねる者もおり、特に頭弁（とうのべん）と称された。左中弁以上の経験者には参議に昇進する資格があり（右中弁以下にはない）、将来三位以上に昇る道が開かれた出世の登竜門であった。</ns1:description>
+    <ns1:description>律令制で、太政官(だいじょうかん)の判官(じょう)である弁官のうち、中弁の上位。従四位上相当。おおともい。→弁官</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右京大進.json">
+    <rdfs:label>右京大進</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/玄蕃頭.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/玄蕃頭"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/玄蕃寮"/>
+    <ns1:description>玄蕃寮（げんばりょう）は、日本の律令制において治部省に属する機関である。和名は「ほうしまらひとのつかさ」、唐名は崇玄署、典客署、鴻臚寺。「玄」は僧侶（ほうし）、「蕃」は外国人・賓客（まらひと）のこと。</ns1:description>
+    <ns1:description>玄蕃寮の長官。</ns1:description>
+    <rdfs:label>玄蕃頭</rdfs:label>
+    <ns1:name>玄蕃寮</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/官方.json">
+    <rdfs:label>官方</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右衛門督.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右衛門督"/>
+    <rdfs:label>右衛門督</rdfs:label>
+    <ns1:description>右衛門府の長官。正五位上相当。</ns1:description>
+    <ns1:name>衛門府</ns1:name>
+    <ns1:description>衛門府（えもんふ）とは、律令制における官司。当初は1つであったが、大同3年（808年）に（左右）衛士府と統合されて一旦廃止され、弘仁3年（811年）に左右衛士府の改称に伴って復置された際、左衛門府と右衛門府の2つが置かれた。和訓にて「ゆげひのつかさ」と呼び、「靫負」という漢字をあてる場合がある。唐名は金吾。監門。監府。長は衛門督 （後に左衛門督・右衛門督）である。「柏木」は王朝和歌における衛門府、衛門督の雅称である。※当初、（左右）衛士府、（左右）兵衛府とあわせて「五衛府」と呼ばれ、復置後は（左右）近衛府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。ここでは便宜上、衛士府統合以前を「前期」、衛士府の改称による復置以後を「後期」と表記する。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/衛門府"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/加賀守.json">
+    <ns1:description>加賀国（かがのくに）は、かつて日本の地方行政区分だった令制国の一つ。北陸道に属する。</ns1:description>
+    <ns1:name>加賀国</ns1:name>
+    <rdfs:label>加賀守</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/加賀国"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/陸奥守.json">
+    <ns1:description>陸奥国司（むつこくし）は、陸奥国の国司のことである。701年から775年までは、陸奥守、陸奥介、陸奥大掾、陸奥少掾、陸奥大目、陸奥少目の各1人を定員とした。775年に小目が2人に増えた。</ns1:description>
+    <rdfs:label>陸奥守</rdfs:label>
+    <ns1:name>陸奥国司</ns1:name>
+    <ns1:description>…それとともに組織も整えられ，812年(弘仁3)には将軍1をはじめとする定員が定められた。　奈良時代の鎮守将軍は陸奥･出羽按察使（あぜち）と陸奥守を兼ねるものが多かったが，9世紀になると陸奥･出羽按察使は中央の上級貴族のものとなり，さらに10世紀には陸奥守との兼任もなくなる。こうして鎮守府は陸奥国府とは切り離された独立した行政府となり，鎮守将軍はもっぱら岩手県以北の軍政を行うとともに，それにともなう民政をも担当するようになった。…</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/陸奥国司"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/陸奥守"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左大史.json">
+    <ns1:name>史_(律令制)</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/史_(律令制)"/>
+    <rdfs:label>左大史</rdfs:label>
+    <ns1:description>史（し）とは、日本律令制において神祇官・太政官（弁官局）に設置された大史・少史の総称。四等官の4番目である主典（さかん）に相当する。官位相当は神祇官の大史は正八位下、同少史は従八位上であるのに対して、太政官の大史は正六位上、同少史は正七位上とそれよりも高く位置づけられている。定員は神祇官は大少各1名（全2名）、太政官は左右弁官局に大少各2名（全8名）。古くから文筆を掌る官を「史（ふひと/ふみひと）」と呼び、この職に就いた渡来人系の氏族に対して史の姓が授けられる事があった。律令制においては、上級者の命令を受けて公文書の記録・作成を掌り、公文書の内容を吟味して上級者の判断を仰ぎ、読申することを職掌とした。太政官の史は、弁官が率いる弁官局に属しており、同局が左右に分かれていることから、左大史・右大史・左少史・左少史に各2名合わせて8名存在することから八史（はちし）とも呼ばれた。後に弁官局の大史から五位の位階（大夫）に昇るものが現れるようになり、これを特に大夫史（史大夫）と呼んだ。小槻奉親が五位の左大史に就任して以後、小槻氏（壬生家・大宮家）は代々にわたって大史上席（官務）を務めたため、「官務家」と称され、太政官の記録・文書の伝領保存の任にあたるようになる。史は、六位蔵人・式部丞・民部丞・外記・近衛将監・衛門尉などと同様に正月の叙位で叙爵枠があり、毎年、上﨟者（在職年数の長い者）1名が従五位下に叙された（巡爵）。史8名のうち五位左大史（大夫史）1名が別格で、六位の史は左大史1人、右大史2人、左少史2人、右少史2人の計7人であるため、右少史に任じられた者は左少史・右大史を経て左大史に昇進し、史を計七年間務めて叙爵されることになる。六位蔵人・式部丞・民部丞・外記・検非違使衛門尉などから叙爵した者と同様に史から五位に叙された者は受領に任じられる資格があり、叙爵後一定の待機期間の後、受領に任じられた。左大史の辞令（口宣案）の例 　「長興宿禰記」上卿　中御門中納言文明十八年七月十二日　宣旨從五位上小槻時元宜任左大史藏人頭左中辨藤原元長奉（訓読文）上卿　中御門中納言（中御門宣胤　45歳　従二位権中納言） 文明18年（1486年）7月12日　宣旨 　従五位上小槻時元（大宮時元　18歳） 宜しく左大史に任ずべし、蔵人頭左中辨藤原元長（甘露寺元長　31歳　正四位上）奉（うけたまは）る</ns1:description>
+    <ns1:description>〘名〙 令制で、太政官左弁官局の主典。正六位上相当の官。定員二人。平安時代の中期から、小槻(おづき)氏がこの官職を世襲し、官務と称した。※令義解（718）職員「左大史二人。右大史二人」</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左大史"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/伊賀守.json">
+    <ns1:description>伊賀国（いがのくに）は、かつて日本の地方行政区分だった令制国の一つ。東海道に属する。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/伊賀国"/>
+    <ns1:name>伊賀国</ns1:name>
+    <rdfs:label>伊賀守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/前司.json">
+    <ns1:description>《古くは「せんじ」とも》前任の国司。「信濃(しなの)―行長(ゆきなが)」〈徒然・二二六〉</ns1:description>
+    <rdfs:label>前司</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/前司"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/中務少輔.json">
+    <rdfs:label>中務少輔</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/中務省"/>
+    <ns1:name>中務省</ns1:name>
+    <ns1:description>中務省（なかつかさしょう）は、律令制における八省のひとつ。和名はナカノマツリゴトノツカサ。唐名は中書省など。「中」は禁中の意。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大蔵大丞.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大蔵省"/>
+    <rdfs:label>大蔵大丞</rdfs:label>
+    <ns1:description>大蔵省（おおくらしょう、Ministry of Finance, MOF）は、明治維新から2001年（平成13年）1月6日まで存在した日本の中央官庁である。後継官庁は財務省と金融庁。前近代の律令制による大蔵省も奈良時代の大宝律令から明治維新まで存続していたため、「大蔵省」という名称は1300年の長きにわたって用いられたことになる。</ns1:description>
+    <ns1:name>大蔵省</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大炊助.json">
+    <ns1:name>大炊寮</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大炊寮"/>
+    <ns1:description>大炊寮（おおいりょう）とは日本の律令制において宮内省に属する機関の一つである。大炊とは大飯炊（おおいかしぐ）の略称といわれる。「おほい(おおい)つかさ」等とも言う。</ns1:description>
+    <rdfs:label>大炊助</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/丹波守.json">
+    <ns1:description>丹波国（たんばのくに）は、かつて日本の地方行政区分だった令制国の一つ。山陰道に属する。</ns1:description>
+    <ns1:name>丹波国</ns1:name>
+    <rdfs:label>丹波守</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/丹波国"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/僧綱.json">
+    <ns1:description>仏教の僧尼を統轄し，大寺院などを管理する役職。中国の僧官にならって，推古 32 (624) 年に僧正，僧都，法頭が設けられたが，さらに弘仁 10 (819) 年に僧正，僧都，律師の3綱がおかれ，各階級が定められ，のちにはただの称号と化した。</ns1:description>
+    <rdfs:label>僧綱</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/僧綱"/>
+    <ns1:description>僧綱（そうごう）とは日本における仏教の僧尼を管理するためにおかれた僧官の職である。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/僧綱"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/民部権大輔.json">
+    <rdfs:label>民部権大輔</rdfs:label>
+    <ns1:name>民部省</ns1:name>
+    <ns1:description>民部省（みんぶしょう）は、律令制下の八省の一つ明治時代の省庁の一つ</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/民部省"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/読師.json">
+    <rdfs:label>読師</rdfs:label>
+    <ns1:description>《「とくし」「とくじ」「どくじ」とも》１ 古代、諸国の国分寺に講師とともに一人置かれた僧官。講師より1階級低い。２ 維摩会(ゆいまえ)・最勝会などのとき、講師と相対して仏前の高座に上り、経題・経文を読み上げる役目の僧。３ 歌会などで、懐紙や短冊(たんざく)などを整理して講師に渡し、また講師に誤読のあった場合などには読み改める役。とうし。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/読師"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/皇后宮権大夫.json">
+    <ns1:name>皇后宮職</ns1:name>
+    <rdfs:label>皇后宮権大夫</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/皇后宮職"/>
+    <ns1:description>皇后宮職（こうごうぐうしょく、こうごうぐうしき）は皇后の家政機関を指す。日本の宮内庁においては宮内庁侍従職が天皇と皇后に関する事務をあわせて担当するため、現在はおかれていない。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右衛門尉.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/衛門府"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右衛門尉"/>
+    <ns1:name>衛門府</ns1:name>
+    <ns1:description>右衛門府の第三等の官。</ns1:description>
+    <rdfs:label>右衛門尉</rdfs:label>
+    <ns1:description>衛門府（えもんふ）とは、律令制における官司。当初は1つであったが、大同3年（808年）に（左右）衛士府と統合されて一旦廃止され、弘仁3年（811年）に左右衛士府の改称に伴って復置された際、左衛門府と右衛門府の2つが置かれた。和訓にて「ゆげひのつかさ」と呼び、「靫負」という漢字をあてる場合がある。唐名は金吾。監門。監府。長は衛門督 （後に左衛門督・右衛門督）である。「柏木」は王朝和歌における衛門府、衛門督の雅称である。※当初、（左右）衛士府、（左右）兵衛府とあわせて「五衛府」と呼ばれ、復置後は（左右）近衛府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。ここでは便宜上、衛士府統合以前を「前期」、衛士府の改称による復置以後を「後期」と表記する。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/家司.json">
+    <rdfs:label>家司</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/家司"/>
+    <ns1:description>親王，内親王，摂関家，職事三位以上の諸家の庶務をとる職員。令制では，親王家に文学，家令，扶，従，書吏が，職事三位以上に家令，扶，従，書吏があった。平安時代中期以降は，これらの家には政所，文殿，蔵人所，侍所，随人所などの役所をおき，別当以下が庶務をとった。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/家司"/>
+    <ns1:description>家司（けいし/いえのつかさ）とは、親王・内親王家及び職事三位以上の公卿・将軍家などの家に設置され、家政を掌る職員。本来は律令制で定められた職員であったが、平安時代中期以後は公卿・官人・地下の中から私的に任用され、国政機関の職員が権門の私的な家政職員である家司を兼ねる仕組が形成された。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/修理少進.json">
+    <rdfs:label>修理少進</rdfs:label>
+    <ns1:description>修理職（しゅりしき、すりしき）は平安時代に設置された令外官。和名は「をさめ（おさめ）つくるつかさ」。</ns1:description>
+    <ns1:name>修理職</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/修理職"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/蔵人頭.json">
+    <ns1:description>蔵人頭（くろうどのとう）とは、令外官の役職で、蔵人所の実質的な長（名目的な長官は他に「蔵人別当」と呼んで大臣が兼任していた）。勅旨や上奏を伝達する役目を受け持つなど、天皇の秘書的役割を果たした。通常、四位の者が補任されるが、官位相当は無い。定員は2名。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/蔵人頭"/>
+    <ns1:description>蔵人所の長官。この上に別当がおかれたが，大臣の兼任であったので，蔵人頭が常に天皇の側近にはべり，勅命の伝達，上奏の取次ぎを行い，殿上人の指揮監督にあたった。定員は2名で，四位の殿上人から選ばれた。弁官から1人 (頭弁) ，近衛中将から1人 (頭中将) が補任されるのが例であった。</ns1:description>
+    <rdfs:label>蔵人頭</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/蔵人頭"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左近衛中将.json">
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <ns1:description>令外(りょうげ)の官。左近衛府の次官。従四位下相当。左近中将(さこんのちゅうじょう)。左中将(さちゅうじょう)。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <rdfs:label>左近衛中将</rdfs:label>
+    <ns1:name>近衛府</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左近衛中将"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/少外記.json">
+    <ns1:description>律令制で、太政官の官名。大外記の下にあって、内記の作った詔書の訂正、太政官の奏文の作成、諸儀式の執行などにあたった。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/外記"/>
+    <ns1:description>外記（げき）は律令制において朝廷組織の最高機関・太政官に属した職の一つである。四等官の中の主典（さかん）に相当する。唐名は外史・門下起居郎・門下令史。和訓は「とのおおいしるすつかさ」。</ns1:description>
+    <ns1:name>外記</ns1:name>
+    <rdfs:label>少外記</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/少外記"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主計頭.json">
+    <ns1:name>主計寮</ns1:name>
+    <ns1:description>主計寮（しゅけいりょう）は律令制において民部省に属した機関。訓はかずえのつかさなど。</ns1:description>
+    <ns1:description>主計寮しゆけいりようの長官。</ns1:description>
+    <rdfs:label>主計頭</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/主計寮"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/主計頭"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/和泉守.json">
+    <ns1:description>和泉国（いずみのくに）は、かつて日本の地方行政区分だった令制国の一つ。畿内に属する。</ns1:description>
+    <ns1:name>和泉国</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/和泉国"/>
+    <rdfs:label>和泉守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/壱岐守.json">
+    <rdfs:label>壱岐守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/勘解由長官.json">
+    <ns1:description>勘解由使（かげゆし）は、日本の律令制下の令外官の一つ。平安時代初期、地方行政を監査するために設置された。その後、監査の対象は内官（京都の各官職）へと拡大した。勘解由使の官庁である勘解由使庁は、太政官の北西、中務省の南に位置した。和名は「とくるよしかんがふるのつかさ」。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/勘解由使"/>
+    <ns1:name>勘解由使</ns1:name>
+    <rdfs:label>勘解由長官</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/摂津守.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/摂津国"/>
+    <ns1:description>摂津国（せっつのくに）は、かつて日本の地方行政区分だった令制国の一つ。畿内に属する。現在の大阪府北西部と兵庫県南東部にあたる</ns1:description>
+    <rdfs:label>摂津守</rdfs:label>
+    <ns1:name>摂津国</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/治部大輔.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/治部大輔"/>
+    <ns1:description>〘名〙 ＝じぶ（治部）の大輔(たいふ)※万葉（８Ｃ後）二〇・四五〇〇・左注「右一首治部大輔市原王」</ns1:description>
+    <ns1:description>治部省（じぶしょう）は律令制における八省のうちのひとつ。和名は「おさむるつかさ」。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/治部省"/>
+    <rdfs:label>治部大輔</rdfs:label>
+    <ns1:name>治部省</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/小舎人.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/小舎人"/>
+    <rdfs:label>小舎人</rdfs:label>
+    <ns1:description>１ 平安時代、蔵人所(くろうどどころ)に属して殿上(てんじょう)の雑事に使われた者。殿上の童(わらわ)。２ 中世、幕府の侍所(さむらいどころ)に属して、雑用をした者。３ 「小舎人童(こどねりわらわ)」に同じ。「大将、上に使ひ給ふ童、御供に―にてありしを召して」〈宇津保・蔵開中〉</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/隼人正.json">
+    <rdfs:label>隼人正</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大宮司.json">
+    <ns1:name>宮司</ns1:name>
+    <ns1:description>伊勢神宮および熱田，宇佐，阿蘇，香椎，宗像などの神宮，神社の神職の長。祭祀および行政事務を総括する。多くは世襲。現在は伊勢神宮だけである。</ns1:description>
+    <rdfs:label>大宮司</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/宮司"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/大宮司"/>
+    <ns1:description>宮司（ぐうじ、みやづかさ）とは神職や巫女をまとめる神社の長（おさ）である神職の職階（職名・職称）である。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右兵衛佐.json">
+    <ns1:name>兵衛府</ns1:name>
+    <ns1:description>兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右兵衛佐"/>
+    <rdfs:label>右兵衛佐</rdfs:label>
+    <ns1:description>右兵衛府の次官。正六位下相当。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵衛府"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/武蔵守.json">
+    <ns1:name>武蔵国司</ns1:name>
+    <ns1:description>武蔵国司（むさしこくし）は武蔵国の国司。武蔵は延喜式の定める大国（たいごく）であるため、守（1名）・介（1名）・掾（大・少、各1名）・目（大・少、各1名）の他に司生（3名）など9名前後を置いた。但し、宝亀6年（775年）には少目2員と増員している。。養老律令の官位令が定める大国の官位相当は守が従五位上、大介が正六位下、大掾が正七位下、少掾が従七位上、大目が従八位上、少目が従八位下である。10世紀末には武蔵国府が衰亡し、令制における国司の実質は廃れたと推定される。</ns1:description>
+    <rdfs:label>武蔵守</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/武蔵国司"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/若狭守.json">
+    <rdfs:label>若狭守</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/若狭国"/>
+    <ns1:description>若狭国（わかさのくに）は、かつて日本の地方行政区分だった令制国の一つ。北陸道に属する。</ns1:description>
+    <ns1:name>若狭国</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/東市佑.json">
+    <rdfs:label>東市佑</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大舎人頭.json">
+    <ns1:name>大舎人寮</ns1:name>
+    <ns1:description>大舎人寮（おおとねりりょう）は律令制において中務省に属する機関の一つである。律令制初期においては左右の大舎人寮が設定されていたが、大同3年（808年）に左大舎人寮と右大舎人寮が統合されて、大舎人寮となった。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大舎人寮"/>
+    <rdfs:label>大舎人頭</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右衛門権佐.json">
+    <ns1:description>衛門府（えもんふ）とは、律令制における官司。当初は1つであったが、大同3年（808年）に（左右）衛士府と統合されて一旦廃止され、弘仁3年（811年）に左右衛士府の改称に伴って復置された際、左衛門府と右衛門府の2つが置かれた。和訓にて「ゆげひのつかさ」と呼び、「靫負」という漢字をあてる場合がある。唐名は金吾。監門。監府。長は衛門督 （後に左衛門督・右衛門督）である。「柏木」は王朝和歌における衛門府、衛門督の雅称である。※当初、（左右）衛士府、（左右）兵衛府とあわせて「五衛府」と呼ばれ、復置後は（左右）近衛府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。ここでは便宜上、衛士府統合以前を「前期」、衛士府の改称による復置以後を「後期」と表記する。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/衛門府"/>
+    <rdfs:label>右衛門権佐</rdfs:label>
+    <ns1:name>衛門府</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右衛門.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/右衛門"/>
+    <ns1:description>右衛門（うえもん）は、日本語の男性名。</ns1:description>
+    <rdfs:label>右衛門</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右衛門"/>
+    <ns1:description>「右衛門府」の略。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/修理右宮城使.json">
+    <rdfs:label>修理右宮城使</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/正親佑.json">
+    <rdfs:label>正親佑</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左右近衛将監.json">
+    <rdfs:label>左右近衛将監</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/刑部.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/刑部"/>
+    <rdfs:label>刑部</rdfs:label>
+    <ns1:description>刑部刑部（けいぶ） - 中国古代の役所で、六部のひとつ。刑部（おさかべ） - 古代日本の部民のひとつ。刑部氏（おさかべし） - 上記に由来する氏族。刑部（おさかべ、おしかべ） - 上記に由来する地名。日本の各地にある。刑部（ぎょうぶ） - 日本の律令制における役職。 ⇒ 刑部省刑部（ぎょうぶ） - 日本の明治時代における役職。 ⇒ 刑部省刑部 - 妖怪の長壁（おさかべ）の異表記。</ns1:description>
+    <ns1:description>中国の主要行政官庁であった六部の一つ。秋官とも呼ばれる。司法刑獄などを管轄。六朝時代に尚書都官曹として発達，隋で刑部と改称した。唐では長官尚書，次官侍郎，判官郎中，員外郎以下の組織が整い，刑部，都官 (官奴婢の管理) ，比部 (会計検査) ，司門 (門，関の出入管理) の4部局を管轄し，大理寺とともに裁判に責任を負った。元代に尚書省が廃されると中書省に属し，明代以降は天子に直属，大理寺，都察院とともに三法司をなし，以後光緒 32 (1906) 年新制により法部と改称されるまで存続。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/刑部"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/威儀師.json">
+    <rdfs:label>威儀師</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/威儀師"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/威儀師"/>
+    <ns1:description>僧職の一。法会や授戒が厳粛に行われるように指図する僧。威儀僧。威儀法師。</ns1:description>
+    <ns1:description>威儀師（いぎし）とは、得度・授戒・法会といった仏教の重要儀式の際に、儀式を進行し、衆僧を指揮する役目の僧侶。貞観12年（870年）以後は、大威儀師・小威儀師に分かれた。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左将.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/左将"/>
+    <ns1:description>左将（さしょう）は、将棋の駒の一つ。本将棋にはなく、大大将棋・泰将棋・大局将棋に存在する。</ns1:description>
+    <rdfs:label>左将</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/三河守.json">
+    <ns1:description>三河国司（みかわこくし）は、三河国の国司のことである。養老律令の職員令で三河国は守、介、掾、目の各1人の構成である。三河国は上国であり、養老律令の官位令が定める上国の官位相当は守が従五位下、介が従六位上、少掾が従七位上、少目が従八位下である。但し、宝亀6年（775年）には大目1名・少目1名として大目を増員している。。</ns1:description>
+    <rdfs:label>三河守</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/三河国司"/>
+    <ns1:name>三河国司</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/兵部大丞.json">
+    <rdfs:label>兵部大丞</rdfs:label>
+    <ns1:description>兵部省（ひょうぶしょう、つわもののつかさ）はかつて日本にあった軍政（国防）を司る行政機関。 律令制下の八省の一つ 明治時代の省庁の一つ</ns1:description>
+    <ns1:name>兵部省</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵部省"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/下野守.json">
+    <ns1:name>下野国</ns1:name>
+    <rdfs:label>下野守</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/下野国"/>
+    <ns1:description>下野国（しもつけのくに）は、かつて日本の地方行政区分だった令制国の一つ。東山道に属する。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/権大納言.json">
+    <ns1:description>大納言の権官ごんかん。定員外の大納言。                →                  権官</ns1:description>
+    <rdfs:label>権大納言</rdfs:label>
+    <ns1:description>大納言（だいなごん）は、太政官に置かれた官職のひとつ。太政官においては四等官の次官（すけ）に相当する。訓読みは「おほいものまうすのつかさ」。唐名は亜相または亜槐。丞相・槐門（いずれも大臣のこと）に次ぐ者であることからいう。官位相当は三品・四品または正三位。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大納言"/>
+    <ns1:name>大納言</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/権大納言"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/修理大夫.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/修理大夫"/>
+    <ns1:name>修理職</ns1:name>
+    <ns1:description>修理職（しゅりしき、すりしき）は平安時代に設置された令外官。和名は「をさめ（おさめ）つくるつかさ」。</ns1:description>
+    <ns1:description>修理職の長官。しゅりのかみ。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/修理職"/>
+    <rdfs:label>修理大夫</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/治部少輔.json">
+    <ns1:name>治部省</ns1:name>
+    <ns1:description>治部省（じぶしょう）は律令制における八省のうちのひとつ。和名は「おさむるつかさ」。</ns1:description>
+    <rdfs:label>治部少輔</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/治部省"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/式部卿.json">
+    <ns1:name>式部省</ns1:name>
+    <ns1:description>式部省の長官。親王は四品、諸臣は正四位相当。のちには親王が任ぜられるのが例となった。吏部尚書。</ns1:description>
+    <ns1:description>式部省（しきぶしょう）は、日本の律令制における八省のひとつ。和名は「のりのつかさ」。天平宝字2年（758年）から同8年（764年）の間のみ文部省（ぶんぶしょう）に改称された。大学寮・散位寮の二寮を管掌していた。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/式部卿"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/式部省"/>
+    <rdfs:label>式部卿</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/越前守.json">
+    <ns1:description>越前国（えちぜんのくに）は、かつて日本の地方行政区分だった令制国の一つ。北陸道に属する。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/越前国"/>
+    <ns1:description>…すなわち1700年に養父の遺跡1920石を継ぎ，02年書院番，04年(宝永1)徒頭，07年使番，08年目付を経て12年(正徳2)山田奉行となり，従五位下能登守となる。16年(享保1)普請奉行に転じ，17年2月3日町奉行に昇進，越前守と改める。22年関東地方御用掛を命じられ，45年(延享2)までこの職を兼務する。…</ns1:description>
+    <rdfs:label>越前守</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/越前守"/>
+    <ns1:name>越前国</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右大将.json">
+    <ns1:name>近衛大将</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右大将"/>
+    <ns1:description>「右近衛大将うこんえのだいしよう」の略。</ns1:description>
+    <rdfs:label>右大将</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛大将"/>
+    <ns1:description>近衛大将（このえ の だいしょう）は、日本の律令官制における令外官の一つ。宮中の警固などを司る左右の近衛府の長官。左近衛府には左近衛大将（さこんえのだいしょう）、右近衛府には右近衛大将（うこんえのだいしょう）が置かれ、それぞれ略して「左大将」「右大将」ともいう。定員は各1名で、権官はない。官位相当は従三位。常設武官の最高職で、馬御監の兼任とされた。和訓は「ちかきまもりのつかさのかみ」。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/兵部少丞.json">
+    <ns1:name>兵部省</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵部省"/>
+    <ns1:description>兵部省（ひょうぶしょう、つわもののつかさ）はかつて日本にあった軍政（国防）を司る行政機関。 律令制下の八省の一つ 明治時代の省庁の一つ</ns1:description>
+    <rdfs:label>兵部少丞</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/木工少允.json">
+    <ns1:name>木工寮</ns1:name>
+    <rdfs:label>木工少允</rdfs:label>
+    <ns1:description>木工寮（もくりょう）は律令制において宮内省に属する機関。和名はコダクミノツカサ（古多久美乃豆加佐）。主に造営、および材木採集を掌り各職工を支配する役所である。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/木工寮"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/少監物.json">
+    <ns1:description>監物（けんもつ）は律令制において中務省に属した品官（ほんかん）。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/少監物"/>
+    <ns1:name>監物</ns1:name>
+    <ns1:description>〘名〙 令制の官職の一つ。中務(なかつかさ)省に属して、大蔵寮・内蔵寮の倉庫の収納物の出納の管理をつかさどった。正七位下相当。下物職(おろしもののつかさ)※令義解（718）職員「少監物四人。〈掌同二中監物一〉」</ns1:description>
+    <rdfs:label>少監物</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/監物"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/常陸介.json">
+    <rdfs:label>常陸介</rdfs:label>
+    <ns1:description>常陸国司（ひたちこくし）は、常陸国の国司のことで、常陸守、常陸介、常陸大掾、常陸少掾、常陸大目、常陸少目の各1人で構成された。常陸国は、上総国・上野国とともに、天長3年（826年）以降、親王が国守を務める親王任国となり、この場合の常陸守を特に常陸太守と称した。親王任国となった当初から親王太守は現地へ赴任しない遙任だったため、国司の実務上の最高位は常陸介であった。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/常陸国司"/>
+    <ns1:name>常陸国司</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/縫殿助.json">
+    <rdfs:label>縫殿助</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右将監.json">
+    <rdfs:label>右将監</rdfs:label>
+    <ns1:description>〘名〙 ＝うこんえ（右近衛）の将監※小右記‐寛和元年（985）正月一八日「右将監栗秀蔭申レ障不レ被レ免」</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右将監"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/国司.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/国司"/>
+    <ns1:description>１ 律令制で、中央から派遣され、諸国の政務をつかさどった地方官。その役所を国衙(こくが)といい、守(かみ)・介(すけ)・掾(じょう)・目(さかん)の四等官のほか、その下に史生(ししょう)などの職員がある。くにのつかさ。国宰。２ 特に、国司の長官をいう。</ns1:description>
+    <rdfs:label>国司</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/国司"/>
+    <ns1:description>国司（こくし、くにのつかさ）は、古代から中世の日本で、地方行政単位である国の行政官として中央から派遣された官吏で、四等官である守（かみ）、介（すけ）、掾（じょう）、目（さかん）等を指す（詳細は古代日本の地方官制も併せて参照のこと）。守の唐名は刺史、太守など。郡の官吏（郡司）は在地の有力者、いわゆる旧豪族からの任命だったので、中央からの支配のかなめは国司にあった。任期は6年（のちに4年）であった。国司は国衙において政務に当たり、祭祀・行政・司法・軍事のすべてを司り、管内では絶大な権限を持った。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/民部大丞.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/民部省"/>
+    <ns1:name>民部省</ns1:name>
+    <ns1:description>民部省（みんぶしょう）は、律令制下の八省の一つ明治時代の省庁の一つ</ns1:description>
+    <rdfs:label>民部大丞</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大学頭.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/大学頭"/>
+    <ns1:description>大学寮（だいがくりょう）は、律令制のもとで作られた式部省（現在の人事院に相当する）直轄下の官僚育成機関である。官僚の候補生である学生に対する教育と試験及び儒教における重要儀式である釋奠を行った。</ns1:description>
+    <rdfs:label>大学頭</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大学寮"/>
+    <ns1:description>１ 律令制で、大学寮の長官。従五位上相当。学生(がくしょう)の試験と釈奠(せきてん)のことを管掌。２ 江戸時代、昌平坂学問所の長官。元禄4年（1691）林信篤（鳳岡）が任命され、以後代々林家が世襲。</ns1:description>
+    <ns1:name>大学寮</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左中弁.json">
+    <ns1:description>弁官（べんかん、辨官）は、朝廷の最高機関、太政官の職である左大弁（さだいべん）・右大弁（うだいべん）・左中弁（さちゅうべん）・右中弁（うちゅうべん）・左少弁（さしょうべん）・右少弁（うしょうべん）の総称である。唐名（漢風名称）は尚書。通説においては四等官の中の判官（じょう）に相当するが、異説として弁官を含めた弁官局を太政官の別局として捉え、元は本来の四等官の系列には含まない品官であったする説もある。また、『延喜式』においても、季禄・時服・馬料・要劇料などの給与の支給手続やそのために必要な上日の集計・考文の送付などが太政官とは別個に行われ、人事・財政体系における太政官からの独立性が確認できる。大弁は従四位上、中弁は正五位上相当、少弁は正五位下相当（養老令官位令）。官庁を指揮監督する役を負っていたため、後には少納言より高位に位置づけられ、参議と大弁を兼任する者もいた。また、蔵人頭と大弁または中弁を兼ねる者もおり、特に頭弁（とうのべん）と称された。左中弁以上の経験者には参議に昇進する資格があり（右中弁以下にはない）、将来三位以上に昇る道が開かれた出世の登竜門であった。</ns1:description>
+    <ns1:name>弁官</ns1:name>
+    <rdfs:label>左中弁</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/弁官"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左中弁"/>
+    <ns1:description>左弁官の次官。正五位上相当。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/讃岐守.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/讃岐国"/>
+    <ns1:name>讃岐国</ns1:name>
+    <rdfs:label>讃岐守</rdfs:label>
+    <ns1:description>讃岐国（さぬきのくに）は、かつて日本の地方行政区分だった令制国の一つ。南海道に属する。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/但馬守.json">
+    <rdfs:label>但馬守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/進士.json">
+    <rdfs:label>進士</rdfs:label>
+    <ns1:description>中国で隋代 (600頃) から清代末 (1905) まで続いた科挙の及第者をいう。唐代までは科挙の一科目であった進士科の受験者を意味し，その及第者を進士及第，進士出身などと呼んでいたが，宋代以後，科挙の科目が進士科一つに統一されたため，科挙の及第者を一般に進士と呼ぶようになった。競争が激しく，及第するのがきわめて困難であったため，進士となることは人生最大の幸福とされ，特に首席の状元 (じょうげん) は歴史に名を残す栄誉とされた。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/進士"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/進士"/>
+    <ns1:description>進士（しんし）とは、隋から北宋中期にかけては科挙の六科の一つ。王安石の改革で進士科以外が廃止された後は、科挙の登第者（合格者）を指し、以降の南宋から清まで続いた制度である。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左方.json">
+    <rdfs:label>左方</rdfs:label>
+    <ns1:description>雅楽の舞楽のうち，中国系統のもの。右方に対する。舞人は紅色を基調とした装束をつけ，伴奏音楽には唐楽(とうがく)を用いる。→関連項目雅楽｜還城楽</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左方"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/河内守.json">
+    <ns1:name>河内国司</ns1:name>
+    <ns1:description>河内国司（かわちこくし）は河内国の国司で、大国であるため、養老律令の職員令にて守・介・大掾・少掾・大目・少目の各1名が定員とされたが、それぞれの権官が置かれることもあった。官位相当は守（従五位上）、介（正六位下）、大掾（正七位下）、少掾（従七位上）、大目（従八位上）、少目（従八位下）。このほか、官位相当外の下級官人として史生3名が定められた。河内国は藤原京、平城京、長岡京、平安京などの各時代の都の隣国という位置にあり、都と海を繋ぐ要衝の地であったために重要視され、都に近いことから権力の中枢にある権力者の与党が任命されたり兼務することが多かった。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/河内国司"/>
+    <rdfs:label>河内守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左馬頭.json">
+    <rdfs:label>左馬頭</rdfs:label>
+    <ns1:description>馬寮（めりょう/うまのつかさ）は、律令制における官司の一つ。唐名では典厩（てんきゅう）。左馬寮（さめりょう/さまりょう）と右馬寮（うめりょう/うまりょう）に分かれていた。</ns1:description>
+    <ns1:name>馬寮</ns1:name>
+    <ns1:description>左馬寮(さまりょう)の長官。従五位上相当。ひだりのうまのかみ。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/馬寮"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左馬頭"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/兵部大輔.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵部省"/>
+    <ns1:description>兵部省（ひょうぶしょう、つわもののつかさ）はかつて日本にあった軍政（国防）を司る行政機関。 律令制下の八省の一つ 明治時代の省庁の一つ</ns1:description>
+    <rdfs:label>兵部大輔</rdfs:label>
+    <ns1:name>兵部省</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/造酒正.json">
+    <ns1:name>造酒司</ns1:name>
+    <ns1:description>酒造司（みきのつかさ/さけのつかさ）は、律令制の下で置かれた役所で宮内省の被官。主な職務は酒や醴・酢などの醸造をつかさどった。四等官は正（かみ）、佑（じょう）、令史（さかん）が1名ずつおかれ次官（すけ）に相当する職は置かれなかった。その他、酒部（さかべ）、使部などが置かれた。また、酒などを醸造するための酒殿（さかどの）が設置され、別当、弁などの職が置かれていた。なお『延喜式』神名帳によれば、延長5年（927年）頃の造酒司には大宮売神社4座・酒殿神社2座（酒弥豆男神・酒弥豆女神）の2社6座が祀られていた（宮中・京中の式内社一覧参照）。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/造酒司"/>
+    <rdfs:label>造酒正</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/備中守.json">
+    <ns1:description>備中国（びっちゅうのくに）は、かつて日本の地方行政区分だった令制国の一つ。山陽道に属する。</ns1:description>
+    <ns1:name>備中国</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/備中国"/>
+    <rdfs:label>備中守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右衛門大尉.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/衛門府"/>
+    <ns1:name>衛門府</ns1:name>
+    <ns1:description>衛門府（えもんふ）とは、律令制における官司。当初は1つであったが、大同3年（808年）に（左右）衛士府と統合されて一旦廃止され、弘仁3年（811年）に左右衛士府の改称に伴って復置された際、左衛門府と右衛門府の2つが置かれた。和訓にて「ゆげひのつかさ」と呼び、「靫負」という漢字をあてる場合がある。唐名は金吾。監門。監府。長は衛門督 （後に左衛門督・右衛門督）である。「柏木」は王朝和歌における衛門府、衛門督の雅称である。※当初、（左右）衛士府、（左右）兵衛府とあわせて「五衛府」と呼ばれ、復置後は（左右）近衛府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。ここでは便宜上、衛士府統合以前を「前期」、衛士府の改称による復置以後を「後期」と表記する。</ns1:description>
+    <rdfs:label>右衛門大尉</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/内匠大允.json">
+    <rdfs:label>内匠大允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/春宮大夫.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/春宮坊"/>
+    <ns1:description>春宮坊（とうぐうぼう）は日本古代の律令制において存在した機関。和訓は「みこのみやのつかさ」。</ns1:description>
+    <ns1:name>春宮坊</ns1:name>
+    <rdfs:label>春宮大夫</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/春宮大夫"/>
+    <ns1:description>春宮坊の長官。みこのみやのつかさのかみ。[補説]「東宮大夫」とも書く。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/刑部大丞.json">
+    <ns1:description>刑部省（ぎょうぶしょう）は、古代日本の律令制下の八省の一つ、もしくは明治時代の省庁の一つ。</ns1:description>
+    <rdfs:label>刑部大丞</rdfs:label>
+    <ns1:name>刑部省</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/刑部省"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右大臣.json">
+    <rdfs:label>右大臣</rdfs:label>
+    <ns1:description>(1) 律令制で，太政大臣，左大臣の次に位し，政務を統轄した。太政大臣，左大臣，右大臣を総称して三公という。唐の右丞相，右相府，右府などに相当する。正従二位相当官。職掌は左大臣と同じく太政官の政事，宮中の儀式を総裁した。大化1 (645) 年，蘇我倉山田石川麻呂が任じられたのが最初。天平宝字2 (758) 年，藤原仲麻呂の官名改易時に大保と称したが，まもなく旧名に復した。武家政権下では有名無実となった。 (2) 明治2 (1869) 年7月8日の職員令制定により，太政官に設けられた官職。左大臣とともに太政官の長官として天皇を補佐し，大政を統理し，官事を総判する任を負った。定員は1名，相当位は従一位または正二位。同4年7月 29日の官制改革により，一時その名称が消えたが，同年8月 10日の改革で再び，正院三職 (太政大臣，左・右大臣，参議をいう) の一つとして復活した。 1885年 12月 22日太政官達 69号による内閣制度の発足とともに廃止された。</ns1:description>
+    <ns1:description>右大臣（うだいじん）は、朝廷の最高機関、太政官の職の一つ。唐名は「右府」「右丞相」「右相国」「右僕射」「太保」。和訓は「みぎのおおいもうちぎみ/みぎのおとど」。定員1名。官位相当は、正・従二位。太政大臣と左・右大臣（後に左・右大臣と内大臣）とを総称して、三公・三槐と呼ぶ。左大臣とともに太政官における最高位であるが、左大臣がある場合は議政官の首座は左大臣であり、左大臣が置かれていない場合や差し支えて出仕しない場合に右大臣が朝議を主催した。また、左大臣が関白であった時にも右大臣が政務を司った。明治18年（1885年）内閣制度の発足に伴い廃止。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/右大臣"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右大臣"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/勘解由判官.json">
+    <rdfs:label>勘解由判官</rdfs:label>
+    <ns1:description>勘解由使（かげゆし）は、日本の律令制下の令外官の一つ。平安時代初期、地方行政を監査するために設置された。その後、監査の対象は内官（京都の各官職）へと拡大した。勘解由使の官庁である勘解由使庁は、太政官の北西、中務省の南に位置した。和名は「とくるよしかんがふるのつかさ」。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/勘解由使"/>
+    <ns1:name>勘解由使</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左近衛権中将.json">
+    <rdfs:label>左近衛権中将</rdfs:label>
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <ns1:name>近衛府</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左衛門権佐.json">
+    <ns1:description>衛門府（えもんふ）とは、律令制における官司。当初は1つであったが、大同3年（808年）に（左右）衛士府と統合されて一旦廃止され、弘仁3年（811年）に左右衛士府の改称に伴って復置された際、左衛門府と右衛門府の2つが置かれた。和訓にて「ゆげひのつかさ」と呼び、「靫負」という漢字をあてる場合がある。唐名は金吾。監門。監府。長は衛門督 （後に左衛門督・右衛門督）である。「柏木」は王朝和歌における衛門府、衛門督の雅称である。※当初、（左右）衛士府、（左右）兵衛府とあわせて「五衛府」と呼ばれ、復置後は（左右）近衛府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。ここでは便宜上、衛士府統合以前を「前期」、衛士府の改称による復置以後を「後期」と表記する。</ns1:description>
+    <ns1:name>衛門府</ns1:name>
+    <rdfs:label>左衛門権佐</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/衛門府"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/美濃守.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/美濃国"/>
+    <ns1:description>美濃国（みののくに）は、かつて日本の地方行政区分だった令制国の一つ。東山道に属する。</ns1:description>
+    <rdfs:label>美濃守</rdfs:label>
+    <ns1:name>美濃国</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/縫殿少允.json">
+    <rdfs:label>縫殿少允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/小舎人童.json">
+    <rdfs:label>小舎人童</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/小舎人童"/>
+    <ns1:description>近衛(このえ)中将・少将が召し使った少年。また、公家・武家に仕えて雑用をつとめた少年。「―ちひさくて髪いとうるはしきが」〈枕・五四〉</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大舎人大允.json">
+    <ns1:description>大舎人寮（おおとねりりょう）は律令制において中務省に属する機関の一つである。律令制初期においては左右の大舎人寮が設定されていたが、大同3年（808年）に左大舎人寮と右大舎人寮が統合されて、大舎人寮となった。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大舎人寮"/>
+    <rdfs:label>大舎人大允</rdfs:label>
+    <ns1:name>大舎人寮</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左大臣.json">
+    <ns1:description>(1) 律令制下，太政大臣不在の場合に，太政官の政務を支配した官。一の上 (かみ) ともいう。大化1 (645) 年に初めて設けられ，阿部内麻呂が任じられた。太政大臣，右大臣とともに三公といわれ，二位相当官で位田，職田などを賜わり実権をもっていたが，中世以後は儀式的な存在となった。 (2) 明治2 (1869) 年7月8日制定の職員令により，太政官に設けられた官職。太政官の長官として右大臣と対置された。職掌官位は右大臣と同一で定員は1名。同4年7月 29日の官制改革により一時名称が削除されたが，同8月 10日の改革により，正院「三職」の一つとして復活した。 1885年 12月 22日，太政官達 69号による内閣制度の発足とともに廃止。</ns1:description>
+    <ns1:description>左大臣（さだいじん）は、朝廷の最高機関、太政官の職の一つ。唐名は「左府」「左丞相」「左相国」「左僕射」「太傅」。和訓は「ひだりのおおいもうちぎみ／ひだりのおとど」。定員1名。官位相当は正・従二位。太政大臣と左・右大臣（後に左・右大臣と内大臣）とを総称して、三公・三槐と呼ぶ。「一上」の別称が示すとおり、太政官の職務を統べる議政官の首座として朝議を主催した。左大臣の上位の太政大臣は功労者を待遇する名誉職としての意味が強いために具体的職掌が伴わず、また「則闕（そっけつ）の官」と呼ばれたように常設職ではなかったことから、左大臣が太政官における事実上の最高位であった。事実、摂関政治の最盛期に位置する藤原道長・藤原頼通も長期にわたって左大臣の地位を保持し続けており、太政大臣であった期間はごく短い。この他、弾正台が不当な糾弾や摘発を行った案件がある場合には、代わって弾劾する権限を持った。「六国史」や『公卿補任』の記録を見ると、律令制初期には適任者不在のために闕官となっていた時期も少なくないが、その場合は右大臣が政務を代行した。10世紀前半の藤原忠平からほぼ常設職となる。明治維新以降も天皇を輔佐して大政を統理する職として存続したが、1885年（明治18年）内閣制度の発足に伴い廃止。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左大臣"/>
+    <rdfs:label>左大臣</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/左大臣"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左京大進.json">
+    <rdfs:label>左京大進</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/上野介.json">
+    <ns1:description>上野国（こうずけのくに、かみつけぬのくに、かみつけののくに、かみつけのくに）は、かつて日本の地方行政区分だった令制国の一つ。東山道に属する。常陸国・上総国とともに親王が国司を務める親王任国であり、国府の実質的長官は上野介であった。</ns1:description>
+    <ns1:name>上野国</ns1:name>
+    <rdfs:label>上野介</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/上野国"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/安房守.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/安房国"/>
+    <ns1:description>安房国（あわのくに）は、かつて日本の地方行政区分だった令制国の一つ。東海道に属する。</ns1:description>
+    <rdfs:label>安房守</rdfs:label>
+    <ns1:name>安房国</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/出羽守.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/出羽守"/>
+    <rdfs:label>出羽守</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/出羽国"/>
+    <ns1:name>出羽国</ns1:name>
+    <ns1:description>１ 出羽国の長官。２ 《連語「では」と「出羽」をかけて》「海外では」「他業界では」のように、何かにつけて他者の例を引き合いに出して語る人のこと。多くは揶揄(やゆ)の気持ちをこめていう。→ではのかみ</ns1:description>
+    <ns1:description>出羽国（でわのくに）は、かつて日本の地方行政区分だった令制国の一つ。東山道に属する。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右馬助.json">
+    <rdfs:label>右馬助</rdfs:label>
+    <ns1:description>右馬寮うまりようの次官。正六位下相当。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右馬助"/>
+    <ns1:description>馬寮（めりょう/うまのつかさ）は、律令制における官司の一つ。唐名では典厩（てんきゅう）。左馬寮（さめりょう/さまりょう）と右馬寮（うめりょう/うまりょう）に分かれていた。</ns1:description>
+    <ns1:name>馬寮</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/馬寮"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主税頭.json">
+    <ns1:description>主税寮（しゅぜいりょう）は律令制において民部省に属した機関。和訓は「ちからのつかさ」。</ns1:description>
+    <ns1:name>主税寮</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/主税寮"/>
+    <ns1:description>主税寮の長官。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/主税頭"/>
+    <rdfs:label>主税頭</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/将監.json">
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/将監"/>
+    <ns1:name>近衛府</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <ns1:description>近衛このえ府の判官じよう。左右がある。</ns1:description>
+    <rdfs:label>将監</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右兵衛権佐.json">
+    <ns1:name>兵衛府</ns1:name>
+    <ns1:description>兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵衛府"/>
+    <rdfs:label>右兵衛権佐</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/少輔.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/少輔"/>
+    <rdfs:label>少輔</rdfs:label>
+    <ns1:description>律令制で、諸省の次官(すけ)で、大輔(たいふ)の下に位するもの。しょうゆう。すないすけ。[補説]歴史的仮名遣いは「せうふ」の音変化した「せふ」とする説もある。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/日本の官制"/>
+    <ns1:description>日本の官制（にほんのかんせい）では、日本の前近代､とくに律令制期の廃止された統治機構について概観する。なお近代の官制は近代日本の官制を､現在の官制については日本の国家機関を参照。</ns1:description>
+    <ns1:name>日本の官制</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/宮内大輔.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/宮内省"/>
+    <rdfs:label>宮内大輔</rdfs:label>
+    <ns1:name>宮内省</ns1:name>
+    <ns1:description>宮内省（くないしょう）は、1947年（昭和22年）まで日本に存在した官庁名。古代のものと近代のものがあり、近代のものが1949年（昭和24年）以降の宮内庁の前身となる。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左衛門少尉.json">
+    <ns1:name>左衛門尉</ns1:name>
+    <rdfs:label>左衛門少尉</rdfs:label>
+    <ns1:description>左衛門尉（さえもんのじょう）とは、日本の律令制下の官職のひとつ。左衛門府の判官であり、六位相当の官職であった。五位の者が任ぜられた場合、左衛門大夫または大夫尉という他、検非違使と兼ねた場合には廷尉と俗称された。平家追討において活躍した源義経も任ぜられている。鎌倉時代以降、官職としては有名無実化したが、武士の任官が広くなされるようになるにつれ、左衛門尉などの武官の職は武士から広く好まれるようになり、鎌倉～江戸期を通じて多くの武将たちが任ぜられるか、受領名として使用されるようになっていった。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/左衛門尉"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/中将.json">
+    <rdfs:label>中将</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/中将"/>
+    <ns1:description>中将（ちゅうじょう、ちゅうしょう）は、もともとは律令制における官職の一つ。転じて軍隊の階級の一。将官に区分され、大将の下、少将の上に位置する。英呼称は、陸軍が lieutenant general（ルーテネント・ジェネラル）、海軍が vice admiral（バイス・アドミラル）。また、通常スペイン語でGeneral de divisiónは少将とされているが、中南米では中将位とする国もある。近衛中将。律令制における左右の近衛府の次官。官位相当は従四位下。正三位や従三位の者が在任している場合、三位中将と称された。蔵人頭を兼ねた場合、頭中将と称した。陸軍では主に軍司令官、軍団長等（准将が無い陸軍では師団長）を務める。位階は正四位に相当した。海軍では主に艦隊の司令長官、戦隊司令官等を務める。位階は陸軍同様、正四位に相当した。空軍では主に航空軍司令官等を務める。また、准将を置かずに「上級大将・大将・中将・少将」の将官4階級制を採る軍隊においては「大将」が一般的な中将に相当するとされる（上級大将参照）。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/中将"/>
+    <ns1:description>１ 軍人の階級の一。将官の第二位で、大将の下、少将の上。２ 律令制で、近衛府(このえふ)の次官。少将の上で、少将とともに次将または介(すけ)ともいう。従四位下相当官だが、三位で任ぜられることも多い。蔵人頭(くろうどのとう)を兼ねる者を頭の中将という。３ 能面の一。色白で、黛(まゆずみ)をつけた貴公子の面。在原業平(ありわらのなりひら)（在五中将）を模したものという。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右近衛中将.json">
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <ns1:name>近衛府</ns1:name>
+    <ns1:description>令外(りょうげ)の官。右近衛府の次官。従四位下相当。右近中将(うこんのちゅうじょう)。右中将(うちゅうじょう)。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右近衛中将"/>
+    <rdfs:label>右近衛中将</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左衛門督.json">
+    <ns1:description>左衛門府の長官。正五位上相当。左金吾。</ns1:description>
+    <ns1:name>衛門府</ns1:name>
+    <ns1:description>衛門府（えもんふ）とは、律令制における官司。当初は1つであったが、大同3年（808年）に（左右）衛士府と統合されて一旦廃止され、弘仁3年（811年）に左右衛士府の改称に伴って復置された際、左衛門府と右衛門府の2つが置かれた。和訓にて「ゆげひのつかさ」と呼び、「靫負」という漢字をあてる場合がある。唐名は金吾。監門。監府。長は衛門督 （後に左衛門督・右衛門督）である。「柏木」は王朝和歌における衛門府、衛門督の雅称である。※当初、（左右）衛士府、（左右）兵衛府とあわせて「五衛府」と呼ばれ、復置後は（左右）近衛府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。ここでは便宜上、衛士府統合以前を「前期」、衛士府の改称による復置以後を「後期」と表記する。</ns1:description>
+    <rdfs:label>左衛門督</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左衛門督"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/衛門府"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/頭中将.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/頭中将"/>
+    <ns1:description>近衛中将で、蔵人頭(くろうどのとう)を兼ねた人。源氏物語の登場人物。左大臣の長男。雲井の雁・柏木・玉鬘(たまかずら)などの父。光源氏と親友で、太政大臣に至る。</ns1:description>
+    <rdfs:label>頭中将</rdfs:label>
+    <ns1:description>頭中将（とうのちゅうじょう）は、日本の律令制における公家官職の呼称の一つ。位階が四位の殿上人で、蔵人頭（蔵人所の実質的な責任者）と近衛中将（近衛府の次官）を兼任した者に対する通称。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/頭中将"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/筑前守.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/筑前国"/>
+    <ns1:description>筑前国（ちくぜんのくに）は、かつて日本の地方行政区分だった令制国の一つ。西海道に属する。</ns1:description>
+    <rdfs:label>筑前守</rdfs:label>
+    <ns1:name>筑前国</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大学少允.json">
+    <rdfs:label>大学少允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/権少僧都.json">
+    <ns1:name>僧綱</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/僧綱"/>
+    <ns1:description>僧綱（そうごう）とは日本における仏教の僧尼を管理するためにおかれた僧官の職である。</ns1:description>
+    <rdfs:label>権少僧都</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/兵部権大輔.json">
+    <ns1:name>兵部省</ns1:name>
+    <rdfs:label>兵部権大輔</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵部省"/>
+    <ns1:description>兵部省（ひょうぶしょう、つわもののつかさ）はかつて日本にあった軍政（国防）を司る行政機関。 律令制下の八省の一つ 明治時代の省庁の一つ</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左衛門.json">
+    <ns1:description>左衛門（さえもん）は、日本語の男性名。</ns1:description>
+    <rdfs:label>左衛門</rdfs:label>
+    <ns1:description>１ 「左衛門府」の略。⇔右衛門。２ 「土左衛門(どざえもん)」の略。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/左衛門"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左衛門"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右馬権頭.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/馬寮"/>
+    <ns1:description>馬寮（めりょう/うまのつかさ）は、律令制における官司の一つ。唐名では典厩（てんきゅう）。左馬寮（さめりょう/さまりょう）と右馬寮（うめりょう/うまりょう）に分かれていた。</ns1:description>
+    <ns1:name>馬寮</ns1:name>
+    <rdfs:label>右馬権頭</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/遠江守.json">
+    <ns1:description>遠江国（とおとうみのくに）は、かつて日本の地方行政区分だった令制国の一つ。東海道に属する。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/遠江国"/>
+    <rdfs:label>遠江守</rdfs:label>
+    <ns1:name>遠江国</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/長門守.json">
+    <ns1:name>長門国</ns1:name>
+    <ns1:description>長門国（ながとのくに）は、かつて日本の地方行政区分だった令制国の一つ。山陽道に属する。</ns1:description>
+    <rdfs:label>長門守</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/長門国"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/薩摩守.json">
+    <ns1:name>薩摩国司</ns1:name>
+    <ns1:description>１ 薩摩国の長官。特に、平忠度(たいらのただのり)をさすことが多い。２ 《「薩摩守忠度(ただのり)」を「ただ乗り」にもじって》乗り物に無賃で乗ること。また、その人。ただのり。「薩摩守を決め込む」狂言。神崎の渡し守は秀句好きと教えられた出家が、「平家の公達(きんだち)薩摩守忠度(ただのり)」という句でただ乗りを試みるが、肝心の「忠度」という部分を忘れて失敗する。</ns1:description>
+    <ns1:description>薩摩国司（さつまこくし）は、薩摩国の国司。薩摩守、薩摩介、薩摩大掾、薩摩少掾、薩摩大目、薩摩少目の各1人で構成される。</ns1:description>
+    <rdfs:label>薩摩守</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/薩摩守"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/薩摩国司"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/内蔵少允.json">
+    <rdfs:label>内蔵少允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/中務卿.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/中務省"/>
+    <ns1:description>中務省（なかつかさしょう）は、律令制における八省のひとつ。和名はナカノマツリゴトノツカサ。唐名は中書省など。「中」は禁中の意。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/中務卿"/>
+    <rdfs:label>中務卿</rdfs:label>
+    <ns1:description>中務省の長官。正四位上相当。平安時代以後、四品以上の親王が任命された。なかつかさのかみ。</ns1:description>
+    <ns1:name>中務省</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右京少進.json">
+    <ns1:name>京職</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/京職"/>
+    <ns1:description>京職（きょうしき）とは、日本の律令制において京（みやこ）の司法、行政、警察を行った行政機関である。古訓はミサトヅカサ。京は碁盤の目状に大路・小路が整備され（条坊制）、京内の東側を「左京（さきょう＝玉座より見て左）」、西側を「右京（うきょう＝玉座より見て右）」と呼び、「左京職（さきょうしき）」・「右京職（うきょうしき）」に分かれていた。なお、京職（きょうしょく）は京都所司代の別称。</ns1:description>
+    <rdfs:label>右京少進</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左近将監.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <ns1:name>近衛府</ns1:name>
+    <ns1:description>⇒                  左近衛将監さこんえのしようげん</ns1:description>
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左近将監"/>
+    <rdfs:label>左近将監</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大膳大夫.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/大膳大夫"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大膳職"/>
+    <ns1:description>大膳職の長官。だいぜんのかみ。</ns1:description>
+    <rdfs:label>大膳大夫</rdfs:label>
+    <ns1:name>大膳職</ns1:name>
+    <ns1:description>大膳職（だいぜんしき）は、日本の律令制において宮内省に属する官司。和訓は「おおかしわでのつかさ」。朝廷において臣下に対する饗膳を供する機関である。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/刑部少輔.json">
+    <ns1:description>刑部省（ぎょうぶしょう）は、古代日本の律令制下の八省の一つ、もしくは明治時代の省庁の一つ。</ns1:description>
+    <ns1:name>刑部省</ns1:name>
+    <rdfs:label>刑部少輔</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/刑部省"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大蔵少丞.json">
+    <rdfs:label>大蔵少丞</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/参議.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/参議"/>
+    <rdfs:label>参議</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/参議"/>
+    <ns1:description>参議（さんぎ）は、日本の朝廷組織の最高機関である太政官の官職の一つである。四等官の中の次官（すけ）に相当する令外官で、納言に次ぐ。唐名（漢風名称）は宰相・相公・平章事・諫議大夫。和訓はおほまつりことひと。宮中の政（朝政）に参議する（「参政朝議」）という意味で、朝政の議政官に位置する。</ns1:description>
+    <ns1:description>(1) 律令制のもとで設けられた朝廷の官職名。令外の官。その地位は大臣，納言の次に位する重要なもので参議以上が公卿と呼ばれた。大宝2 (702) 年5月に初見し，のち一時廃止されたが，弘仁1 (810) 年に再び設けられたとき，定員は8人と決められた。奈良時代権参議，准参議，法参議などがおかれたこともある。 (2) 明治政府は慶応4 (1868) 年閏4月に太政官制を復活し，翌明治2 (69) 年7月の職員令により左右大臣のもとに大納言，参議をおいた。同4年7月廃藩置県が行われると，参議は太政大臣，納言 (この納言は明治4〈1871〉年8月，左右大臣に改められた) とともに正院を構成し，大臣，納言を補佐して大政に参与し，天皇を補翼する重職となった。 1873年5月太政官職制の一部が改正されて，天皇輔弼の責に任じる者は太政大臣および左右大臣のみとなり，参議は国務国策の審議立案者として区別された。参議には西郷隆盛，木戸孝允，大久保利通，板垣退助，大隈重信など，事実上明治政府の実力者が任じられていた。この頃から参議が各省の卿を兼ねることとなっていたが，80年この慣例は廃止されて，参議をして国策の審議に専念させることとなった。 85年，内閣制度発足とともに廃止された。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/木工助.json">
+    <rdfs:label>木工助</rdfs:label>
+    <ns1:description>木工寮（もくりょう）は律令制において宮内省に属する機関。和名はコダクミノツカサ（古多久美乃豆加佐）。主に造営、および材木採集を掌り各職工を支配する役所である。</ns1:description>
+    <ns1:name>木工寮</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/木工寮"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大納言.json">
+    <ns1:description>(1) 律令制における太政官の官職の一つ。左・右大臣の次に位置し，大臣とともに政事にあずかり，大臣不在のときは，政務をとりしきった。天皇に近侍して，奏上，宣下のことをおもな職掌とした。『大宝令』では定員4人であったが，のち増減があった。大化改新後おかれた御史大夫 (ぎょしたいふ) が大納言の前名である。 (2) 明治2 (1869) 年7月8日職員令の制定により，太政官に設けられた官職。左・右大臣の下にあり，参議とともにその職を補佐し，可否を献替，宣旨を敷奏することを任とした。定員は3名，相当位は従二位。同4年7月 29日の官制改革の際大納言は廃され，正院に，太政大臣に次ぐ官職として「納言」という名称をとどめたが，それも同8月 10日の改革で左・右大臣と改められた。</ns1:description>
+    <rdfs:label>大納言</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大納言"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/大納言"/>
+    <ns1:description>大納言（だいなごん）は、太政官に置かれた官職のひとつ。太政官においては四等官の次官（すけ）に相当する。訓読みは「おほいものまうすのつかさ」。唐名は亜相または亜槐。丞相・槐門（いずれも大臣のこと）に次ぐ者であることからいう。官位相当は三品・四品または正三位。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左将監.json">
+    <rdfs:label>左将監</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主殿大允.json">
+    <rdfs:label>主殿大允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右中将.json">
+    <ns1:description>⇒                  右近衛中将うこんえのちゆうじよう</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <ns1:name>近衛府</ns1:name>
+    <rdfs:label>右中将</rdfs:label>
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右中将"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右宰相.json">
+    <rdfs:label>右宰相</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主殿頭.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/主殿寮"/>
+    <ns1:name>主殿寮</ns1:name>
+    <rdfs:label>主殿頭</rdfs:label>
+    <ns1:description>「とのもりづかさ（殿司・主殿寮・主殿署）」の長官。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/主殿頭"/>
+    <ns1:description>主殿寮（とのもりょう・しゅでんりょう・とのもづかさ・とのもりづかさ）は律令制において宮内省に属した機関。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右中弁.json">
+    <rdfs:label>右中弁</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/弁官"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右中弁"/>
+    <ns1:description>弁官（べんかん、辨官）は、朝廷の最高機関、太政官の職である左大弁（さだいべん）・右大弁（うだいべん）・左中弁（さちゅうべん）・右中弁（うちゅうべん）・左少弁（さしょうべん）・右少弁（うしょうべん）の総称である。唐名（漢風名称）は尚書。通説においては四等官の中の判官（じょう）に相当するが、異説として弁官を含めた弁官局を太政官の別局として捉え、元は本来の四等官の系列には含まない品官であったする説もある。また、『延喜式』においても、季禄・時服・馬料・要劇料などの給与の支給手続やそのために必要な上日の集計・考文の送付などが太政官とは別個に行われ、人事・財政体系における太政官からの独立性が確認できる。大弁は従四位上、中弁は正五位上相当、少弁は正五位下相当（養老令官位令）。官庁を指揮監督する役を負っていたため、後には少納言より高位に位置づけられ、参議と大弁を兼任する者もいた。また、蔵人頭と大弁または中弁を兼ねる者もおり、特に頭弁（とうのべん）と称された。左中弁以上の経験者には参議に昇進する資格があり（右中弁以下にはない）、将来三位以上に昇る道が開かれた出世の登竜門であった。</ns1:description>
+    <ns1:description>律令制で、太政官右弁官局の次官。みぎのなかのおおともい。→右弁官</ns1:description>
+    <ns1:name>弁官</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/弾正尹.json">
+    <ns1:description>弾正尹（だんじょうのかみあるいはだんじょういん）は、律令制度における弾正台の長官（かみ）である。従三位相当。職務として、非違の糾弾、弾劾を司る。二官八省から独立して検察を行う。太政大臣を除くすべての役人の不正を摘発するのが主な任務である。平安時代の9世紀初頭に令外官の検非違使が設置された後は、皇族に与えられる名誉職のようになり実権は余りなかったという。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/弾正尹"/>
+    <rdfs:label>弾正尹</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/釆女正.json">
+    <rdfs:label>釆女正</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/少舎人童.json">
+    <rdfs:label>少舎人童</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/内蔵権頭.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/内蔵寮"/>
+    <ns1:description>内蔵寮（くらりょう）は律令制において中務省に属した機関。和訓は「うちのくらのつかさ」。唐名は「倉」部。また、近代の宮内省に設置された内部部局の一つ。</ns1:description>
+    <rdfs:label>内蔵権頭</rdfs:label>
+    <ns1:name>内蔵寮</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/兵庫助.json">
+    <ns1:name>兵庫寮</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵庫寮"/>
+    <ns1:description>兵庫寮（ひょうごりょう）は、兵部省所管の兵庫（左右兵庫・内兵庫）の後身である軍事官司。和訓は「つわもののくらのつかさ」、唐名は武庫署。『日本書紀』朱鳥元年（686年）条において難波に置かれた兵庫職が見える。令制では、左右兵庫と内兵庫があり、前者には頭・助・大允・少允・大属・少属各1人及び使部20人・直丁2人。後者には正・佑・令史各1人などの職員があった。左右兵庫は元旦儀衛・蕃客宴会などの儀礼や戦闘で用いる儀仗・兵器を色別に棚に安置して、その出納・曝涼・修理などにあたった。兵庫寮の武器管理の責任は重く、儀仗・武器の出納には、勅を必要とするなど厳重な管理下に置かれていた。一方、内兵庫については不明な点も多く、天皇御料の武器を管理していたとする説や非常に備えて左右兵庫と同様の組織を置いたとする説などがある。その後、大同3年（806年）に官司の整理のために内兵庫が左右兵庫に分割・合併され、翌年に左右兵庫にそれぞれ史生2名が追加された。寛平8年9月7日（896年10月17日）、左右兵庫・造兵司・鼓吹司の4官司を統合して兵庫寮として、頭・助・大允・少允・大属・少属各1人、史生4人・使部12人などの職員を置いた。兵庫本来の任務としての朝廷における儀仗・武器の管理・出納に加えてもと造兵司所属の雑工戸や鼓吹司所属の鼓吹戸を管理し、造兵司が扱っていた儀仗・武器の製造や鼓吹司が扱っていた鼓吹の教習なども掌った。庁舎は安嘉門内西掖に置かれ、歴代の儀仗・武器などを収めるために多くの倉庫が併設されていたが、火災などで古来より伝わる秘蔵の儀仗・武器などが失われたことが問題にされたという。</ns1:description>
+    <rdfs:label>兵庫助</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/式部大丞.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/式部省"/>
+    <ns1:description>式部省（しきぶしょう）は、日本の律令制における八省のひとつ。和名は「のりのつかさ」。天平宝字2年（758年）から同8年（764年）の間のみ文部省（ぶんぶしょう）に改称された。大学寮・散位寮の二寮を管掌していた。</ns1:description>
+    <rdfs:label>式部大丞</rdfs:label>
+    <ns1:name>式部省</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/少舎人.json">
+    <rdfs:label>少舎人</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右兵衛少尉.json">
+    <ns1:description>兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵衛府"/>
+    <ns1:name>兵衛府</ns1:name>
+    <rdfs:label>右兵衛少尉</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/宰相.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/宰相"/>
+    <rdfs:label>宰相</rdfs:label>
+    <ns1:description>１ 総理大臣。首相。「一国の宰相」「平民宰相」２ 古く中国で、天子を補佐して政治を行った官。丞相(じょうしょう)。３ 参議の唐名。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/内膳正.json">
+    <rdfs:label>内膳正</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/弾正少弼.json">
+    <ns1:description>弾正台（だんじょうだい、彈正臺）は、律令制下の八省の一つ明治時代の省庁の一つ</ns1:description>
+    <rdfs:label>弾正少弼</rdfs:label>
+    <ns1:name>弾正台</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/弾正台"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/五位蔵人.json">
+    <ns1:description>五位蔵人（ごいのくろうど）は、律令制下の日本における官職（令外官）の一つ。蔵人所の次官で、蔵人頭の次位にあたる。定員は2～3名で、五位の殿上人の中から、家柄がよく学識才能のある者が特に選ばれた。五位蔵人という言葉が歴史上に出てくるのは、『職事補任』宇多院の項の分注に「仁和四年十一月廿七日、始置五位蔵人二人、止六位二人」とあり、源湛・藤原敏行の2名が五位蔵人に補任されたのが初見で、これ以後頻出している。これ以前にも五位蔵人は存在していたが、無位の蔵人もあり、蔵人8人の位階は必ずしも一定しなかった。当時は五位と六位の間に身分上明確な一線が引かれ、官人の行動や儀制面で大きな差があったため、蔵人を一括することが困難であったとともに、蔵人所の職掌も次第に分化し、身分の高低が密接に関係するようになった。このことが五位蔵人の設置と、それに伴う機構の整備を生んだ理由と考えられる。これ以後、五位蔵人が四位に、六位蔵人が五位に昇進した場合が、新しい位階のまま蔵人に留まることは許されず、位階と蔵人の職が不可分のものとなり、五位蔵人及び六位蔵人は官職名とみなされるようになった。</ns1:description>
+    <ns1:description>…また参議昇進にもきわめて有利であり，大変な名誉職とされたが，同時に劇職でもあり，家柄，能力ともに兼ね備えた者でなければ任命されなかった。五位蔵人は蔵人頭を補佐し，六位蔵人も諸公事から天皇の朝夕の御膳に至る殿上の諸事に奉仕する。定員は五位，六位含めて8名。…</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/五位蔵人"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/五位蔵人"/>
+    <rdfs:label>五位蔵人</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/掃部助.json">
+    <ns1:description>掃部寮（かもんりょう・かもんづかさ・かんもりのつかさ）は、律令制において宮内省に属する令外官。『倭名抄』ではかにもりのつかさとされる。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/掃部助"/>
+    <ns1:name>掃部寮</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/掃部寮"/>
+    <ns1:description>掃部寮の次官。</ns1:description>
+    <rdfs:label>掃部助</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右少将.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右少将"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <ns1:name>近衛府</ns1:name>
+    <ns1:description>⇒                  右近衛少将うこんえのしようしよう</ns1:description>
+    <rdfs:label>右少将</rdfs:label>
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/内蔵正.json">
+    <rdfs:label>内蔵正</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/民部大輔.json">
+    <rdfs:label>民部大輔</rdfs:label>
+    <ns1:name>民部省</ns1:name>
+    <ns1:description>民部省（みんぶしょう）は、律令制下の八省の一つ明治時代の省庁の一つ</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/民部省"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/美作守.json">
+    <ns1:name>美作国</ns1:name>
+    <ns1:description>美作国（みまさかのくに）は、かつて日本の地方行政区分だった令制国の一つ。山陽道に属する。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/美作国"/>
+    <rdfs:label>美作守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/講師.json">
+    <ns1:description>《古く、寺で説経をする僧をいった「講師(こうじ)」から出た語》１ 講演や講義をする人。「研修会の講師として招かれる」２ 大学・高等専門学校で、教授・准教授に準じる職務に従事する者。専任で常勤の者と、非常勤の者とがある。３ 小・中・高校で、非常勤で教諭の職務を助ける者。４ 専門学校・予備校・塾などで、講座を受け持つ人。</ns1:description>
+    <rdfs:label>講師</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/講師"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/内蔵佑.json">
+    <rdfs:label>内蔵佑</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左大弁.json">
+    <ns1:name>弁官</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左大弁"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/弁官"/>
+    <ns1:description>弁官（べんかん、辨官）は、朝廷の最高機関、太政官の職である左大弁（さだいべん）・右大弁（うだいべん）・左中弁（さちゅうべん）・右中弁（うちゅうべん）・左少弁（さしょうべん）・右少弁（うしょうべん）の総称である。唐名（漢風名称）は尚書。通説においては四等官の中の判官（じょう）に相当するが、異説として弁官を含めた弁官局を太政官の別局として捉え、元は本来の四等官の系列には含まない品官であったする説もある。また、『延喜式』においても、季禄・時服・馬料・要劇料などの給与の支給手続やそのために必要な上日の集計・考文の送付などが太政官とは別個に行われ、人事・財政体系における太政官からの独立性が確認できる。大弁は従四位上、中弁は正五位上相当、少弁は正五位下相当（養老令官位令）。官庁を指揮監督する役を負っていたため、後には少納言より高位に位置づけられ、参議と大弁を兼任する者もいた。また、蔵人頭と大弁または中弁を兼ねる者もおり、特に頭弁（とうのべん）と称された。左中弁以上の経験者には参議に昇進する資格があり（右中弁以下にはない）、将来三位以上に昇る道が開かれた出世の登竜門であった。</ns1:description>
+    <rdfs:label>左大弁</rdfs:label>
+    <ns1:description>左弁官の長官。従四位上相当。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/太宰少弐.json">
+    <rdfs:label>太宰少弐</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大宰府"/>
+    <ns1:name>大宰府</ns1:name>
+    <ns1:description>大宰府（だざいふ）は7世紀後半に、九州の筑前国に設置された地方行政機関。和名は「おほ みこともち の つかさ」とされる。多くの史書では太宰府とも記され、現在でも地元は太宰府「だざいふ」を使っている。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右馬頭.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右馬頭"/>
+    <ns1:description>右馬寮うまりようの長官。従五位上相当。みぎのうまのかみ。</ns1:description>
+    <rdfs:label>右馬頭</rdfs:label>
+    <ns1:name>馬寮</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/馬寮"/>
+    <ns1:description>馬寮（めりょう/うまのつかさ）は、律令制における官司の一つ。唐名では典厩（てんきゅう）。左馬寮（さめりょう/さまりょう）と右馬寮（うめりょう/うまりょう）に分かれていた。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/伊予守.json">
+    <rdfs:label>伊予守</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/伊予国"/>
+    <ns1:name>伊予国</ns1:name>
+    <ns1:description>伊予国（いよのくに）は、かつて日本の地方行政区分だった令制国の一つ。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/肥後守.json">
+    <ns1:description>１ 肥後の国司。２ 文房具の小刀(こがたな)の一種。7、8センチの両刃が鉄製の折りたたみ式の鞘(さや)に収められるもの。鞘は柄(え)を兼ね、ふつう「肥後守」などの銘がある。大正半ばから兵庫県で生産され、片刃の切り出し小刀に代わって、昭和前期にかけて流行した。廃刀令後、旧熊本藩の御用鍛冶が作りはじめたのが起源という。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/肥後守"/>
+    <ns1:description>肥後守（ひごのかみ）とは、日本で戦前から使われていた簡易折りたたみ式刃物（ナイフ）のこと。登録商標であり特定の製品の名称であるが、同形状のナイフの総称として呼称されることが多い（後述）。</ns1:description>
+    <rdfs:label>肥後守</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/肥後守"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/甲斐守.json">
+    <ns1:name>甲斐国</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/甲斐国"/>
+    <rdfs:label>甲斐守</rdfs:label>
+    <ns1:description>甲斐国（かいのくに）は、かつて日本の地方行政区分だった令制国の一つ。東海道に属する。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/飛騨守.json">
+    <rdfs:label>飛騨守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/内匠頭.json">
+    <rdfs:label>内匠頭</rdfs:label>
+    <ns1:name>内匠寮</ns1:name>
+    <ns1:description>内匠寮たくみりようの長官。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/内匠寮"/>
+    <ns1:description>内匠寮（ないしょうりょう）は、律令制において中務省に属する令外官の一つである。訓読みは「たくみりょう」・「うちたくみのつかさ」など。また、近代の宮内省に設置された内部部局の一つ。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/内匠頭"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/紀伊守.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/紀伊国"/>
+    <ns1:description>紀伊国（きいのくに）は、かつて日本の地方行政区分だった令制国の一つ。南海道に属する。</ns1:description>
+    <rdfs:label>紀伊守</rdfs:label>
+    <ns1:name>紀伊国</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/中納言.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/中納言"/>
+    <ns1:description>中納言（ちゅうなごん）は、太政官に置かれた令外官のひとつ。太政官においては四等官の次官（すけ）に相当する。訓読みは「すけのものまうすつかさ」あるいは「なかのものまうすつかさ」。</ns1:description>
+    <ns1:description>律令制時代の令外官 (りょうげのかん) の一つで『大宝律令』制定後，増置された職事官。慶雲2 (705) 年大納言 4人を2人とし，中納言3人をおいた。令制太政官の大納言の下に位置し，職掌は大納言と同じで，天下の政事にあずかったが，大臣不在のときその職務を代行することはできない。人数も次第に増し，一時は8人と定められたが一定しなかった。『大宝律令』以前にも設置されたことがあり，『日本書紀』持統天皇6年の条に初見する。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/中納言"/>
+    <rdfs:label>中納言</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/北政所.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/北政所"/>
+    <ns1:description>摂政関白(せっしょうかんぱく)の妻の尊称であるが、狭義には豊臣(とよとみ)秀吉の正室おね（1548―1624）をいう。尾張(おわり)（愛知県）の人。杉原定利の女(むすめ)で浅野長勝の養女。1561年（永禄4）14歳で秀吉と結婚。88年（天正16）4月19日従(じゅ)一位に上る。糟糠(そうこう)の妻として内助の功あり、秀吉生母にもよく孝養を尽くした。秀吉の死後落飾して高台院(こうだいいん)と号す。1606年（慶長11）京都東山に高台寺を建て、秀吉の菩提(ぼだい)を弔った。徳川氏より化粧料として河内(かわち)（大阪府）に1万3000石を支給された。［橋本政宣］</ns1:description>
+    <ns1:description>北政所（きたの まんどころ）は、平安時代の三位以上の公卿の正室の呼び名。また後に、宣旨をもって特に授けられた摂政・関白の正室の称号。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/北政所"/>
+    <rdfs:label>北政所</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/西市佑.json">
+    <rdfs:label>西市佑</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左衛門尉.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/左衛門尉"/>
+    <rdfs:label>左衛門尉</rdfs:label>
+    <ns1:description>左衛門尉（さえもんのじょう）とは、日本の律令制下の官職のひとつ。左衛門府の判官であり、六位相当の官職であった。五位の者が任ぜられた場合、左衛門大夫または大夫尉という他、検非違使と兼ねた場合には廷尉と俗称された。平家追討において活躍した源義経も任ぜられている。鎌倉時代以降、官職としては有名無実化したが、武士の任官が広くなされるようになるにつれ、左衛門尉などの武官の職は武士から広く好まれるようになり、鎌倉～江戸期を通じて多くの武将たちが任ぜられるか、受領名として使用されるようになっていった。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/内蔵頭.json">
+    <ns1:description>内蔵寮くらりようの長官。</ns1:description>
+    <ns1:name>内蔵寮</ns1:name>
+    <ns1:description>内蔵寮（くらりょう）は律令制において中務省に属した機関。和訓は「うちのくらのつかさ」。唐名は「倉」部。また、近代の宮内省に設置された内部部局の一つ。</ns1:description>
+    <rdfs:label>内蔵頭</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/内蔵頭"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/内蔵寮"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左兵衛大尉.json">
+    <rdfs:label>左兵衛大尉</rdfs:label>
+    <ns1:description>兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。</ns1:description>
+    <ns1:name>兵衛府</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵衛府"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右京兆.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右京兆"/>
+    <rdfs:label>右京兆</rdfs:label>
+    <ns1:description>〘名〙 右京職(うきょうしき)、右京大夫の唐名。〔吾妻鏡‐承久二年（1220）五月二〇日〕</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右少弁.json">
+    <ns1:name>弁官</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右少弁"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/弁官"/>
+    <ns1:description>弁官（べんかん、辨官）は、朝廷の最高機関、太政官の職である左大弁（さだいべん）・右大弁（うだいべん）・左中弁（さちゅうべん）・右中弁（うちゅうべん）・左少弁（さしょうべん）・右少弁（うしょうべん）の総称である。唐名（漢風名称）は尚書。通説においては四等官の中の判官（じょう）に相当するが、異説として弁官を含めた弁官局を太政官の別局として捉え、元は本来の四等官の系列には含まない品官であったする説もある。また、『延喜式』においても、季禄・時服・馬料・要劇料などの給与の支給手続やそのために必要な上日の集計・考文の送付などが太政官とは別個に行われ、人事・財政体系における太政官からの独立性が確認できる。大弁は従四位上、中弁は正五位上相当、少弁は正五位下相当（養老令官位令）。官庁を指揮監督する役を負っていたため、後には少納言より高位に位置づけられ、参議と大弁を兼任する者もいた。また、蔵人頭と大弁または中弁を兼ねる者もおり、特に頭弁（とうのべん）と称された。左中弁以上の経験者には参議に昇進する資格があり（右中弁以下にはない）、将来三位以上に昇る道が開かれた出世の登竜門であった。</ns1:description>
+    <rdfs:label>右少弁</rdfs:label>
+    <ns1:description>右弁官の判官。正五位下相当。                →                  弁官</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/対馬守.json">
+    <rdfs:label>対馬守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左衛門佐.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/衛門府"/>
+    <ns1:description>衛門府（えもんふ）とは、律令制における官司。当初は1つであったが、大同3年（808年）に（左右）衛士府と統合されて一旦廃止され、弘仁3年（811年）に左右衛士府の改称に伴って復置された際、左衛門府と右衛門府の2つが置かれた。和訓にて「ゆげひのつかさ」と呼び、「靫負」という漢字をあてる場合がある。唐名は金吾。監門。監府。長は衛門督 （後に左衛門督・右衛門督）である。「柏木」は王朝和歌における衛門府、衛門督の雅称である。※当初、（左右）衛士府、（左右）兵衛府とあわせて「五衛府」と呼ばれ、復置後は（左右）近衛府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。ここでは便宜上、衛士府統合以前を「前期」、衛士府の改称による復置以後を「後期」と表記する。</ns1:description>
+    <ns1:name>衛門府</ns1:name>
+    <rdfs:label>左衛門佐</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/判官代.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/院司"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/判官代"/>
+    <ns1:description>院司（いんし、いんのつかさ）は、日本の中世・古代において、上皇や女院の直属機関として設置された院庁の職員。中流貴族が任命されることが多く、他の官職と兼任する兼官だった。平安時代後期に院政が開始すると、上皇の政務機関である院庁の院司は、政治の枢要を担う重要職とされた。本項では、院政の院司について詳述する。</ns1:description>
+    <ns1:name>院司</ns1:name>
+    <ns1:description>１ 院の庁に仕えた事務官。五位・六位の者を任じた。２ 平安時代以降、国衙(こくが)領・荘園の現地にあって、土地の管理や年貢の徴収などをつかさどった職。</ns1:description>
+    <rdfs:label>判官代</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/能登守.json">
+    <rdfs:label>能登守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/中務少丞.json">
+    <ns1:name>中務省</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/中務省"/>
+    <ns1:description>中務省（なかつかさしょう）は、律令制における八省のひとつ。和名はナカノマツリゴトノツカサ。唐名は中書省など。「中」は禁中の意。</ns1:description>
+    <rdfs:label>中務少丞</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/帯刀先生.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/帯刀先生"/>
+    <ns1:description>帯刀② の長。</ns1:description>
+    <rdfs:label>帯刀先生</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/修理亮.json">
+    <ns1:name>修理職</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/修理職"/>
+    <rdfs:label>修理亮</rdfs:label>
+    <ns1:description>修理職（しゅりしき、すりしき）は平安時代に設置された令外官。和名は「をさめ（おさめ）つくるつかさ」。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/少将.json">
+    <ns1:description>少将（しょうしょう）はもともとは律令制における官職の一つ。転じて軍隊の階級の一。将官に区分され、中将の下、大佐または准将または代将の上に位置する。北大西洋条約機構の階級符号（NATO階級符号）では、OF-7に相当する。将官のなかでは、最下級、又は准将がある場合には下から2番目の階級となる。英呼称は、陸軍：major general（メイジャー ジェネラル）、海軍：rear admiral（リア アドミラル）。また、通常スペイン語でGeneral de brigadaは准将とされているが、中南米では少将位とする国もあり、その下に准将位として Brigadier等を置く国もある。陸軍では主に師団長（准将が無い陸軍では旅団長・団長）、陸軍省各局長等を務める。海軍では主に小規模な艦隊や戦隊の司令官、海軍省各局長等を務める。空軍では主に航空団司令官等を務める。海軍少将以上は、軍艦に乗艦すると将官旗を掲げる。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/少将"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/少将"/>
+    <ns1:description>１ 軍人の階級の一。将官の最下位。中将の下、大佐の上。２ 律令制で、左右近衛府(このえふ)の次官(すけ)で、中将の下の位。すないすけ。</ns1:description>
+    <rdfs:label>少将</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左少史.json">
+    <ns1:description>史（し）とは、日本律令制において神祇官・太政官（弁官局）に設置された大史・少史の総称。四等官の4番目である主典（さかん）に相当する。官位相当は神祇官の大史は正八位下、同少史は従八位上であるのに対して、太政官の大史は正六位上、同少史は正七位上とそれよりも高く位置づけられている。定員は神祇官は大少各1名（全2名）、太政官は左右弁官局に大少各2名（全8名）。古くから文筆を掌る官を「史（ふひと/ふみひと）」と呼び、この職に就いた渡来人系の氏族に対して史の姓が授けられる事があった。律令制においては、上級者の命令を受けて公文書の記録・作成を掌り、公文書の内容を吟味して上級者の判断を仰ぎ、読申することを職掌とした。太政官の史は、弁官が率いる弁官局に属しており、同局が左右に分かれていることから、左大史・右大史・左少史・左少史に各2名合わせて8名存在することから八史（はちし）とも呼ばれた。後に弁官局の大史から五位の位階（大夫）に昇るものが現れるようになり、これを特に大夫史（史大夫）と呼んだ。小槻奉親が五位の左大史に就任して以後、小槻氏（壬生家・大宮家）は代々にわたって大史上席（官務）を務めたため、「官務家」と称され、太政官の記録・文書の伝領保存の任にあたるようになる。史は、六位蔵人・式部丞・民部丞・外記・近衛将監・衛門尉などと同様に正月の叙位で叙爵枠があり、毎年、上﨟者（在職年数の長い者）1名が従五位下に叙された（巡爵）。史8名のうち五位左大史（大夫史）1名が別格で、六位の史は左大史1人、右大史2人、左少史2人、右少史2人の計7人であるため、右少史に任じられた者は左少史・右大史を経て左大史に昇進し、史を計七年間務めて叙爵されることになる。六位蔵人・式部丞・民部丞・外記・検非違使衛門尉などから叙爵した者と同様に史から五位に叙された者は受領に任じられる資格があり、叙爵後一定の待機期間の後、受領に任じられた。左大史の辞令（口宣案）の例 　「長興宿禰記」上卿　中御門中納言文明十八年七月十二日　宣旨從五位上小槻時元宜任左大史藏人頭左中辨藤原元長奉（訓読文）上卿　中御門中納言（中御門宣胤　45歳　従二位権中納言） 文明18年（1486年）7月12日　宣旨 　従五位上小槻時元（大宮時元　18歳） 宜しく左大史に任ずべし、蔵人頭左中辨藤原元長（甘露寺元長　31歳　正四位上）奉（うけたまは）る</ns1:description>
+    <rdfs:label>左少史</rdfs:label>
+    <ns1:name>史_(律令制)</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/史_(律令制)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/兵庫頭.json">
+    <ns1:name>兵庫寮</ns1:name>
+    <ns1:description>兵庫寮（ひょうごりょう）は、兵部省所管の兵庫（左右兵庫・内兵庫）の後身である軍事官司。和訓は「つわもののくらのつかさ」、唐名は武庫署。『日本書紀』朱鳥元年（686年）条において難波に置かれた兵庫職が見える。令制では、左右兵庫と内兵庫があり、前者には頭・助・大允・少允・大属・少属各1人及び使部20人・直丁2人。後者には正・佑・令史各1人などの職員があった。左右兵庫は元旦儀衛・蕃客宴会などの儀礼や戦闘で用いる儀仗・兵器を色別に棚に安置して、その出納・曝涼・修理などにあたった。兵庫寮の武器管理の責任は重く、儀仗・武器の出納には、勅を必要とするなど厳重な管理下に置かれていた。一方、内兵庫については不明な点も多く、天皇御料の武器を管理していたとする説や非常に備えて左右兵庫と同様の組織を置いたとする説などがある。その後、大同3年（806年）に官司の整理のために内兵庫が左右兵庫に分割・合併され、翌年に左右兵庫にそれぞれ史生2名が追加された。寛平8年9月7日（896年10月17日）、左右兵庫・造兵司・鼓吹司の4官司を統合して兵庫寮として、頭・助・大允・少允・大属・少属各1人、史生4人・使部12人などの職員を置いた。兵庫本来の任務としての朝廷における儀仗・武器の管理・出納に加えてもと造兵司所属の雑工戸や鼓吹司所属の鼓吹戸を管理し、造兵司が扱っていた儀仗・武器の製造や鼓吹司が扱っていた鼓吹の教習なども掌った。庁舎は安嘉門内西掖に置かれ、歴代の儀仗・武器などを収めるために多くの倉庫が併設されていたが、火災などで古来より伝わる秘蔵の儀仗・武器などが失われたことが問題にされたという。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵庫寮"/>
+    <rdfs:label>兵庫頭</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/太宰大弐.json">
+    <ns1:description>大宰府（だざいふ）は7世紀後半に、九州の筑前国に設置された地方行政機関。和名は「おほ みこともち の つかさ」とされる。多くの史書では太宰府とも記され、現在でも地元は太宰府「だざいふ」を使っている。</ns1:description>
+    <rdfs:label>太宰大弐</rdfs:label>
+    <ns1:name>大宰府</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大宰府"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/兵庫大記.json">
+    <rdfs:label>兵庫大記</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大膳亮.json">
+    <rdfs:label>大膳亮</rdfs:label>
+    <ns1:description>大膳職（だいぜんしき）は、日本の律令制において宮内省に属する官司。和訓は「おおかしわでのつかさ」。朝廷において臣下に対する饗膳を供する機関である。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大膳職"/>
+    <ns1:name>大膳職</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右将.json">
+    <ns1:description>右将（うしょう）は、将棋の駒の一つ。本将棋にはなく、大大将棋・泰将棋・大局将棋に存在する。</ns1:description>
+    <rdfs:label>右将</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/右将"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/正親正.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/正親司"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/正親正"/>
+    <ns1:description>正親司（おおきみのつかさ）は日本古代の律令制において宮内省に属する機関の一つである。「おおきんだちのつかさ」とも。</ns1:description>
+    <rdfs:label>正親正</rdfs:label>
+    <ns1:name>正親司</ns1:name>
+    <ns1:description>〘名〙 正親司(おおきみのつかさ)の長官。正六位上相当の官。〔令義解（718）〕</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/玄蕃助.json">
+    <rdfs:label>玄蕃助</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/陰陽頭.json">
+    <rdfs:label>陰陽頭</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/陰陽頭"/>
+    <ns1:description>陰陽寮の長官。うらのかみ。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/東市正.json">
+    <rdfs:label>東市正</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/市司"/>
+    <ns1:name>市司</ns1:name>
+    <ns1:description>市司（いちのつかさ）は律令制において京職に属する機関。都の東西の市それぞれに設置され、東市司（ひがしのいちのつかさ）は左京職に西市司（にしのいちのつかさ）は右京職に属していた。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左近衛大将.json">
+    <ns1:name>近衛大将</ns1:name>
+    <ns1:description>近衛大将（このえ の だいしょう）は、日本の律令官制における令外官の一つ。宮中の警固などを司る左右の近衛府の長官。左近衛府には左近衛大将（さこんえのだいしょう）、右近衛府には右近衛大将（うこんえのだいしょう）が置かれ、それぞれ略して「左大将」「右大将」ともいう。定員は各1名で、権官はない。官位相当は従三位。常設武官の最高職で、馬御監の兼任とされた。和訓は「ちかきまもりのつかさのかみ」。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左近衛大将"/>
+    <ns1:description>令外(りょうげ)の官。左近衛府の長官。従三位相当。左近大将(さこんのだいしょう)。左大将(さだいしょう)。</ns1:description>
+    <rdfs:label>左近衛大将</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛大将"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/別当.json">
+    <ns1:description>別当（べっとう）は、本来、律令制において本官を持つ者が他の官司の職務全体を統括・監督する地位に就いた時に補任される地位。後に官司の長官一般を指すようになり、このことから転じて、以下のような複数の意味を持つ。</ns1:description>
+    <ns1:description>もと職号。本官のほか，別にその職にあたることの意。検非違使 (けびいし) 別当，蔵人 (くろうど) 所別当はその代表的なもので，特に別当とだけいえば検非違使別当をさすことが多い。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/別当"/>
+    <rdfs:label>別当</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/別当"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/宮司.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/宮司"/>
+    <ns1:description>宮司（ぐうじ、みやづかさ）とは神職や巫女をまとめる神社の長（おさ）である神職の職階（職名・職称）である。</ns1:description>
+    <rdfs:label>宮司</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/宮司"/>
+    <ns1:description>官幣社，国幣社の最高の神職。一般神社の主管者。古くは神社の造営，収税などを司ったが，のちに祭祀を司るようになった。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/民部少丞.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/民部省"/>
+    <ns1:name>民部省</ns1:name>
+    <ns1:description>民部省（みんぶしょう）は、律令制下の八省の一つ明治時代の省庁の一つ</ns1:description>
+    <rdfs:label>民部少丞</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主殿少允.json">
+    <rdfs:label>主殿少允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左近.json">
+    <rdfs:label>左近</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左近"/>
+    <ns1:description>１ 「左近衛府(さこんえふ)」の略。⇔右近。２ 「左近の桜」の略。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/関白.json">
+    <ns1:description>一の人，摂 籙 (せつろく) ，執柄 (しっぺい) ，博陸 (はくろく) などともいう。天皇を補佐して，天下の政を行う職。令外官で，元慶8 (884) 年光孝天皇のとき，一切の奏文は太政大臣藤原基経にまず上申し，その指示に従うべしとの詔が出されたのに始る。仁和3 (887) 年宇多天皇の詔に関白という言葉がみえ，基経が関白職の初任となった。天皇幼少時の摂政と並んで，成人後の天皇を補佐した関白は，もっぱら藤原氏がなり，特に道長の子孫が独占して権力を握り，いわゆる摂関政治を出現させた。中世に入ってからはその子孫近衛，鷹司，九条，一条，二条の五摂家が交代で就任し，明治にいたった。藤原氏以外の関白は豊臣秀吉，同秀次の2人である。なお，前関白を太閤，前関白が出家したものを禅閤といった。</ns1:description>
+    <rdfs:label>関白</rdfs:label>
+    <ns1:description>関白（かんぱく）とは、天皇の代わりに政治を行う職である。律令に本来規定された官ではない令外官であり、実質的に公家の最高位であった。敬称は殿下。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/関白"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/関白"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左近衛権少将.json">
+    <rdfs:label>左近衛権少将</rdfs:label>
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <ns1:name>近衛府</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右近.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右近"/>
+    <rdfs:label>右近</rdfs:label>
+    <ns1:description>１ 「右近衛府(うこんえふ)」の略。⇔左近。２ 「右近の橘(たちばな)」の略。[補説]曲名別項。→右近</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主殿首.json">
+    <rdfs:label>主殿首</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左近衛少将.json">
+    <rdfs:label>左近衛少将</rdfs:label>
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左近衛少将"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <ns1:name>近衛府</ns1:name>
+    <ns1:description>令外(りょうげ)の官。左近衛府の次官。正五位下相当。左近少将(さこんのしょうしょう)。左少将(さしょうしょう)。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/神主.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/神主"/>
+    <rdfs:label>神主</rdfs:label>
+    <ns1:description>神社に奉仕して、神事に従うことを業としている人。神官。神職。また、その長。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/修理権大夫.json">
+    <ns1:name>修理職</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/修理職"/>
+    <ns1:description>修理職（しゅりしき、すりしき）は平安時代に設置された令外官。和名は「をさめ（おさめ）つくるつかさ」。</ns1:description>
+    <rdfs:label>修理権大夫</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/侍従.json">
+    <ns1:description>侍従（じじゅう）とは、広義では（しばしば高貴な立場の）ある人物に付き従い、身の回りの世話などをする行為、または従う者そのものを指す。日本においては、特に天皇に側近奉仕する文官や位を意味するため、この項目ではこれについて解説する。なお、武官による侍従武官や皇太子に付される東宮侍従については、それぞれ項目を参照のこと。</ns1:description>
+    <ns1:description>(1) 律令制における中務省所属の官人。天皇に近侍してその職務を補った。「おもとひと」ともいう。唐名は拾遺。『大宝令』では8人であったが，11世紀中頃から増員されて 20人程度になった。そのうち3人は少納言を兼帯し，従五位下のものが任命された。その詰所を侍従局といい，侍衛の官であったため帯剣が許された。そのほかに8省から功労ある四，五位の者が選ばれ御前の雑事を司る次侍従，即位，元日朝賀に侍従として伺候する三，四位の擬侍従などがあった。 (2) 明治2 (1869) 年宮内省におかれた職。 (3) 宮内庁侍従職の職員。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/侍従"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/侍従"/>
+    <rdfs:label>侍従</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/朝臣.json">
+    <ns1:description>朝臣（あそみ、あそん）は、684年（天武天皇13年）に制定された八色の姓の制度で新たに作られた姓（カバネ）で、上から二番目に相当する。一番上の真人（まひと）は、主に皇族に与えられたため、皇族以外の臣下の中では事実上一番上の地位にあたる。読みは「あそみ」が古い。古くは阿曽美、旦臣とも書いた。この朝臣が作られた背景には、従来の臣（おみ）、連（むらじ）、首（おびと）、直（あたい）などの姓の上位に位置する姓を作ることで、姓に優劣、待遇の差をつけ、天皇への忠誠の厚い氏（うじ）を優遇し、皇室への権力掌握をはかったと思われる。日本書紀には、684年（天武天皇13年）11月1日に初めて朝臣を賜った52氏として、大三輪氏、大春日氏、阿倍氏、巨瀬氏、膳氏、紀氏、波多氏、物部氏、平群氏、雀部氏、中臣氏、大宅氏、粟田氏、石川氏、桜井氏、采女氏、田中氏、小墾田氏、穂積氏、山背氏、鴨氏、小野氏、川辺氏、櫟井氏、柿本氏、軽部氏、若桜部氏、岸田氏、高向氏、宍人氏、来目氏、犬上氏、上毛野氏、角氏、星川氏、多氏、胸方氏、車持氏、綾氏、下道氏、伊賀氏、阿閉氏、林氏、波弥氏、下毛野氏、佐味氏、道守氏、大野氏、坂本氏、池田氏、玉手氏、笠氏が記されている。朝臣は、主に壬申の乱で功績の有った主に臣の姓を持つ氏族（古い時代に皇室から分かれたものが多い）に優先的に与えられた。その次に位置する主に連の姓を持つ氏族には宿禰の姓を与えていた。しかしながら、その後も朝廷に功績が有った氏族には朝臣の姓を下賜していき、奈良時代にはほとんどの氏が朝臣の姓を持つようになった。さらに時代が下ると、大半の貴族や武士は藤原朝臣、源朝臣、平朝臣などの子孫で占められてしまい、また、武家台頭による下級貴族の没落もあり、朝臣は、序列付けの為の姓としての意味を失ってしまい、公式文書で使う形式的なものになっていった。平安時代以降、公卿（三位以上及び参議）は、氏の下に朝臣、諱の下に公（大臣）ないし卿という敬称を以って称した。四位以下の者は氏、諱の下に姓をつけて呼称した。氏ではなく諱の下に朝臣とつけた者は特に名乗り朝臣という。 例　足利内大臣正二位源朝臣義政公（足利義政） 例　細川右京大夫従四位下源勝元朝臣（細川勝元）</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/朝臣"/>
+    <ns1:description>「あそみ」ともいう。古代の姓 (かばね) の一つ。八色 (やくさ) の姓 (684制定) の第2位。皇別氏族の有力者に与えられたが，のちには有力氏族がこれを称した。平安時代には最高の姓となった。やがて単に身分を表わす言葉となり，特別の由緒ある氏以外は，すべて朝臣を称するようになった。</ns1:description>
+    <rdfs:label>朝臣</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/朝臣"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/土佐守.json">
+    <ns1:description>土佐国（とさのくに）は、かつて日本の地方行政区分だった令制国の一つ。南海道に属する。</ns1:description>
+    <rdfs:label>土佐守</rdfs:label>
+    <ns1:name>土佐国</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/土佐国"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/織部佑.json">
+    <rdfs:label>織部佑</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主税大允.json">
+    <rdfs:label>主税大允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右兵衛督.json">
+    <rdfs:label>右兵衛督</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵衛府"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右兵衛督"/>
+    <ns1:name>兵衛府</ns1:name>
+    <ns1:description>兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。</ns1:description>
+    <ns1:description>右兵衛府の長官。従五位上相当。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/淡路守.json">
+    <rdfs:label>淡路守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右衛門佐.json">
+    <rdfs:label>右衛門佐</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主工首.json">
+    <rdfs:label>主工首</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/権中納言.json">
+    <ns1:name>権の中納言</ns1:name>
+    <ns1:name>中納言</ns1:name>
+    <ns1:description>中納言の権官。定員外の中納言。権黄門。※大和（947‐957頃）八一「季縄(すゑなは)の少将のむすめ右近、故后(きさい)の宮にさぶらひけるころ、故権中納言の君おはしける」</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/中納言"/>
+    <ns1:description>中納言（ちゅうなごん）は、太政官に置かれた令外官のひとつ。太政官においては四等官の次官（すけ）に相当する。訓読みは「すけのものまうすつかさ」あるいは「なかのものまうすつかさ」。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/権の中納言-2040918"/>
+    <rdfs:label>権中納言</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右近将監.json">
+    <ns1:name>近衛府</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <ns1:description>⇒                  右近衛将監うこんえのしようげん</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右近将監"/>
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+    <rdfs:label>右近将監</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左少弁.json">
+    <ns1:description>左弁官の判官。正五位下相当。                →                  弁官</ns1:description>
+    <ns1:name>弁官</ns1:name>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左少弁"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/弁官"/>
+    <rdfs:label>左少弁</rdfs:label>
+    <ns1:description>弁官（べんかん、辨官）は、朝廷の最高機関、太政官の職である左大弁（さだいべん）・右大弁（うだいべん）・左中弁（さちゅうべん）・右中弁（うちゅうべん）・左少弁（さしょうべん）・右少弁（うしょうべん）の総称である。唐名（漢風名称）は尚書。通説においては四等官の中の判官（じょう）に相当するが、異説として弁官を含めた弁官局を太政官の別局として捉え、元は本来の四等官の系列には含まない品官であったする説もある。また、『延喜式』においても、季禄・時服・馬料・要劇料などの給与の支給手続やそのために必要な上日の集計・考文の送付などが太政官とは別個に行われ、人事・財政体系における太政官からの独立性が確認できる。大弁は従四位上、中弁は正五位上相当、少弁は正五位下相当（養老令官位令）。官庁を指揮監督する役を負っていたため、後には少納言より高位に位置づけられ、参議と大弁を兼任する者もいた。また、蔵人頭と大弁または中弁を兼ねる者もおり、特に頭弁（とうのべん）と称された。左中弁以上の経験者には参議に昇進する資格があり（右中弁以下にはない）、将来三位以上に昇る道が開かれた出世の登竜門であった。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/奉膳.json">
+    <ns1:description>…供御（くご）(天皇に供する物)の食事や皇后の食事の調理をつかさどる(供膳は後宮職の膳司がつかさどる)。職員は奉膳（ぶうぜん）(長官)2人，典膳（てんぜん）(判官)6人，令史(主典)1人，膳部(伴部)40人など。飛鳥浄御原令以前から存在した膳職が，大宝令により官人等の食事をつかさどる大膳職（だいぜんしき）と，内膳司に分立した。…</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/奉膳"/>
+    <rdfs:label>奉膳</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右京権大夫.json">
+    <ns1:name>京職</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/京職"/>
+    <ns1:description>京職（きょうしき）とは、日本の律令制において京（みやこ）の司法、行政、警察を行った行政機関である。古訓はミサトヅカサ。京は碁盤の目状に大路・小路が整備され（条坊制）、京内の東側を「左京（さきょう＝玉座より見て左）」、西側を「右京（うきょう＝玉座より見て右）」と呼び、「左京職（さきょうしき）」・「右京職（うきょうしき）」に分かれていた。なお、京職（きょうしょく）は京都所司代の別称。</ns1:description>
+    <rdfs:label>右京権大夫</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/勅使.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/勅使"/>
+    <ns1:description>勅使（ちょくし）とは、天皇・皇帝・王など国の元首が出す使者のこと。上皇の使者は院使（いんし）、皇后の使者は皇后宮使（こうごうぐうし）、中宮の使者は中宮使（ちゅうぐうし）、皇太后の使者は皇太后宮使（こうたいごうぐうし）、女院の使者は女院使（にょいんし）と呼ばれる。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/勅使"/>
+    <rdfs:label>勅使</rdfs:label>
+    <ns1:description>天皇の意思を直接に伝えるために派遣される使い。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主蔵正.json">
+    <rdfs:label>主蔵正</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/太宰帥.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大宰帥"/>
+    <rdfs:label>太宰帥</rdfs:label>
+    <ns1:description>大宰帥（だざいのそち／だざいのそつ）は、大宰府の長官。唐名は都督。律令制においては西海道の9国2島を管轄し、九州における外交・防衛の責任者となった。次官は大宰権帥（だざいのごんのそち）及び大宰大弐（だざいのだいに）である。</ns1:description>
+    <ns1:name>大宰帥</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/治部大丞.json">
+    <ns1:description>治部省（じぶしょう）は律令制における八省のうちのひとつ。和名は「おさむるつかさ」。</ns1:description>
+    <rdfs:label>治部大丞</rdfs:label>
+    <ns1:name>治部省</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/治部省"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/伯耆守.json">
+    <rdfs:label>伯耆守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主計少允.json">
+    <ns1:description>主計寮（しゅけいりょう）は律令制において民部省に属した機関。訓はかずえのつかさなど。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/主計寮"/>
+    <rdfs:label>主計少允</rdfs:label>
+    <ns1:name>主計寮</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/縫殿大允.json">
+    <rdfs:label>縫殿大允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/内蔵大允.json">
+    <rdfs:label>内蔵大允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/少納言.json">
+    <rdfs:label>少納言</rdfs:label>
+    <ns1:description>令制における太政官の判官。詔勅宣下のことを司り，駅鈴，内印 (天皇御璽) ，外印 (太政官印) の出納を取扱った。定員3人で侍従を兼任した。弘仁1 (810) 年蔵人所が設置されると主要な職務はそれに移り職権は弱まった。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/少納言"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/少納言"/>
+    <ns1:description>少納言（しょうなごん）は、日本の朝廷の最高機関である太政官の職の一つ。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/宮内少輔.json">
+    <rdfs:label>宮内少輔</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/宮内省"/>
+    <ns1:name>宮内省</ns1:name>
+    <ns1:description>宮内省（くないしょう）は、1947年（昭和22年）まで日本に存在した官庁名。古代のものと近代のものがあり、近代のものが1949年（昭和24年）以降の宮内庁の前身となる。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大炊少允.json">
+    <rdfs:label>大炊少允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右方.json">
+    <ns1:description>１ 右のほう。⇔左方。２ 「右方の楽(がく)」および「右方の舞(まい)」の略。</ns1:description>
+    <rdfs:label>右方</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/右方"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/信濃守.json">
+    <ns1:description>信濃国（しなののくに）は、かつて日本の地方行政区分だった令制国の一つ。東山道に属する。『万葉集』での枕詞は「水薦苅（みこもかる ）」。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/信濃国"/>
+    <rdfs:label>信濃守</rdfs:label>
+    <ns1:name>信濃国</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/雅楽頭.json">
+    <ns1:description>雅楽寮（うたりょう）は、律令制において治部省に属する機関である。『和名抄』ではうたまいのつかさとされている。</ns1:description>
+    <ns1:name>雅楽寮</ns1:name>
+    <ns1:description>雅楽寮の長官。従五位上相当。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/雅楽寮"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/雅楽頭"/>
+    <rdfs:label>雅楽頭</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/六位蔵人.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/六位蔵人"/>
+    <ns1:description>…また参議昇進にもきわめて有利であり，大変な名誉職とされたが，同時に劇職でもあり，家柄，能力ともに兼ね備えた者でなければ任命されなかった。五位蔵人は蔵人頭を補佐し，六位蔵人も諸公事から天皇の朝夕の御膳に至る殿上の諸事に奉仕する。定員は五位，六位含めて8名。…</ns1:description>
+    <ns1:description>六位蔵人（ろくいのくろうど）とは、令外官の役職で、蔵人所の官吏。五位蔵人の次位にあたる。定員はおおよそ4名から6名。天皇の膳の給仕等、秘書的役割を果たした。毎日出仕して働く下級役人であることから日下﨟（ひげろう）とも呼ばれた。六位の者が補任されるが、昇殿が許される殿上人となり、麹塵袍の着用が許されるなど、天皇の側近として名誉な職とされた。任官資格順位としては「公卿の子弟の非蔵人（蔵人の見習）」、「非蔵人」、「執柄勾当（摂家の家来）」、「院蔵人」　「雑色」、「儒生の修了者（明法道などの難試験に合格した者）」、「判官代」の順である。任官に年齢制限はなく、就任した順に「新蔵人」（しんくろうど）、「氏蔵人」（うじくろうど）、「差次」（さしつぎ）、「極﨟」（ごくろう）という席次があった。六位蔵人は式部丞・民部丞・外記・史・近衛将監・衛門尉などと同様に毎年正月の叙位で叙爵枠があり、上﨟者（在職年数の長い者）は従五位下に叙される慣例となっていた（巡爵）。この際、通常五位蔵人に転じることはなく蔵人を辞職し地下人になる。こういう人を蔵人五位（くろうどのごい）と呼んだ。なお、殿上人から退くことをよしとしない者はあえて叙爵を受けず、六位に留まり、改めて末席の「新蔵人」となる「鷁退（逆退とも。げきたい）」という慣例が生まれた。式部丞・民部丞・外記・史・検非違使衛門尉などから叙爵した者と同様に六位蔵人から五位に叙された者は受領に任じられる資格があり、叙爵後一定の待機期間の後、受領に任じられた。そのため、六位出身者にとって六位蔵人は重要な出世コースであった。中世以降、五位蔵人は次第に名家と呼ばれる堂上家が経る職となり六位蔵人が五位蔵人となることはなくなっていったため、「鷁退」か五位の地下人になるかいずれかを選ばなければならなくなった。さらに時代が下ると六位蔵人を経たものが公卿に至ることもなくなり、近世では『地下家伝』に記載されるなど、殿上人でありながら堂上家ではなく、あくまで地下人の中での上級層とみなされていた。近世では禁色勅許はもちろん、地下人であっても堂上家同様に鉄漿をつけることができた。禁色は五位になって地下人に降りれば使用できないが、鉄漿のほうは一生つけることができたという。</ns1:description>
+    <rdfs:label>六位蔵人</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/六位蔵人"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左兵衛佐.json">
+    <ns1:description>兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。</ns1:description>
+    <rdfs:label>左兵衛佐</rdfs:label>
+    <ns1:description>左兵衛府の次官。正六位下相当。</ns1:description>
+    <ns1:name>兵衛府</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵衛府"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/左兵衛佐"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/内蔵助.json">
+    <ns1:name>内蔵寮</ns1:name>
+    <ns1:description>内蔵寮くらりようの次官。</ns1:description>
+    <ns1:description>内蔵寮（くらりょう）は律令制において中務省に属した機関。和訓は「うちのくらのつかさ」。唐名は「倉」部。また、近代の宮内省に設置された内部部局の一つ。</ns1:description>
+    <rdfs:label>内蔵助</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/内蔵助"/>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/内蔵寮"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左兵衛少尉.json">
+    <rdfs:label>左兵衛少尉</rdfs:label>
+    <ns1:description>兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/兵衛府"/>
+    <ns1:name>兵衛府</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左近大夫将監.json">
+    <rdfs:label>左近大夫将監</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大舎人少允.json">
+    <rdfs:label>大舎人少允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/頭大夫.json">
+    <rdfs:label>頭大夫</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/伊勢守.json">
+    <rdfs:label>伊勢守</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/伊勢国"/>
+    <ns1:description>伊勢国（いせのくに）は、かつて日本の地方行政区分だった令制国の一つ。東海道に属する。</ns1:description>
+    <ns1:name>伊勢国</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/刑部権少輔.json">
+    <rdfs:label>刑部権少輔</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/豊後守.json">
+    <rdfs:label>豊後守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右近衛権少将.json">
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/近衛府"/>
+    <rdfs:label>右近衛権少将</rdfs:label>
+    <ns1:name>近衛府</ns1:name>
+    <ns1:description>近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大膳大進.json">
+    <rdfs:label>大膳大進</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/雅楽助.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/雅楽助"/>
+    <ns1:description>雅楽寮の次官。正六位下相当。</ns1:description>
+    <rdfs:label>雅楽助</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/式部少輔.json">
+    <ns1:name>式部省</ns1:name>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/式部省"/>
+    <rdfs:label>式部少輔</rdfs:label>
+    <ns1:description>式部省（しきぶしょう）は、日本の律令制における八省のひとつ。和名は「のりのつかさ」。天平宝字2年（758年）から同8年（764年）の間のみ文部省（ぶんぶしょう）に改称された。大学寮・散位寮の二寮を管掌していた。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/造酒佑.json">
+    <rdfs:label>造酒佑</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/典膳.json">
+    <ns1:description>１ 律令制で、内膳司(ないぜんし)の次官。２ 後宮十二司の膳司(かしわでのつかさ)の次官。</ns1:description>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/典膳"/>
+    <rdfs:label>典膳</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/法眼和尚位.json">
+    <rdfs:label>法眼和尚位</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左宰相.json">
+    <rdfs:label>左宰相</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/播磨守.json">
+    <ns1:description>播磨国（はりまのくに）は、かつて日本の地方行政区分だった令制国の一つ。山陽道に属する。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/播磨国"/>
+    <ns1:name>播磨国</ns1:name>
+    <rdfs:label>播磨守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大夫.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/大夫"/>
+    <ns1:description>もと中国古代の官位名。その後広く有位高官の者をいった。日本では，律令制下，中宮職，春宮 (とうぐう) 職，その他の各職の長官名をいい，「だいぶ」と呼んだ。また一位以下，五位以上の有位者を総じて大夫といったが，のち五位だけに用い，「たいふ」「たゆう」と呼んだ。</ns1:description>
+    <rdfs:label>大夫</rdfs:label>
+    <ns1:description>大夫（たいふ／だいぶ／たゆう）とは、ほんらい古代中国における身分呼称のひとつ。日本では太夫（たゆう）とも表記し、人物の呼称として色々な意味を持つようになった。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/大夫"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/出羽介.json">
+    <rdfs:label>出羽介</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/隼人佑.json">
+    <rdfs:label>隼人佑</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左京少進.json">
+    <rdfs:label>左京少進</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/勾勘.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/勾勘"/>
+    <ns1:description>〘名〙 勘解由使(かげゆし)の唐名。※本朝続文粋（1142‐55頃）五・参議某辞参議并勘解由長官状〈藤原明衡〉「伏冀 玄鑒。曲照二丹祈一。停二此参議勾勘之官一。授二其賢哲良才之輩一」</ns1:description>
+    <rdfs:label>勾勘</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/刑部卿.json">
+    <rdfs:label>刑部卿</rdfs:label>
+    <ns1:description>刑部省（ぎょうぶしょう）は、古代日本の律令制下の八省の一つ、もしくは明治時代の省庁の一つ。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/刑部省"/>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/刑部卿"/>
+    <ns1:name>刑部省</ns1:name>
+    <ns1:description>刑部省の長官。正四位下に相当。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/因幡守.json">
+    <ns1:name>因幡国</ns1:name>
+    <rdfs:label>因幡守</rdfs:label>
+    <ns1:description>因幡国（いなばのくに）は、かつて日本の地方行政区分だった令制国の一つ。山陰道に属する。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/因幡国"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/縫殿頭.json">
+    <rdfs:label>縫殿頭</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大炊大允.json">
+    <rdfs:label>大炊大允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/霜臺.json">
+    <rdfs:label>霜臺</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/内膳佑.json">
+    <rdfs:label>内膳佑</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右馬大記.json">
+    <rdfs:label>右馬大記</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/左京権大夫.json">
+    <ns1:description>京職（きょうしき）とは、日本の律令制において京（みやこ）の司法、行政、警察を行った行政機関である。古訓はミサトヅカサ。京は碁盤の目状に大路・小路が整備され（条坊制）、京内の東側を「左京（さきょう＝玉座より見て左）」、西側を「右京（うきょう＝玉座より見て右）」と呼び、「左京職（さきょうしき）」・「右京職（うきょうしき）」に分かれていた。なお、京職（きょうしょく）は京都所司代の別称。</ns1:description>
+    <ns1:name>京職</ns1:name>
+    <rdfs:label>左京権大夫</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/京職"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/権大進.json">
+    <rdfs:label>権大進</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/安芸守.json">
+    <rdfs:label>安芸守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大学大允.json">
+    <rdfs:label>大学大允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/尾張守.json">
+    <rdfs:label>尾張守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右馬少允.json">
+    <rdfs:label>右馬少允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大舎人助.json">
+    <rdfs:label>大舎人助</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/民部卿.json">
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/民部卿"/>
+    <rdfs:label>民部卿</rdfs:label>
+    <ns1:description>民部省の長官。たみのつかさのかみ。</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/越後守.json">
+    <rdfs:label>越後守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主税助.json">
+    <rdfs:label>主税助</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大膳少進.json">
+    <rdfs:label>大膳少進</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/図書大允.json">
+    <rdfs:label>図書大允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/右近大夫将監.json">
+    <rdfs:label>右近大夫将監</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/木工大允.json">
+    <rdfs:label>木工大允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/玄蕃大允.json">
+    <rdfs:label>玄蕃大允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/石見守.json">
+    <rdfs:label>石見守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/下州.json">
+    <rdfs:label>下州</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/式部少丞.json">
+    <rdfs:label>式部少丞</rdfs:label>
+    <ns1:name>式部省</ns1:name>
+    <ns1:description>式部省（しきぶしょう）は、日本の律令制における八省のひとつ。和名は「のりのつかさ」。天平宝字2年（758年）から同8年（764年）の間のみ文部省（ぶんぶしょう）に改称された。大学寮・散位寮の二寮を管掌していた。</ns1:description>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/式部省"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/弾正大忠.json">
+    <rdfs:label>弾正大忠</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/中宮権大進.json">
+    <ns1:description>中宮職（ちゅうぐうしき）は、律令制において中務省に属して后妃に関わる事務などを扱う役所。元来は、全ての后妃の世話を行うために設置されたが後には皇后と中宮､皇太后などとの並立によりそれぞれに太皇太后宮職、皇太后宮職、皇后宮職と専属の職が置かれる。</ns1:description>
+    <ns1:name>中宮職</ns1:name>
+    <rdfs:label>中宮権大進</rdfs:label>
+    <ns2:sameAs rdf:resource="http://ja.wikipedia.org/wiki/中宮職"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/越中守.json">
+    <rdfs:label>越中守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/内匠助.json">
+    <rdfs:label>内匠助</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/修理大進.json">
+    <rdfs:label>修理大進</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/修理左宮城使.json">
+    <rdfs:label>修理左宮城使</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/大隅守.json">
+    <rdfs:label>大隅守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/掃部少允.json">
+    <rdfs:label>掃部少允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主税少允.json">
+    <rdfs:label>主税少允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/雅楽少允.json">
+    <rdfs:label>雅楽少允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/隠岐守.json">
+    <rdfs:label>隠岐守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/筑後守.json">
+    <rdfs:label>筑後守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/弾上大弼.json">
+    <rdfs:label>弾上大弼</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/下総守.json">
+    <rdfs:label>下総守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/日向守.json">
+    <rdfs:label>日向守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/佐渡守.json">
+    <rdfs:label>佐渡守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/出雲守.json">
+    <rdfs:label>出雲守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/図書少允.json">
+    <rdfs:label>図書少允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/掃部大允.json">
+    <rdfs:label>掃部大允</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/伊豆守.json">
+    <rdfs:label>伊豆守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/従儀師.json">
+    <ns1:description>⇒                  従威儀師じゆういぎし</ns1:description>
+    <rdfs:label>従儀師</rdfs:label>
+    <ns2:sameAs rdf:resource="https://kotobank.jp/word/従儀師"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/志摩守.json">
+    <rdfs:label>志摩守</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/主馬首.json">
+    <rdfs:label>主馬首</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/term/kani/玄蕃少允.json">
+    <rdfs:label>玄蕃少允</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

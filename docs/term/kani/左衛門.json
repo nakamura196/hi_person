@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/左衛門.json",
+    "http://schema.org/description": [
+      {
+        "@value": "１ 「左衛門府」の略。⇔右衛門。２ 「土左衛門(どざえもん)」の略。"
+      },
+      {
+        "@value": "左衛門（さえもん）は、日本語の男性名。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "左衛門"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/左衛門"
+      },
+      {
+        "@id": "https://kotobank.jp/word/左衛門"
+      }
+    ]
+  }
+]

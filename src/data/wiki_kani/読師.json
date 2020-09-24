@@ -1,0 +1,145 @@
+{
+    "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/読師_(カトリック教会)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/読師_(仏教)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/読師_(歌)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ドクシ_-読師-"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1508551
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "347"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "15"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 37932887
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正教会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/コミックバーズ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/短冊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2009年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/誦経者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/カトリック教会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/読師_(カトリック教会)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ドクシ_-読師-"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/維摩会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/読師_(仏教)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/読師_(歌)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国分寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/懐紙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/樋口大輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Aimai"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "読師"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11631634"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11631634"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/読師?oldid=37932887"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/読師"
+        }
+    ]
+}

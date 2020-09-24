@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/勾勘.json",
+    "http://schema.org/description": [
+      {
+        "@value": "〘名〙 勘解由使(かげゆし)の唐名。※本朝続文粋（1142‐55頃）五・参議某辞参議并勘解由長官状〈藤原明衡〉「伏冀 玄鑒。曲照二丹祈一。停二此参議勾勘之官一。授二其賢哲良才之輩一」"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "勾勘"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/勾勘"
+      }
+    ]
+  }
+]

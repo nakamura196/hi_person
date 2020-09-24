@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/常陸介.json",
+    "http://schema.org/description": [
+      {
+        "@value": "常陸国司（ひたちこくし）は、常陸国の国司のことで、常陸守、常陸介、常陸大掾、常陸少掾、常陸大目、常陸少目の各1人で構成された。常陸国は、上総国・上野国とともに、天長3年（826年）以降、親王が国守を務める親王任国となり、この場合の常陸守を特に常陸太守と称した。親王任国となった当初から親王太守は現地へ赴任しない遙任だったため、国司の実務上の最高位は常陸介であった。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "常陸国司"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "常陸介"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/常陸国司"
+      }
+    ]
+  }
+]

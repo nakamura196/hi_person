@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/大膳大夫.json",
+    "http://schema.org/description": [
+      {
+        "@value": "大膳職（だいぜんしき）は、日本の律令制において宮内省に属する官司。和訓は「おおかしわでのつかさ」。朝廷において臣下に対する饗膳を供する機関である。"
+      },
+      {
+        "@value": "大膳職の長官。だいぜんのかみ。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "大膳職"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大膳大夫"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/大膳職"
+      },
+      {
+        "@id": "https://kotobank.jp/word/大膳大夫"
+      }
+    ]
+  }
+]

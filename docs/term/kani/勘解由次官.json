@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/勘解由次官.json",
+    "http://schema.org/description": [
+      {
+        "@value": "勘解由使（かげゆし）は、日本の律令制下の令外官の一つ。平安時代初期、地方行政を監査するために設置された。その後、監査の対象は内官（京都の各官職）へと拡大した。勘解由使の官庁である勘解由使庁は、太政官の北西、中務省の南に位置した。和名は「とくるよしかんがふるのつかさ」。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "勘解由使"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "勘解由次官"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/勘解由使"
+      }
+    ]
+  }
+]

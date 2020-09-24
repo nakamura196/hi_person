@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/治部大輔.json",
+    "http://schema.org/description": [
+      {
+        "@value": "〘名〙 ＝じぶ（治部）の大輔(たいふ)※万葉（８Ｃ後）二〇・四五〇〇・左注「右一首治部大輔市原王」"
+      },
+      {
+        "@value": "治部省（じぶしょう）は律令制における八省のうちのひとつ。和名は「おさむるつかさ」。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "治部省"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "治部大輔"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/治部大輔"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/治部省"
+      }
+    ]
+  }
+]

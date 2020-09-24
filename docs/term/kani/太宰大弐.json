@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/太宰大弐.json",
+    "http://schema.org/description": [
+      {
+        "@value": "大宰府（だざいふ）は7世紀後半に、九州の筑前国に設置された地方行政機関。和名は「おほ みこともち の つかさ」とされる。多くの史書では太宰府とも記され、現在でも地元は太宰府「だざいふ」を使っている。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "大宰府"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "太宰大弐"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/大宰府"
+      }
+    ]
+  }
+]

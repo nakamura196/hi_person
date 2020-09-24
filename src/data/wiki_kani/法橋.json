@@ -1,0 +1,207 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "僧位（そうい）とは日本において僧侶に対し与えられた位階のことである。以前から僧位らしいものはあったが760年（天平宝字4年）大法師位のもとに伝法位と修行位がおかれ伝灯位と修行位とにそれぞれ法師位、満位、住位、入位の4種の位階が置かれた。864年（貞観6年）には僧綱に対応する僧位として僧正に法印大和尚位（略して法印ともいう）、僧都に法眼和上位（略して法眼ともいう）、律師に法橋上人位（略して法橋ともいう）が与えられた。平安時代後期以降は定朝が叙されたのを皮切りに、仏師や絵仏師、連歌師などにも与えられるようになった。近世になると絵師が任命される例が増え、武士の入道、儒者、医師などにも及んだ。絵師の中では、御用絵師だけでなく民間絵師も叙任されたが、その手続きは面倒であった。門跡寺院を窓口としてしかるべき旗本などの名義を借り師匠などに保証人を頼んだ上で町奉行に願書を提出し許可を得た後、寺院に再度申請を差し出し評定にかけられ武家伝奏を介して叙任の宣旨が下された。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 598464
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "1831"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "27"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 53940559
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/僧侶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武家伝奏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仏師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/旗本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/僧階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/絵仏師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/連歌師"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天平宝字"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞観_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/町奉行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の僧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保証人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/760年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/門跡寺院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/儒者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:仏教の称号・役職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/僧綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/定朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宣旨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/864年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/僧正"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Smaller"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:仏教の称号・役職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の僧"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "僧位（そうい）とは日本において僧侶に対し与えられた位階のことである。以前から僧位らしいものはあったが760年（天平宝字4年）大法師位のもとに伝法位と修行位がおかれ伝灯位と修行位とにそれぞれ法師位、満位、住位、入位の4種の位階が置かれた。864年（貞観6年）には僧綱に対応する僧位として僧正に法印大和尚位（略して法印ともいう）、僧都に法眼和上位（略して法眼ともいう）、律師に法橋上人位（略して法橋ともいう）が与えられた。平安時代後期以降は定朝が叙されたのを皮切りに、仏師や絵仏師、連歌師などにも与えられるようになった。近世になると絵師が任命される例が増え、武士の入道、儒者、医師などにも及んだ。絵師の中では、御用絵師だけでなく民間絵師も叙任されたが、その手続きは面倒であった。門跡寺院を窓口としてしかるべき旗本などの名義を借り師匠などに保証人を頼んだ上で町奉行に願書を提出し許可を得た後、寺院に再度申請を差し出し評定にかけられ武家伝奏を介して叙任の宣旨が下された。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "僧位"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11387611"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11387611"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/僧位?oldid=53940559"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/僧位"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/兵部権大輔.json",
+    "http://schema.org/description": [
+      {
+        "@value": "兵部省（ひょうぶしょう、つわもののつかさ）はかつて日本にあった軍政（国防）を司る行政機関。 律令制下の八省の一つ 明治時代の省庁の一つ"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "兵部省"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "兵部権大輔"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/兵部省"
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/左近将監.json",
+    "http://schema.org/description": [
+      {
+        "@value": "近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。"
+      },
+      {
+        "@value": "⇒                  左近衛将監さこんえのしようげん"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "近衛府"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "左近将監"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/左近将監"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/近衛府"
+      }
+    ]
+  }
+]

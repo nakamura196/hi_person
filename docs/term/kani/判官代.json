@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/判官代.json",
+    "http://schema.org/description": [
+      {
+        "@value": "１ 院の庁に仕えた事務官。五位・六位の者を任じた。２ 平安時代以降、国衙(こくが)領・荘園の現地にあって、土地の管理や年貢の徴収などをつかさどった職。"
+      },
+      {
+        "@value": "院司（いんし、いんのつかさ）は、日本の中世・古代において、上皇や女院の直属機関として設置された院庁の職員。中流貴族が任命されることが多く、他の官職と兼任する兼官だった。平安時代後期に院政が開始すると、上皇の政務機関である院庁の院司は、政治の枢要を担う重要職とされた。本項では、院政の院司について詳述する。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "院司"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "判官代"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/判官代"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/院司"
+      }
+    ]
+  }
+]

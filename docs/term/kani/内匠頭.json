@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/内匠頭.json",
+    "http://schema.org/description": [
+      {
+        "@value": "内匠寮（ないしょうりょう）は、律令制において中務省に属する令外官の一つである。訓読みは「たくみりょう」・「うちたくみのつかさ」など。また、近代の宮内省に設置された内部部局の一つ。"
+      },
+      {
+        "@value": "内匠寮たくみりようの長官。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "内匠寮"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "内匠頭"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/内匠寮"
+      },
+      {
+        "@id": "https://kotobank.jp/word/内匠頭"
+      }
+    ]
+  }
+]

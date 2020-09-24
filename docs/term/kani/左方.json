@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/左方.json",
+    "http://schema.org/description": [
+      {
+        "@value": "雅楽の舞楽のうち，中国系統のもの。右方に対する。舞人は紅色を基調とした装束をつけ，伴奏音楽には唐楽(とうがく)を用いる。→関連項目雅楽｜還城楽"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "左方"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/左方"
+      }
+    ]
+  }
+]

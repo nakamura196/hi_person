@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/kani/正親正.json",
+    "http://schema.org/description": [
+      {
+        "@value": "〘名〙 正親司(おおきみのつかさ)の長官。正六位上相当の官。〔令義解（718）〕"
+      },
+      {
+        "@value": "正親司（おおきみのつかさ）は日本古代の律令制において宮内省に属する機関の一つである。「おおきんだちのつかさ」とも。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "正親司"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "正親正"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/正親司"
+      },
+      {
+        "@id": "https://kotobank.jp/word/正親正"
+      }
+    ]
+  }
+]
