@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原兼雅.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 兼雅（ふじわら の かねまさ）は、平安時代末期から鎌倉時代初期にかけての公卿。従一位左大臣。後花山院左大臣と号す。花山院太政大臣藤原忠雅の長男。"
+      },
+      {
+        "@value": "1148－1200　平安後期-鎌倉時代の公卿(くぎょう)。久安4年生まれ。花山院忠雅の長男。母は藤原家成の娘。仁安(にんあん)3年権(ごんの)中納言となる。内大臣,右大臣をへて建久9年(1198)従一位,左大臣にすすんだ。正治(しょうじ)2年7月16日(一説に18日)死去。53歳。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "花山院兼雅"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原兼雅"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/花山院兼雅-1064957"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原兼雅"
+      }
+    ]
+  }
+]

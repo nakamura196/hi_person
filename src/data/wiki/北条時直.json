@@ -1,0 +1,512 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "北条 時直（ほうじょう ときなお）は、鎌倉時代中期から末期の北条氏の一門で武将。北条実時の子。長門探題。"
+        }
+    ],
+    "http://dbpedia.org/ontology/alias": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "相模五郎（通称）"
+        }
+    ],
+    "http://dbpedia.org/ontology/child": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条上野四郎"
+        }
+    ],
+    "http://dbpedia.org/ontology/parent": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条実時"
+        }
+    ],
+    "http://dbpedia.org/ontology/sibling": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条実村"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 2099856
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "1759"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "61"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 54380102
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/周防国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少弐貞経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安田元久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六波羅探題"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊予国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条上野四郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/守邦親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1246年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上野介"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/瀬戸内海"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/遠江国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/守護"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1237年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥井雅有"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/祝安親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長門探題"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1251年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎮西評定衆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/得能通綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎮西探題"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条長頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条氏_(金沢流)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長門国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条実時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新人物往来社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/忽那重清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土居通増"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後醍醐天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1295年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1297年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元弘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1317年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条篤時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1333年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元亨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1323年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条実政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正慶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:北条氏_(金沢流)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条実村"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条顕時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1333年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/式部大輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大隅国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉禎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:生年不明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長井宗秀"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_武士"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/守邦親王"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥井雅有"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条長頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条実政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条顕時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条篤時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長井宗秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条実村"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "相模五郎（通称）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条上野四郎"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "式部大輔、遠江守、上野介"
+        }
+    ],
+    "http://ja.dbpedia.org/property/幕府": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "鎌倉幕府大隅・周防・長門守護、長門探題"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "元弘3年/正慶2年（1333年）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "北条 時直/金沢 時直"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条氏_(金沢流)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：北条実時、母：未詳"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "不詳"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:生年不明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:北条氏_(金沢流)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1333年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の武士"
+        }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q215627"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5"
+        },
+        {
+            "type": "uri",
+            "value": "http://schema.org/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/MilitaryPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "北条 時直（ほうじょう ときなお）は、鎌倉時代中期から末期の北条氏の一門で武将。北条実時の子。長門探題。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "北条時直"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11402127"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11402127"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/北条時直?oldid=54380102"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/北条時直"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "北条 時直/金沢 時直"
+        }
+    ]
+}

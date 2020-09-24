@@ -1,0 +1,670 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 朝光 （ふじわら の あさてる /あさみつ）は、平安時代中期の公卿。関白太政大臣・藤原兼通の四男（三男とも）。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 548587
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2776"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "131"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 53951497
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永延"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/講談社学術文庫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原正光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永祚_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:951年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/拾遺和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/馬内侍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原姚子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:995年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅撰和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/酒"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原時光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崩御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月20日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/即位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源重信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原道兼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原道隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/応和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源延光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/矢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月22日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/按察使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞元_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/951年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原光昭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:天然痘で死亡した人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/972年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/973年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/974年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/975年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外戚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原北家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/963年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原済時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/986年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/989年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/990年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石英"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原兼通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原兼家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/977年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原敦忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原相任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原相経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原親光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/984年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原遠光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/享年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原婉子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原用光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/995年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原相中"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原顕光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天延"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/円融天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原こう子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原伊周"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代中期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/重明親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛大将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永観"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花山天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天禄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/有明親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保坂弘司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原登朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:九条流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/叙爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小大君"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉川弘文館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天然痘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原朝経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛和"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原時光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原親光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原遠光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原婉子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原用光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原光昭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原正光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原顕光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原こう子"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "閑院左大将"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "継室：藤原敦忠の娘"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "正室：重明親王の娘"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原登朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原朝経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原姚子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原相中"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原相任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原相経"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛大将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--03-20"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原朝光"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原北家九条流"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "母：昭子女王（有明親王の娘）"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：藤原兼通"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "天暦5年（951年）"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代中期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:995年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:951年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:天然痘で死亡した人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:九条流"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 朝光 （ふじわら の あさてる /あさみつ）は、平安時代中期の公卿。関白太政大臣・藤原兼通の四男（三男とも）。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原朝光"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11623339"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11623339"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原朝光?oldid=53951497"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原朝光"
+        }
+    ]
+}

@@ -1,0 +1,357 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 光家（ふじわら の みついえ、元暦元年（1184年） - 没年不詳）は、鎌倉時代初期の公家・歌人。初名は定継のち清家（正治元年改名）。法号は浄照房。藤原北家御子左流、権中納言・藤原定家の長男。官位は従五位上・侍従。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1783106
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "1715"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "70"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 55048551
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1213年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1215年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天福_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1211年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:御子左流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1202年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅撰和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/青史出版"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1225年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嫡男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条良通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1233年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条教家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1218年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺実宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1184年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条良経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条道家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和歌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:13世紀没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原定家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御子左家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御子左流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉禄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/法号"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公事"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条良輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原為家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/五味文彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺公経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明月記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/再婚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉川弘文館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昇殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加賀国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原北家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/村山修一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/慈円"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九州"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇佐使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1184年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/離婚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原季能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/あき子内親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/猶子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六条藤家"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1184年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:13世紀没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:御子左流"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 光家（ふじわら の みついえ、元暦元年（1184年） - 没年不詳）は、鎌倉時代初期の公家・歌人。初名は定継のち清家（正治元年改名）。法号は浄照房。藤原北家御子左流、権中納言・藤原定家の長男。官位は従五位上・侍従。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原光家"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11623065"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11623065"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原光家?oldid=55048551"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原光家"
+        }
+    ]
+}

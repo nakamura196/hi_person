@@ -1,0 +1,157 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 宗子（ふじわら の そうし/むねこ）平安時代末期の女性。権大納言藤原宗通の娘。関白藤原忠通の正室。皇嘉門院聖子の生母。平安時代末期の女性。藤原宗兼の娘。平忠盛の正室。重仁親王乳母。…池禅尼を参照。平安時代末期の女性。藤原隆宗の娘。堀河天皇典侍（宰相典侍と呼ばれる）。崇徳天皇乳母。藤原家保の妻。鎌倉時代前期の女性。藤原基宗の娘。藤原実宣妻。四条天皇乳母。  __DISAMBIG__"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 2408220
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "326"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "21"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 41045344
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平忠盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宗兼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/池禅尼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宗通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原家保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崇徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原隆宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原基宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/乳母"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原聖子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原実宣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/重仁親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堀河天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:人名の曖昧さ回避"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 宗子（ふじわら の そうし/むねこ）平安時代末期の女性。権大納言藤原宗通の娘。関白藤原忠通の正室。皇嘉門院聖子の生母。平安時代末期の女性。藤原宗兼の娘。平忠盛の正室。重仁親王乳母。…池禅尼を参照。平安時代末期の女性。藤原隆宗の娘。堀河天皇典侍（宰相典侍と呼ばれる）。崇徳天皇乳母。藤原家保の妻。鎌倉時代前期の女性。藤原基宗の娘。藤原実宣妻。四条天皇乳母。  __DISAMBIG__"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原宗子"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11623158"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11623158"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原宗子?oldid=41045344"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原宗子"
+        }
+    ]
+}

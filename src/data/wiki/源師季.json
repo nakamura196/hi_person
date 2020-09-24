@@ -1,0 +1,458 @@
+{
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 3357846
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "1715"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "83"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58578775
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源定房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/村上源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1188年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近江守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左少将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:没年不明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/播磨介"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿補任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1225年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1217年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1218年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1219年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1221年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左中将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/暦仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1209年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後堀河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1211年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後嵯峨天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1212年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1214年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1203年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/赤松氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1205年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1198年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1199年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1188年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右少将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉禄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1240年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1243年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源季房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源定忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尊卑分脈"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源師成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1232年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源雅兼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源雅定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1236年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1238年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/赤松則村"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:村上源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寿永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/順徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/赤松家範"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原定能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒板勝美"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉川弘文館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源師行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仲恭天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/順徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仲恭天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後堀河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後嵯峨天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源季房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源師成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源師行"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "正三位侍従周防権守"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1243年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛元"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源師季"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "村上源氏雅兼流"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：源定忠、母：大納言藤原定能の娘"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "寿永4年（1188年）"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:没年不明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:村上源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1188年生"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源師季"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/源師季?oldid=58578775"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/源師季"
+        }
+    ]
+}

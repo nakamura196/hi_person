@@ -1,0 +1,167 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 師保（ふじわら の もろやす、生没年未詳）は、平安時代中期の人物。藤原北家、摂政関白太政大臣・藤原忠平の三男。母は不詳。位階は従五位下。忠平の二男師輔が延喜8年（908年）12月17日生まれで、四男師氏が延喜13年（913年）正月7日頃の生まれであり、忠平の日記（『貞信公記』）延喜10年（910年）7月7日条に忠平家で出産があったことが記されていることから、師保の生年月日は延喜10年7月7日と推測される。師保の所伝は、『尊卑分脈』に「従五下、出家」とのみあり、法名、没年等の詳細な経歴は不明である。また、『栄花物語』の忠平の子息を紹介する段において、経歴がはっきりしないと記されていることから、若くして出家したことと想定される。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1291987
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "746"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "19"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 47772964
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原北家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/栄花物語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/913年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:良房流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞信公記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/908年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/910年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戒名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尊卑分脈"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:良房流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の人物"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 師保（ふじわら の もろやす、生没年未詳）は、平安時代中期の人物。藤原北家、摂政関白太政大臣・藤原忠平の三男。母は不詳。位階は従五位下。忠平の二男師輔が延喜8年（908年）12月17日生まれで、四男師氏が延喜13年（913年）正月7日頃の生まれであり、忠平の日記（『貞信公記』）延喜10年（910年）7月7日条に忠平家で出産があったことが記されていることから、師保の生年月日は延喜10年7月7日と推測される。師保の所伝は、『尊卑分脈』に「従五下、出家」とのみあり、法名、没年等の詳細な経歴は不明である。また、『栄花物語』の忠平の子息を紹介する段において、経歴がはっきりしないと記されていることから、若くして出家したことと想定される。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原師保"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11623222"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11623222"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原師保?oldid=47772964"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原師保"
+        }
+    ]
+}

@@ -1,0 +1,736 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 宗忠（ふじわら の むねただ）は、平安時代後期の公卿。藤原北家中御門流の権大納言藤原宗俊の長男。従一位・右大臣。別名、中御門宗忠。日記『中右記』を残した。名称の由来は中御門右大臣の日記から。音楽の才があり、管弦や笙をよくした。また催馬楽にも秀でた。音律に関する著書『韻花集』『白律韻』があったとされるが現存しない。和歌は『続古今和歌集』『玉葉和歌集』に入集。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujiwara_no_Munetada.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 339182
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2827"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "152"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 55699625
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/催馬楽"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原北家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/讃岐国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宗重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代後期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宗成_(参議)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月21日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後三条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堀河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白律韻"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源憲俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崇徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天子摂関御影"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月20日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宗能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月12日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺実能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月13日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内蔵寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/応徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/韻花集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1136年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月27日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1138年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1131年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弁官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月5日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月9日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月26日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月27日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月28日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1122年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月29日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月20日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月21日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1109年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1141年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/覚晴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1141年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源顕国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂関政治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1078年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1074年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宗俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1062年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/康平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月6日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/笙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/続古今和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊予国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1106年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1107年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原行房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清和源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1102年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/美作国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1104年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原実綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/殿上人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1100年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/音律"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1096年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1097年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/音楽"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1098年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月23日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1099年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:松木家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1092年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1094年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1088年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1090年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1086年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1087年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1081年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1082年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1083年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宗輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中御門流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月27日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月22日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中右記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月17日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1062年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月14日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松木家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/備前国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/玉葉和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月26日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/康和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月21日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従一位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保安_(元号)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保延"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:先代次代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堀河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崇徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後三条天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "中御門宗忠"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原行房"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従一位右大臣"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--04-20"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原宗忠"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宗俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原実綱"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "康平5年（1062年）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Fujiwara no Munetada.jpg"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像説明": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原宗忠 （『天子摂関御影』）"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:松木家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1062年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代後期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1141年没"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 宗忠（ふじわら の むねただ）は、平安時代後期の公卿。藤原北家中御門流の権大納言藤原宗俊の長男。従一位・右大臣。別名、中御門宗忠。日記『中右記』を残した。名称の由来は中御門右大臣の日記から。音楽の才があり、管弦や笙をよくした。また催馬楽にも秀でた。音律に関する著書『韻花集』『白律韻』があったとされるが現存しない。和歌は『続古今和歌集』『玉葉和歌集』に入集。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原宗忠"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11623159"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11623159"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原宗忠?oldid=55699625"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujiwara_no_Munetada.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原宗忠"
+        }
+    ]
+}

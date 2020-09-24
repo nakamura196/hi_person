@@ -1,0 +1,507 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大江 匡衡（おおえ の まさひら、天暦6年（952年） - 寛弘9年7月16日（1012年8月6日））は、平安時代中期の儒者・歌人。中納言・大江維時の孫で、左京大夫・大江重光の子。官位は正四位下・式部大輔。中古三十六歌仙の一人。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Oe_no_Masahira.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 371863
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2622"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "102"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58288579
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/表"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/952年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/願文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中古三十六歌仙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Oe_no_Masahira.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原道真"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/式部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代中期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女房三十六歌仙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文章得業生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後朱雀天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後拾遺和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍読"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:大江氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江時棟"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原文時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/越前国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2006年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原宣義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江持隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原保輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天延"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原道長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江能公"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正歴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平生成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江朝綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/林豪"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1012年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江挙周"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原彰子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山中裕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江維時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:952年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/赤染時用"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原伊尹"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江音人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後一条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東宮学士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/匡衡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/対策"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/儒教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1012年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅撰和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尾張国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/966年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奏上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/赤染衛門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天元_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/963年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江重光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/康保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/964年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/973年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/応和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原行成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伴徳成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉川弘文館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/村上天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の漢詩人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原兼房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文章博士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原公任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/979年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛弘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀伝道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/985年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江吏部集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月16日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大学寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月6日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁康"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/本朝文粋"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Portal"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Writer-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代中期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1012年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の漢詩人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:952年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:大江氏"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大江 匡衡（おおえ の まさひら、天暦6年（952年） - 寛弘9年7月16日（1012年8月6日））は、平安時代中期の儒者・歌人。中納言・大江維時の孫で、左京大夫・大江重光の子。官位は正四位下・式部大輔。中古三十六歌仙の一人。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大江匡衡"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q2395120"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/오에노_마사히라"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Ōe_no_Masahira"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Ōe_no_Masahira"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2395120"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/大江匡衡?oldid=58288579"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Oe_no_Masahira.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/大江匡衡"
+        }
+    ]
+}

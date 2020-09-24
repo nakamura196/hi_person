@@ -1,0 +1,596 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 宗家（ふじわら の むねいえ）は、平安時代後期の公卿。初名は信能（長寛2年（1164年）まで）。藤原北家中御門流の藤原宗能の長男。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1559399
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2644"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "140"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 51410535
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1164年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1165年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1166年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松木家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1168年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原高能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1170年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久寿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宗快"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/越前国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:松木家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原長実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原俊成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崇徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永万"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崩御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原能定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原北家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月7日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神楽"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1189年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高倉天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1172年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月22日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1176年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹波国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代後期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1179年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1189年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿補任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宗厳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/頭中将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中御門流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保延"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中宮職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1139年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1141年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1142年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/応保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正室"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長寛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条良通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和琴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原光頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宗能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1149年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1151年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1155年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宗経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1156年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1157年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1158年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1159年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1160年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1161年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1162年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北陸宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1139年生"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:先代次代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高倉天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崇徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "中御門大納言"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "八条院按察（藤原俊成の娘）、藤原能定の娘"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "宗経、宗快、宗厳、女子（後白河院官女のち藤原高能室）、女子（北陸宮室）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権大納言"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--04-22"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原宗家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原北家中御門流"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原長実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宗能"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "保延5年（1139年）"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1139年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1189年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代後期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:松木家"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 宗家（ふじわら の むねいえ）は、平安時代後期の公卿。初名は信能（長寛2年（1164年）まで）。藤原北家中御門流の藤原宗能の長男。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原宗家"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11623160"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11623160"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原宗家?oldid=51410535"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原宗家"
+        }
+    ]
+}

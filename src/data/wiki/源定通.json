@@ -1,0 +1,616 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "土御門 定通（つちみかど さだみち）は、鎌倉時代前期から中期の公卿。源通親の四男。村上源氏土御門家の祖。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Tsuchimikado_Sadamichi.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 434101
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2595"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "110"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 52063315
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後嵯峨天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月28日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/葉室光親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1247年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後堀河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後深草天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/諡号"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院通方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門顕定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源通親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原範子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条義時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条泰時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1188年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/順徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:久我家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我通光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/覚顕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武家政権"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源在子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/定済"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条道家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門顕方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仲恭天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源通子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六波羅探題"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三の丸尚蔵館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門顕良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛家実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門顕親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1236年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安貞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/追号"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1242年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/通円"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安達義景"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1247年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堀川通具"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1214年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1209年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉禎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1211年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/顕雲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1221年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条重時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門通行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1218年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天子摂関御影"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1227年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宝治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1188年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原範兼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承久の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アユ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条良実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/村上源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源通宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/竹殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月28日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁治"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:脚注ヘルプ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門天皇"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "→後嵯峨天皇→後深草天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/順徳天皇"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "→仲恭天皇→後堀河天皇→四条天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院通方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堀川通具"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門通行"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "異父姉：源在子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源通宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我通光"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源定通、後土御門内大臣"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "側室：竹殿（北条義時の娘）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "顕定、顕親、顕良、顕方、定済、覚顕、顕雲、通円"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "正二位内大臣"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--09-28"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "土御門定通"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "村上源氏久我家庶流、土御門家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：源通親、母：藤原範子（藤原範兼の娘）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "文治4年（1188年）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Tsuchimikado Sadamichi.jpg"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像サイズ": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 220
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像説明": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "土御門定通像（三の丸尚蔵館蔵『天子摂関御影』より）"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1247年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1188年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:久我家"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "土御門 定通（つちみかど さだみち）は、鎌倉時代前期から中期の公卿。源通親の四男。村上源氏土御門家の祖。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "土御門定通"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11423476"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11423476"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/土御門定通?oldid=52063315"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Tsuchimikado_Sadamichi.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/土御門定通"
+        }
+    ]
+}

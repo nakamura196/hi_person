@@ -1,0 +1,591 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 親信（ふじわら の ちかのぶ）は、平安時代後期から鎌倉時代初期にかけての公卿。右京大夫藤原信輔の四男。水無瀬家の祖。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 2020682
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2415"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "126"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 55498948
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平宗盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1153年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1148年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源通宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月12日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/備中国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1160年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1161年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1162年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原仲経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:水無瀬家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1157年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1167年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1168年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永万"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1165年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1166年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1176年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1177年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1171年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内蔵寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1183年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1137年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1184年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原朝経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橘家光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1179年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1180年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1191年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原北家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/羽林家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1187年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1188年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1189年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1190年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1197年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原朝経_(左衛門佐)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊予国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原親兼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原信隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代後期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原親信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原隆家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/信西"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/水無瀬家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原教成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月7日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原信行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院近臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崩御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/応保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/極位極官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/修理職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長寛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平清盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治承三年の政変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/解官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治維新"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原朝定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/美作国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1137年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寿永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条定輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原信輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宰府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1197年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保延"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一ノ谷の戦い"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:先代次代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原信隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原信行"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "坊門中納言"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "正室：信西の娘"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原仲経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原親兼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原親信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条定輔"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "実輔（初名）→親房→親信"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--07-12"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原親信"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原北家隆家流水無瀬家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：藤原信輔、母：橘家光の娘"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "保延3年（1137年）"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1197年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1137年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:水無瀬家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代後期の貴族"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 親信（ふじわら の ちかのぶ）は、平安時代後期から鎌倉時代初期にかけての公卿。右京大夫藤原信輔の四男。水無瀬家の祖。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原親信"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11623537"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11623537"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原親信?oldid=55498948"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原親信"
+        }
+    ]
+}

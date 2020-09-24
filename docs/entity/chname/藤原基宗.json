@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原基宗.json",
+    "http://schema.org/description": [
+      {
+        "@value": "持明院 基宗（じみょういん もとむね）は、平安時代後期から鎌倉時代初期にかけての公卿。藤原基宗とも。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "持明院基宗"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原基宗"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/持明院基宗"
+      }
+    ]
+  }
+]

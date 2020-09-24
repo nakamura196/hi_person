@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原兼輔.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 兼輔（ふじわら の かねすけ、元慶元年（877年） - 承平3年2月18日（933年3月21日））は、平安時代中期の公家・歌人。藤原北家、右中将・藤原利基の六男。官位は従三位・中納言。また賀茂川堤に邸宅があったことから堤中納言とよばれた。三十六歌仙の一人。小倉百人一首では中納言兼輔。"
+      },
+      {
+        "@value": "［877～933］平安前期の歌人。三十六歌仙の一人。邸宅が賀茂川の堤近くにあったので、堤中納言と称された。家集に「兼輔集」がある。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原兼輔"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/藤原兼輔"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原兼輔"
+      }
+    ]
+  }
+]

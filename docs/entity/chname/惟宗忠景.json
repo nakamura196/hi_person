@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/惟宗忠景.json",
+    "http://schema.org/description": [
+      {
+        "@value": "島津 忠景（しまづ ただかげ）は鎌倉時代中期の武将・歌人。鎌倉幕府御家人。薩摩国知覧院（現在の鹿児島県南九州市）地頭職。但馬国朝来郡粟鹿大社（規模100町）地頭職（「弘安5年（1285年）但馬国大田文」・『兵庫県史』所収）。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "島津忠景"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "惟宗忠景"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/島津忠景"
+      }
+    ]
+  }
+]

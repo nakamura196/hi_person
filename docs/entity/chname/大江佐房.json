@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/大江佐房.json",
+    "http://schema.org/description": [
+      {
+        "@value": "大江 佐房（おおえ の すけふさ、生年不詳 - 没年不詳）は鎌倉時代の武将。鎌倉幕府の御家人。鎌倉幕府京都守護大江親広の長男。鎌倉幕府政所初代別当大江広元の孫。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大江佐房"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/大江佐房"
+      }
+    ]
+  }
+]

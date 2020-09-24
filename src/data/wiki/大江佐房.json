@@ -1,0 +1,453 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大江 佐房（おおえ の すけふさ、生年不詳 - 没年不詳）は鎌倉時代の武将。鎌倉幕府の御家人。鎌倉幕府京都守護大江親広の長男。鎌倉幕府政所初代別当大江広元の孫。"
+        }
+    ],
+    "http://dbpedia.org/ontology/alias": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "上田佐房"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "法名：通阿宥寿"
+        }
+    ],
+    "http://dbpedia.org/ontology/parent": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江親広"
+        }
+    ],
+    "http://dbpedia.org/ontology/sibling": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江広時"
+        }
+    ],
+    "http://dbpedia.org/ontology/spouse": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木氏信"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 2894015
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2244"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "44"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 57733863
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尾張国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/政所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:大江氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江親広"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江佐房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江広元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木氏信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1221年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承久の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条経時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1285年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御家人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江広時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鏡久綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弘安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木宗清（道観）"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木広宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条時頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条泰時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条義時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上田市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:生年不明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1247年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/霜月騒動"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1248年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都守護"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上田氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宝治"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Familytree/start"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Familytree"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Familytree/end"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条時頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条泰時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条義時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条経時"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "佐房、高元、大江広時、佐広"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "上田佐房"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木氏信"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "佐泰、佐時、長広、佐広"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尾張国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        }
+    ],
+    "http://ja.dbpedia.org/property/幕府": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉幕府"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "法名：通阿宥寿"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "不詳"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大江 佐房"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江氏"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "母："
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：大江親広"
+        }
+    ],
+    "http://ja.dbpedia.org/property/特記事項": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上田氏"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "不詳"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:生年不明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:大江氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の武士"
+        }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q215627"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+            "type": "uri",
+            "value": "http://schema.org/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/MilitaryPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Person"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大江 佐房（おおえ の すけふさ、生年不詳 - 没年不詳）は鎌倉時代の武将。鎌倉幕府の御家人。鎌倉幕府京都守護大江親広の長男。鎌倉幕府政所初代別当大江広元の孫。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大江佐房"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q17221267"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q17221267"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/大江佐房?oldid=57733863"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/大江佐房"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大江 佐房"
+        }
+    ]
+}

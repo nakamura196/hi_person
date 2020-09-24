@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原定頼.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 定頼（ふじわら の さだより）は平安時代中期の公家・歌人。権大納言・藤原公任の長男。中古三十六歌仙の一人。小倉百人一首では権中納言定頼。"
+      },
+      {
+        "@value": "平安中期の公卿・歌人。権大納言藤原公任の子。四条中納言と称す。音楽に長じ、能書の誉れが高かった。中古三十六歌仙の一人。権中納言・正二位・兵部卿となる。家集に『定頼集』があり、『後拾遺集』以下の勅撰集に入集。寛徳2年(1045)歿、51才。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原定頼"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原定頼"
+      },
+      {
+        "@id": "https://kotobank.jp/word/藤原定頼"
+      }
+    ]
+  }
+]

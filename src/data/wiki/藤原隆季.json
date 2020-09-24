@@ -1,0 +1,695 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 隆季（ふじわら の たかすえ、大治2年（1127年） - 元暦2年1月11日（1185年2月12日））は、平安時代後期の公卿。中納言・藤原家成の長男。官位は正二位・権大納言。四条または大宮を号す。四条家の祖。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1053734
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "4308"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "191"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 51118284
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正室"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/応保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条兼実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平氏政権"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高倉天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福原京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/詞花和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/馬寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六条家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保延"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/強訴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延暦寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四条家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原聖子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/別当"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原隆房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/信西"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/以仁王の挙兵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代後期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1127年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1133年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇太子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1134年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1136年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1137年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1138年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保元の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/氏寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衛門府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1140年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和歌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原経忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1146年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治承三年の政変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/配流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1154年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/行幸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1155年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1156年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1158年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1127年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検非違使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1161年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1162年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1163年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1165年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1166年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1167年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源通親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1168年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1171年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1172年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤氏長者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/以仁王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1178年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寿永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1179年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1180年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院近臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1182年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原兼房_(太政大臣)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1185年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/還幸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鹿ケ谷の陰謀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/興福寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長寛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中宮職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原親信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/受領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅撰和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永万"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大治_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平徳子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平清盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原家成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月12日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月11日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原隆保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平忠盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平頼盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原兼雅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/氏社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平重盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:四条家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/越後国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/池禅尼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平滋子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1185年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/讃岐国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/放氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/養和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/帯剣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/但馬国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/執事"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土佐国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久寿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崩御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/厳島"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松殿基房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原泰通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原隆雅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宰府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条高能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宰帥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宰権帥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原成親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原璋子"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:先代次代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1185年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1127年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:四条家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代後期の貴族"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 隆季（ふじわら の たかすえ、大治2年（1127年） - 元暦2年1月11日（1185年2月12日））は、平安時代後期の公卿。中納言・藤原家成の長男。官位は正二位・権大納言。四条または大宮を号す。四条家の祖。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原隆季"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11623628"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11623628"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原隆季?oldid=51118284"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原隆季"
+        }
+    ]
+}

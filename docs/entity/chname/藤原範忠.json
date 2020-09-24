@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原範忠.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 範忠（ふじわら の のりただ、生没年未詳）は、平安時代末期の公家、神官。藤原南家、熱田大宮司・藤原季範の長男。官位は従五位上・内匠頭。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原範忠"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原範忠"
+      }
+    ]
+  }
+]

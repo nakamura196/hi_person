@@ -1,0 +1,297 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 高子（ふじわら の たかいこ、承和9年（842年） - 延喜10年3月24日（910年5月6日））は、平安時代、清和天皇の女御、のち皇太后。父は藤原長良。母は贈正一位大夫人藤原乙春。藤原基経の同母妹。通称、二条后。清和天皇が東宮であったころ、天皇の祖母である皇太后藤原順子の邸にて出仕か。貞観元年（859年）9歳の清和天皇即位にともなう大嘗祭において、五節舞姫をつとめ従五位下に叙された。清和天皇元服の2年後の貞観8年（866年）、25歳で入内し女御となり貞明親王（後の陽成天皇）を産む。貞観18年（876年）の陽成天皇の即位にともない、元慶元年（877年）皇太夫人となり中宮職が付与され、さらに元慶6年（882年）には皇太后の尊称を受けた。寛平8年（896年）宇多天皇の時、元慶年代に自らが建立した東光寺の座主善祐と密通したという疑いをかけられ、皇太后を廃されたが、没後の天慶6年（943年）に復位されている。伊勢物語、大和物語などからは入内する以前、在原業平と恋愛関係があったと推測される。清和天皇との間に陽成天皇、貞保親王、敦子内親王の3人の子がいる。古今和歌集に一首採録（歌番号4番）。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 624492
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "863"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "47"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 52714457
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/善祐"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢物語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古今和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清和天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/在原業平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/842年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天慶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月24日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元慶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/896年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大嘗祭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大和物語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原長良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原基経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正一位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:長良流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/882年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/877年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/五節舞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇多天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/876年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月6日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞保親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/座主"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/910年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/敦子内親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の皇太后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:皇太夫人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中宮職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原乙春"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:842年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:910年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陽成天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承和_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/943年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の后妃後宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/866年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇太后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原順子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞観_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/859年"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:長良流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の后妃後宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:皇太夫人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の皇太后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:910年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:842年生"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 高子（ふじわら の たかいこ、承和9年（842年） - 延喜10年3月24日（910年5月6日））は、平安時代、清和天皇の女御、のち皇太后。父は藤原長良。母は贈正一位大夫人藤原乙春。藤原基経の同母妹。通称、二条后。清和天皇が東宮であったころ、天皇の祖母である皇太后藤原順子の邸にて出仕か。貞観元年（859年）9歳の清和天皇即位にともなう大嘗祭において、五節舞姫をつとめ従五位下に叙された。清和天皇元服の2年後の貞観8年（866年）、25歳で入内し女御となり貞明親王（後の陽成天皇）を産む。貞観18年（876年）の陽成天皇の即位にともない、元慶元年（877年）皇太夫人となり中宮職が付与され、さらに元慶6年（882年）には皇太后の尊称を受けた。寛平8年（896年）宇多天皇の時、元慶年代に自らが建立した東光寺の座主善祐と密通したという疑いをかけられ、皇太后を廃されたが、没後の天慶6年（943年）に復位されている。伊勢物語、大和物語などからは入内する以前、在原業平と恋愛関係があったと推測される。清和天皇との間に陽成天皇、貞保親王、敦子内親王の3人の子がいる。古今和歌集に一首採録（歌番号4番）。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原高子"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/藤原高子"
+        },
+        {
+            "type": "uri",
+            "value": "http://pl.dbpedia.org/resource/Fujiwara_no_Takaiko"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q127411"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q127411"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原高子?oldid=52714457"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原高子"
+        }
+    ]
+}

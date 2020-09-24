@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原公清.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 公清（ふじわら の きんきよ）は平安時代後期から鎌倉時代前期の公卿。権大納言・滋野井実国の次男。八条または風早二位と号した。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原公清"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原公清"
+      }
+    ]
+  }
+]

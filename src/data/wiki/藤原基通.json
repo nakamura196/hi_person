@@ -1,0 +1,863 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "近衞 基通（このえ もとみち）は平安時代末期から鎌倉時代初期にかけての公卿。従一位・摂政 関白・内大臣。通称は普賢寺関白（ふげんじ かんぱく）。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Konoe_Motomichi.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 311564
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "4509"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "196"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 59232640
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原基教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/享年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/僧兵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/禁色"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治承三年の政変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平清盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嫡流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1160年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平信基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平信範"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/覚尊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平治の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/道鑑"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/准母"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/践祚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/興福寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天子摂関御影"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月8日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/議政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永万"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司兼基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条兼実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松殿基房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1166年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1233年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代後期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1170年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/祐覚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寿永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/有職故実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1160年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元服"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原経宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天福_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建久七年の政変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁澄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛家実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/粟田口忠良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坊城顕信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛基実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/円浄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正室"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/円静"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高倉天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/円基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昇殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/愚管抄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/静忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/准后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条良経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近江国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1208年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院宣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1202年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/玉葉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:近衛家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1206年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原信頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1196年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1198年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/法住寺合戦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尊任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:藤氏長者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1179年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1180年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1181年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1182年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1183年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1184年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1233年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1186年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛道経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1171年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1172年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1173年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/最舜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1174年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/実信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1175年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源通親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月29日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:摂関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従一位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外戚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平盛子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤氏長者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/慈円"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/美作国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/養子縁組"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平完子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛通子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/円忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義仲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義経"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:記事名の制約"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:藤原氏長者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:歴代関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:日本の摂政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Redirect"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:近衛家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高倉天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "基通、粟田口忠良、通子、覚尊、祐覚、道鑑"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "普賢寺殿、近衛殿（号）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "正室：平完子（平清盛の六女）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "家実、道経、鷹司兼基、基教、円忠、円静、円基、静忠、仁澄、実信、尊任"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従一位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂政"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "基通→行理（法名）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--05-29"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "近衞基通"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "養母：平盛子"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：近衛基実、母：藤原忠隆の娘"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1160年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永暦"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Konoe Motomichi.jpg"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像サイズ": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 250
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像説明": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "近衛基通像（『天子摂関御影』より）"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1160年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代後期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:摂関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:藤氏長者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:近衛家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1233年没"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "近衞 基通（このえ もとみち）は平安時代末期から鎌倉時代初期にかけての公卿。従一位・摂政 関白・内大臣。通称は普賢寺関白（ふげんじ かんぱく）。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "近衛基通"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/近卫基通"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Konoe_Motomichi"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q367538"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Konoe_Motomichi"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Konoe_Motomichi"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q367538"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Konoe_Motomichi"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Konoe_Motomichi"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/近衛基通?oldid=59232640"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Konoe_Motomichi.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/近衛基通"
+        }
+    ]
+}

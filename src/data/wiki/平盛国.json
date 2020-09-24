@@ -1,0 +1,573 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "平 盛国（たいら の もりくに）は、平安時代末期の伊勢平氏の武将。平清盛の側近。父は平盛康、または平盛遠（『平家物語』）、平季衡（『尊卑分脈』）など諸説あるが、平正度に連なる一族と見られる。子息・盛俊と共に「主馬判官管親子」などと称される事から、本拠は伊勢国壱志郡須可郷（現三重県津市）で、その荘官を務めていたと考えられている。他に鎮西にも知行所を有している。"
+        }
+    ],
+    "http://dbpedia.org/ontology/alias": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "主馬判官、盛国入道"
+        }
+    ],
+    "http://dbpedia.org/ontology/child": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平盛俊"
+        }
+    ],
+    "http://dbpedia.org/ontology/parent": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平盛康"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 311313
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2033"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "96"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 49522812
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尊卑分脈"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡崎義実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平盛信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平盛久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/荘官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平盛俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1113年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/法華経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平治の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永万"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1113年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永久_(元号)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平清盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月11日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国宝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松殿基房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/享年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1186年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大内裏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高倉天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平宗盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍大将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鹿ケ谷の陰謀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鴨川_(淀川水系)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/津市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一ノ谷の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1156年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1157年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1159年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/壱志郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/信西"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/郎党"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1164年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1165年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1166年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/角田文衞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平盛遠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1173年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/馬寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1177年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1180年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1181年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1184年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1185年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1186年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/壇ノ浦の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保元の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平重盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/家令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長寛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平季衡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三重県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平家納経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富士川の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検非違使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/講談社学術文庫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:伊勢平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平家物語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月25日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寿永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平正度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平家貞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平盛康"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多田行綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衛門府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/須可"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/厳島神社"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_武士"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平清盛"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "主馬判官、盛国入道"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "盛俊、盛信、盛久、観音房?"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "左衛門尉、主馬正、検非違使、伊勢守"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--07-25"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "平盛国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢平氏"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：平盛康（または平盛遠、平季衡）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永久_(元号)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1113年"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1113年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1186年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:伊勢平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の武士"
+        }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+        {
+            "type": "uri",
+            "value": "http://schema.org/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q215627"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/MilitaryPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "平 盛国（たいら の もりくに）は、平安時代末期の伊勢平氏の武将。平清盛の側近。父は平盛康、または平盛遠（『平家物語』）、平季衡（『尊卑分脈』）など諸説あるが、平正度に連なる一族と見られる。子息・盛俊と共に「主馬判官管親子」などと称される事から、本拠は伊勢国壱志郡須可郷（現三重県津市）で、その荘官を務めていたと考えられている。他に鎮西にも知行所を有している。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "平盛国"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11483419"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11483419"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/平盛国?oldid=49522812"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/平盛国"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "平盛国"
+        }
+    ]
+}

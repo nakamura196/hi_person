@@ -1,0 +1,479 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "平 滋子（たいら の しげこ、康治元年（1142年） - 安元2年7月8日（1176年8月14日））は、後白河天皇の譲位後の妃。高倉天皇の生母。女御、皇太后、女院。桓武平氏高棟流、いわゆる堂上平氏の生まれ。父は兵部権大輔・平時信（贈左大臣）、母は中納言・藤原顕頼の娘、祐子（すけこ）。兄弟に時忠・親宗、姉妹に二位尼時子（平清盛継室）・冷泉局（建春門院女房）・清子（宗盛の室）・坊門殿（重盛の室、維盛母の可能性あり）・藤原親隆の室（権少僧都・全真の母）・帥局（建礼門院女房）がいる。院号は建春門院（けんしゅんもんいん）。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 201023
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "6164"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "94"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 53868249
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日記の家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/角田文衞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建礼門院右京大夫集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠雅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原定家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忻子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弁官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/殿下乗合事件"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原顕頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平宗盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉川弘文館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平野神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/継室"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平高棟"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平清子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛基実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平正盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古今著聞集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1176年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源雅通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平清盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桓武天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平家物語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鹿ケ谷の陰謀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平時家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1176年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1142年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平康頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平徳子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平時忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平時子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平教盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建春門院中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇太后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の皇太后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平時信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平親宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/玉葉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原成親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/たまきはる"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原璋子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原親隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院近臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/統子内親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉応の強訴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月14日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平信範"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桓武平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:堂上平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/全真"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂津国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源資賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永万"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東三条殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1142年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/応保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明月記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田経房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月8日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高倉天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日吉大社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:女院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/百錬抄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院号"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原光能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平知盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平重盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平維盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原呈子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堂上家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/康治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原信隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山槐記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原邦綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/以仁王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の后妃後宮"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:女院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1142年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1176年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:堂上平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の后妃後宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の皇太后"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "平 滋子（たいら の しげこ、康治元年（1142年） - 安元2年7月8日（1176年8月14日））は、後白河天皇の譲位後の妃。高倉天皇の生母。女御、皇太后、女院。桓武平氏高棟流、いわゆる堂上平氏の生まれ。父は兵部権大輔・平時信（贈左大臣）、母は中納言・藤原顕頼の娘、祐子（すけこ）。兄弟に時忠・親宗、姉妹に二位尼時子（平清盛継室）・冷泉局（建春門院女房）・清子（宗盛の室）・坊門殿（重盛の室、維盛母の可能性あり）・藤原親隆の室（権少僧都・全真の母）・帥局（建礼門院女房）がいる。院号は建春門院（けんしゅんもんいん）。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "平滋子"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11061157"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/平滋子"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11061157"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/平滋子?oldid=53868249"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/平滋子"
+        }
+    ]
+}

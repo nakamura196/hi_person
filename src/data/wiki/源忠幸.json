@@ -1,0 +1,555 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "広幡 忠幸（ひろはた ただゆき）は、江戸時代前期の公卿。皇族として生まれ、のちに臣籍降下して広幡家を創設し、その初代当主となった。正式の姓名は、源 忠幸（みなもと の ただゆき）である。「忠」の字は兄・八条宮智忠親王より偏諱を賜ったものであり、やがて広幡家の通字となっていった。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1250922
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2155"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "110"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 50920496
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筑後国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅野長晟"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清華家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正室"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/霊元天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1667年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1668年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1669年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桂宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇陀松山藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広幡家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源姓"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広幡豊忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹後国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京姫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近江国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺公満"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:広幡家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:尾張藩の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/養子縁組"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/偏諱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三次藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1669年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嫡流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:江戸時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松殿家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/村上源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川義直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久留米藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八条宮智忠親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/良尚入道親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/備後国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:賜姓皇族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/継室"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1663年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月16日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1665年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/有馬頼元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1660年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尾張藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京極高知"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/通字"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名古屋城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川光友"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正親町天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川綱誠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我通名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1649年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大和国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮津藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1650年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崩御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1646年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1624年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/猶子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/臣籍降下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1624年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田信武"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月9日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名古屋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八条宮智仁親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治維新"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅野長照"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:先代次代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "霊元天皇（113代）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/良尚入道親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八条宮智忠親王"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "広幡忠幸"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "三宮（通称）、幸丸（幼名）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京姫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川義直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正室"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "新君（徳川綱誠室）、定姫（有馬頼元室）"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "智姫 （織田信武正室）、園姫（浅野長照室）"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "清姫（織田信武継室）、養子：広幡豊忠"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "忠幸王（皇族時代）→源忠幸→広幡忠幸"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--10-16"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "広幡 忠幸"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広幡家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源氏"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：八条宮智仁親王、母：京極常子"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1624年"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1669年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:江戸時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:広幡家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:賜姓皇族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:尾張藩の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1624年生"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "広幡 忠幸（ひろはた ただゆき）は、江戸時代前期の公卿。皇族として生まれ、のちに臣籍降下して広幡家を創設し、その初代当主となった。正式の姓名は、源 忠幸（みなもと の ただゆき）である。「忠」の字は兄・八条宮智忠親王より偏諱を賜ったものであり、やがて広幡家の通字となっていった。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "広幡忠幸"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11485397"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11485397"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/広幡忠幸?oldid=50920496"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/広幡忠幸"
+        }
+    ]
+}

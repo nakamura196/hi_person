@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/源顕雅.json",
+    "http://schema.org/description": [
+      {
+        "@value": "源 顕雅（みなもと の あきまさ）は平安時代後期の公卿。村上源氏、右大臣・源顕房の六男。楊梅大納言と号す。"
+      },
+      {
+        "@value": "1074－1136　平安時代後期の公卿(くぎょう)。承保(じょうほう)元年生まれ。源顕房の6男。母は藤原伊綱の娘。康和4年(1102)参議となり,長承元年(1132)権(ごんの)大納言。正二位にいたる。楊梅(やまもも)大納言とよばれた。「古事談」などに詩,管弦の才がなかったとつたえられている。保延(ほうえん)2年10月13日死去。63歳。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "源顕雅"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/源顕雅"
+      },
+      {
+        "@id": "https://kotobank.jp/word/源顕雅"
+      }
+    ]
+  }
+]

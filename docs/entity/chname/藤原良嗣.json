@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原良嗣.json",
+    "http://schema.org/description": [
+      {
+        "@value": "近衞 忠嗣（このえ ただつぐ）は、日本の南北朝時代（北朝）から室町時代にかけての公卿。初名は良嗣（忠嗣への改名は関白任官直前の応永15年（1408年）3月）。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "近衛忠嗣"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原良嗣"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/近衛忠嗣"
+      }
+    ]
+  }
+]

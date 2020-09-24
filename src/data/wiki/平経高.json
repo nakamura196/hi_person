@@ -1,0 +1,373 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "平 経高（たいら の つねたか、治承4年（1180年） - 建長7年（1255年）6月）は、鎌倉時代中期の公卿。治部大輔平行範の子。正二位民部卿。日記『平戸記』著者。子に平経氏がいる。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1670003
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "1396"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "70"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 55048510
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条良実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/猶子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1180年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋頼資"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右大弁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉禄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:堂上平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右少弁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/雅成親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1180年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1255年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公事"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1190年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平戸記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/順徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝儀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1209年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平行範"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1211年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条教実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門定通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛兼経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1224年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1226年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後嵯峨天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田経房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/連署"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1220年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂関家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条実経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1240年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1246年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条道家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原為長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1238年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1255年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/忠成王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮騒動"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1250年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民部卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治部大輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/暦応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/叙爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条時房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平経氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1180年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:堂上平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1255年没"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "平 経高（たいら の つねたか、治承4年（1180年） - 建長7年（1255年）6月）は、鎌倉時代中期の公卿。治部大輔平行範の子。正二位民部卿。日記『平戸記』著者。子に平経氏がいる。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "平経高"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11483483"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11483483"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/平経高?oldid=55048510"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/平経高"
+        }
+    ]
+}

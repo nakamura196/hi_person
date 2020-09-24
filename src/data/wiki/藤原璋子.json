@@ -1,0 +1,752 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 璋子（ふじわら の しょうし / たまこ、康和3年（1101年） - 久安元年8月22日（1145年9月10日））は、平安後期の国母。鳥羽天皇の中宮で、崇徳・後白河両天皇の母。女院号は待賢門院（たいけんもんいん）。"
+        }
+    ],
+    "http://dbpedia.org/ontology/child": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/統子内親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/君仁親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/禧子内親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崇徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/通仁親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/覚性法親王"
+        }
+    ],
+    "http://dbpedia.org/ontology/parent": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原公実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原光子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/祇園女御"
+        }
+    ],
+    "http://dbpedia.org/ontology/spouse": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳥羽天皇"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Taikenmonin.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 202796
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "3109"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "125"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58606029
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堀河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/通仁親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斎院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/熊野詣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の后妃後宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保元の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原泰子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原得子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古事談"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/君仁親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清原夏野"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/待賢門院堀河"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原経実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の皇后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/法金剛院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条実行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/祇園女御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永久_(元号)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1101年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月22日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/閑院流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:女院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左中弁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺実能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原隆方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崇徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花園"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原公子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原公実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保安_(元号)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保延"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1117年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1118年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1119年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/康和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/康治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1123年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/渡辺淳一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原光子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1115年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1101年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1124年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/角田文衛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1127年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1129年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1130年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/禧子内親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1145年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:閑院流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1139年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1141年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/台記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1142年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右京区"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原通季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1145年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治天の君"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1155年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国母"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/百人一首"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/覚性法親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月10日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久寿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崩御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/統子内親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/858年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大治_(日本)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_皇族・貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:歴代皇后一覧"
+        }
+    ],
+    "http://ja.dbpedia.org/property/人名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 璋子"
+        }
+    ],
+    "http://ja.dbpedia.org/property/出生日": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "康和3年（1101年）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子女": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崇徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後白河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/君仁親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/覚性法親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/通仁親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/禧子内親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/統子内親王"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死亡日": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--08-22"
+        }
+    ],
+    "http://ja.dbpedia.org/property/母親": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "実母：藤原光子"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "養母：祇園女御"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父親": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "実父：藤原公実"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "養父：白河法皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Taikenmonin.jpg"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像サイズ": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 250
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像説明": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "待賢門院像（法金剛院蔵）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/称号": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女院"
+        }
+    ],
+    "http://ja.dbpedia.org/property/身位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中宮"
+        }
+    ],
+    "http://ja.dbpedia.org/property/配偶者": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳥羽天皇"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の皇后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1145年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1101年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:女院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:閑院流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の后妃後宮"
+        }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Royalty"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://schema.org/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q215627"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 璋子（ふじわら の しょうし / たまこ、康和3年（1101年） - 久安元年8月22日（1145年9月10日））は、平安後期の国母。鳥羽天皇の中宮で、崇徳・後白河両天皇の母。女院号は待賢門院（たいけんもんいん）。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原璋子"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://id.dbpedia.org/resource/Fujiwara_no_Tamako"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Fujiwara_no_Tamako"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q900258"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Fujiwara_no_Tamako"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q900258"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/藤原璋子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/후지와라노_다마코"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原璋子?oldid=58606029"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Taikenmonin.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原璋子"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 璋子"
+        }
+    ]
+}

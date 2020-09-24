@@ -1,0 +1,583 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "千葉 常重（ちば つねしげ）は、平安時代後期の下総国の武将。千葉氏の実質的な初代当主。千葉介常兼の子で千葉常胤の父。下総権介。恒重、経重とも。"
+        }
+    ],
+    "http://dbpedia.org/ontology/alias": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "恒重、経重、千葉介"
+        }
+    ],
+    "http://dbpedia.org/ontology/child": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千葉常胤"
+        }
+    ],
+    "http://dbpedia.org/ontology/parent": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千葉介"
+        }
+    ],
+    "http://dbpedia.org/ontology/sibling": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海上常衡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/臼井常康"
+        }
+    ],
+    "http://dbpedia.org/ontology/spouse": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平政幹"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://members.jcom.home.ne.jp/bamen/index.htm"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 99595
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "1863"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "78"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 53799686
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平政幹"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/相馬郡_(下総国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/匝瑳常綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千学集抜粋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千葉常実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢神宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/目代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀季経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月3日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1083年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1180年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/臼井常康"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嫡男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原親通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月1日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小見胤隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:下総国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保延"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月11日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳥海忠衡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/荘官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寄進"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大治_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:千葉氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八条院領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1995年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月18日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平常兼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/相馬御厨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平常晴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平常澄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/荘園"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白井常親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/椎名胤光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月15日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1135年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1124年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1126年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1130年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月29日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/郡司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千葉郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/逸見常広"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/房総平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千野原靖方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千葉荘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/亥鼻城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千葉常胤"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千葉介"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千葉氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1083年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下総国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:千葉介"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月28日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1180年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海上常衡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崙書房出版"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:千葉氏当主"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:先代次代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/臼井常康"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/匝瑳常綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千葉常実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白井常親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/逸見常広"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海上常衡"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "恒重、経重、千葉介"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平政幹"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "千葉常胤、小見胤隆、椎名胤光"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/相馬郡_(下総国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下総国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--05-03"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "千葉常重"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千葉氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/房総平氏"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "千葉介常兼、鳥海忠衡の娘"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--03-29"
+        }
+    ],
+    "http://ja.dbpedia.org/property/養父": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平常晴"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1083年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:千葉介"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1180年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:下総国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:千葉氏"
+        }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+        {
+            "type": "uri",
+            "value": "http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+            "type": "uri",
+            "value": "http://schema.org/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/MilitaryPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q215627"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "千葉 常重（ちば つねしげ）は、平安時代後期の下総国の武将。千葉氏の実質的な初代当主。千葉介常兼の子で千葉常胤の父。下総権介。恒重、経重とも。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "千葉常重"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q7676359"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Taira_Tsuneshige"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q7676359"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/千葉常重?oldid=53799686"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/千葉常重"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "千葉常重"
+        }
+    ]
+}

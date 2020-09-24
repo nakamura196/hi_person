@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原為教.json",
+    "http://schema.org/description": [
+      {
+        "@value": "［1227～1279］鎌倉中期の歌人。為家の次男。為兼の父。京極派の祖。歌は「続拾遺集」などにみえる。"
+      },
+      {
+        "@value": "京極 為教（きょうごく ためのり）は、鎌倉時代中期の公卿・歌人。藤原北家御子左流、権大納言藤原為家の三男。京極家の祖。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "京極為教"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原為教"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/藤原為教"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/京極為教"
+      }
+    ]
+  }
+]

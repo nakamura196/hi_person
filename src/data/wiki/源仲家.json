@@ -1,0 +1,431 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源 仲家（みなもと の なかいえ）は、平安時代末期の河内源氏の武将。八条院蔵人。帯刀先生・源義賢の嫡男。源義仲（木曾義仲）の異母兄。源頼朝・義経の従兄弟にあたる。久寿2年（1155年）、父・義賢が大蔵合戦で甥の源義平に襲撃され戦死すると、父と共に大蔵にいた2歳の異母弟・駒王丸（義仲）は逃れて中原氏に庇護される。母と共に京にいたと思われる仲家は摂津源氏の源頼政に保護され、その養子となって京で成長した。朝廷の官職として八条院蔵人をつとめていた。ただし『平家物語』は六条院蔵人としている。治承4年（1180年）5月、以仁王と養父・頼政による挙兵計画が露見して、仁和寺にこもった際に、嫡男の仲光とともに馳せ参じた。のち以仁王らと奈良へ向かったが、5月17日、宇治平等院のあたりで平家の追討軍に追いつかれて仲光ともども戦死した。"
+        }
+    ],
+    "http://dbpedia.org/ontology/child": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源仲光"
+        }
+    ],
+    "http://dbpedia.org/ontology/parent": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼政"
+        }
+    ],
+    "http://dbpedia.org/ontology/sibling": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義仲"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 183905
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "1035"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "60"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 55412311
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源仲賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嫡男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義仲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/暲子内親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六条院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇治市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/以仁王の挙兵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平等院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月26日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:河内源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従兄弟"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大蔵合戦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:戦死した人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂津源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/以仁王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/帯刀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清和源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源仲光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久寿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宗季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:生年不明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月20日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:摂津源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平家物語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮菊姫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁和寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1180年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奈良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1155年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1180年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/養子"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_武士"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "仲家、義仲、宮菊姫"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源仲光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源仲賢"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "八条院蔵人"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--05-26"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源仲家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清和源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内源氏"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "養父：源頼政"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：源義賢、母：藤原宗季女"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "未詳"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:生年不明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:戦死した人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1180年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:河内源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:摂津源氏"
+        }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+        {
+            "type": "uri",
+            "value": "http://schema.org/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q215627"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/MilitaryPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Person"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源 仲家（みなもと の なかいえ）は、平安時代末期の河内源氏の武将。八条院蔵人。帯刀先生・源義賢の嫡男。源義仲（木曾義仲）の異母兄。源頼朝・義経の従兄弟にあたる。久寿2年（1155年）、父・義賢が大蔵合戦で甥の源義平に襲撃され戦死すると、父と共に大蔵にいた2歳の異母弟・駒王丸（義仲）は逃れて中原氏に庇護される。母と共に京にいたと思われる仲家は摂津源氏の源頼政に保護され、その養子となって京で成長した。朝廷の官職として八条院蔵人をつとめていた。ただし『平家物語』は六条院蔵人としている。治承4年（1180年）5月、以仁王と養父・頼政による挙兵計画が露見して、仁和寺にこもった際に、嫡男の仲光とともに馳せ参じた。のち以仁王らと奈良へ向かったが、5月17日、宇治平等院のあたりで平家の追討軍に追いつかれて仲光ともども戦死した。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源仲家"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11563984"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11563984"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/源仲家?oldid=55412311"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/源仲家"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源仲家"
+        }
+    ]
+}

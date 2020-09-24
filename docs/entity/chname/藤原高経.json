@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原高経.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 高経（ふじわら の たかつね）は、平安時代前期の貴族。権中納言・藤原長良の四男。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原高経"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原高経"
+      }
+    ]
+  }
+]

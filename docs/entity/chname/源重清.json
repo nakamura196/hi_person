@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/源重清.json",
+    "http://schema.org/description": [
+      {
+        "@value": "南部 重清（なんぶ しげきよ）は、室町時代後期の甲斐南部氏の武将で北面武士。甲斐の高下村で隠居後、仙洞田氏を興す。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "南部重清"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "源重清"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/南部重清"
+      }
+    ]
+  }
+]

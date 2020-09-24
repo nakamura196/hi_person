@@ -1,0 +1,494 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 頼嗣（ふじわら の よりつぐ）は、鎌倉幕府5代将軍。五摂家のひとつ、九条家の出身の摂家将軍。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 53802
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2022"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "78"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 51632071
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清原教隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1239年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/康元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条経時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/執権"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:九条家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/帝範"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉幕府の征夷大将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原頼経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/美濃国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三浦氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮騒動"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞観政要"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月17日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/檜皮姫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安達義景"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条時氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原親能_(権中納言)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三浦光盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後嵯峨天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月14日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右近衛少将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条道家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小山長村"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宝治合戦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三浦盛時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中原師連"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1256年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/征夷大将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1256年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1251年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1247年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1244年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1245年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月25日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1246年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/享年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/烏帽子親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1239年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂家将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月21日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吾妻鏡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武藤景頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宗尊親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/了行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉川弘文館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二階堂行方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源恵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/道増"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宝治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条時頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/赤斑瘡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:鎌倉幕府将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "頼嗣、道増、源恵"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "九条頼嗣"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "正室：檜皮姫（北条時氏の娘）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--09-25"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原頼嗣"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：藤原頼経、母：大宮殿（藤原親能の娘）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--11-21"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉幕府の征夷大将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:九条家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1256年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1239年生"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 頼嗣（ふじわら の よりつぐ）は、鎌倉幕府5代将軍。五摂家のひとつ、九条家の出身の摂家将軍。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原頼嗣"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q608193"
+        },
+        {
+            "type": "uri",
+            "value": "http://eu.dbpedia.org/resource/Kujo_Yoritsugu"
+        },
+        {
+            "type": "uri",
+            "value": "http://sv.dbpedia.org/resource/Kujo_Yoritsugu"
+        },
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Kujō_Yoritsugu"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q608193"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Kujō_Yoritsugu"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Kujō_Yoritsugu"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/후지와라노_요리쓰구"
+        },
+        {
+            "type": "uri",
+            "value": "http://pl.dbpedia.org/resource/Yoritsugu_Kujō"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/藤原賴嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Kujō_Yoritsugu"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Kujō_Yoritsugu"
+        },
+        {
+            "type": "uri",
+            "value": "http://ca.dbpedia.org/resource/Kujō_Yoritsugu"
+        },
+        {
+            "type": "uri",
+            "value": "http://nl.dbpedia.org/resource/Kujo_Yoritsugu"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Kujō_Yoritsugu"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原頼嗣?oldid=51632071"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原頼嗣"
+        }
+    ]
+}

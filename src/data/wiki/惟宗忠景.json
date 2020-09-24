@@ -1,0 +1,600 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "島津 忠景（しまづ ただかげ）は鎌倉時代中期の武将・歌人。鎌倉幕府御家人。薩摩国知覧院（現在の鹿児島県南九州市）地頭職。但馬国朝来郡粟鹿大社（規模100町）地頭職（「弘安5年（1285年）但馬国大田文」・『兵庫県史』所収）。"
+        }
+    ],
+    "http://dbpedia.org/ontology/alias": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "周防五郎（通称）"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "忠景→素信（法名）"
+        }
+    ],
+    "http://dbpedia.org/ontology/child": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠宗_(越前家)"
+        }
+    ],
+    "http://dbpedia.org/ontology/parent": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠綱"
+        }
+    ],
+    "http://dbpedia.org/ontology/sibling": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠行"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 638680
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2272"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "91"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58578925
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/惟康親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新後撰和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1261年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/越前国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蹴鞠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条九代記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/実躬卿記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:越前国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新拾遺和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/続拾遺和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/惟宗氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/続千載和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/粟鹿神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条為氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/玉葉和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/続古今和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和歌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新続古今和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六波羅探題"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/続後拾遺和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/判官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1241年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠泰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津定賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠氏_(越前家)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/越前家_(島津氏)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津久経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新千載和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1300年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大田文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1295年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/常陸介"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月26日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/地頭職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠宗_(越前家)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吾妻鏡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/信濃国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薩摩国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南九州市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久明親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:越前島津氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源親行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/信濃島津氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1263年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1265年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1266年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鹿児島県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/連歌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1285年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊後国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御家人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検非違使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宗尊親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1300年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弘長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/但馬国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1241年"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:島津氏歴代当主"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久明親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宗尊親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/惟康親王"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠泰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津定賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠氏_(越前家)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "周防五郎（通称）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "忠宗"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "左兵衛尉、左衛門尉、検非違使、周防判官、大夫判官、従五位下、豊後守、常陸介"
+        }
+    ],
+    "http://ja.dbpedia.org/property/幕府": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉幕府"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "忠景→素信（法名）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "正安2年（1300年）5月"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "島津忠景"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/越前家_(島津氏)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：島津忠綱"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "仁治2年（1241年）"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:越前国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:越前島津氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1300年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1241年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の歌人"
+        }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q215627"
+        },
+        {
+            "type": "uri",
+            "value": "http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/MilitaryPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+            "type": "uri",
+            "value": "http://schema.org/Person"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "島津 忠景（しまづ ただかげ）は鎌倉時代中期の武将・歌人。鎌倉幕府御家人。薩摩国知覧院（現在の鹿児島県南九州市）地頭職。但馬国朝来郡粟鹿大社（規模100町）地頭職（「弘安5年（1285年）但馬国大田文」・『兵庫県史』所収）。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "島津忠景"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11162902"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11162902"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/島津忠景?oldid=58578925"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/島津忠景"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "島津忠景"
+        }
+    ]
+}

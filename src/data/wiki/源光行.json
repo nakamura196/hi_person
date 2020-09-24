@@ -1,0 +1,660 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源 光行（みなもと の みつゆき）は、平安時代末期から鎌倉時代初期にかけての政治家・文学者・歌人。源氏物語の研究者であり、河内方の創始者に位置付けられる。"
+        }
+    ],
+    "http://dbpedia.org/ontology/alias": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "光行、寂因"
+        }
+    ],
+    "http://dbpedia.org/ontology/child": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源親行"
+        }
+    ],
+    "http://dbpedia.org/ontology/parent": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源光遠"
+        }
+    ],
+    "http://dbpedia.org/ontology/sibling": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源能広"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 248869
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2292"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "96"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58961147
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/水原抄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源忠重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源満仲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1163年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源則清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源光遠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源重宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/行阿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源重時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:河内源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月27日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東関紀行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源宗季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寿永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大和国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学問所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大監物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源氏物語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源光広"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源光俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源有季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源資季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源能広"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1244年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紫明抄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源忠宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/政所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清和源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1244年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1242年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飯富季貞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/別当"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月17日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蒙求和歌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1204年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1163年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源季遠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源定宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海道記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和歌所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/若宮社歌合"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源満政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1223年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条泰時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源経基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/素寂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源親行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源光季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1183年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長寛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1191年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源宣行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源光重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源仲行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承久の乱"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:源氏物語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:源氏物語の写本と関連書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Portal"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:People-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Otheruses"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼朝"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源光広"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源光俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源有季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源資季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源能広"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源則清"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "未詳"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "親行、光重、孝行（素寂）、宣行、仲行"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "女子（建礼門院美濃）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大監物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大和国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位下"
+        }
+    ],
+    "http://ja.dbpedia.org/property/幕府": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "鎌倉幕府、政所別当"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "光行、寂因"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--02-17"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源光行"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "清和源氏満政流（あるいは義忠流）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：源光遠（光季）、母：不明"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長寛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1163年"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1163年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:河内源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1244年没"
+        }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q215627"
+        },
+        {
+            "type": "uri",
+            "value": "http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/MilitaryPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5"
+        },
+        {
+            "type": "uri",
+            "value": "http://schema.org/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Agent"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源 光行（みなもと の みつゆき）は、平安時代末期から鎌倉時代初期にかけての政治家・文学者・歌人。源氏物語の研究者であり、河内方の創始者に位置付けられる。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源光行"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Minamoto_no_Mitsuyuki"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q3314715"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Minamoto_no_Mitsuyuki"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q3314715"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/源光行?oldid=58961147"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/源光行"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源光行"
+        }
+    ]
+}

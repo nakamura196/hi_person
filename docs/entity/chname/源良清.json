@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/源良清.json",
+    "http://schema.org/description": [
+      {
+        "@value": "源良清（みなもとのよしきよ）とは、源氏物語に登場する架空の人物。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "源良清"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/源良清"
+      }
+    ]
+  }
+]

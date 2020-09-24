@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/北条時実.json",
+    "http://schema.org/description": [
+      {
+        "@value": "北条 時実（ほうじょう ときざね）は、鎌倉時代前期の北条氏の一族。鎌倉幕府第3代執権・北条泰時の次男。母は継室の安保実員の娘。妻は、後に謀反を企てたとして流罪に処された北条光時の妹。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "北条時実"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/北条時実"
+      }
+    ]
+  }
+]

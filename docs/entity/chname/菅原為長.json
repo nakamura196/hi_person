@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/菅原為長.json",
+    "http://schema.org/description": [
+      {
+        "@value": "［1158～1246］鎌倉初期の学者。文章博士(もんじょうはかせ)・参議兼勘解由(かげゆ)長官。有職故実に通じた。著「字鏡集」「文鳳鈔」など。"
+      },
+      {
+        "@value": "菅原 為長（すがわら の ためなが）は平安時代末期から鎌倉時代初期の公卿。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "菅原為長"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/菅原為長"
+      },
+      {
+        "@id": "https://kotobank.jp/word/菅原為長"
+      }
+    ]
+  }
+]

@@ -1,0 +1,767 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "紀 貫之（き の つらゆき）は、平安時代前期の歌人。『古今和歌集』の選者のひとり。また三十六歌仙のひとりでもある。紀友則は従兄弟にあたる。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Ki_no_Tsurayuki.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 49908
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "3745"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "135"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58828835
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和歌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/943年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/945年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:紀氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀友則"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Sanjūrokkasen-gaku_-_2_-_Kanō_Tan’yū_-_Ki_no_Tsurayuki.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/醍醐天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福王子神社_(大津市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/美濃国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/木工寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1904年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/随筆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/竹取物語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月18日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代中期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/壬生忠岑"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月18日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三代集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内教坊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三十六歌仙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仮名_(文字)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承平_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土佐国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土佐日記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀望行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀貫之神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天慶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀本道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2009年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女流文学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/越前国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/散文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月30日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朱雀天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小倉百人一首"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:小倉百人一首の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/比叡山"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/比叡山鉄道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/比叡山鉄道比叡山鉄道線"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の神_(人物神_歌人)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/凡河内躬恒"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原師輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:945年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菊池容斎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の書家一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/贈位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崩御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都御所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/幼名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Hyakuninisshu_035.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/905年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/906年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/907年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/910年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/913年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/917年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/荒俣宏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/918年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/923年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:高知県の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加賀国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古今著聞集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新撰和歌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古今和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大井川"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞観_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/866年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/872年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇多天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/もたて山駅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Grave_of_Ki_no_Tsurayuki.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ミネルヴァ書房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の随筆家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅撰和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/滋賀県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延長_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大津市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀淑望"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内膳司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貫之集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下野国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:9世紀生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/玄蕃寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古今和歌集仮名序"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀時文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/929年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/930年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/935年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/監物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/集英社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/940年"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Wikiquote"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Commons&cat"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Portal"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:PAGENAME"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Writer-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:脚注ヘルプ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Normdaten"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:青空文庫著作者"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/醍醐天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朱雀天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "時文"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従五位上、木工権頭。贈従二位"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "阿古久曽（幼名）、貫之"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--05-18"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "紀貫之"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀氏"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：紀望行"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "貞観8年（866年）または貞観14年（872年）頃?"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Ki no Tsurayuki.jpg"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像サイズ": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 250
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像説明": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "紀貫之（菊池容斎・画、明治時代）"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の随筆家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:高知県の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:945年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:小倉百人一首の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の神_(人物神_歌人)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:紀氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代中期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:9世紀生"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "紀 貫之（き の つらゆき）は、平安時代前期の歌人。『古今和歌集』の選者のひとり。また三十六歌仙のひとりでもある。紀友則は従兄弟にあたる。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "紀貫之"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://tg.dbpedia.org/resource/Ки-но_Тсураюки"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/기노_쓰라유키"
+        },
+        {
+            "type": "uri",
+            "value": "http://hy.dbpedia.org/resource/Կի_Նո_Ցուրայուկի"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ki_no_Tsurayuki"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q468288"
+        },
+        {
+            "type": "uri",
+            "value": "http://commons.dbpedia.org/resource/紀貫之"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Ki_no_Tsurayuki"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Ki_no_Tsurayuki"
+        },
+        {
+            "type": "uri",
+            "value": "http://fa.dbpedia.org/resource/کی_نو_تسورایوکی"
+        },
+        {
+            "type": "uri",
+            "value": "http://pl.dbpedia.org/resource/Ki_no_Tsurayuki"
+        },
+        {
+            "type": "uri",
+            "value": "http://sh.dbpedia.org/resource/Ki_no_Tsurayuki"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Ki_no_Tsurayuki"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q468288"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/紀貫之"
+        },
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Кі-но_Цураюкі"
+        },
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Ki_no_Tsurayuki"
+        },
+        {
+            "type": "uri",
+            "value": "http://sv.dbpedia.org/resource/Ki_no_Tsurayuki"
+        },
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Ки-но_Цураюки"
+        },
+        {
+            "type": "uri",
+            "value": "http://ro.dbpedia.org/resource/Ki_no_Tsurayuki"
+        },
+        {
+            "type": "uri",
+            "value": "http://ar.dbpedia.org/resource/كي_نو_تسورايوكي"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/紀貫之?oldid=58828835"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Ki_no_Tsurayuki.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/紀貫之"
+        }
+    ]
+}

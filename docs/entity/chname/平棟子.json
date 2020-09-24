@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/平棟子.json",
+    "http://schema.org/description": [
+      {
+        "@value": "平棟子（たいら の むねこ、生年不詳 - 徳治3年9月16日（1308年11月7日））は、鎌倉時代の人物。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "平棟子"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/平棟子"
+      }
+    ]
+  }
+]

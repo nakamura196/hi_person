@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原兼平.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原兼平（ふじわら の かねひら）藤原北家良房流（藤原基経の子）藤原北家小野宮流（藤原経季の子）藤原北家五摂家の一つ、鷹司家の初代当主の藤原兼平については、鷹司兼平を参照。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原兼平"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原兼平"
+      }
+    ]
+  }
+]

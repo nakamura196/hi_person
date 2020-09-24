@@ -1,0 +1,597 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "二条 為氏（にじょう ためうじ）は、鎌倉時代中期の公卿・歌人。藤原北家御子左家の嫡流で、権大納言藤原為家の長男。和歌の家である二条家（二条派）の祖。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 376932
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2161"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "105"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 59136247
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原重名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/連歌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阿仏尼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/醍醐寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延政門院新大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嫡流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/僧位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/僧綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条為言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下野国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大覚寺統"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御子左家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月3日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宝治御百首"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/十六夜日記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1222年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉禄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/冷泉為相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1285年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1286年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1226年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/亀山上皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川荘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1270年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/冷泉家時雨亭文庫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1278年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原為家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原長家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1251年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/亀山天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1250年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弘安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/播磨国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1222年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1243年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和歌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三木市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御家人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条派"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条為世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/冷泉家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京極派"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵庫県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/冷泉為守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1286年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇都宮氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京極為兼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京極為教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言為氏集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公事"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月14日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:御子左流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇都宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条為実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇都宮頼綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条為雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌合"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/興福寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/続後撰和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後嵯峨天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/続拾遺和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後堀河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後宇多天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原北家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後深草天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅撰和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥井教定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弘長百首"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原為顕"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:御子左家当主"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Writer-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後堀河天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後宇多天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/亀山天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後深草天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後嵯峨天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "為氏、為教、為顕、為相、為守"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原為氏"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥井教定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原重名"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "為世、為雄、為実、為言[[#系譜"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "為氏→覚阿（法名）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--09-14"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "二条為氏"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原北家長家流御子左家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：藤原為家、母：宇都宮頼綱の娘"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1222年"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1286年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:御子左流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1222年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "二条 為氏（にじょう ためうじ）は、鎌倉時代中期の公卿・歌人。藤原北家御子左家の嫡流で、権大納言藤原為家の長男。和歌の家である二条家（二条派）の祖。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "二条為氏"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/二條為氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q10880237"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q10880237"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/二条為氏?oldid=59136247"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/二条為氏"
+        }
+    ]
+}

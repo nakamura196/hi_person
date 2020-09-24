@@ -1,0 +1,879 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源 頼信（みなもと の よりのぶ）は、平安時代中期の武将。摂津国多田（現・兵庫県川西市多田）の地に源氏武士団を形成した源満仲の三男。河内国石川郡壺井（現・大阪府羽曳野市壺井）を本拠地とする河内源氏の祖。"
+        }
+    ],
+    "http://dbpedia.org/ontology/birthDate": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#date",
+            "type": "literal",
+            "value": "1929-01-01"
+        }
+    ],
+    "http://dbpedia.org/ontology/child": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼義"
+        }
+    ],
+    "http://dbpedia.org/ontology/parent": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原元方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源満仲"
+        }
+    ],
+    "http://dbpedia.org/ontology/sibling": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼光"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Minamoto_Yorinobu.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 124822
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2525"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "138"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58489932
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清和源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古事談"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月1日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月17日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼範"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代中期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の神_(人物神_源氏)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治部少輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源信忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源為満"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義政_(平安時代中期)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源満仲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1048年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坂東"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:968年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/判官代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎮守府将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大阪府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八幡荘_(上野国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源経基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵部丞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左経記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:清和源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甲斐国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平忠常"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平忠常の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼貞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1019年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1023年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平致頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今昔物語集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1028年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1029年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1031年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1032年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1036年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原致忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1047年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1048年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂津国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/羽曳野市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1001年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/常陸介"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/川西市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1012年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/通法寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/信濃村上氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇后宮亮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/信濃源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月21日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平直方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石川郡_(大阪府)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:河内国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上野國一社八幡宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:河内源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/冷泉院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元木泰雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/壺井八幡宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/美濃国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/頼尋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左馬権頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四天王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菊池容斎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月29日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵庫県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/968年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多田神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原元方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武士団"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検非違使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/987年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昇殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/任官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原保昌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左兵衛少尉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原道長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/井上氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/受領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/相模国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平維衡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸奥守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原道兼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御堂関白記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/信濃国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/999年"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:要出典範囲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:河内源氏棟梁"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原道長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原道兼"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼範"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼貞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/頼尋"
+        }
+    ],
+    "http://ja.dbpedia.org/property/墓所": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大阪府羽曳野市・通法寺"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "修理命婦"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源為満"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義政_(平安時代中期)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源信忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼季"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従四位上、昇殿、鎮守府将軍、検非違使、常陸介、伊勢守、河内守、甲斐守、信濃守、美濃守、相模守、陸奥守、左馬権頭、冷泉院判官代、治部少輔、皇后宮亮、左兵衛少尉、兵部丞、贈従二位"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--04-17"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源頼信"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "清和源氏経基流"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "母：藤原元方女もしくは藤原致忠女"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：源満仲"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--11-29"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Minamoto Yorinobu.jpg"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像サイズ": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 200
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像説明": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源頼信（菊池容斎画、明治時代）"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の神_(人物神_源氏)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代中期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:968年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:河内国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:河内源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1048年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:清和源氏"
+        }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://schema.org/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q215627"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/MilitaryPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+            "type": "uri",
+            "value": "http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源 頼信（みなもと の よりのぶ）は、平安時代中期の武将。摂津国多田（現・兵庫県川西市多田）の地に源氏武士団を形成した源満仲の三男。河内国石川郡壺井（現・大阪府羽曳野市壺井）を本拠地とする河内源氏の祖。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源頼信"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Мінамото_но_Йорінобу"
+        },
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Minamoto_no_Yorinobu"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Minamoto_no_Yorinobu"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/源賴信"
+        },
+        {
+            "type": "uri",
+            "value": "http://sv.dbpedia.org/resource/Minamoto_no_Yorinobu"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q2699951"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2699951"
+        },
+        {
+            "type": "uri",
+            "value": "http://fa.dbpedia.org/resource/میناموتو_نو_یورینوبو"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Minamoto_no_Yorinobu"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Minamoto_no_Yorinobu"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/源頼信?oldid=58489932"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Minamoto_Yorinobu.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/源頼信"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "源頼信"
+        }
+    ]
+}

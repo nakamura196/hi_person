@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原忠家.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 忠家（ふじわら の ただいえ、長元6年（1033年） - 寛治5年11月7日（1091年12月19日）は、平安時代中期の公卿。藤原北家御子左流、権大納言・藤原長家の次男。官位は正二位・大納言。"
+      },
+      {
+        "@value": "1229－1275　鎌倉時代の公卿(くぎょう)。寛喜(かんぎ)元年7月生まれ。九条教実(のりざね)の子。延応元年従三位。内大臣,右大臣をへて文永10年関白,氏長者,従一位にすすみ,11年摂政となった。建治(けんじ)元年6月9日死去。47歳。通称は一音院関白。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "九条忠家"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原忠家"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原忠家"
+      },
+      {
+        "@id": "https://kotobank.jp/word/九条忠家-1071566"
+      }
+    ]
+  }
+]

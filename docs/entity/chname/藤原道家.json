@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原道家.json",
+    "http://schema.org/description": [
+      {
+        "@value": "九条 道家（くじょう みちいえ、建久4年（1193年）7月 - 建長4年2月21日（1252年4月1日））は、鎌倉時代前期の公卿。摂政九条良経の長男。妻は太政大臣西園寺公経の娘等。鎌倉幕府4代将軍藤原頼経の父。官位は従一位・准三宮・摂政・関白・左大臣。光明峯寺殿、峯殿を号す。通称に光明峯寺関白（こうみょうぶじ かんぱく）。京都九条通に東福寺を建立した。"
+      },
+      {
+        "@value": "→九条道家"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "九条道家"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原道家"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/九条道家"
+      },
+      {
+        "@id": "https://kotobank.jp/word/藤原道家"
+      }
+    ]
+  }
+]

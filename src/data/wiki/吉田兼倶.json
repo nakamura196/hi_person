@@ -1,0 +1,491 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "吉田 兼倶（よしだ かねとも）は、室町時代中期から戦国時代にかけての神道家。本姓は卜部氏。吉田神道（唯一神道）の事実上の創始者。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Yoshida-jinja_shinryusha.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 398344
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2735"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "75"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 59122943
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1511年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/本姓"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢神道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中御門宣秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/卜部兼名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神祇管領長上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/卜部兼永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:神道に関連する人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嫡流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:室町時代の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/法華神道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神祇官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1511年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大元宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/室町時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/講談社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1435年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神名帳頭註"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Yoshida-jinja_shinryusha.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1435年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永享"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三十番神"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/卜部兼照"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/両部神道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後土御門天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/家系"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清原宣賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:卜部氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1466年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/井上智勝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唯一神道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文明_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田兼致"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山川出版社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崩御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神道大意"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月18日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1484年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜式"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田神道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唯一神道名法要集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/実教出版"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/卜部氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:吉田家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神道大系"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本書紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/非参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月19日_(旧暦)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:People-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Cite_book"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:神道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:脚注ヘルプ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "吉田兼倶、卜部兼照"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "素性不詳"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "兼致、卜部兼永、清原宣賢、中御門宣秀室"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/非参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "吉田兼敏 → 吉田兼倶"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/室町時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--02-19"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "吉田 兼倶"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "吉田家（卜部氏嫡流）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：卜部兼名、母：素性不詳"
+        }
+    ],
+    "http://ja.dbpedia.org/property/特記事項": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田神道"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "永享7年（1435年）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/神号": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "神龍大明神"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1435年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:卜部氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:神道に関連する人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:室町時代の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1511年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:吉田家"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "吉田 兼倶（よしだ かねとも）は、室町時代中期から戦国時代にかけての神道家。本姓は卜部氏。吉田神道（唯一神道）の事実上の創始者。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "吉田兼倶"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Yoshida_Kanetomo"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q723266"
+        },
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Ёсида,_Канэтомо"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Yoshida_Kanetomo"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Yoshida_Kanetomo"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q723266"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/吉田兼俱"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/吉田兼倶?oldid=59122943"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Yoshida-jinja_shinryusha.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/吉田兼倶"
+        }
+    ]
+}

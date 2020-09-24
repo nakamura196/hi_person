@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/源通氏.json",
+    "http://schema.org/description": [
+      {
+        "@value": "源 通氏（みなもと の みちうじ）は、鎌倉時代初期の公卿。従三位右中将。正二位大納言源通方の長男。母は正三位権中納言藤原長兼の娘である藤原則子。子は参議源具氏、孫の左中将源具顕は京極派歌人として知られる。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "源通氏"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/源通氏"
+      }
+    ]
+  }
+]

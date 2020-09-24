@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原朝隆.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 朝隆（ふじわら の ともたか）は、平安時代末期の公卿。参議・藤原為房の六男。冷泉中納言と号す。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原朝隆"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原朝隆"
+      }
+    ]
+  }
+]

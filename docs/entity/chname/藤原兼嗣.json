@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原兼嗣.json",
+    "http://schema.org/description": [
+      {
+        "@value": "近衞 兼嗣（このえ かねつぐ）は、日本の南北朝時代（北朝）の公卿。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "近衛兼嗣"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原兼嗣"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/近衛兼嗣"
+      }
+    ]
+  }
+]

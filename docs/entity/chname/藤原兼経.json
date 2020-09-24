@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原兼経.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 兼経 （ふじわら の かねつね）は平安時代中期から後期の公卿。大納言藤原道綱の三男。"
+      },
+      {
+        "@value": "…鎌倉時代中期の公家藤原兼経の日記。1222年(貞応1)から51年(建長3)までの一部が現存。…"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原兼経"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原兼経"
+      },
+      {
+        "@id": "https://kotobank.jp/word/藤原兼経"
+      }
+    ]
+  }
+]

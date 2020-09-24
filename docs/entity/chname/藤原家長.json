@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原家長.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 家長（ふじわら の いえなが、生没年未詳）は、平安時代末期の廷臣。藤原北家魚名流、参議・藤原家保の子。官位は正四位下・刑部卿。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原家長"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原家長"
+      }
+    ]
+  }
+]

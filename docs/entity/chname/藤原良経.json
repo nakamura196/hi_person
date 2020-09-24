@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原良経.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 良経（ふじわら の よしつね）世尊寺良経 - 平安中期の人物。藤原行成の子、世尊寺行経の兄弟。九条良経 - 平安末期の人物。九条兼実の子。 __DISAMBIG__"
+      },
+      {
+        "@value": "［1169～1206］鎌倉初期の公卿・歌人・書家。九条兼実の子。摂政・従一位太政大臣となり、後京極殿と称される。歌を俊成に学び、定家の後援者でもあった。書では後京極流の祖。家集「秋篠月清(あきしのげっせい)集」。九条良経。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原良経"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原良経"
+      },
+      {
+        "@id": "https://kotobank.jp/word/藤原良経"
+      }
+    ]
+  }
+]

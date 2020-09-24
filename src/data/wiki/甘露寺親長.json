@@ -1,0 +1,659 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "甘露寺 親長（かんろじ ちかなが、応永31年（1425年） - 明応9年8月7日（1500年8月31日））は、室町時代中期から戦国時代にかけての公家である。実務家公卿を輩出した藤原北家勧修寺流甘露寺家の当主。出家後は蓮空。一字名は鬼。官位は正二位・権大納言。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 958307
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "4204"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "182"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 57079037
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原北家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/年代記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/有職故実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昇殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:甘露寺家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1425年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1477年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/按察使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1469年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1470年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1465年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文明_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内裏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/園太暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1456年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戒名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇代暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1452年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/室町時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1453年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1448年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1450年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/禁闕の変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鞍馬寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1451年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1444年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1446年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1441年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/康正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1443年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/美濃国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:室町・安土桃山時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中御門宣胤"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宝徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1425年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崩御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万里小路春房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三種の神器"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/洞院公賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/頭弁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/享徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日外アソシエーツ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢貞親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/退位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国史大辞典_(昭和時代)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/征夷大将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/賀茂伝奏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/典侍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/親長卿記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/井原今朝男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朽木貞綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺元長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日記の家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嫡流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺忠長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺房長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/おい"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源氏物語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/応永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/連座"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斉藤氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1500年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月31日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1492年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月17日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1493年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後花園天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺朝子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺親子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1486年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1483年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1500年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後土御門天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/応仁の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出羽国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明応の政変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸奥国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田経房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今泉淑夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条西実隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勧修寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉川弘文館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南朝_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弁官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勧修寺流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/塙書房"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:脚注ヘルプ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後花園天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後土御門天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "鬼"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "素性不詳"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺朝子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺親子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万里小路春房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺元長"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "蓮空（法名）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/室町時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国時代_(日本)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--08-07"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "甘露寺 親長"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "甘露寺家（藤原北家勧修寺流）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：甘露寺房長、母：素性不詳"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "応永31年（1425年）"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:甘露寺家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1500年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1425年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:室町・安土桃山時代の公家"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "甘露寺 親長（かんろじ ちかなが、応永31年（1425年） - 明応9年8月7日（1500年8月31日））は、室町時代中期から戦国時代にかけての公家である。実務家公卿を輩出した藤原北家勧修寺流甘露寺家の当主。出家後は蓮空。一字名は鬼。官位は正二位・権大納言。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "甘露寺親長"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11574316"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11574316"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/甘露寺親長?oldid=57079037"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/甘露寺親長"
+        }
+    ]
+}

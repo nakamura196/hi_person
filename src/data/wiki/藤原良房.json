@@ -1,0 +1,747 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 良房（ふじわら の よしふさ、延暦23年（804年） - 貞観14年9月2日（872年10月7日））は、平安時代初期の公卿。藤原北家、左大臣・藤原冬嗣の次男。官位は従一位・摂政太政大臣、贈正一位。染殿、白河殿と称される。漢風諡号は忠仁公 、国公は美濃公。皇族以外の人臣として初めて摂政の座に就いた。また、藤原北家全盛の礎を築いた存在であり、良房の子孫達は相次いで摂関となった。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujiwara_no_Yoshifusa.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 122144
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "5558"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "221"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 57346603
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞観格式"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弘仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源潔姫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元服"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/842年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/848年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/849年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/850年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/851年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承和の変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/854年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/857年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/858年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/廃太子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛大将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/864年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/866年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/869年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/871年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/臣下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/872年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白河別業"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/准后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/春宮坊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大学寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大鏡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/823年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/824年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:摂関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/826年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/828年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/830年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/833年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/834年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/835年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/在原業平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/839年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/840年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇多天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/即位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇太后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇太子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尚侍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崩御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:良房流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嵯峨天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外戚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六国史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従一位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Fujiwara_no_Yoshifusa.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伴善男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源順子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原真作"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/按察使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/惟喬親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿補任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宗像大社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原高子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/光孝天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大庭王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/越中国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大伴氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原順子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/恒貞親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:藤氏長者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橘嘉智子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀名虎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斉衡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原良房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/降嫁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/贈位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原長良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原良世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加賀国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月7日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代初期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代前期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:804年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂関家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/淳和天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清和天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原冬嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原良相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本三代実録"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原北家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇女"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正一位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原基経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/応天門の変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/舎人親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/連座"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/臣籍降下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:872年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉祥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞観_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁寿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9世紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/春宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原明子_(染殿后)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原美都子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/804年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/准三宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/叙爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/諡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月2日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀静子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:東三条3788.JPG"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/続日本後紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承和_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁明天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:歴代太政大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:藤原氏長者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:日本の摂政"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:藤氏長者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:良房流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:摂関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:872年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:804年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代初期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代前期の貴族"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 良房（ふじわら の よしふさ、延暦23年（804年） - 貞観14年9月2日（872年10月7日））は、平安時代初期の公卿。藤原北家、左大臣・藤原冬嗣の次男。官位は従一位・摂政太政大臣、贈正一位。染殿、白河殿と称される。漢風諡号は忠仁公 、国公は美濃公。皇族以外の人臣として初めて摂政の座に就いた。また、藤原北家全盛の礎を築いた存在であり、良房の子孫達は相次いで摂関となった。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原良房"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q960841"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/藤原良房"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Fujiwara_no_Yoshifusa"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q960841"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Fujiwara_no_Yoshifusa"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Fujiwara_no_Yoshifusa"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Fujiwara_no_Yoshifusa"
+        },
+        {
+            "type": "uri",
+            "value": "http://fi.dbpedia.org/resource/Fujiwara_no_Yoshifusa"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Fujiwara_no_Yoshifusa"
+        },
+        {
+            "type": "uri",
+            "value": "http://hr.dbpedia.org/resource/Fujiwara_no_Yoshifusa"
+        },
+        {
+            "type": "uri",
+            "value": "http://eu.dbpedia.org/resource/Fujiwara_no_Yoshifusa"
+        },
+        {
+            "type": "uri",
+            "value": "http://sh.dbpedia.org/resource/Fujiwara_no_Yoshifusa"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原良房?oldid=57346603"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujiwara_no_Yoshifusa.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原良房"
+        }
+    ]
+}

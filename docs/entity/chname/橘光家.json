@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/橘光家.json",
+    "http://schema.org/description": [
+      {
+        "@value": "?－?　鎌倉時代の武士。備後(広島県)高野山領大田荘の荘官。建久元年(1190)高野山の僧鑁阿(ばんな)に不法をうったえられ,7年謀反の罪で追放された。本姓は橘。通称は太郎。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "大田光家"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "橘光家"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/大田光家-1060704"
+      }
+    ]
+  }
+]

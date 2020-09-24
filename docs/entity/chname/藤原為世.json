@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原為世.json",
+    "http://schema.org/description": [
+      {
+        "@value": "［1251～1338］鎌倉後期の歌人。為氏の子。法名、明釈。二条家の嫡流で伝統的立場を守り、進歩的な京極為兼と対立。「新後撰集」「続千載集」を撰進。歌論書「和歌庭訓抄」など。二条為世。"
+      },
+      {
+        "@value": "二条 為世（にじょう ためよ）は、鎌倉時代後期から南北朝時代初期にかけての公卿・歌人。歌道二条派の祖二条為氏の長男。極官が権大納言だったので藤大納言とも呼ばれた。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "二条為世"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原為世"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/藤原為世"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/二条為世"
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/大江忠成.json",
+    "http://schema.org/description": [
+      {
+        "@value": "大江 忠成（おおえ の ただしげ）は、鎌倉時代前期の武将。鎌倉幕府の評定衆。大江広元の五男。別名海東忠成（かいとう ただしげ）。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大江忠成"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/大江忠成"
+      }
+    ]
+  }
+]

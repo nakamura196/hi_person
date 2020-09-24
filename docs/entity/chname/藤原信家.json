@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原信家.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 信家（ふじわら の のぶいえ）は、平安時代中期から後期の公卿。関白太政大臣・藤原教通の長男。山井第を伝領したことから山井大納言と号した。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原信家"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原信家"
+      }
+    ]
+  }
+]

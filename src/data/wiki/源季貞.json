@@ -1,0 +1,415 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "飯富 季貞（おぶ すえさだ／源 季貞（みなもと の すえさだ）、生没年不詳）は、平安時代末期の武将・歌人。清和源氏の河内源氏義忠流とも満政流、満快流ともいう。清和源氏の一族でありながら平家の侍大将であり、文武両道に秀でた武将。本拠地飯富庄（現千葉県）に由来し、飯富氏を称した。通称は源大夫判官。子孫に飯富虎昌がいる。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 245406
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "3289"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "104"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 49325511
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/馬寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宰府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源光季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海道記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源定宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平忠盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平宗盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平教盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1183年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1184年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:清和源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1185年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1179年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尊卑分脈"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千葉県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1180年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1181年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義兼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/原田種直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源宗季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1177年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/滝口武者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平盛澄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/壇ノ浦の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源忠宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源満仲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河野通信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源重宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/祐筆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飯富宗遠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菊池隆直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平氏政権"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寿永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北面武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍大将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鹿ケ谷の陰謀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検非違使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/行阿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源重時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原成経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/緒方惟義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飯富虎昌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西住"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義行_(鎌倉時代)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源満快"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源親行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源満政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源氏物語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千載和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江遠成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平清盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源季遠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飯富氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右衛門少尉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清和源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源忠重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源光行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:飯富氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江遠業"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Portal"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:独自研究範囲"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:清和源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:飯富氏"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "飯富 季貞（おぶ すえさだ／源 季貞（みなもと の すえさだ）、生没年不詳）は、平安時代末期の武将・歌人。清和源氏の河内源氏義忠流とも満政流、満快流ともいう。清和源氏の一族でありながら平家の侍大将であり、文武両道に秀でた武将。本拠地飯富庄（現千葉県）に由来し、飯富氏を称した。通称は源大夫判官。子孫に飯富虎昌がいる。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "飯富季貞"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11666255"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11666255"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/飯富季貞?oldid=49325511"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/飯富季貞"
+        }
+    ]
+}

@@ -1,0 +1,618 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "広橋兼綱（ひろはし　かねつな）は南北朝時代の公卿。従一位准大臣。瑞雲院と号す。勘解由小路兼綱とも。贈左大臣。崇賢門院仲子の養父。崇賢門院を養女としたことにより、広橋家では初めて権大納言に任ぜられ、従一位准大臣に至った。父は権中納言広橋光業。母は坊門俊輔の娘。子は仲光、忠業、綱厳、崇賢門院広橋仲子。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 3191942
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "3061"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "125"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58393266
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/応安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/暦応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崇光天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後光厳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1363年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後円融天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1367年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/康永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左大弁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天授_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1373年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後小松天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1375年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南北朝時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/叙爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従一位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1376年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/准大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1379年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1381年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋仲子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尊卑分脈"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四辻善成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀通清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後醍醐天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石清水八幡宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建武_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右中弁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右大弁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義満"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左中弁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月26日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永和_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左少弁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:室町・安土桃山時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弘和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元弘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文中"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/智泉尼聖通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崇賢門院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/五位蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正平_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/観応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋仲光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋光業"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉川弘文館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/按察使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正中_(元号)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日野流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月14日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坊門俊輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:広橋家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1381年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1315年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/興国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1326年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1328年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1315年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1330年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原北家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1333年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1334年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿補任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1335年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1337年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1338年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1341年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1343年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1344年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1346年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1347年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1348年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権右少弁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1350年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1351年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀良子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1352年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/光厳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1353年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1354年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1355年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒板勝美"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/光明天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大蔵卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1358年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1359年"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:脚注ヘルプ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後円融天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後小松天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後光厳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後醍醐天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/光厳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崇光天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/光明天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "兼綱、兼名、女子"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "瑞雲院、勘解由小路"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋仲光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋仲子"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従一位准大臣、権大納言、按察使"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南北朝時代_(日本)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--09-26"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原北家日野流広橋家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：広橋光業、母：坊門俊輔の娘"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "正和4年（1315年）"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1381年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1315年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:室町・安土桃山時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:広橋家"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "広橋兼綱（ひろはし　かねつな）は南北朝時代の公卿。従一位准大臣。瑞雲院と号す。勘解由小路兼綱とも。贈左大臣。崇賢門院仲子の養父。崇賢門院を養女としたことにより、広橋家では初めて権大納言に任ぜられ、従一位准大臣に至った。父は権中納言広橋光業。母は坊門俊輔の娘。子は仲光、忠業、綱厳、崇賢門院広橋仲子。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "広橋兼綱"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q20042590"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q20042590"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/広橋兼綱?oldid=58393266"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/広橋兼綱"
+        }
+    ]
+}

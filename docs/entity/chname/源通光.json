@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/源通光.json",
+    "http://schema.org/description": [
+      {
+        "@value": "久我 通光（こが みちてる）は、鎌倉時代前期の公卿、歌人。従一位太政大臣。後久我太政大臣と号す。内大臣源通親の三男であるが、後鳥羽天皇の乳母・藤原範子所生のため嫡男の扱いを受けることになった。範子の連れ子で異父姉の承明門院が土御門天皇を生んでいる。一般的には久我家の祖と考えられている。新三十六歌仙の一人。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "久我通光"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "源通光"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/久我通光"
+      }
+    ]
+  }
+]

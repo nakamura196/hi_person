@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原道綱.json",
+    "http://schema.org/description": [
+      {
+        "@value": "[生]天暦9(955)[没]寛仁4(1020).10.16.平安時代の公卿。摂政兼家の子。母は倫寧の娘。道長の異母兄。通称傅大納言。大納言，正二位にいたる。公事において失儀多く，『小右記』に「一文不通の人」と評されている。その日常については，母の『蜻蛉日記』にみることができる。"
+      },
+      {
+        "@value": "藤原 道綱（ふじわら の みちつな）は、平安時代中期の公卿。摂政関白太政大臣・藤原兼家の次男。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原道綱"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/藤原道綱"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原道綱"
+      }
+    ]
+  }
+]

@@ -1,0 +1,627 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "三善 清行（みよし の きよゆき/きよつら）は平安時代中期の公卿、漢学者。淡路守三善氏吉の三男。正義感に溢れた経世家で権威に屈せず、そのために官位が停滞したと言われている。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Miyoshi_kiyotsura.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 325270
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2895"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "117"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 51205748
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/847年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原佐世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:10世紀の学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宰権帥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:847年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/讖緯説"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日蔵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大内記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/884年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜格式"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/886年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/887年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/880年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三善清江"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三善清風"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/革命勘文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三善氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/877年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/経世家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:919年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の漢学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/873年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/874年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菊池容斎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/896年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/897年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/辛酉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/893年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/891年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/910年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/906年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/902年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/903年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文章得業生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/904年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文章生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/905年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/900年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/901年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/917年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天文道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/918年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/919年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/914年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代前期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/915年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/所功"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月16日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/式部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元慶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原清公"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原道真"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三善氏吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原高視"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀伝道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/試験"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/円珍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/巨勢文雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原時平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇多天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阿衡事件"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀長谷雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大学頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/淡路国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官吏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:三善氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三善文明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三善文江"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前賢故実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橘広相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原保則"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承和_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昌泰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/意見封事十二箇条"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月15日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/字"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昌泰の変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:9世紀の学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月7日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞観_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月6日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浄蔵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/革命"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/漢学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮内省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文章博士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大学寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陰陽道"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三善清江"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三善清風"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "三耀（字）、善相公"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "文江、文明、浄蔵、日蔵"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "贈正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--12-07"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "三善清行"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三善氏"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：三善氏吉、母：佐伯氏"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "承和14年（847年）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Miyoshi kiyotsura.jpg"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像説明": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前賢故実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菊池容斎"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:三善氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:10世紀の学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の漢学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:9世紀の学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:919年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:847年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代前期の貴族"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "三善 清行（みよし の きよゆき/きよつら）は平安時代中期の公卿、漢学者。淡路守三善氏吉の三男。正義感に溢れた経世家で権威に屈せず、そのために官位が停滞したと言われている。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "三善清行"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q2399435"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Miyoshi_Kiyotsura"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2399435"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Miyoshi_Kiyotsura"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/三善清行?oldid=51205748"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Miyoshi_kiyotsura.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/三善清行"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原泰憲.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 泰憲（ふじわら の やすのり）は、日本の平安時代の公卿。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原泰憲"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原泰憲"
+      }
+    ]
+  }
+]

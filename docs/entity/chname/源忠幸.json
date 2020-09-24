@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/源忠幸.json",
+    "http://schema.org/description": [
+      {
+        "@value": "広幡 忠幸（ひろはた ただゆき）は、江戸時代前期の公卿。皇族として生まれ、のちに臣籍降下して広幡家を創設し、その初代当主となった。正式の姓名は、源 忠幸（みなもと の ただゆき）である。「忠」の字は兄・八条宮智忠親王より偏諱を賜ったものであり、やがて広幡家の通字となっていった。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "広幡忠幸"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "源忠幸"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/広幡忠幸"
+      }
+    ]
+  }
+]

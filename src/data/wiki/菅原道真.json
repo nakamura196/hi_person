@@ -1,0 +1,1955 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "菅原 道眞（すがわら の みちざね / みちまさ / どうしん、承和12年6月25日（845年8月1日） - 延喜3年2月25日（903年3月26日））は、日本の平安時代の貴族、学者、漢詩人、政治家。参議・菅原是善の三男。官位は従二位・右大臣。贈正一位・太政大臣。忠臣として名高く、宇多天皇に重用されて寛平の治を支えた一人であり、醍醐朝では右大臣にまで昇った。しかし、左大臣藤原時平に讒訴（ざんそ）され、大宰府へ大宰員外帥として左遷され現地で没した。死後天変地異が多発したことから、朝廷に祟りをなしたとされ、天満天神として信仰の対象となる。現在は学問の神として親しまれる。小倉百人一首では菅家。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Sugawaramichizane44.png?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://yokiten.com/"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.dazaifutenmangu.or.jp/shiru/kankou.htm"
+        },
+        {
+            "type": "uri",
+            "value": "http://researchmap.jp/kaizen/%E4%BB%8A%E6%98%94%E7%A7%80%E6%AD%8C%E7%99%BE%E6%92%B0/"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.kitanotenmangu.or.jp/"
+        },
+        {
+            "type": "uri",
+            "value": "http://michiza.net/index.shtml"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 2492242
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "17675"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "511"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 59219108
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本三代実録"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:845年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原良世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永延"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/榎社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/怨霊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/喜光寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵主部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吟詠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/博多人形"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/竹取物語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正一位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官符"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/帝釈天"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/善光寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/春宮権大夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天女"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Dômyô-ji-tenman-gû_Shrine_-_Plum_Garden.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奈良市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承和_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土師氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/相応_(僧)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勘解由使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宰権帥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元慶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀伝道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/妃"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/拾遺和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紙幣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原町"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宰府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/城上町"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/滋賀県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/梅ヶ枝餅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弓道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:903年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐橋家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/信仰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原基経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉川弘文館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三善清行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文楽"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源能有"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野見宿禰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文藝春秋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勉誠出版"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/臨川書店"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桃太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/流刑"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新古今和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/讃岐国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/在原業平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月25日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/キング_(雑誌)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/漢詩人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌舞伎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛平の治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月26日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高辻家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下野国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原衍子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/贈位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅大臣神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷽"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原院天満宮神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北野天神縁起絵巻"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天満宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/余呉湖"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅生寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/真寂法親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/更級日記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/醍醐天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷽替え"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原吉野"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平田耿二"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大岡信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/おとぎ話"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/讒訴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福岡県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堂上家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Sugawara5708.JPG"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坂本太郎_(歴史学者)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原古人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昌泰の変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原孝標"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/享年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/滝宮の念仏踊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天神信仰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/落雷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大山崎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊香保温泉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正六位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伴真成の娘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八幡神"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伴氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/備前国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伴善男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原清貫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/祟り"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文章博士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/慶頼王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/樵夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昌泰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北野天満宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉祥院天満宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秀才"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原伝授手習鑑"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天照大神"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長谷寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月25日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天変地異"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松本徹_(学者)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/百人一首"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/駅家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇室"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白山権現"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正六位上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清涼殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清水寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:大和国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/稲荷明神"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/廃屋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/半家_(公家)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宰員外帥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊受大神宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南区_(京都市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/法華経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅家廊下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大伴家持"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇多天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊香具神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大阪市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮原頴人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大伴旅人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原天満宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大学頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出雲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/守護"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出水市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原高視"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/類聚国史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/叙爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:天満宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅撰和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島田忠臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/譲位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/講談社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/補陀落"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/淡路島"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伝承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/五部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/春日大明神"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀長谷雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/政治家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩波書店"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/所功"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/玄蕃寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加賀国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原孝標女"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/春宮亮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菩提"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中央集権"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天拝山"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原淳茂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崩御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇佐"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大阪天満宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅公学生服"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅生神社_(堺市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛大将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薩摩川内市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天満大自在天神"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左遷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原国経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/義太夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古今和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1928年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野間清治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太宰府天満宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官吏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小島憲之"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原時平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島田宣来子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/845年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:20100719_Dazaifu_Tenmangu_Shrine_3328.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/870年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/871年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/867年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/862年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外戚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昭和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/児島郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/884年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/写経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/886年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/880年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/883年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/877年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近江国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/879年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/874年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/876年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/896年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浄水"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/897年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/898年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/899年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/892年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/893年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/894年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/895年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/888年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/890年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/891年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/907年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/908年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/909年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/902年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/903年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/900年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/901年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/925年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/926年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍読"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/923年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/金光明経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/913年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/謹慎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛梅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/930年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉野郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/余呉町"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/妖怪"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原有実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/淡路_(大阪市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/987年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北野天満宮_(久留米市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/儒家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/993年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の漢詩人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六国史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少内記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/淀川"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女木島"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河童"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/対策"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広瀬武夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/遣唐使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尊意"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安楽寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/羽衣伝説"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:菅原道真"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中宮大夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斉世親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東郷町藤川"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊受大御神"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:遣唐使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/城山"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Hyakuninisshu_024.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保明親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:菅原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/研文出版"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の紙幣の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉野町"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後撰和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/応天門の変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/湯田町_(薩摩川内市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅命"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:9世紀の学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白居易"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原神社_(薩摩川内市東郷町藤川)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/度会氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/側室"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西日本新聞社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/梵天"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/狂言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内裏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松原湖"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代前期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/業"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Japanese_Crest_Ume.svg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上京区"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天満宮菜種御供"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嫡流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Kitano_Tenjin_Engi_Emaki_-_Jokyo_-_Thunder_God.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文章得業生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文章生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阿衡事件"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/臨月"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東淀川区"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月13日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下京区"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桶谷秀昭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/縁起"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡田武彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/都良香"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源融"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞観_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松江市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長浜市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/式部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弁官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ウェッジ_(出版社)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Yoshitoshi_-_100_Aspects_of_the_Moon_-_16.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/祭文_(漢文)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵王権現"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/硯井天満宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ウメ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/極楽寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/私塾"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鹿児島県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新撰万葉集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月1日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原是善"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原清公"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原克巳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清涼殿落雷事件"
+        }
+    ],
+    "http://ja.dbpedia.org/property/align": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "right"
+        }
+    ],
+    "http://ja.dbpedia.org/property/caption": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大阪天満宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/博多人形"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "博多人形『弓術の場』"
+        }
+    ],
+    "http://ja.dbpedia.org/property/direction": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "horizontal"
+        }
+    ],
+    "http://ja.dbpedia.org/property/image": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Ôsaka-ten'man-gû Shintô Shrine - Figurines03 - The scene of archery.jpg"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Ôsaka-ten'man-gû Shintô Shrine - Figurines02 - The childhood of Michizane Sugawara2.jpg"
+        }
+    ],
+    "http://ja.dbpedia.org/property/width": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 270
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Main"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:洛陽天満宮二十五社順拝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:百人一首"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:脚注ヘルプ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Portal_box"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:菅公聖蹟二十五拝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Wikiquote"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Commonscat"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Normdaten"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:リダイレクトの所属カテゴリ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Multiple_image"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/醍醐天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇多天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "尊称：菅公、菅丞相、天神、天神様"
+        }
+    ],
+    "http://ja.dbpedia.org/property/墓所": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太宰府天満宮"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島田宣来子"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "長男：菅原高視"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "女子：菅原衍子"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "他[[#系譜"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "贈正一位太政大臣"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従二位右大臣"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "幼名：「阿呼」の後に「吉祥丸」へ改名"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--02-25"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "菅原道真"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原氏"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：菅原是善"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "母：伴真成の娘"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--06-25"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Sugawaramichizane44.png"
+        }
+    ],
+    "http://ja.dbpedia.org/property/神号": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "北野天満宮天神"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "日本太政威徳天"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "天満大自在天神"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:遣唐使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:845年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の紙幣の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:菅原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の漢詩人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代前期の貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:菅原道真"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:9世紀の学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:天満宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:903年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:大和国の人物"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "菅原 道眞（すがわら の みちざね / みちまさ / どうしん、承和12年6月25日（845年8月1日） - 延喜3年2月25日（903年3月26日））は、日本の平安時代の貴族、学者、漢詩人、政治家。参議・菅原是善の三男。官位は従二位・右大臣。贈正一位・太政大臣。忠臣として名高く、宇多天皇に重用されて寛平の治を支えた一人であり、醍醐朝では右大臣にまで昇った。しかし、左大臣藤原時平に讒訴（ざんそ）され、大宰府へ大宰員外帥として左遷され現地で没した。死後天変地異が多発したことから、朝廷に祟りをなしたとされ、天満天神として信仰の対象となる。現在は学問の神として親しまれる。小倉百人一首では菅家。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "菅原道真"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://pl.dbpedia.org/resource/Michizane_Sugawara"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q382005"
+        },
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Сугавара-но_Митидзанэ"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Sugawara_no_Michizane"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/스가와라노_미치자네"
+        },
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Суґавара_но_Мітідзане"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sugawara_no_Michizane"
+        },
+        {
+            "type": "uri",
+            "value": "http://fi.dbpedia.org/resource/Sugawara_no_Michizane"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q382005"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/菅原道真"
+        },
+        {
+            "type": "uri",
+            "value": "http://fa.dbpedia.org/resource/سوگاوارا_نو_میچی‌زانه"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Sugawara_no_Michizane"
+        },
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Sugawara_no_Michizane"
+        },
+        {
+            "type": "uri",
+            "value": "http://br.dbpedia.org/resource/Sugawara_no_Michizane"
+        },
+        {
+            "type": "uri",
+            "value": "http://sh.dbpedia.org/resource/Sugawara_no_Michizane"
+        },
+        {
+            "type": "uri",
+            "value": "http://id.dbpedia.org/resource/Sugawara_no_Michizane"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Sugawara_no_Michizane"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Sugawara_no_Michizane"
+        },
+        {
+            "type": "uri",
+            "value": "http://ar.dbpedia.org/resource/سوغاوارا_نو_ميتشيزانه"
+        },
+        {
+            "type": "uri",
+            "value": "http://nl.dbpedia.org/resource/Sugawara_no_Michizane"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/菅原道真?oldid=59219108"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Sugawaramichizane44.png"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/菅原道真"
+        }
+    ]
+}

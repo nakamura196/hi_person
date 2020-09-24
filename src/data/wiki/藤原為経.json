@@ -1,0 +1,255 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "寂超（じゃくちょう、生没年不詳）は、平安時代末期の官人・歌人。俗名は藤原 為経（ふじわら の ためつね）。藤原北家長良流。丹後守藤原為忠の子。初名は盛忠を名乗った。従五位上、長門守。蔵人・長門守・皇后宮少進を歴任するが、康治2年（1143年）5月10日に出家し大原に隠棲する。法名を寂超と称し、同じく出家した兄弟の寂念・寂然とともに大原三寂・常盤三寂と呼ばれた。和歌に優れ私撰集に『後葉和歌集』があり、『千載和歌集』以下の勅撰和歌集に15首が入首。『歌仙落書』の中に、弟の寂然とともに秀歌例として三首が掲げられ「風体さびたるさまなるべし。明石の浦の霧がくれに海人の釣舟きえ行くをみるとや云ふべからむ（＝歌の様が古風で趣がある。まるで明石の浦の霧が立ち込める中を海人の釣舟が消えていくのをみるようであるというべきであろう）」と評されている。また、『今鏡』の作者の有力候補とされる。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 688088
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "1002"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "38"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 51238400
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長門国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:長良流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原長良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寂念"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/五条局"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の僧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千載和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大原三寂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大原_(京都市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橘俊宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原北家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原隆信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戒名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1143年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/康治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌仙落書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇后宮職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅撰和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原実清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原為忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八条院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹後国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/美福門院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原親忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寂然"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今鏡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後葉和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原俊成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/常盤三寂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源通能"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Writer-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Portal"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の僧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:長良流"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "寂超（じゃくちょう、生没年不詳）は、平安時代末期の官人・歌人。俗名は藤原 為経（ふじわら の ためつね）。藤原北家長良流。丹後守藤原為忠の子。初名は盛忠を名乗った。従五位上、長門守。蔵人・長門守・皇后宮少進を歴任するが、康治2年（1143年）5月10日に出家し大原に隠棲する。法名を寂超と称し、同じく出家した兄弟の寂念・寂然とともに大原三寂・常盤三寂と呼ばれた。和歌に優れ私撰集に『後葉和歌集』があり、『千載和歌集』以下の勅撰和歌集に15首が入首。『歌仙落書』の中に、弟の寂然とともに秀歌例として三首が掲げられ「風体さびたるさまなるべし。明石の浦の霧がくれに海人の釣舟きえ行くをみるとや云ふべからむ（＝歌の様が古風で趣がある。まるで明石の浦の霧が立ち込める中を海人の釣舟が消えていくのをみるようであるというべきであろう）」と評されている。また、『今鏡』の作者の有力候補とされる。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "寂超"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11455674"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11455674"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/寂超?oldid=51238400"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/寂超"
+        }
+    ]
+}

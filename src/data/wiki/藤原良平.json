@@ -1,0 +1,536 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原  良平（ふじわら りょうへい、1986年2月15日 - ）は、埼玉西武ライオンズに所属するプロ野球選手（投手）。"
+        }
+    ],
+    "http://dbpedia.org/ontology/battingSide": [
+        {
+            "type": "literal",
+            "value": "右"
+        }
+    ],
+    "http://dbpedia.org/ontology/birthDate": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#date",
+            "type": "literal",
+            "value": "1986-02-15"
+        }
+    ],
+    "http://dbpedia.org/ontology/birthPlace": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵庫県"
+        }
+    ],
+    "http://dbpedia.org/ontology/club": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/埼玉西武ライオンズ"
+        }
+    ],
+    "http://dbpedia.org/ontology/commonName": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 良平"
+        }
+    ],
+    "http://dbpedia.org/ontology/number": [
+        {
+            "type": "literal",
+            "value": "28"
+        }
+    ],
+    "http://dbpedia.org/ontology/position": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/投手"
+        }
+    ],
+    "http://dbpedia.org/ontology/team": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第一工業大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳥取城北高等学校"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/埼玉西武ライオンズ"
+        }
+    ],
+    "http://dbpedia.org/ontology/throwingSide": [
+        {
+            "type": "literal",
+            "value": "右"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1238768
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "3927"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "55"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 57766647
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1986年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/QVCマリンフィールド"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:第一工業大学硬式野球部の選手"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/笘篠賢治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/シンカー・スクリューボール"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/カーブ_(球種)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵庫県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広島東洋カープ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳥取城北高等学校"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:兵庫県出身の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の野球選手"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1986年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大工"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/能見篤史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第一工業大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2007年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/スリークォーター"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/スライダー_(球種)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ダディー・ヤンキー"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/川口和久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2007年度新人選手選択会議_(日本プロ野球)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/社会人野球"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝来市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/埼玉西武ライオンズの選手一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本プロ野球"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵庫県出身の人物一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/イースタン・リーグ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/速球"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/投手"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/サブロー"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:埼玉西武ライオンズ及びその前身球団の選手"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/埼玉西武ライオンズ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/サイドスロー"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/みよし運動公園野球場"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月13日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:存命人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/プロ野球選手"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月15日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西武ドーム"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千葉ロッテマリーンズ"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:西武ライオンズ2007年ドラフト指名選手"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:JPN"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:By2"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:生年月日と年齢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:By"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:埼玉西武ライオンズ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Infobox_baseball_player"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Otheruses"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:NPBドラフト"
+        }
+    ],
+    "http://ja.dbpedia.org/property/ドラフト順位": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大学生・社会人ドラフト3巡目"
+        }
+    ],
+    "http://ja.dbpedia.org/property/体重": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 80
+        }
+    ],
+    "http://ja.dbpedia.org/property/写真のコメント": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 2012
+        }
+    ],
+    "http://ja.dbpedia.org/property/出身地": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "兵庫県朝来市"
+        }
+    ],
+    "http://ja.dbpedia.org/property/初出場": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--05-04"
+        }
+    ],
+    "http://ja.dbpedia.org/property/利き腕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "右"
+        }
+    ],
+    "http://ja.dbpedia.org/property/守備位置": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/投手"
+        }
+    ],
+    "http://ja.dbpedia.org/property/年俸": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1000
+        }
+    ],
+    "http://ja.dbpedia.org/property/所属球団": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "埼玉西武ライオンズ"
+        }
+    ],
+    "http://ja.dbpedia.org/property/打席": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "右"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生年月日": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#date",
+            "type": "literal",
+            "value": "1986-02-15"
+        }
+    ],
+    "http://ja.dbpedia.org/property/経歴": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "* 鳥取城北高等学校\n* 第一工業大学\n* 埼玉西武ライオンズ"
+        }
+    ],
+    "http://ja.dbpedia.org/property/背番号": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 28
+        }
+    ],
+    "http://ja.dbpedia.org/property/身長": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 181
+        }
+    ],
+    "http://ja.dbpedia.org/property/選手名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 良平"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:兵庫県出身の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:存命人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:第一工業大学硬式野球部の選手"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1986年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:埼玉西武ライオンズ及びその前身球団の選手"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の野球選手"
+        }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q10871364"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q215627"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Athlete"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"
+        },
+        {
+            "type": "uri",
+            "value": "http://schema.org/Person"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/BaseballPlayer"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.w3.org/2002/07/owl#Thing"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原  良平（ふじわら りょうへい、1986年2月15日 - ）は、埼玉西武ライオンズに所属するプロ野球選手（投手）。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原良平"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q7385279"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/후지와라_료헤이"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ryohei_Fujiwara"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q7385279"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原良平?oldid=57766647"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原良平"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 良平"
+        }
+    ]
+}

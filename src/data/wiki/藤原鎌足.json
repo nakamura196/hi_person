@@ -1,0 +1,950 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "中臣 鎌足（なかとみ の かまたり）のち藤原 鎌足（ふじわら の かまたり）は、飛鳥時代の政治家。日本の歴史における最大氏族「藤原氏」の始祖。大化の改新の中心人物であり、改新後も中大兄皇子（天智天皇）の腹心として活躍し、藤原氏繁栄の礎を築いた。『藤氏家伝』には「偉雅、風姿特秀」と記されている。字は仲郎。"
+        }
+    ],
+    "http://dbpedia.org/ontology/successor": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原房前"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujiwara-Kamatari.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://www.myj7000.jp-biz.net/clan/02/020/02000.htm"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.myj7000.jp-biz.net/clan/02/021/02109.htm"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 88155
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "5592"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "169"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 56591022
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尊卑分脈"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Fujiwara_Kamatari_Stamp_in_1939.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:FuijiwaranoKamatari.JPG"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/645年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/654年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多武峯"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/車持与志古娘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大織冠神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南淵請安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中臣氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大織冠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/額田女王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大鏡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:飛鳥時代の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:669年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/園村昌弘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/十陵四墓"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正室"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天智と天武～新説・日本書記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/定恵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/NHK大阪放送局"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橿原市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山科区"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月14日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天智天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥板蓋宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鏡王女"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本三代実録"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:614年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/興福寺縁起"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/采女"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/欽明天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大伴咋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/但馬皇女"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昭和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高市郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/耳面刀自"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/氷上娘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤氏家伝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/金銀糸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斗売娘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三國連太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安威村"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明日香村"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弘文天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阿倍内麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中村真理子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/排仏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長屋王の変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂津国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中臣東人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/推古天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中臣御食子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菊池容斎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蘇我倉山田石川麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大和国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/乙巳の変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蘇我入鹿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蘇我蝦夷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:常陸国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/俳優"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本書紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月16日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1934年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌経標式"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原房前"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新田部親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原氏の人物一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡田准一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中臣意美麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大化改新_(テレビドラマ)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ビッグコミック"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/常陸国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白村江の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/字"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:中臣氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中臣鎌子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大伴智仙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原不比等"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/忍陵神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奈良県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/茨木市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/669年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大化"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阿武山古墳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/政治家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四條畷市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/カバネ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原釜足"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝日放送"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/物部尾輿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/614年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/858年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/五百重娘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多武峯略記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多武峯縁起絵巻"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大阪府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六韜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/孝徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/壱志姫王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天武天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桜井市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:万葉歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:藤原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/647年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の神_(人物神)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/649年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白雉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇極天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小学館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/茨城県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の紙幣の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/644年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/談山神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大化の改新"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:大和国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関西学院大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万葉集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鹿嶋市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/サトウハチロー"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/氏族"
+        }
+    ],
+    "http://ja.dbpedia.org/property/after": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原房前"
+        }
+    ],
+    "http://ja.dbpedia.org/property/before": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "（新設）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/title": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内臣"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Smaller"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Start_box"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Succession_box"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:End_box"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:People-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Normdaten"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:S-off"
+        }
+    ],
+    "http://ja.dbpedia.org/property/years": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 645
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/孝徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇極天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天智天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/墓所": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阿武山古墳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大織冠神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/談山神社"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "鏡王女、車持与志古娘"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原不比等"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/五百重娘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/定恵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/耳面刀自"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/氷上娘"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大織冠内大臣"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "中臣鎌子→中臣鎌足→藤原鎌足"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--10-16"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 鎌足"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中臣氏"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：中臣御食子、母：大伴智仙娘"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "推古天皇22年（614年）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Fujiwara-Kamatari.jpg"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像説明": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菊池容斎"
+        }
+    ],
+    "http://ja.dbpedia.org/property/神号": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "談山権現、談山大明神"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:藤原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の紙幣の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:大和国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の神_(人物神)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:万葉歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:614年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:669年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:中臣氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:飛鳥時代の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:常陸国の人物"
+        }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+        {
+            "type": "uri",
+            "value": "http://www.w3.org/2002/07/owl#Thing"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "中臣 鎌足（なかとみ の かまたり）のち藤原 鎌足（ふじわら の かまたり）は、飛鳥時代の政治家。日本の歴史における最大氏族「藤原氏」の始祖。大化の改新の中心人物であり、改新後も中大兄皇子（天智天皇）の腹心として活躍し、藤原氏繁栄の礎を築いた。『藤氏家伝』には「偉雅、風姿特秀」と記されている。字は仲郎。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原鎌足"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://sh.dbpedia.org/resource/Fujiwara_no_Kamatari"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Fujiwara_no_Kamatari"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q433995"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Fujiwara_no_Kamatari"
+        },
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Fujiwara_no_Kamatari"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Fujiwara_no_Kamatari"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Fujiwara_no_Kamatari"
+        },
+        {
+            "type": "uri",
+            "value": "http://hr.dbpedia.org/resource/Fujiwara_no_Kamatari"
+        },
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Фудзивара-но_Каматари"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/藤原鎌足"
+        },
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Накатомі_но_Каматарі"
+        },
+        {
+            "type": "uri",
+            "value": "http://nl.dbpedia.org/resource/Fujiwara_no_Kamatari"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Fujiwara_no_Kamatari"
+        },
+        {
+            "type": "uri",
+            "value": "http://pl.dbpedia.org/resource/Kamatari_Fujiwara"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q433995"
+        },
+        {
+            "type": "uri",
+            "value": "http://fi.dbpedia.org/resource/Fujiwara_no_Kamatari"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/후지와라_가마타리"
+        },
+        {
+            "type": "uri",
+            "value": "http://be.dbpedia.org/resource/Фудзівара-но_Каматары"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原鎌足?oldid=56591022"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujiwara-Kamatari.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原鎌足"
+        }
+    ]
+}

@@ -1,0 +1,775 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "中院 定平（なかのいん さだひら、生没年不詳）は、鎌倉時代末から南北朝時代前期にかけての公卿･武将。村上源氏は大納言定房の玄孫にして、陸奥守定成の子だが、家を中院と号する。元弘の乱の際は護良親王に属して幕府軍と戦い、建武政権とその後の南朝でも公家大将の1人として軍忠を抜きん出たとされる。初名は良定（よしさだ）。なお、征西将軍府の要人として懐良親王に随従した中院義定（― よしさだ）と同一人と見なす説もある。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 2804323
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "4248"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "162"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 56530583
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉川弘文館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/森茂暁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵糧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大和路"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条高直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/生没年不詳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺実俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/護良親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/着到状"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神感寺城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東海道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/恩賞方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安堵状"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/木本宗元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東四柳史明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上杉氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四条隆資"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/おうふう"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/總持寺祖院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元弘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:14世紀没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北畠顕能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令旨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国宣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/能登国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利尊氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東京大学史料編纂所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小木喬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正平一統"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:村上源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/結城親光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河内国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後醍醐天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/比叡山"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条為明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東山道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右兵衛督"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:能登国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/極官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳥羽街道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:河内国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源定房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永光寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1333年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/懐良親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1334年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1335年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1336年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六波羅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1337年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/袖判"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/赤松円心"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1338年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新葉和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昭訓門院春日局"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/楠木正成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇治郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建武_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/竹田"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1331年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/軍忠状"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左少将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1352年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/玄孫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衆徒"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/知行国主"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北陸朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1340年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/観心寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:室町・安土桃山時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/能登国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松尾寺_(和泉市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/村上源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公家大将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/湊川の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九州"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸奥守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花押かがみ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月7日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東大阪市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条治時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正平_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院定清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院義定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉野山"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南朝_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/生田神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/笠置山_(京都府)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/良忠_(二条家)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院雅平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近江国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正慶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二階堂道蘊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀伊国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後村上天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右中将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺公宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奈良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松本新八郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷲尾城_(河内国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北畠親房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元弘の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建武政権"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉野城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尊卑分脈"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宣旨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高間行秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/笠間書院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安井久善"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千早城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新田義貞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:生年不明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/願文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小川信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花山院師賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名和長年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/青史出版"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/征西将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇陀郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河出書房新社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南北朝時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太平記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花押"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:NCID"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後村上天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後醍醐天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/兄弟": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "家房、定平"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "（北畠顕能？）"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院定清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院雅平"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南朝_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "良定→定平"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南北朝時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "不詳"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "中院定平"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "村上源氏定房流"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：源定成"
+        }
+    ],
+    "http://ja.dbpedia.org/property/特記事項": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院義定"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "不詳"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:能登国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:生年不明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:14世紀没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:河内国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:村上源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:室町・安土桃山時代の公家"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "中院 定平（なかのいん さだひら、生没年不詳）は、鎌倉時代末から南北朝時代前期にかけての公卿･武将。村上源氏は大納言定房の玄孫にして、陸奥守定成の子だが、家を中院と号する。元弘の乱の際は護良親王に属して幕府軍と戦い、建武政権とその後の南朝でも公家大将の1人として軍忠を抜きん出たとされる。初名は良定（よしさだ）。なお、征西将軍府の要人として懐良親王に随従した中院義定（― よしさだ）と同一人と見なす説もある。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "中院定平"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q17226866"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q17226866"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/中院定平?oldid=56530583"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/中院定平"
+        }
+    ]
+}

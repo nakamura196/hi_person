@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原兼頼.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 兼頼（ふじわら の かねより）は平安時代中期から後期にかけての公卿。右大臣・藤原頼宗の長男。小野宮中納言と号す。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原兼頼"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原兼頼"
+      }
+    ]
+  }
+]

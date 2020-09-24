@@ -1,0 +1,457 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "山部 赤人（やまべ の あかひと、生年不詳 - 天平8年（736年）?）は、奈良時代の歌人。三十六歌仙の一人。姓は宿禰。大山上・山部足島の子とし、子に磐麻呂がいたとする系図がある。官位は外従六位下・上総少目。後世、山邊（辺）赤人と表記されることもある。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Yamabe_no_Akahito.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://www.kokugo.aichi-edu.ac.jp/taguchi/taguchi.html"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 52897
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2538"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "66"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58334404
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三十六歌仙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/聖武天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/滋賀県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後撰和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Kuniyoshi_Utagawa,_Yamabe_no_Akahito,_famous_poet.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大伴旅人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/拾遺和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長歌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/続日本紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:山部氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅撰和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/行幸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:上総国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/家持集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:奈良時代の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Hyakuninisshu_004.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:万葉歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の神_(人物神_歌人)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大山上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/田口尚幸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山部神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山部足島"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/カバネ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東近江市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宿禰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奈良県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大伴家持"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古今和歌集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/五輪塔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Yamabe_no_Akahito.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山上憶良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/736年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柿本人麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万葉集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/人麻呂集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:小倉百人一首の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奈良時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神亀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鼎書房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/赤人集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の上代文学史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Sanjūrokkasen-gaku_-_6_-_Kanō_Tan’yū_-_Yamabe_no_Akahito.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Lit.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/私家集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:生年不明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和歌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/叙景歌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上総国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万葉歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三十六人集"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仮名序"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀貫之"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/額井岳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/短歌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇陀市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:730年代没"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Redirect"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:PAGENAME"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Wikiquote"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Writer-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Portal"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:要出典"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:百人一首"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:山部氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:小倉百人一首の歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:万葉歌人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の神_(人物神_歌人)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:奈良時代の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:上総国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:730年代没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:生年不明"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "山部 赤人（やまべ の あかひと、生年不詳 - 天平8年（736年）?）は、奈良時代の歌人。三十六歌仙の一人。姓は宿禰。大山上・山部足島の子とし、子に磐麻呂がいたとする系図がある。官位は外従六位下・上総少目。後世、山邊（辺）赤人と表記されることもある。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "山部赤人"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Yamabe_no_Akahito"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/山部赤人"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Yamabe_no_Akahito"
+        },
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Ямабэ-но_Акахито"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Yamabe_no_Akahito"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q180929"
+        },
+        {
+            "type": "uri",
+            "value": "http://ml.dbpedia.org/resource/യാമബേനോ_അകഹിതോ"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Yamabe_no_Akahito"
+        },
+        {
+            "type": "uri",
+            "value": "http://ast.dbpedia.org/resource/Yamabe_non_Akahito"
+        },
+        {
+            "type": "uri",
+            "value": "http://ka.dbpedia.org/resource/იამაბე_აკაჰიტო"
+        },
+        {
+            "type": "uri",
+            "value": "http://id.dbpedia.org/resource/Yamabe_no_Akahito"
+        },
+        {
+            "type": "uri",
+            "value": "http://hi.dbpedia.org/resource/अकाहिटो"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q180929"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/山部赤人?oldid=58334404"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Yamabe_no_Akahito.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/山部赤人"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原有子.json",
+    "http://schema.org/description": [
+      {
+        "@value": "［1207～1286］後堀河天皇の皇后。名は藤原有子。藤原公房の娘。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "安喜門院"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原有子"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/安喜門院-429106"
+      }
+    ]
+  }
+]

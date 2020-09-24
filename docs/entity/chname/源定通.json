@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/源定通.json",
+    "http://schema.org/description": [
+      {
+        "@value": "土御門 定通（つちみかど さだみち）は、鎌倉時代前期から中期の公卿。源通親の四男。村上源氏土御門家の祖。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "土御門定通"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "源定通"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/土御門定通"
+      }
+    ]
+  }
+]

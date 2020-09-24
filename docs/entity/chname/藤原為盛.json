@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原為盛.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 為盛（ふじわら の ためもり、生年不詳 - 長元2年（1029年））は、平安時代の官人。藤原北家魚名流、参議・藤原安親の子。官位は従四位下・越前守。"
+      },
+      {
+        "@value": "…近時この尊円親王の肖像画(青蓮院旧蔵，ホノルル･アカデミー美術館)を豪信筆と推定する見解が提出されている。なお豪信以降，同じ家系の似絵画家として15世紀初頭に藤原為盛が知られるが作品は伝わらない。【米倉 迪夫】。…"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原為盛"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/藤原為盛"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原為盛"
+      }
+    ]
+  }
+]

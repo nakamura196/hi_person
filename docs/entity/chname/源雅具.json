@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/源雅具.json",
+    "http://schema.org/description": [
+      {
+        "@value": "源 雅具（みなもと の まさとも）は鎌倉時代前期の公卿。権中納言、正二位。本名は重能。父は正三位権中納言源兼忠、母は不詳。大納言源通具の子となる。子は大納言に至った雅言、左少将に至った親頼。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "源雅具"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/源雅具"
+      }
+    ]
+  }
+]

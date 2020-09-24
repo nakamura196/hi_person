@@ -1,0 +1,592 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "柳原 紀光（やなぎはら のりみつ/もとみつ、延享3年11月14日（1746年12月25日） - 寛政12年1月3日（1800年1月27日））は、江戸時代の公卿（正二位権大納言）・歴史家。父は柳原光綱で、母は丹波柏原藩藩主織田信休の娘。幼名は綱丸、初名は光房（～明和4年（1767年））、字は藤蔓、出家後の法名は暁寂。妻は勧修寺顕道の娘・道子。子には長男柳原均光・次男資前他、娘が数人いる。柳原前光・愛子（大正天皇生母）兄妹は玄孫、柳原義光・柳原白蓮義兄妹は来孫にあたる。歴史書『続史愚抄』の著者。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Yanagiwara_Motomitsu.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 346886
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2710"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "103"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58062028
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日野家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原義光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1775年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月27日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹波国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月3日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1781年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名家_(公家)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六国史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:江戸時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1789年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/叙爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/解官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1746年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原前光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1798年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/続史愚抄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1800年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:柳原家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崩御"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原光綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/亀山天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原愛子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東京大学史料編纂所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後桃園天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後桜町天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原白蓮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原均光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原資前"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月25日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戒名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北朝_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩倉具選"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武家年代記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/玄孫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宝暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勧修寺顕道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延享"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桃園天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原北家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長門国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉野朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/光格天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大正天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条西家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹波柏原藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:江戸時代の歴史家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月14日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇代暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/森田悌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歴史書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本後紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1746年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1748年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歴史家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/毛利匡邦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1756年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清末藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/百錬抄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/来孫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛延"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:18世紀の学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寛政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勘事"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1800年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田信休"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桜町天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1767年"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:People-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Color"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:脚注ヘルプ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_公家"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主君": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桜町天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後桜町天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桃園天皇"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "後桃園天皇 → 光格天皇"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤蔓"
+        }
+    ],
+    "http://ja.dbpedia.org/property/妻": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "勧修寺道子（父：勧修寺顕道）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "均光、資前、淳子（長門清末藩4代藩主 毛利匡邦室、寂照院）、他"
+        }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "暁寂（法名）"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "綱丸（幼名） → 光房（初名） → 紀光"
+        }
+    ],
+    "http://ja.dbpedia.org/property/時代": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        }
+    ],
+    "http://ja.dbpedia.org/property/死没": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--01-03"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "柳原 紀光"
+        }
+    ],
+    "http://ja.dbpedia.org/property/氏族": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "柳原家（藤原北家日野流）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/父母": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "母：織田信休の娘（丹波柏原藩藩主家）"
+        },
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "父：柳原光綱"
+        }
+    ],
+    "http://ja.dbpedia.org/property/生誕": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+            "type": "literal",
+            "value": "--11-14"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Yanagiwara Motomitsu.jpg"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像サイズ": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 250
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像説明": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "柳原紀光像（岩倉具選筆、個人蔵）"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:江戸時代の歴史家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:江戸時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:柳原家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:18世紀の学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1746年生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1800年没"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "柳原 紀光（やなぎはら のりみつ/もとみつ、延享3年11月14日（1746年12月25日） - 寛政12年1月3日（1800年1月27日））は、江戸時代の公卿（正二位権大納言）・歴史家。父は柳原光綱で、母は丹波柏原藩藩主織田信休の娘。幼名は綱丸、初名は光房（～明和4年（1767年））、字は藤蔓、出家後の法名は暁寂。妻は勧修寺顕道の娘・道子。子には長男柳原均光・次男資前他、娘が数人いる。柳原前光・愛子（大正天皇生母）兄妹は玄孫、柳原義光・柳原白蓮義兄妹は来孫にあたる。歴史書『続史愚抄』の著者。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "柳原紀光"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11534154"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11534154"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/柳原紀光?oldid=58062028"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Yanagiwara_Motomitsu.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/柳原紀光"
+        }
+    ]
+}

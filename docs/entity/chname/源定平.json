@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/源定平.json",
+    "http://schema.org/description": [
+      {
+        "@value": "中院 定平（なかのいん さだひら、生没年不詳）は、鎌倉時代末から南北朝時代前期にかけての公卿･武将。村上源氏は大納言定房の玄孫にして、陸奥守定成の子だが、家を中院と号する。元弘の乱の際は護良親王に属して幕府軍と戦い、建武政権とその後の南朝でも公家大将の1人として軍忠を抜きん出たとされる。初名は良定（よしさだ）。なお、征西将軍府の要人として懐良親王に随従した中院義定（― よしさだ）と同一人と見なす説もある。"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "中院定平"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "源定平"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/中院定平"
+      }
+    ]
+  }
+]

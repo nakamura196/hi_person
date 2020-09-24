@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原成家.json",
+    "http://schema.org/description": [
+      {
+        "@value": "1155－1220　平安後期-鎌倉時代の公卿(くぎょう)。久寿2年生まれ。藤原俊成(としなり)の長男。母は美福門院加賀。正三位,兵部卿となった。藤原定家の同母兄だが,仲は疎遠だったという。承久(じょうきゅう)2年6月4日死去。66歳。"
+      },
+      {
+        "@value": "藤原 成家（ふじわら の なりいえ、久寿2年（1155年）- 承久2年6月4日（1220年7月5日））は鎌倉時代初期の公卿。御子左流藤原俊成の長男。正三位・兵部卿。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原成家"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原成家"
+      },
+      {
+        "@id": "https://kotobank.jp/word/藤原成家"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原頼嗣.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 頼嗣（ふじわら の よりつぐ）は、鎌倉幕府5代将軍。五摂家のひとつ、九条家の出身の摂家将軍。"
+      },
+      {
+        "@value": "鎌倉幕府５代将軍。父藤原頼経を継いで1244年将軍となるが，1252年廃されて帰京，父子２代の摂家(せっけ)将軍は終わった。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原頼嗣"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原頼嗣"
+      },
+      {
+        "@id": "https://kotobank.jp/word/藤原頼嗣"
+      }
+    ]
+  }
+]

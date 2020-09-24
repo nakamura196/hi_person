@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原宗隆.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 宗隆（ふじわら の むねたか）は平安時代後期から鎌倉時代前期にかけての公卿。藤原北家、権中納言・藤原長方の長男。"
+      },
+      {
+        "@value": "1166－1205　鎌倉時代の公卿(くぎょう)。仁安(にんあん)元年生まれ。藤原長方の子。母は藤原通憲(みちのり)の娘。蔵人頭(くろうどのとう)をへて建久9年参議となり,左大弁,勘解由(かげゆ)長官を兼任。建仁(けんにん)元年権(ごんの)中納言,2年正三位。梅小路中納言とよばれた。元久2年3月28日死去。40歳。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原宗隆"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "https://kotobank.jp/word/藤原宗隆"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原宗隆"
+      }
+    ]
+  }
+]

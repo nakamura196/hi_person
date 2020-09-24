@@ -1,0 +1,227 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 朝俊（ふじわら の ともとし、生年未詳 - 承久3年6月14日（1221年7月5日））は、鎌倉時代初期の廷臣。藤原北家勧修寺流、侍従藤原朝経の子（またはその兄朝定の子とも）。権大納言藤原朝方は祖父。母は中納言藤原親信の娘。常陸介、右衛門佐。後鳥羽上皇、順徳天皇の近臣として仕える。承応2年（1208年）に鳩を取るために朱雀門に昇り、その火が延焼して門が炎上した記事が『明月記』に見えるが、その際「ただ弓馬相撲をもって芸となす。殊に近臣なり」と紹介されており、武芸の才をもって重用されていたことがうかがわれる。承久3年（1221年）の承久の乱においては、後鳥羽上皇の討幕計画に参加。 高倉範茂らとともに宇治方面の防衛に当たるが、宇治川の戦いにおいて鎌倉幕府軍と衝突。八田知尚や佐々木高重ら諸将とともに奮戦するが、乱戦の中で三浦義村の郎党・小河経村によって討ち取られた。『六代勝事記』においてはその果敢な戦いぶりを賞賛されている。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 2705374
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "799"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "33"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 50271235
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平治物語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六代勝事記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1221年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1221年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月14日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:勧修寺流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原親信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承久の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三浦義村"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1208年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八田知尚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勧修寺流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月5日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承久記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原朝方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原北家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保元物語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後鳥羽天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇治市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/順徳天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木高重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承応"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右衛門佐"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇治川"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明月記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朱雀門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高倉範茂"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:鎌倉時代の公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:1221年没"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:勧修寺流"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 朝俊（ふじわら の ともとし、生年未詳 - 承久3年6月14日（1221年7月5日））は、鎌倉時代初期の廷臣。藤原北家勧修寺流、侍従藤原朝経の子（またはその兄朝定の子とも）。権大納言藤原朝方は祖父。母は中納言藤原親信の娘。常陸介、右衛門佐。後鳥羽上皇、順徳天皇の近臣として仕える。承応2年（1208年）に鳩を取るために朱雀門に昇り、その火が延焼して門が炎上した記事が『明月記』に見えるが、その際「ただ弓馬相撲をもって芸となす。殊に近臣なり」と紹介されており、武芸の才をもって重用されていたことがうかがわれる。承久3年（1221年）の承久の乱においては、後鳥羽上皇の討幕計画に参加。 高倉範茂らとともに宇治方面の防衛に当たるが、宇治川の戦いにおいて鎌倉幕府軍と衝突。八田知尚や佐々木高重ら諸将とともに奮戦するが、乱戦の中で三浦義村の郎党・小河経村によって討ち取られた。『六代勝事記』においてはその果敢な戦いぶりを賞賛されている。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原朝俊"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11623337"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11623337"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原朝俊?oldid=50271235"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原朝俊"
+        }
+    ]
+}

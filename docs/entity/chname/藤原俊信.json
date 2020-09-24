@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原俊信.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 俊信（ふじわら の としのぶ、天喜3年（1055年） - 長治2年2月1日（1105年2月17日）は、平安時代後期の貴族・学者。藤原北家日野流、右大弁・藤原正家の次男。官位は正五位下・右少弁。初名は家通。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原俊信"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原俊信"
+      }
+    ]
+  }
+]

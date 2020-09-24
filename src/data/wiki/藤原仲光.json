@@ -1,0 +1,247 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 仲光（ふじわら の なかみつ、生没年不詳）は、平安時代中期の武士。藤原氏の流れを汲むと考えられるが、詳しい系譜は不明。一説によると藤原北家秀郷流とされるが、伝説上の人物ともいわれている。藤原仲義（塩川仲義）、幸寿丸らの父。源満仲の家臣として仕え、満仲が都を離れて摂津国川辺郡多田盆地に入部したのに伴い、同国池田の地に土着したとされ、現在の大阪府池田市伏尾町の八幡城址は、仲光の居城跡だとする説がある。藤原秀郷の一族を追捕している満仲が、なぜ秀郷の嫡流である仲光を郎党にしたのかは不明だが、源満仲と藤原仲光との間に起きた「美女丸・幸寿丸の事件」を機に、満仲が隠居した後、仲光は多田院の主代殿となるなど、初期清和源氏の発展に貢献したとされる。また、高野山奥之院に存在する満仲の供養塔は仲光によって建立されたものであると伝えられる。後代、仲光は平安時代の代表的武人として伝説化され説話が残された（詳細は『美女丸伝説』を参照）。現在、清和源氏ゆかりの寺院である兵庫県川西市の満願寺や小童寺、同宝塚市の普明寺などの境内に美女丸・幸寿丸と共に仲光の供養塔が存在する。仲光の後裔を称する氏族として、出羽池田氏や多田院御家人の筆頭として知られる塩川氏などがある。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1672358
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "977"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "38"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 59104549
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宝塚市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:摂津国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多田院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原秀郷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:秀郷流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/美女丸伝説"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/普明寺_(宝塚市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出羽"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小童寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多田院御家人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清和源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/川西市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/池田秀盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大阪府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/隠居"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:塩川氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八幡城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/満願寺_(川西市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂津国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/塩川氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原北家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/川辺郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/幸寿丸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多田盆地"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/池田市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/池田氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵庫県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/説話"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高野山"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/美女丸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源満仲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多田神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/池田盛周"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安時代の武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:摂津国の人物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:秀郷流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:塩川氏"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原 仲光（ふじわら の なかみつ、生没年不詳）は、平安時代中期の武士。藤原氏の流れを汲むと考えられるが、詳しい系譜は不明。一説によると藤原北家秀郷流とされるが、伝説上の人物ともいわれている。藤原仲義（塩川仲義）、幸寿丸らの父。源満仲の家臣として仕え、満仲が都を離れて摂津国川辺郡多田盆地に入部したのに伴い、同国池田の地に土着したとされ、現在の大阪府池田市伏尾町の八幡城址は、仲光の居城跡だとする説がある。藤原秀郷の一族を追捕している満仲が、なぜ秀郷の嫡流である仲光を郎党にしたのかは不明だが、源満仲と藤原仲光との間に起きた「美女丸・幸寿丸の事件」を機に、満仲が隠居した後、仲光は多田院の主代殿となるなど、初期清和源氏の発展に貢献したとされる。また、高野山奥之院に存在する満仲の供養塔は仲光によって建立されたものであると伝えられる。後代、仲光は平安時代の代表的武人として伝説化され説話が残された（詳細は『美女丸伝説』を参照）。現在、清和源氏ゆかりの寺院である兵庫県川西市の満願寺や小童寺、同宝塚市の普明寺などの境内に美女丸・幸寿丸と共に仲光の供養塔が存在する。仲光の後裔を称する氏族として、出羽池田氏や多田院御家人の筆頭として知られる塩川氏などがある。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "藤原仲光"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11623012"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11623012"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原仲光?oldid=59104549"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/藤原仲光"
+        }
+    ]
+}

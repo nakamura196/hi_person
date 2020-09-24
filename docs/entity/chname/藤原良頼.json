@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原良頼.json",
+    "http://schema.org/description": [
+      {
+        "@value": "藤原 良頼（ふじわら の よしより）は、平安時代中期の公卿。中納言藤原隆家の長男。"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原良頼"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/藤原良頼"
+      }
+    ]
+  }
+]
