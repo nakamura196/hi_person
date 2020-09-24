@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原公時.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "滋野井 公時（しげのい きんとき）は平安時代後期から鎌倉時代前期の公卿。権大納言・滋野井実国の次男。滋野井家2代当主。"

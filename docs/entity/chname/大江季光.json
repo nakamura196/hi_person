@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/大江季光.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1202－1247　鎌倉時代の武将。建仁(けんにん)2年生まれ。大江広元の4男。相模(さがみ)(神奈川県)毛利荘を領し,毛利氏を称した(同氏初代)。承久(じょうきゅう)の乱で活躍,天福元年(1233)幕府評定衆となる。妻が三浦泰村の妹であったため,三浦氏の乱に際しては泰村方について北条氏とたたかい,宝治(ほうじ)元年6月5日自害。46歳。法名は西阿。"

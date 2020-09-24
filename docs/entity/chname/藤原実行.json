@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原実行.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "三条 実行（さんじょう さねゆき、正字：三條 實行）は、平安時代後期の公卿。藤原北家閑院流、藤原公実の次男。従一位・太政大臣。三条家の始祖。八条太政大臣（はちじょう だじょうだいじん）と号し、また出家後は八条入道相国（はちじょう にゅうどう しょうごく）と号した。出家後の法名は蓮覚（れんがく）。"
@@ -21,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/三条実行"
+        "@id": "https://kotobank.jp/word/藤原実行"
       },
       {
-        "@id": "https://kotobank.jp/word/藤原実行"
+        "@id": "http://ja.wikipedia.org/wiki/三条実行"
       }
     ]
   }

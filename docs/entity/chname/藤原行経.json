@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原行経.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 行経（ふじわら の ゆきつね、寛弘9年（1012年） - 永承5年閏10月14日（1050年11月30日））は、平安時代中期の公卿・能書家。権大納言藤原行成の三男。従二位・参議・兵部卿。和様書道の流派世尊寺流二代目。"

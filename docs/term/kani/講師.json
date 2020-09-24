@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/講師.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "《古く、寺で説経をする僧をいった「講師(こうじ)」から出た語》１ 講演や講義をする人。「研修会の講師として招かれる」２ 大学・高等専門学校で、教授・准教授に準じる職務に従事する者。専任で常勤の者と、非常勤の者とがある。３ 小・中・高校で、非常勤で教諭の職務を助ける者。４ 専門学校・予備校・塾などで、講座を受け持つ人。"

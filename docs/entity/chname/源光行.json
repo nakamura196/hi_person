@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源光行.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "源 光行（みなもと の みつゆき）は、平安時代末期から鎌倉時代初期にかけての政治家・文学者・歌人。源氏物語の研究者であり、河内方の創始者に位置付けられる。"

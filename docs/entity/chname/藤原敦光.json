@@ -1,12 +1,20 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原敦光.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1063－1144　平安時代後期の官吏,漢詩人。康平6年生まれ。藤原明衡(あきひら)の子。母は平実重の娘。大学頭(かみ),式部大輔。正四位下にいたる。堀河天皇以下3代の詔勅類を起草,官途は不遇だったが当代一の文章家として知られた。「本朝続文粋(もんずい)」「本朝無題詩」などに多数の文,詩がおさめられている。天養元年10月28日死去。82歳。【格言など】安くして危きを忘れざるは,古(いにしえ)の炯誡(けいかい)なり(「勘申」)"
       },
       {
         "@value": "藤原 敦光（ふじわら の あつみつ、康平6年（1063年） - 天養元年10月28日（1144年11月24日））は、平安時代後期の文人・儒学者。藤原式家、右京大夫・藤原明衡の子。官位は正四位下・式部大輔。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujiwara_no_Atsumitsu.jpg?width=300"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

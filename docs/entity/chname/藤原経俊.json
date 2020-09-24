@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原経俊.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "…正二位中納言藤原経俊(1214‐76)の日記。《吉黄記》《吉礼記》などの異称がある。…"

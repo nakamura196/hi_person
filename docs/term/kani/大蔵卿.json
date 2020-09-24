@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/大蔵卿.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "日本の大蔵大臣・財務大臣一覧では、近代日本の財務責任を負った歴代の人物をあげる。"
@@ -21,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/大蔵卿"
+        "@id": "http://ja.wikipedia.org/wiki/日本の大蔵大臣・財務大臣一覧"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/日本の大蔵大臣・財務大臣一覧"
+        "@id": "https://kotobank.jp/word/大蔵卿"
       }
     ]
   }

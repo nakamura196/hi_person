@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/中原貞清.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－?　平安時代後期の螺鈿(らでん)工。元暦(げんりゃく)元年(1184)の大嘗会(だいじょうえ)のときに中原貞仲らとともにおおくの調度に螺鈿をほどこした。"

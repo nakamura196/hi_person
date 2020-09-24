@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原実兼.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "没年：天永3.4.2(1112.4.29)\n生年：応徳2(1085)\n平安後期の学者。父は大学頭季綱,母は若狭守通宗の娘。文章生から蔵人となり,その才は「頗る才智あり,一見一聞の事を忘却せず」と評価された。そのため大江匡房の言談である『江談抄』の筆録を依頼された。匡房は「足下なんどの様なる子孫あらましかば,何事かと思ひ侍らまし」と語ったという。しかし若くして亡くなり,その才は子の信西に受け継がれた。\n                        (五味文彦)"

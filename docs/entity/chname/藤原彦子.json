@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原彦子.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1227－1262　鎌倉時代,四条天皇の女御(にょうご)。安貞元年生まれ。九条教実(のりざね)の娘。母は西園寺公経(さいおんじ-きんつね)の娘嘉子。仁治(にんじ)2年入内(じゅだい),女御となる。3年准三宮(じゅさんぐう)となり,4年院号をうける。寛元4年出家して清浄阿と称した。弘長(こうちょう)2年1月5日死去。36歳。名は彦子。"

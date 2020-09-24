@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原公雄.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－?　鎌倉時代の公卿(くぎょう)。洞院実雄(とういん-さねお)の次男。小倉家の祖。文永3年(1266)参議,のち権(ごんの)中納言,正二位となる。9年後嵯峨(ごさが)上皇の死去をかなしみ出家した。歌は「続古今和歌集」以下の勅撰集に百余首のせられている。法名は顕覚。"

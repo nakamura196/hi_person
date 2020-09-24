@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原長家.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1005－1064　平安時代中期の公卿(くぎょう),歌人。寛弘(かんこう)2年8月20日生まれ。藤原道長の6男。母は源明子。父の正室源倫子の養子。正二位,権(ごんの)大納言となる。歌道の御子左(みこひだり)家の祖で,勅撰集には「後拾遺和歌集」以下に44首がはいる。康平7年11月9日死去。60歳。【格言など】花の色にあま霧(ぎ)る霞たちまよひ空さへ匂ふ山桜かな(「新古今和歌集」)"

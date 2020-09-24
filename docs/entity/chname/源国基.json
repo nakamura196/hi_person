@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源国基.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－?　平安後期-鎌倉時代の武将。源行頼の子。清和源氏の流れをくみ,源頼朝の一族として,文治(ぶんじ)2年(1186)伊勢(いせ)(三重県)玉垣御厨(みくりや)の領家職(しき)をあたえられた。朝廷と幕府間の交渉にもあたっていたとみられ,元仁(げんにん)元年九条道家の使者として鎌倉におもむいた。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/源国基"
+        "@id": "https://kotobank.jp/word/源国基"
       },
       {
-        "@id": "https://kotobank.jp/word/源国基"
+        "@id": "http://ja.wikipedia.org/wiki/源国基"
       }
     ]
   }

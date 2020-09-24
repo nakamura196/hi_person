@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/頭中将.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "頭中将（とうのちゅうじょう）は、日本の律令制における公家官職の呼称の一つ。位階が四位の殿上人で、蔵人頭（蔵人所の実質的な責任者）と近衛中将（近衛府の次官）を兼任した者に対する通称。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/頭中将"
+        "@id": "https://kotobank.jp/word/頭中将"
       },
       {
-        "@id": "https://kotobank.jp/word/頭中将"
+        "@id": "http://ja.wikipedia.org/wiki/頭中将"
       }
     ]
   }

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原穏子.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原穏子（ふじわら の おんし・やすこ、仁和元年（885年） - 天暦8年1月4日（954年2月9日））は、関白藤原基経女。母は人康親王女。第60代醍醐天皇中宮、第61代朱雀天皇・第62代村上天皇生母。別名五条后。"

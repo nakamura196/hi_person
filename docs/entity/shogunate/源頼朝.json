@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/shogunate/源頼朝.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Shogunate.json"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Minamoto_no_Yoritomo.jpg/160px-Minamoto_no_Yoritomo.jpg"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "源頼朝"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1199-01-13"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1192-07-12"
+      }
+    ]
+  }
+]

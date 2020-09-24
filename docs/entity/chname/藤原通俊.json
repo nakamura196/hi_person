@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原通俊.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 通俊（ふじわら の みちとし）は、平安時代後期の公家・歌人。、従三位大宰大弐・藤原経平の次男。"

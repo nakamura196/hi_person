@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原立子.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "九条 立子（くじょう りゅうし、建久3年（1192年） - 宝治元年12月21日（1248年1月18日））は鎌倉時代の后妃、女院。順徳天皇の中宮。仲恭天皇の母。摂政九条良経の長女。母は権大納言一条能保の女。院号は東一条院（ひがしいちじょういん）。法名は清浄観。"
@@ -24,10 +27,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/東一条院-119080"
+        "@id": "http://ja.wikipedia.org/wiki/九条立子"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/九条立子"
+        "@id": "https://kotobank.jp/word/東一条院-119080"
       }
     ]
   }

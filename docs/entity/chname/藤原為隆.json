@@ -1,12 +1,20 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原為隆.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1070－1130　平安時代後期の公卿(くぎょう)。延久2年生まれ。藤原為房の長男。母は源頼国の娘。保安(ほうあん)3年(1122)蔵人頭(くろうどのとう),同年参議となる。左大弁をかね,従三位にいたる。日記「永昌記」は白河院政期の政務,行事などの史料として貴重。大治(だいじ)5年9月8日死去。61歳。号は坊城。"
       },
       {
         "@value": "藤原 為隆（ふじわら の ためたか）は平安時代末期の公卿。参議・藤原為房の長男。日記『永昌記』を記した。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujiwara_no_Tametaka.jpg?width=300"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
@@ -16,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/藤原為隆"
+        "@id": "http://ja.wikipedia.org/wiki/藤原為隆"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原為隆"
+        "@id": "https://kotobank.jp/word/藤原為隆"
       }
     ]
   }

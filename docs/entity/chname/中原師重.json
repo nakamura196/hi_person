@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/中原師重.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1166－1221　鎌倉時代の官吏。仁安元年生まれ。中原師尚(もろひさ)の3男。建久3年記録所寄人(よりゅうど)となり,関白九条兼実(かねざね)の家司(けいし)となる。大外記(だいげき)にすすみ,承元(じょうげん)4年明経(みょうぎょう)博士となった。承久(じょうきゅう)3年7月20日死去。56歳。号は六角。"

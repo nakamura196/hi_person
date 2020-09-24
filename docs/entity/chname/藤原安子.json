@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原安子.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 安子（ふじわら の あんし（やすこ）、延長5年（927年） - 応和4年4月29日（964年6月11日））は、右大臣藤原師輔の長女。母は武蔵守藤原経邦の女盛子。第62代村上天皇中宮。第63代冷泉天皇・第64代円融天皇、為平親王、承子内親王、輔子内親王、資子内親王、選子内親王らの生母。同母兄弟に伊尹・兼通・兼家・忠君、登子（重明親王妃）・藤原師輔三女（源高明先妻、俊賢母）・怤子（冷泉天皇女御）など。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/藤原安子"
+        "@id": "http://ja.wikipedia.org/wiki/藤原安子"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原安子"
+        "@id": "https://kotobank.jp/word/藤原安子"
       }
     ]
   }

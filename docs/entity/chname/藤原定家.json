@@ -1,12 +1,20 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原定家.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "鎌倉前期の歌人・公卿。俊成の子。初名は光季・季光。京極黄門と称し、薙髪して明静という。『新古今和歌集』『新勅撰和歌集』を撰する。正二位権中納言に至る。主な著に『詠歌大概』『明月記』等があり、『千載和歌集』『玉葉和歌集』『続千載和歌集』『新拾遺和歌集』等諸集にその歌を収める。歌学歌論や古典研究の面にも大きな足跡を残した。仁治2年(1241)歿、79才。"
       },
       {
         "@value": "藤原 定家（ふじわら の さだいえ）は、鎌倉時代初期の公家・歌人。諱は「ていか」と音読みされることが多い。小倉百人一首の撰者で権中納言定家を称する。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Teika(3).jpg?width=300"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

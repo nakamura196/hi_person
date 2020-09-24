@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原公世.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原公世（ふじわら の きんよ）は鎌倉時代の公卿。非参議従二位侍従。従三位八条実俊の二男。母は春華門院大進（佐々木判官定綱の娘）。山階左大臣洞院実雄の猶子。『尊卑分脈』には「箏一流正統」と注記がある。全くの傍流に過ぎなかった公世であるが、長命であったこと（生年は不明だが、叙爵から死去まで75年であった）、箏に秀でていたことなどから従二位に至ったと考えられる。"

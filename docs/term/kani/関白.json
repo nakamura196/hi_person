@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/関白.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "関白（かんぱく）とは、天皇の代わりに政治を行う職である。律令に本来規定された官ではない令外官であり、実質的に公家の最高位であった。敬称は殿下。"

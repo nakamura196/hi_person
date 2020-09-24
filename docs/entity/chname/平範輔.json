@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/平範輔.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1192－1235　鎌倉時代の公卿(くぎょう)。建久3年生まれ。平親輔(ちかすけ)の子。蔵人頭(くろうどのとう),右大弁などを歴任して嘉禄(かろく)2年参議。寛喜4年正三位となり,文暦(ぶんりゃく)元年権(ごんの)中納言。文暦2年7月25日死去。44歳。日記に「範輔卿記」。"

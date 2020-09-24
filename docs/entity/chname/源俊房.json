@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源俊房.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "源 俊房（みなもと の としふさ、長元8年（1035年） - 保安2年11月12日（1121年12月23日））は、平安時代後期の公家。村上源氏、源師房の子。従一位・左大臣。堀川左大臣とも称される。"

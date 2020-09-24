@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/大夫.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "もと中国古代の官位名。その後広く有位高官の者をいった。日本では，律令制下，中宮職，春宮 (とうぐう) 職，その他の各職の長官名をいい，「だいぶ」と呼んだ。また一位以下，五位以上の有位者を総じて大夫といったが，のち五位だけに用い，「たいふ」「たゆう」と呼んだ。"

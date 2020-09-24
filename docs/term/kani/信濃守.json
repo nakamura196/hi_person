@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/信濃守.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "信濃国（しなののくに）は、かつて日本の地方行政区分だった令制国の一つ。東山道に属する。『万葉集』での枕詞は「水薦苅（みこもかる ）」。"

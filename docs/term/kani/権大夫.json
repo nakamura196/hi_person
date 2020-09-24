@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/権大夫.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "大夫の権官。定員外の大夫。※紫式部日記（1010頃か）寛弘五年九月一九日「九日夜は春宮権大夫つかうまつりたまふ」"

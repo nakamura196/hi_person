@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/小槻孝信.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "小槻 孝信（おつき の たかのぶ、寛仁元年（1017年）－応徳3年9月15日（1086年10月25日））は、平安時代後期の官人。小槻貞行の子。"

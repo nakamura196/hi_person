@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原永範.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1102/06－1180　平安時代後期の公卿(くぎょう),漢詩人。康和4／嘉承(かじょう)元年生まれ。文章(もんじょう)博士,東宮(とうぐう)学士などをへて,正三位,宮内卿。後白河,二条,高倉天皇の3代の侍読をつとめた。詩が「中右記部類紙背漢詩集」に,歌が「千載和歌集」などの勅撰集に,文章が「願文集」「詩序集」などにある。治承(じしょう)4年11月9日死去。75／79歳。"

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原兼宗.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "中山 兼宗（なかやま かねむね、長寛元年（1163年） - 仁治3年9月3日（1242年9月28日））は平安時代の公卿・歌人。内大臣・中山忠親の長男。母は権右中弁藤原光房女。正二位、按察使、権大納言。"

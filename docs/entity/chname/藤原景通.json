@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原景通.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 景通（ふじわら の かげみち、生没年不詳）は平安時代の武士。子の景季とともに源頼義・義家の家人として名高い。加藤氏の祖とされる。藤原正重の子。子は他に加藤景清。加賀介、修理少輔。景道とも称される。"

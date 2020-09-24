@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/shogunate/惟康親王.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Shogunate.json"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "惟康親王"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1289-09-14"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1266-07-24"
+      }
+    ]
+  }
+]

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原頼実.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 頼実（ふじわら の よりざね、久寿2年（1155年） - 嘉禄元年7月5日（1225年8月10日））は平安時代末期から鎌倉時代前期にかけての公卿。左大臣藤原経宗の長男。大炊御門家の第3代当主。最終官位は従一位太政大臣。六条または中山を号す。"

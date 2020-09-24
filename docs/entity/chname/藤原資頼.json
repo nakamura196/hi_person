@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原資頼.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 資頼（ふじわら の すけより、久安4年（1148年） - 没年不詳）は、平安時代から鎌倉時代の公卿。藤原北家大炊御門流、参議・藤原頼定の子。官位は従三位・皇太后宮権大夫。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原資頼"
+        "@id": "https://kotobank.jp/word/藤原資頼"
       },
       {
-        "@id": "https://kotobank.jp/word/藤原資頼"
+        "@id": "http://ja.wikipedia.org/wiki/藤原資頼"
       }
     ]
   }

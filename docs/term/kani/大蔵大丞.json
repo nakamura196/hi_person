@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/大蔵大丞.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "大蔵省（おおくらしょう、Ministry of Finance, MOF）は、明治維新から2001年（平成13年）1月6日まで存在した日本の中央官庁である。後継官庁は財務省と金融庁。前近代の律令制による大蔵省も奈良時代の大宝律令から明治維新まで存続していたため、「大蔵省」という名称は1300年の長きにわたって用いられたことになる。"

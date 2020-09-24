@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原隆子.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－?　平安時代中期の女性。藤原道長の娘。母は源明子。源師房(もろふさ)の妻となり,俊房,顕房(あきふさ),麗子を生む。承保(じょうほう)4年(1077)病により出家。姉妹のなかでただひとり臣下にとついだが,子にめぐまれ,八十余の長命をたもった。「御堂関白記」などでは名を隆子としている。"

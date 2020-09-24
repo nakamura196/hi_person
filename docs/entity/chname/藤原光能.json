@@ -1,12 +1,20 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原光能.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 光能（ふじわら の みつよし）は、平安時代末期の貴族。藤原北家御子左流。藤原忠成の子。正三位・参議。"
       },
       {
         "@value": "1132－1183　平安時代後期の公卿(くぎょう)。長承元年生まれ。民部少輔(しょう)藤原忠成の子。後白河上皇の近臣。皇太后宮権大夫(ごんのだいぶ),右兵衛督(かみ)となり,治承(じしょう)3年(1179)参議。同年平清盛に解任されるが,5年参議に復帰。左兵衛督をかね,正三位にいたる。「平家物語」では,文覚の要請で平氏追討の院宣(いんぜん)をかいたとされている。寿永2年2月28日死去。52歳。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujiwara_no_Mitsuyoshi.jpg?width=300"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

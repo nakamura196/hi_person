@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原宗平.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 宗平（ふじわら の むねひら）は鎌倉時代前期から中期にかけての公卿。左近衛中将・藤原宗経の長男。"

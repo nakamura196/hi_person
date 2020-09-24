@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/公卿.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "明治維新以前の公家社会で，中国王朝の三公九卿にならって太政大臣，左大臣，右大臣を三公もしくは公，大納言，中納言，参議および三位以上の朝官を卿といい，合せて公卿と称した。唐名で卿相，月卿，棘路といい，また大臣を除いた公卿を上達部 (かんだちめ) とも呼んだ。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/公卿"
+        "@id": "https://kotobank.jp/word/公卿"
       },
       {
-        "@id": "https://kotobank.jp/word/公卿"
+        "@id": "http://ja.wikipedia.org/wiki/公卿"
       }
     ]
   }

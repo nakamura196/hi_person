@@ -1,12 +1,20 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原宗輔.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1077－1162　平安時代後期の公卿(くぎょう)。承暦(じょうりゃく)元年生まれ。藤原宗俊の3男。母は源俊房の娘。保安(ほうあん)3年(1122)参議。保元(ほうげん)元年(1156)右大臣,2年太政大臣となり,従一位にいたる。家芸の管弦をよくした。号は京極,堀川,また蜂(はち)がすきなことから蜂飼大臣と称された。応保2年1月30日死去。86歳。"
       },
       {
         "@value": "藤原 宗輔（ふじわら の むねすけ）は、平安時代後期の公卿。右大臣藤原俊家の嫡男で後年中御門家の祖とされた権大納言藤原宗俊の子。堀河または京極と号する。「蜂飼大臣（はちかいおとど）」の異名で『今鏡』『十訓抄』にも登場する。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujiwara_no_Munesuke.jpg?width=300"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

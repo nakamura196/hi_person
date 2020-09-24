@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原実房.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "三条 実房（さんじょう さねふさ）は平安時代末期および鎌倉時代の公卿。左大臣正二位。三条入道左府と号す。父は内大臣三条公教。母は権中納言藤原清隆の娘。室は左大臣藤原経宗の娘。子に公房、公宣、公氏、公俊などがおり、子孫から多くの三条家庶流が生まれた。"
@@ -21,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/藤原実房"
+        "@id": "http://ja.wikipedia.org/wiki/三条実房"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/三条実房"
+        "@id": "https://kotobank.jp/word/藤原実房"
       }
     ]
   }

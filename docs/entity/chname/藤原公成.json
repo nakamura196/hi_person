@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原公成.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "999－1043　平安時代中期の公卿(くぎょう)。長保元年生まれ。藤原実成の長男。母は藤原陳政の娘。祖父公季(きんすえ)の養子となり,とりわけ愛されたという。万寿3年(1026)参議。従二位にすすみ,長久4年権(ごんの)中納言。同年6月24日死去。45歳。娘の茂子は白河天皇の生母。通称は滋野井別当。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/藤原公成"
+        "@id": "http://ja.wikipedia.org/wiki/藤原公成"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原公成"
+        "@id": "https://kotobank.jp/word/藤原公成"
       }
     ]
   }

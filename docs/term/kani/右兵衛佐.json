@@ -1,12 +1,15 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/右兵衛佐.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
-        "@value": "右兵衛府の次官。正六位下相当。"
+        "@value": "兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。"
       },
       {
-        "@value": "兵衛府（ひょうえふ）とは、律令制における官司。左兵衛府と右兵衛府の二つが存在する。長は兵衛督 （左兵衛督・右兵衛督）である。(左右)近衛府、(左右)衛門府とあわせて「六衛府」と呼ばれる。和訓にて「つはもののとねりのつかさ」と呼ぶ。唐名は武衛。"
+        "@value": "右兵衛府の次官。正六位下相当。"
       }
     ],
     "http://schema.org/name": [
@@ -21,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/右兵衛佐"
+        "@id": "http://ja.wikipedia.org/wiki/兵衛府"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/兵衛府"
+        "@id": "https://kotobank.jp/word/右兵衛佐"
       }
     ]
   }

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源光清.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "源 光清（みなもと の みつきよ、生没年不詳）は、平安時代後期の貴族。文徳源氏。左少弁源致文の次男。従五位上・伊賀守。"

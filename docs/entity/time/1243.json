@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/time/1243.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Time.json"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "僧・忍性、北山十八間戸を建てる"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1243-01-01"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1243-01-01"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "1243年"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1243"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1243"
+      }
+    ]
+  }
+]

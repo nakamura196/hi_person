@@ -1,12 +1,20 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/山部赤人.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "奈良時代の万葉歌人。『万葉集』により，神亀1 (724) 年から天平8 (736) 年までの生存が明らか。国史に名をとどめず，下級の官僚と思われる。『万葉集』に長歌 13首，短歌 37首が収録されている。聖武天皇の行幸に従駕しての作が目立ち，一種の宮廷歌人的存在であったと思われるが，ほかに諸国への旅行で詠んだ歌も多い。長歌，短歌ともに整斉された端正な調べに特徴をもつが，長歌は，柿本人麻呂の影響下にあってそれを抜きえず，空疎とも評される。これに対して短歌，ことに自然を詠んだ作はまったく新しい境地を開き，第一級の自然歌人，叙景歌人と評される。"
       },
       {
         "@value": "山部 赤人（やまべ の あかひと、生年不詳 - 天平8年（736年）?）は、奈良時代の歌人。三十六歌仙の一人。姓は宿禰。大山上・山部足島の子とし、子に磐麻呂がいたとする系図がある。官位は外従六位下・上総少目。後世、山邊（辺）赤人と表記されることもある。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Yamabe_no_Akahito.jpg?width=300"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

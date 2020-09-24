@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原頼輔.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "難波 頼輔（なんば よりすけ）は、平安時代後期から末期の公卿・歌人。藤原北家難波流、大納言・藤原忠教の四男。蹴鞠の二大流派、難波・飛鳥井両家の祖。"

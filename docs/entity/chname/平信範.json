@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/平信範.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "平 信範（たいら の のぶのり、天永3年（1112年） - 文治3年2月12日（1187年3月23日））は、平安時代末期の公卿。桓武平氏高棟王流、兵部大輔・平知信の三男。母は主殿頭・藤原惟信の娘。兄弟に時信・知範。正室は少納言藤原能忠の娘。子に信基・信国・信季らがある。正三位、兵部卿。字は平能。日記『兵範記』の作者として著名である。また、国宝平家納経の筆者のうちの一人ともくされる"

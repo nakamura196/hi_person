@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源定有.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－?　平安時代前期,文徳(もんとく)天皇の皇子。母は菅野氏。臣籍にはいり,源姓となる。大蔵卿,仁和(にんな)2年(886)正四位下。"

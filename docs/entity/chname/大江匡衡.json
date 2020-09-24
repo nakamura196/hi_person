@@ -1,12 +1,20 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/大江匡衡.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "[生]天暦6(952)[没]長和1(1012).7.16.平安時代中期の漢詩人。維時 (これとき) の孫で，幼時から祖父の教育を受け，その才能は天下第一と称された。赤染衛門の夫。学問の隆盛と家門の再興を夢み，自己の栄達をはかったが思うにまかせず，不遇のまま世を終えた。漢詩集『江吏部集 (ごうりほうしゅう) 』からは，作者の豊かな詩才とともに，学者の苦悩と悲嘆を読取ることができる。 (→大江氏 )"
       },
       {
         "@value": "大江 匡衡（おおえ の まさひら、天暦6年（952年） - 寛弘9年7月16日（1012年8月6日））は、平安時代中期の儒者・歌人。中納言・大江維時の孫で、左京大夫・大江重光の子。官位は正四位下・式部大輔。中古三十六歌仙の一人。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Oe_no_Masahira.jpg?width=300"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
@@ -16,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/大江匡衡"
+        "@id": "http://ja.wikipedia.org/wiki/大江匡衡"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/大江匡衡"
+        "@id": "https://kotobank.jp/word/大江匡衡"
       }
     ]
   }

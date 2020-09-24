@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原兼雅.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 兼雅（ふじわら の かねまさ）は、平安時代末期から鎌倉時代初期にかけての公卿。従一位左大臣。後花山院左大臣と号す。花山院太政大臣藤原忠雅の長男。"
@@ -21,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/花山院兼雅-1064957"
+        "@id": "http://ja.wikipedia.org/wiki/藤原兼雅"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原兼雅"
+        "@id": "https://kotobank.jp/word/花山院兼雅-1064957"
       }
     ]
   }

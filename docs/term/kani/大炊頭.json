@@ -1,12 +1,15 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/大炊頭.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
-        "@value": "大炊寮（おおいりょう）とは日本の律令制において宮内省に属する機関の一つである。大炊とは大飯炊（おおいかしぐ）の略称といわれる。「おほい(おおい)つかさ」等とも言う。"
+        "@value": "大炊寮おおいりようの長官。従五位下相当。"
       },
       {
-        "@value": "大炊寮おおいりようの長官。従五位下相当。"
+        "@value": "大炊寮（おおいりょう）とは日本の律令制において宮内省に属する機関の一つである。大炊とは大飯炊（おおいかしぐ）の略称といわれる。「おほい(おおい)つかさ」等とも言う。"
       }
     ],
     "http://schema.org/name": [

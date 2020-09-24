@@ -1,9 +1,17 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源定通.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "土御門 定通（つちみかど さだみち）は、鎌倉時代前期から中期の公卿。源通親の四男。村上源氏土御門家の祖。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Tsuchimikado_Sadamichi.jpg?width=300"
       }
     ],
     "http://schema.org/name": [

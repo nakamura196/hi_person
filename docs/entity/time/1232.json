@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/time/1232.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Time.json"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "北条泰時、御成敗式目（貞永式目）を制定 （日本最初の武家法、これ以降江戸時代まで武家法の基本とされる）"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1232-01-01"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1232-01-01"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "1232年"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1232"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1232"
+      }
+    ]
+  }
+]

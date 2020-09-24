@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/広橋兼宣.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "広橋 兼宣（ひろはし かねのぶ、貞治5年/正平21年11月6日（1366年12月8日）－永享元年9月14日（1429年10月12日））は、室町時代の公卿。広橋仲光の子。法名は常寂、法号は後瑞雲院。"

@@ -1,12 +1,15 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原基忠.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
-        "@value": "藤原 基忠（ふじわら の もとただ）は、平安時代後期（院政期）の公卿。大納言・藤原忠家の子。"
+        "@value": "1184－?　鎌倉時代の公卿(くぎょう)。元暦(げんりゃく)元年生まれ。藤原隆忠の子。母は左近衛(さこんえの)少将源通家の娘。右近衛中将となり,元久2年従三位,貞応(じょうおう)元年従二位にすすむ。嘉禄(かろく)元年出家。"
       },
       {
-        "@value": "1184－?　鎌倉時代の公卿(くぎょう)。元暦(げんりゃく)元年生まれ。藤原隆忠の子。母は左近衛(さこんえの)少将源通家の娘。右近衛中将となり,元久2年従三位,貞応(じょうおう)元年従二位にすすむ。嘉禄(かろく)元年出家。"
+        "@value": "藤原 基忠（ふじわら の もとただ）は、平安時代後期（院政期）の公卿。大納言・藤原忠家の子。"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/藤原基忠"
+        "@id": "http://ja.wikipedia.org/wiki/藤原基忠"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原基忠"
+        "@id": "https://kotobank.jp/word/藤原基忠"
       }
     ]
   }

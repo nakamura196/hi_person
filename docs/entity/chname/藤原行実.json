@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原行実.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－?　鎌倉-南北朝時代の公家。藤原行房の子。後醍醐(ごだいご)天皇につかえ,一条少将と称した。建武(けんむ)3=延元元年(1336)父とともに新田義貞にしたがい,越前(えちぜん)(福井県)にはいって飽和(あくわ)に駐屯。建武5=延元3年黒丸城の斯波高経(しば-たかつね)を攻め,黒竜(くずりゅう)明神でたたかった。その後の消息は不明。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/藤原行実"
+        "@id": "http://ja.wikipedia.org/wiki/藤原行実"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原行実"
+        "@id": "https://kotobank.jp/word/藤原行実"
       }
     ]
   }

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/皇后宮権大夫.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "皇后宮職（こうごうぐうしょく、こうごうぐうしき）は皇后の家政機関を指す。日本の宮内庁においては宮内庁侍従職が天皇と皇后に関する事務をあわせて担当するため、現在はおかれていない。"

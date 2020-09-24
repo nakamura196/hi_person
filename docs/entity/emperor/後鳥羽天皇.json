@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/emperor/後鳥羽天皇.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Emperor.json"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Emperor_Go-Toba.jpg/140px-Emperor_Go-Toba.jpg"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "後鳥羽天皇"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1197"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1192"
+      }
+    ]
+  }
+]

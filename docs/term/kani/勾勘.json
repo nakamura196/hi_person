@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/勾勘.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "〘名〙 勘解由使(かげゆし)の唐名。※本朝続文粋（1142‐55頃）五・参議某辞参議并勘解由長官状〈藤原明衡〉「伏冀 玄鑒。曲照二丹祈一。停二此参議勾勘之官一。授二其賢哲良才之輩一」"

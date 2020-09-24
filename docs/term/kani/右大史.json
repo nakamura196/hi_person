@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/右大史.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "〘名〙 太政官、右弁官局に属し、正六位上相当の官。定員二人。※令義解（718）職員「左大史二人。右大史二人」"
@@ -21,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/右大史"
+        "@id": "http://ja.wikipedia.org/wiki/史_(律令制)"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/史_(律令制)"
+        "@id": "https://kotobank.jp/word/右大史"
       }
     ]
   }

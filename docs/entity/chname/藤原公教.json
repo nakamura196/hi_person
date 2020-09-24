@@ -1,12 +1,20 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原公教.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "三条 公教（さんじょう きみのり／さんじょう きんのり）は、平安時代後期の公卿。藤原北家閑院家流三条家当主。太政大臣三条実行の子。正二位・内大臣。"
       },
       {
         "@value": "没年：永暦1.7.9(1160.8.12)\n生年：康和5(1103)\n平安末期の公卿。鳥羽上皇の院庁の執事となり院の裁判を整備した。父は太政大臣実行,母は藤原顕季の娘。蔵人頭から長承2(1133)年に公卿となる典型的な出世コースを歩むとともに,母の父が院の近臣だった関係から鳥羽上皇の後見となる。他の近臣とは違い「心ばへ大人しく,公事などもよく勤め」と称された勤勉さと清貧さとが買われ,院庁の執事別当として院中を取り仕切ってその裁判制度を整備した。さらに鳥羽法皇の死後には保元の記録所を運営して藤原信西の政策を後援し,保元2(1157)年には内大臣まで昇進し三条内府と呼ばれたが,父に先立って死去。五味文彦『院政期社会の研究』\n                        (五味文彦)"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Sanjo_Kin-nori.jpg?width=300"
       }
     ],
     "http://schema.org/name": [
@@ -21,10 +29,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/藤原公教"
+        "@id": "http://ja.wikipedia.org/wiki/三条公教"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/三条公教"
+        "@id": "https://kotobank.jp/word/藤原公教"
       }
     ]
   }

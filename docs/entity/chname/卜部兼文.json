@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/卜部兼文.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－?　鎌倉時代の神道家。卜部兼頼の子。文永3年(1266)ごろ神祇権大副(じんぎのごんのたいふ)。11年から翌年にかけて一条実経らに「日本書紀」を講じ,子兼方の「釈日本紀」の基をつくった。10年「古事記裏書」をあらわした。"

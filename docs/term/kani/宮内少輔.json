@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/宮内少輔.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "宮内省（くないしょう）は、1947年（昭和22年）まで日本に存在した官庁名。古代のものと近代のものがあり、近代のものが1949年（昭和24年）以降の宮内庁の前身となる。"

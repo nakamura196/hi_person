@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源倫子.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "源 倫子（みなもと の りんし、康保元年（964年）- 天喜元年6月1日（1053年6月19日））は、平安時代中期の貴族女性で、藤原道長の正室。父は左大臣源雅信、母は藤原穆子。兄弟に源時中、源時通、源扶義、源時方、源通義、大僧正済信、寂源など。法名は清浄法。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/源倫子"
+        "@id": "https://kotobank.jp/word/源倫子"
       },
       {
-        "@id": "https://kotobank.jp/word/源倫子"
+        "@id": "http://ja.wikipedia.org/wiki/源倫子"
       }
     ]
   }

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/右将監.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "〘名〙 ＝うこんえ（右近衛）の将監※小右記‐寛和元年（985）正月一八日「右将監栗秀蔭申レ障不レ被レ免」"

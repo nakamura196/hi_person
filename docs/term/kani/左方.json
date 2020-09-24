@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/左方.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "雅楽の舞楽のうち，中国系統のもの。右方に対する。舞人は紅色を基調とした装束をつけ，伴奏音楽には唐楽(とうがく)を用いる。→関連項目雅楽｜還城楽"

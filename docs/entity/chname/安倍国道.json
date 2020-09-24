@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/安倍国道.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "安倍 国道（あべ の くにみち、？－貞永元年6月1日（1232年6月20日））は、鎌倉時代前期の貴族・陰陽師。安倍晴光の子。子に安倍晴吉・安倍晴継・安倍国継。正四位下陰陽頭。"

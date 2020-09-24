@@ -1,12 +1,20 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原頼経.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "鎌倉幕府４代将軍。摂政・九条道家の子。源実朝暗殺後，源頼朝の遠縁にあたる頼経がわずか２歳で鎌倉に迎えられ，1226年将軍となる。その後執権の北条氏に疎まれ，1244年子藤原頼嗣へ将軍職を譲渡して出家。1246年には反得宗(とくそう)派の反乱事件（宮騒動）に関連して京都に追われた。→関連項目鎌倉大番役"
       },
       {
         "@value": "藤原 頼経（ふじわら の よりつね）は、鎌倉幕府の第4代征夷大将軍。摂家から迎えられた摂家将軍。源頼朝の同母妹の曾孫であり、頼朝とは血縁関係にある。妻は源頼家の娘竹御所。竹御所は難産の末、母子共に亡くなり、源頼朝直系である源氏将軍の血筋は断絶した。頼経は反執権勢力に利用されるようになり、第5代執権北条時頼によって京都へ追放された（宮騒動）。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Kujō_Yoritsune.jpg?width=300"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

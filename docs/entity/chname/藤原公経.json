@@ -1,12 +1,15 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原公経.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
-        "@value": "⇒                  西園寺さいおんじ公経"
+        "@value": "藤原 公経（ふじわら の きんつね、生年不明 - 承徳3年7月23日（1099年8月18日）））は、平安時代中期から後期にかけての貴族。藤原南家、宮内少輔・藤原成尹の長男だが、叔父の権中納言・重尹の養子となる。官位は従四位上・主殿頭。"
       },
       {
-        "@value": "藤原 公経（ふじわら の きんつね、生年不明 - 承徳3年7月23日（1099年8月18日）））は、平安時代中期から後期にかけての貴族。藤原南家、宮内少輔・藤原成尹の長男だが、叔父の権中納言・重尹の養子となる。官位は従四位上・主殿頭。"
+        "@value": "⇒                  西園寺さいおんじ公経"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/藤原公経"
+        "@id": "http://ja.wikipedia.org/wiki/藤原公経"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原公経"
+        "@id": "https://kotobank.jp/word/藤原公経"
       }
     ]
   }

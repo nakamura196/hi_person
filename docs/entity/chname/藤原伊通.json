@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原伊通.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 伊通（ふじわら の これみち、寛治7年（1093年） - 長寛3年2月15日（1165年3月28日））は平安時代末期の公卿。中御門流権大納言藤原宗通の次男で、藤原道長は高祖父にあたる。正二位・太政大臣。九条に邸宅を構えていたことから九条大相国（くじょう だいしょうごく）あるいは大宮大相国と号した。"

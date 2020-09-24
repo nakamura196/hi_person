@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原宗能.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1085－1170　平安時代後期の公卿(くぎょう)。応徳2年生まれ。藤原宗忠の長男。母は藤原行房の娘。天承元年(1131)参議となり,検非違使(けびいしの)別当,皇太后宮大夫などをかねた。正二位にすすみ,応保元年(1161)内大臣。中御門(なかみかど)内府と称される。嘉応(かおう)2年2月11日死去。86歳。初名は宗隆。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/藤原宗能"
+        "@id": "http://ja.wikipedia.org/wiki/藤原宗能"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原宗能"
+        "@id": "https://kotobank.jp/word/藤原宗能"
       }
     ]
   }

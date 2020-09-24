@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原仲実.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 仲実（ふじわら の なかざね、康平7年（1064年） - 保安2年12月23日（1122年2月1日））は、平安時代後期の公卿。大納言藤原実季の三男。桟敷または高松を号す。官位は正二位・権大納言。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/藤原仲実"
+        "@id": "http://ja.wikipedia.org/wiki/藤原仲実"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原仲実"
+        "@id": "https://kotobank.jp/word/藤原仲実"
       }
     ]
   }

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原康能.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－1296*　鎌倉時代の公卿(くぎょう),歌人。煕仁(ひろひと)親王(のちの伏見天皇)につかえ,兵部卿,参議などをつとめる。正三位。弘安(こうあん)3年(1280)の弘安源氏論義では飛鳥井雅有(あすかい-まさあり)ときそった。歌は「続(しょく)古今和歌集」「玉葉和歌集」に各1首ある。永仁(えいにん)3年12月3日死去。"

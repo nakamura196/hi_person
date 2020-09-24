@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/大炊助.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "大炊寮（おおいりょう）とは日本の律令制において宮内省に属する機関の一つである。大炊とは大飯炊（おおいかしぐ）の略称といわれる。「おほい(おおい)つかさ」等とも言う。"

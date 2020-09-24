@@ -1,12 +1,15 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/摂州.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
-        "@value": "摂津国（せっつのくに）は、かつて日本の地方行政区分だった令制国の一つ。畿内に属する。現在の大阪府北西部と兵庫県南東部にあたる"
+        "@value": "摂津せつつ国の別名。"
       },
       {
-        "@value": "摂津せつつ国の別名。"
+        "@value": "摂津国（せっつのくに）は、かつて日本の地方行政区分だった令制国の一つ。畿内に属する。現在の大阪府北西部と兵庫県南東部にあたる"
       }
     ],
     "http://schema.org/name": [

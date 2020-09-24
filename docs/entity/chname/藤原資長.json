@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原資長.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 資長（ふじわら の すけなが）は平安時代後期から鎌倉時代初期にかけての公卿、歌人、漢詩人。権中納言・藤原実光の次男。日野家12代当主。日野民部卿と称す。"

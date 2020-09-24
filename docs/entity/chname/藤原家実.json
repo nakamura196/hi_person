@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原家実.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1179－1243*　鎌倉時代の公卿(くぎょう)。治承(じしょう)3年生まれ。近衛基通(もとみち)の長男。左大臣をへて,建永元年(1206)摂政,氏長者となり,同年関白。以後23年にわたり,土御門(つちみかど),順徳,後堀河の3代の天皇の摂政,関白をつとめた。承久(じょうきゅう)3年太政大臣。従一位。仁治(にんじ)3年12月27日死去。64歳。号は猪隈(いのくま)。日記に「猪隈関白記」。"

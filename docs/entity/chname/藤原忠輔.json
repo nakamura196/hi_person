@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原忠輔.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 忠輔（ふじわら の ただすけ、天慶7年（944年） - 長和2年6月4日（1013年7月14日））は平安時代中期の公卿。藤原北家山蔭流、治部卿・藤原国光の次男。官位は正三位・権中納言。"

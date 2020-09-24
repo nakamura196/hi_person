@@ -1,12 +1,20 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/平資盛.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1158?－1185　平安時代後期の武将。保元(ほうげん)3年？生まれ。平重盛の次男。治承(じしょう)4年の源氏挙兵以来各地で源氏勢力とたたかい,寿永2年従三位となって新三位中将とよばれた。平家一門と都落ちをともにし,元暦(げんりゃく)2年3月24日壇ノ浦の戦いで戦死。28歳？ 建礼門院右京大夫(うきょうのだいぶ)との恋愛で知られる。【格言など】ある程があるにもあらぬ内に猶(なほ)かく憂きことをみるぞ悲しき(「玉葉和歌集」)"
       },
       {
         "@value": "平 資盛（たいら の すけもり）は、平安時代末期の平家一門の武将。平重盛の次男。母は藤原親盛の娘。位階は従三位まで昇叙、新三位中将と称された。和歌に優れ「新勅撰和歌集」「風雅和歌集」に名を残している。叔母である建礼門院に仕える優れた歌人の建礼門院右京大夫と恋仲であった。平氏一門の全盛期に、当時13歳（もしくは10歳）の資盛が関わった殿下乗合事件は、『平家物語』に「これこそ、平家の悪行のはじまり」として描かれている。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Taira_no_Sukemori,Akama.jpg?width=300"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
@@ -16,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/平資盛"
+        "@id": "http://ja.wikipedia.org/wiki/平資盛"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/平資盛"
+        "@id": "https://kotobank.jp/word/平資盛"
       }
     ]
   }

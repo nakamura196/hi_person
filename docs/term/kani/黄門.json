@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/黄門.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "中納言の唐名。唐の黄門侍郎(こうもんじろう)という官職と職掌が似ているのでいう。《中納言であったところから》徳川光圀(とくがわみつくに)の通称。水戸黄門。"

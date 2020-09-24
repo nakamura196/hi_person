@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原資経.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "吉田 資経（よしだ すけつね）は平安時代末期から鎌倉時代前期にかけての公卿。参議吉田定経の長男。『平家物語』の作者にも擬せられている。"
@@ -21,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/吉田資経"
+        "@id": "https://kotobank.jp/word/藤原資経"
       },
       {
-        "@id": "https://kotobank.jp/word/藤原資経"
+        "@id": "http://ja.wikipedia.org/wiki/吉田資経"
       }
     ]
   }

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原家隆.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 家隆（ふじわら の いえたか） - 「家隆」は有職故実読みで「かりゅう」とも。左京大夫 藤原家隆 …藤原師通の三男。→藤原家隆 (左京大夫)従二位 藤原家隆 …歌人として著名。→藤原家隆 (従二位) __DISAMBIG__"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/藤原家隆"
+        "@id": "http://ja.wikipedia.org/wiki/藤原家隆"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原家隆"
+        "@id": "https://kotobank.jp/word/藤原家隆"
       }
     ]
   }

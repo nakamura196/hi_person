@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原公保.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1132－1176　平安時代後期の公卿(くぎょう)。長承元年生まれ。徳大寺実能(さねよし)の3男。徳大寺公能(きんよし)の弟。右衛門督(かみ),権(ごんの)中納言,検非違使(けびいし)別当などを歴任。仁安(にんあん)2年権大納言となる。正二位。安元2年9月25／27日死去。45歳。"

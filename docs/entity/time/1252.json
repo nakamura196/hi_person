@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/time/1252.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Time.json"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "宗尊親王、6代目将軍に就任（皇族将軍の開始） 鎌倉に鎌倉大仏できる\n仏教説話集「十訓集」成立"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1252-01-01"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1252-01-01"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "1252年"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1252"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1252"
+      }
+    ]
+  }
+]

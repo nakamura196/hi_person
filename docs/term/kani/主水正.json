@@ -1,12 +1,15 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/主水正.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
-        "@value": "主水司（しゅすいし/もいとりのつかさ）は律令制において宮内省に属する機関の一つである。"
+        "@value": "…また主水をのちには〈もんど〉ともよんだ。中世には主水正は清原氏が任じられ，氷室も一部存続した。【石上 英一】。…"
       },
       {
-        "@value": "…また主水をのちには〈もんど〉ともよんだ。中世には主水正は清原氏が任じられ，氷室も一部存続した。【石上 英一】。…"
+        "@value": "主水司（しゅすいし/もいとりのつかさ）は律令制において宮内省に属する機関の一つである。"
       }
     ],
     "http://schema.org/name": [
@@ -21,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/主水司"
+        "@id": "https://kotobank.jp/word/主水正"
       },
       {
-        "@id": "https://kotobank.jp/word/主水正"
+        "@id": "http://ja.wikipedia.org/wiki/主水司"
       }
     ]
   }

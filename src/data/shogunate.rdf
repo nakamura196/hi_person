@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://schema.org/"
+  xmlns:ns2="https://nakamura196.github.io/hi_person/term/type/"
+  xmlns:ns3="https://jpsearch.go.jp/term/property#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <ns2:Shogunate.json rdf:about="https://nakamura196.github.io/hi_person/entity/shogunate/藤原頼経.json">
+    <rdfs:label>藤原頼経</rdfs:label>
+    <ns3:end>1244-04-28</ns3:end>
+    <ns1:image rdf:resource="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kuj%C5%8D_Yoritsune.jpg/160px-Kuj%C5%8D_Yoritsune.jpg"/>
+    <ns3:start>1226-01-27</ns3:start>
+  </ns2:Shogunate.json>
+  <ns2:Shogunate.json rdf:about="https://nakamura196.github.io/hi_person/entity/shogunate/源実朝.json">
+    <ns3:start>1203-09-07</ns3:start>
+    <ns1:image rdf:resource="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Minamoto_no_Sanetomo.jpg/160px-Minamoto_no_Sanetomo.jpg"/>
+    <ns3:end>1219-01-27</ns3:end>
+    <rdfs:label>源実朝</rdfs:label>
+  </ns2:Shogunate.json>
+  <ns2:Shogunate.json rdf:about="https://nakamura196.github.io/hi_person/entity/shogunate/宗尊親王.json">
+    <rdfs:label>宗尊親王</rdfs:label>
+    <ns3:start>1252-04-01</ns3:start>
+    <ns3:end>1266-07-20</ns3:end>
+  </ns2:Shogunate.json>
+  <ns2:Shogunate.json rdf:about="https://nakamura196.github.io/hi_person/entity/shogunate/源頼家.json">
+    <ns3:start>1202-07-22</ns3:start>
+    <rdfs:label>源頼家</rdfs:label>
+    <ns3:end>1203-09-07</ns3:end>
+    <ns1:image rdf:resource="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Minamoto_no_Yoriie.jpg/160px-Minamoto_no_Yoriie.jpg"/>
+  </ns2:Shogunate.json>
+  <ns2:Shogunate.json rdf:about="https://nakamura196.github.io/hi_person/entity/shogunate/惟康親王.json">
+    <rdfs:label>惟康親王</rdfs:label>
+    <ns3:start>1266-07-24</ns3:start>
+    <ns3:end>1289-09-14</ns3:end>
+  </ns2:Shogunate.json>
+  <ns2:Shogunate.json rdf:about="https://nakamura196.github.io/hi_person/entity/shogunate/源頼朝.json">
+    <rdfs:label>源頼朝</rdfs:label>
+    <ns3:start>1192-07-12</ns3:start>
+    <ns1:image rdf:resource="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Minamoto_no_Yoritomo.jpg/160px-Minamoto_no_Yoritomo.jpg"/>
+    <ns3:end>1199-01-13</ns3:end>
+  </ns2:Shogunate.json>
+  <ns2:Shogunate.json rdf:about="https://nakamura196.github.io/hi_person/entity/shogunate/藤原頼嗣.json">
+    <ns3:end>1252-02-20</ns3:end>
+    <rdfs:label>藤原頼嗣</rdfs:label>
+    <ns3:start>1244-04-28</ns3:start>
+  </ns2:Shogunate.json>
+  <rdfs:Class rdf:about="https://nakamura196.github.io/hi_person/term/type/Shogunate.json">
+    <rdfs:label>Shogunate</rdfs:label>
+  </rdfs:Class>
+</rdf:RDF>

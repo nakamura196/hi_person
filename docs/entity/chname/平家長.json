@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/平家長.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "平 家長（たいら の いえなが、生年不詳 - 元暦2年（寿永4年）3月24日（1185年4月25日頃）は、平安時代末期の伊賀国（現三重県）服部の武将。桓武平氏庶流。左衛門尉。平内左衛門家長。伊賀家長とも。平家貞の子。服部時定の父？。『平家物語』で平知盛の乳兄弟とされ、水島の戦いにその名が見られる。壇ノ浦の戦いで平家が敗れると、知盛と共に入水した。服部氏は家長を開祖と称している。"

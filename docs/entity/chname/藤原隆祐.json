@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原隆祐.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－?　鎌倉時代の公家,歌人。藤原家隆の子。母は藤原雅隆の娘。侍従,従四位下にいたる。後鳥羽院(ごとばいん)歌壇で活躍,「遠島御歌合」にも出詠している。作歌は建長3年(1251)の「影供(えいぐ)歌合」までみられ,「新勅撰和歌集」以下の勅撰集に41首がはいっている。家集に「隆祐朝臣集」。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/藤原隆祐"
+        "@id": "http://ja.wikipedia.org/wiki/藤原隆祐"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原隆祐"
+        "@id": "https://kotobank.jp/word/藤原隆祐"
       }
     ]
   }

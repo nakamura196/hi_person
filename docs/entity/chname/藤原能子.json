@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原能子.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－964　平安時代中期,醍醐(だいご)天皇の女御(にょうご)。藤原定方の娘。延喜(えんぎ)13年(913)更衣から女御となる。三条御息所(みやすどころ),衛門(えもんの)御息所とよばれた。天皇没後に藤原実頼(さねより)の妻となったという。応和4年4月11日死去。名は「よしこ」ともよむ。"

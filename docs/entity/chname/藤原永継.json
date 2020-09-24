@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原永継.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 永継（ふじわら の ながつぐ、8世紀 - 没年不詳）は、奈良時代の貴族。藤原北家、大納言・藤原真楯の子。名は長継とも表記される。宝亀3年（772年）正月3日無位から従五位下に叙爵。宝亀6年（775年）4月25日内兵庫正に任ぜられる。その後の消息は不明で位階は正五位下に至る。"

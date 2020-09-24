@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原公行.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "三条 公行（さんじょう きんゆき）は、平安時代末期の公卿。太政大臣三条実行の次男。参議従三位右兵衛督。三条と号す。内大臣三条公教の同母弟である。"

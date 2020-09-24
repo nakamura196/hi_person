@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/左将.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "左将（さしょう）は、将棋の駒の一つ。本将棋にはなく、大大将棋・泰将棋・大局将棋に存在する。"

@@ -1,12 +1,15 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/右衛門.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
-        "@value": "右衛門（うえもん）は、日本語の男性名。"
+        "@value": "「右衛門府」の略。"
       },
       {
-        "@value": "「右衛門府」の略。"
+        "@value": "右衛門（うえもん）は、日本語の男性名。"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

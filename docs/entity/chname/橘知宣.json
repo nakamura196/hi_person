@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/橘知宣.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－?　鎌倉時代の公家。西園寺家の家司(けいし)。若狭守(わかさのかみ),刑部権大輔(ごんのたいふ)などを歴任。寛喜(かんぎ)2年(1230)法成(ほうじょう)寺の修理を担当した。"

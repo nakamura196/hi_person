@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原資実.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1162－1223　鎌倉時代の公卿(くぎょう)。応保2年生まれ。日野兼光の子。建仁2年参議。大宰権帥(だざいのごんのそち)をへて中納言,正二位。日野後帥とよばれる。承久(じょうきゅう)2年(1220)出家。土御門(つちみかど)天皇,順徳天皇2代の侍読をつとめ,歌は「新古今和歌集」などにはいる。貞応(じょうおう)2年2月20日死去。62歳。初名は家実。号は月蓮房。"

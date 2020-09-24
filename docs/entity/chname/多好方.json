@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/多好方.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1130－1211　平安後期-鎌倉時代の雅楽家。大治(たいじ)5年生まれ。多近方(ちかかた)の子。建久2年源頼朝にまねかれて鶴岡八幡宮の楽人らに秘曲を伝授し,飛騨(ひだ)(岐阜県)荒木郷をあたえられた。一者(いちのもの)を22年間つとめた。建暦(けんりゃく)元年6月5日死去。82歳。"

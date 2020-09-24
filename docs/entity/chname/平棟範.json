@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/平棟範.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1150－1194　平安後期-鎌倉時代の官吏。久安6年生まれ。右大弁平範家の子。母は中納言藤原清隆の娘。文治(ぶんじ)4年左少弁となり,以後弁官をつとめ,能吏といわれた。また後白河院,宣陽門院などの院司をつとめた。正四位下。建久5年閏(うるう)8月30日死去。45歳。"

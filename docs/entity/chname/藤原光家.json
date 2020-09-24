@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原光家.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 光家（ふじわら の みついえ、元暦元年（1184年） - 没年不詳）は、鎌倉時代初期の公家・歌人。初名は定継のち清家（正治元年改名）。法号は浄照房。藤原北家御子左流、権中納言・藤原定家の長男。官位は従五位上・侍従。"

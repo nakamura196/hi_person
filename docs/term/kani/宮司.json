@@ -1,12 +1,15 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/宮司.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
-        "@value": "官幣社，国幣社の最高の神職。一般神社の主管者。古くは神社の造営，収税などを司ったが，のちに祭祀を司るようになった。"
+        "@value": "宮司（ぐうじ、みやづかさ）とは神職や巫女をまとめる神社の長（おさ）である神職の職階（職名・職称）である。"
       },
       {
-        "@value": "宮司（ぐうじ、みやづかさ）とは神職や巫女をまとめる神社の長（おさ）である神職の職階（職名・職称）である。"
+        "@value": "官幣社，国幣社の最高の神職。一般神社の主管者。古くは神社の造営，収税などを司ったが，のちに祭祀を司るようになった。"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/宮司"
+        "@id": "http://ja.wikipedia.org/wiki/宮司"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/宮司"
+        "@id": "https://kotobank.jp/word/宮司"
       }
     ]
   }

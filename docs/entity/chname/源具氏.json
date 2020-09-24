@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源具氏.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "源 具氏（みなもと の ともうじ）は鎌倉時代中期の公卿。従二位参議左中将。中院、土御門、堀河と号す。父は従三位源通氏、母は法印珍喜の娘。子の源具顕（？—1287年）と北畠親子は伏見天皇側近の京極派歌人として知られている。具顕は『弘安源氏論議』を弘安3年（1280年）に著したことでも知られる。"

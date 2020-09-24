@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/少内記.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "〘名〙 令制で中務省の官人。大内記の次位。詔勅、記録を草し、位記をかく。正八位上相当。※令義解（718）職員「少内記二人。〈掌同二中内記一〉」"
@@ -21,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/内記"
+        "@id": "https://kotobank.jp/word/少内記"
       },
       {
-        "@id": "https://kotobank.jp/word/少内記"
+        "@id": "http://ja.wikipedia.org/wiki/内記"
       }
     ]
   }

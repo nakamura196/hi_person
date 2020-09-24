@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/time/1221.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Time.json"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "4-5月、【承久の乱】後鳥羽上皇、鎌倉幕府倒幕軍挙兵するも敗北\n6月、鎌倉幕府、朝廷監視のため六波羅探題を京都に置く"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1221-01-01"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1221-01-01"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "1221年"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1221"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1221"
+      }
+    ]
+  }
+]

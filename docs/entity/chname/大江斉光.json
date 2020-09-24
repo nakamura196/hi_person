@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/大江斉光.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "大江 斉光（おおえ の ただみつ/なりみつ、承平4年（934年） - 永延元年11月6日（987年11月29日））は平安時代中期の公家。大江氏嫡流である中納言大江維時の次男。正三位・参議。紀伝道に進み、文章得業生から対策に及第、958年（天徳2年）式部少丞に任官される。961年（天徳5年）摂津守、969年（安和2年）美濃権守。憲平親王（のち冷泉天皇）の東宮学士を務め、大学頭を経て979年（天元2年）式部大輔に至った。官人としても能吏であり、地方官の傍らで弁官を歴任。977年（貞元2年）蔵人頭、翌978年（天元元年）右大弁、981年（天元4年）には参議に任ぜられ公卿に列した。982年（天元5年）従三位、986年（寛和2年）正三位。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/大江斉光"
+        "@id": "https://kotobank.jp/word/大江斉光"
       },
       {
-        "@id": "https://kotobank.jp/word/大江斉光"
+        "@id": "http://ja.wikipedia.org/wiki/大江斉光"
       }
     ]
   }

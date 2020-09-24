@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原殖子.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "[生]保元2(1157).京都[没]安貞2(1228).9.16. 京都高倉天皇の後宮。名は殖子 (しょくし) 。父は贈左大臣従一位藤原信隆。母は贈正一位藤原休子。初め中宮平徳子に侍し，兵衛督君といわれたが，のち典侍となり，守貞親王 (後高倉太上天皇) および尊成 (たかひら) 親王 (のち後鳥羽天皇) を生んだ。建久1 (1190) 年従三位を授けられ，三宮に准じられ，次いで院号宣下をこうむって七条院と称した。元久2 (1205) 年落飾，法名は真如智。"
@@ -21,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/七条院-73844"
+        "@id": "http://ja.wikipedia.org/wiki/藤原殖子"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原殖子"
+        "@id": "https://kotobank.jp/word/七条院-73844"
       }
     ]
   }

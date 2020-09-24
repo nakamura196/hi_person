@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/太宰帥.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "大宰帥（だざいのそち／だざいのそつ）は、大宰府の長官。唐名は都督。律令制においては西海道の9国2島を管轄し、九州における外交・防衛の責任者となった。次官は大宰権帥（だざいのごんのそち）及び大宰大弐（だざいのだいに）である。"

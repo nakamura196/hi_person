@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原景綱.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 景綱（ふじわら の かげつな）は、平安時代末期の伊勢国度会郡古市荘（現三重県）を本拠とした武将。藤原基信の子。伊藤景綱とも。平忠盛・清盛に仕えた有力家人。古市の伊藤武者と称される。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原景綱"
+        "@id": "https://kotobank.jp/word/藤原景綱"
       },
       {
-        "@id": "https://kotobank.jp/word/藤原景綱"
+        "@id": "http://ja.wikipedia.org/wiki/藤原景綱"
       }
     ]
   }

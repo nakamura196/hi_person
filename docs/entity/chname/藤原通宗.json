@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原通宗.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1040ごろ－1084　平安時代中期-後期の官吏,歌人。長久元年ごろ生まれ。藤原通俊の兄。隆源,藤原宗子の父。能登(のと)(石川県),周防(すおう)(山口県),若狭(わかさ)(福井県)の国守を歴任。延久4年任地能登で「気多宮(けたのみや)歌合」を主催,永保3年の「篤子内親王(後三条院女四宮)侍所歌合」では判者をつとめた。歌は「後拾遺和歌集」などの勅撰集に5首ある。応徳元年4月12／13日死去。45歳？"

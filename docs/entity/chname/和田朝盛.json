@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/和田朝盛.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "鎌倉時代の武士。父は常盛。文武両面に秀で，3代将軍源実朝の学問所に伺候し，実朝の和歌の会の常連の一人であった。建暦3 (1213) 年の和田合戦には祖父の和田義盛に属して奮戦したが，敗れて京都に逃走した。承久の乱では朝廷側に属したが，敗れて嘉禄3 (27) 年に逮捕された。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/和田朝盛"
+        "@id": "http://ja.wikipedia.org/wiki/和田朝盛"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/和田朝盛"
+        "@id": "https://kotobank.jp/word/和田朝盛"
       }
     ]
   }

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原光業.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 光業（ふじわら の みつなり）は、平安時代後期の貴族。藤原北家真夏流。図書頭藤原篤茂の子。従五位上（または従五位下）・日向守。安房の国司を歴任するも、長元3年（1030年）、平忠常の乱により印鎰を捨てて帰京したとされる。"

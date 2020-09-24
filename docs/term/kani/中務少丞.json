@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/中務少丞.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "中務省（なかつかさしょう）は、律令制における八省のひとつ。和名はナカノマツリゴトノツカサ。唐名は中書省など。「中」は禁中の意。"

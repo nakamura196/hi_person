@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原季能.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 季能（ふじわら の すえよし、仁平3年（1153年） - 建暦元年6月21日（1211年8月1日））は平安時代末期から鎌倉時代初期にかけての公家。藤原北家善勝寺流、太皇太后宮権大夫藤原俊盛の子。官位は正三位・兵部卿。"

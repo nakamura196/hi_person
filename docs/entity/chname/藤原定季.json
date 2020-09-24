@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原定季.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 定季（ふじわら の さだすえ）は、平安時代後期から鎌倉時代初期にかけての人物。公卿。藤原定能の次男。"

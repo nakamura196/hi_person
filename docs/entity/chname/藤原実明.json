@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原実明.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 実明（ふじわら の さねあきら）は平安時代後期から鎌倉時代初期にかけての公卿。権大納言・藤原公通の次男。"

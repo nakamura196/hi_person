@@ -1,12 +1,15 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/法師.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
-        "@value": "１ 仏法によく通じ、人々を導く師となる者。また一般に、僧。出家。ほっし。２ 俗人で僧形をした者。「琵琶(びわ)法師」「田楽法師」３ 《昔、男の子は頭髪をそっていたところから》男の子。「いつかまた―が母にあひたけの、乱れ心や狂ふらん」〈虎明狂・法師が母〉４ 名詞に添えて「人」の意を表す。多く「ぼうし」と濁る。「一寸法師」「影法師」"
+        "@value": "法師（ほうし或いはほっし、のりのし、Skt:dharma-bhaanaka）は僧侶に対する呼称の1つ。"
       },
       {
-        "@value": "法師（ほうし或いはほっし、のりのし、Skt:dharma-bhaanaka）は僧侶に対する呼称の1つ。"
+        "@value": "１ 仏法によく通じ、人々を導く師となる者。また一般に、僧。出家。ほっし。２ 俗人で僧形をした者。「琵琶(びわ)法師」「田楽法師」３ 《昔、男の子は頭髪をそっていたところから》男の子。「いつかまた―が母にあひたけの、乱れ心や狂ふらん」〈虎明狂・法師が母〉４ 名詞に添えて「人」の意を表す。多く「ぼうし」と濁る。「一寸法師」「影法師」"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/法師"
+        "@id": "https://kotobank.jp/word/法師"
       },
       {
-        "@id": "https://kotobank.jp/word/法師"
+        "@id": "http://ja.wikipedia.org/wiki/法師"
       }
     ]
   }

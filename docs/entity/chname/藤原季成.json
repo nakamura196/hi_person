@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原季成.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 季成（ふじわら の すえなり、康和4年（1102年） - 長寛3年2月1日（1165年3月14日））は、平安時代末期の公卿。藤原北家閑院流。権大納言藤原公実の七男。正二位・権大納言。加賀大納言と号す。"

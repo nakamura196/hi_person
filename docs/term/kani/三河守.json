@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/三河守.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "三河国司（みかわこくし）は、三河国の国司のことである。養老律令の職員令で三河国は守、介、掾、目の各1人の構成である。三河国は上国であり、養老律令の官位令が定める上国の官位相当は守が従五位下、介が従六位上、少掾が従七位上、少目が従八位下である。但し、宝亀6年（775年）には大目1名・少目1名として大目を増員している。。"

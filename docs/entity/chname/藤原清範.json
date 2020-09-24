@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原清範.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "鎌倉初期の歌人。後鳥羽院の判官代、北面の武士から左近衛将監・内蔵権頭・和歌所寄人に至る。『新古今集』の中書をした。定家の『明月記』に当時の能書家の一人として挙げられる。『続後撰集』に二首選入されている。健保元年(1213)歿、59才。"

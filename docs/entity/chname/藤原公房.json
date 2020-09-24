@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原公房.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原公房（ふじわら の きんふさ）：藤原北家の公卿。 三条公房（1179年－1249年）：閑院流、公季の子孫。左大臣実房の子。従一位太政大臣に至り、清華家としての三条家の地歩を固めた。浄土寺相国と号す。 藤原公房（1030年－1102年）：小野宮流、実頼の子孫。参議資房の子で、同流の大納言経任の養子となる。正三位参議左京大夫に至る。白髪宰相と号す。 __DISAMBIG__"

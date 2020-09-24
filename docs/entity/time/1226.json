@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/time/1226.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Time.json"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "九条頼経、4代目将軍になる(摂家将軍の開始)\n鎌倉幕府の鎮西奉行武藤資頼が太宰少弐を兼ね、太宰府は完全に武士の支配下に置かれる"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1226-01-01"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1226-01-01"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "1226年"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1226"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1226"
+      }
+    ]
+  }
+]

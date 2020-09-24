@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/左馬助.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "左馬寮(さまりょう)の次官。正六位下相当。ひだりのうまのすけ。"
@@ -21,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/左馬助"
+        "@id": "http://ja.wikipedia.org/wiki/馬寮"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/馬寮"
+        "@id": "https://kotobank.jp/word/左馬助"
       }
     ]
   }

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原顕雅.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 顕雅（ふじわら の あきまさ、建永元年（1206年） - 弘安4年9月18日（1281年10月31日））は、鎌倉時代中期の公卿。藤原北家勧修寺流、参議藤原親房の三男。母は法印成清の娘。正二位・参議。寛元4年（1246年）、後嵯峨上皇の院司として蓮華王院の損色の検分に当たる。建長7年（1255年）に従三位・治部卿に任じ、正元元年（1259年）には後鳥羽天皇陵への遣使も務めているが、文応元年（1260年）に参議を一旦罷免されるという経験もしている（同年中に還任）。弘安4年（1281年）に出家（法名は准心）し、同年76歳で没した。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原顕雅"
+        "@id": "https://kotobank.jp/word/藤原顕雅"
       },
       {
-        "@id": "https://kotobank.jp/word/藤原顕雅"
+        "@id": "http://ja.wikipedia.org/wiki/藤原顕雅"
       }
     ]
   }

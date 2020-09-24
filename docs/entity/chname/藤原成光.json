@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原成光.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 成光（ふじわら の なりみつ）は平安時代後期の貴族、儒学者。藤原式家、文章博士・藤原敦光の四男または五男。"

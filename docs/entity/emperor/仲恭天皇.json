@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/emperor/仲恭天皇.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Emperor.json"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "仲恭天皇"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1221"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1221"
+      }
+    ]
+  }
+]

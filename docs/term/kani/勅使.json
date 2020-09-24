@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/勅使.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "天皇の意思を直接に伝えるために派遣される使い。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/勅使"
+        "@id": "http://ja.wikipedia.org/wiki/勅使"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/勅使"
+        "@id": "https://kotobank.jp/word/勅使"
       }
     ]
   }

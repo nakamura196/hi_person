@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原隆経.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 隆経（ふじわら の たかつね、生没年不詳）は、平安時代中期の貴族、歌人。藤原北家魚名流、右衛門佐・藤原頼任の子。官位は正四位下・美濃守。尊仁親王（後の後三条天皇）の春宮大進を務める。その他甲斐守、摂津守、美濃守等の国司を歴任し、延久4年（1072年）正四位下に昇った。"

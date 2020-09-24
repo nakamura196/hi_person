@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/伴保平.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "伴 保平（とも の やすひら）は、平安時代中期の公卿。姓は宿禰のち朝臣。播磨守・伴春雄の子。"

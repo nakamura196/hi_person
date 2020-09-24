@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/蔵人.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "蔵人（くろうど、藏人）は日本の律令制下の令外官の一つ。天皇の秘書的役割を果たした。唐名は侍中（じちゅう）、夕郎（せきろう）、夕拝郎（せきはいろう）。蔵人所は事務を行う場所のことで、内裏校書殿の北部に置かれた。また、蔵人は百官名或いは人名の一つで、この場合は「くらんど」と読む。"

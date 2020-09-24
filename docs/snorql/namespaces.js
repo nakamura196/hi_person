@@ -1,7 +1,7 @@
 var D2R_namespacePrefixes = {
-    //"jps": "https://jpsearch.go.jp/term/property#",
+    "jps": "https://jpsearch.go.jp/term/property#",
     "schema": "http://schema.org/",
-    "type": "https://jpsearch.go.jp/term/type/",
+    "type": "https://nakamura196.github.io/hi_person/term/type/",
     //"chname": "https://jpsearch.go.jp/entity/chname/",
     //"place": "https://jpsearch.go.jp/entity/place/",
     //"time": "https://jpsearch.go.jp/entity/time/",

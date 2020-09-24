@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原経通.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 経通（ふじわら の つねみち、天元5年（982年） - 永承6年1月18日（1051年3月3日）または8月16日（9月23日））は、平安時代の公卿。藤原懐平の長男。土御門帥と号す。"

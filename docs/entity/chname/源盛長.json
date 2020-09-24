@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源盛長.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "源 盛長（みなもと の もりなが、生没年不詳）は平安時代後期の貴族。醍醐源氏、備前守・源長季の子。官位は従四位下・淡路守。蹴鞠の名手として知られた。"

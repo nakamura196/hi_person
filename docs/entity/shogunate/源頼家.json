@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/shogunate/源頼家.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Shogunate.json"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Minamoto_no_Yoriie.jpg/160px-Minamoto_no_Yoriie.jpg"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "源頼家"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1203-09-07"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1202-07-22"
+      }
+    ]
+  }
+]

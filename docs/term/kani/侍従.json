@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/侍従.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "(1) 律令制における中務省所属の官人。天皇に近侍してその職務を補った。「おもとひと」ともいう。唐名は拾遺。『大宝令』では8人であったが，11世紀中頃から増員されて 20人程度になった。そのうち3人は少納言を兼帯し，従五位下のものが任命された。その詰所を侍従局といい，侍衛の官であったため帯剣が許された。そのほかに8省から功労ある四，五位の者が選ばれ御前の雑事を司る次侍従，即位，元日朝賀に侍従として伺候する三，四位の擬侍従などがあった。 (2) 明治2 (1869) 年宮内省におかれた職。 (3) 宮内庁侍従職の職員。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/侍従"
+        "@id": "http://ja.wikipedia.org/wiki/侍従"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/侍従"
+        "@id": "https://kotobank.jp/word/侍従"
       }
     ]
   }

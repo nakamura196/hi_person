@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源通資.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "源 通資（みなもと の みちすけ）は平安時代末期から鎌倉時代初期にかけての公卿。正二位権大納言淳和奨学両院別当。内大臣右大将源雅通の二男。源通親の同母弟。妻は従三位藤原長輔の娘、源俊光の娘。子は大納言に至った源雅親、左中将に至った源守通、参議に至った源雅清、右中将に至った唐橋通時、勝海、道禅、道順、女子（惟明親王室）がいる。"

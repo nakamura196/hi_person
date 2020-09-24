@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原実季.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 実季（ふじわら の さねすえ、長元8年（1035年） - 寛治5年12月24日（1092年2月4日））は、平安時代の公卿。藤原北家閑院流、権中納言・藤原公成の長男。官位は正二位・大納言、贈正一位・太政大臣。後閑院贈太政大臣と呼ばれた。"

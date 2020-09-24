@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/三善倫重.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1190－1244　鎌倉時代の幕府官僚。建久元年生まれ。嘉禄(かろく)元年幕府の初代評定衆となる。貞永(じょうえい)元年制定の「御成敗式目」の起草者のひとり。寛元2年6月4日死去。55歳。姓は別に矢野。"

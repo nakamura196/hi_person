@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/shogunate/藤原頼経.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Shogunate.json"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kuj%C5%8D_Yoritsune.jpg/160px-Kuj%C5%8D_Yoritsune.jpg"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "藤原頼経"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1244-04-28"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1226-01-27"
+      }
+    ]
+  }
+]

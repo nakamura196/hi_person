@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/安達義景.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "安達 義景（あだち よしかげ）は鎌倉時代中期の武将。安達景盛の嫡男。鎌倉幕府の有力御家人。子に安達泰盛、覚山尼（北条時宗室）がいる。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/安達義景"
+        "@id": "https://kotobank.jp/word/安達義景"
       },
       {
-        "@id": "https://kotobank.jp/word/安達義景"
+        "@id": "http://ja.wikipedia.org/wiki/安達義景"
       }
     ]
   }

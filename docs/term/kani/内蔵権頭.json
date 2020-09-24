@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/内蔵権頭.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "内蔵寮（くらりょう）は律令制において中務省に属した機関。和訓は「うちのくらのつかさ」。唐名は「倉」部。また、近代の宮内省に設置された内部部局の一つ。"

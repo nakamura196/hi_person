@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原行能.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "世尊寺 行能（せそんじ ゆきよし、治承3年（1179年） - 建長7年（1255年）？）は、鎌倉時代前期の公卿・能書家・歌人。太皇太后宮亮・藤原伊経の長男。母は法橋増宗の娘。法号は寂然。世尊寺家の第8代目当主。「世尊寺」の家名は行能の代より用いられたとされている。官位は従三位・右京大夫。"

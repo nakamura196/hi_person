@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/清原信俊.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1077－1145　平安時代後期の儒者。承暦(じょうりゃく)元年生まれ。仏教をあつく信仰し,法華経の写経,読経,略読につとめた。久安元年10月2日死去。69歳。"

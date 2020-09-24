@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原実宣.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "滋野井 実宣（しげのい さねのぶ）は平安時代後期から鎌倉時代初期にかけての公卿。参議・滋野井公時の長男。日記に『実宣卿記』がある。"

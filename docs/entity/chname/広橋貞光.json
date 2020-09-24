@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/広橋貞光.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "公卿。兼茂の嗣、綏光の二男。元名国宣。正三位権中納言。日野西家相続。元禄12年(1699)歿、57才。"

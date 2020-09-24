@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原範兼.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "［1107～1165］平安後期の歌人・歌学者。従三位刑部卿。著「和歌童蒙抄」など。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原範兼"
+        "@id": "https://kotobank.jp/word/藤原範兼"
       },
       {
-        "@id": "https://kotobank.jp/word/藤原範兼"
+        "@id": "http://ja.wikipedia.org/wiki/藤原範兼"
       }
     ]
   }

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原長清.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "生年：生没年不詳\n鎌倉時代の歌人。時宗に帰依し他阿の教えを受ける。また冷泉為相より和歌を学び,その支援のもとに延慶3(1310)年ごろ『夫木和歌抄』を編纂。地方の武門出身でありながら,今日なお和歌研究に必備の36巻におよぶ同書を編んだことは驚嘆に値する。\n                        (田渕句美子)"

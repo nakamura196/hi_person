@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/威儀師.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "威儀師（いぎし）とは、得度・授戒・法会といった仏教の重要儀式の際に、儀式を進行し、衆僧を指揮する役目の僧侶。貞観12年（870年）以後は、大威儀師・小威儀師に分かれた。"

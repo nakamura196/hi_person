@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原邦綱.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 邦綱（ふじわら の くにつな、保安3年（1122年） - 治承5年閏2月23日（1181年4月8日））は平安時代後期の公卿。右馬権助・藤原盛国の子。官位は正二位・権大納言。五条大納言と号す。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/藤原邦綱"
+        "@id": "http://ja.wikipedia.org/wiki/藤原邦綱"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原邦綱"
+        "@id": "https://kotobank.jp/word/藤原邦綱"
       }
     ]
   }

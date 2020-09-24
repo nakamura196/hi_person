@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/甘露寺親長.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "甘露寺 親長（かんろじ ちかなが、応永31年（1425年） - 明応9年8月7日（1500年8月31日））は、室町時代中期から戦国時代にかけての公家である。実務家公卿を輩出した藤原北家勧修寺流甘露寺家の当主。出家後は蓮空。一字名は鬼。官位は正二位・権大納言。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/甘露寺親長"
+        "@id": "http://ja.wikipedia.org/wiki/甘露寺親長"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/甘露寺親長"
+        "@id": "https://kotobank.jp/word/甘露寺親長"
       }
     ]
   }

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源行綱.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "多田 行綱（ただ ゆきつな／源 行綱、みなもと の ゆきつな）は、平安時代末期の武将。摂津源氏の流れを汲む多田源氏の多田頼盛の長男。官位は従五位下・伯耆守。摂津国多田の地に武士団を形成した源満仲（多田満仲）より数えて八代目に当たる多田源氏の嫡流。"

@@ -1,12 +1,20 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原実定.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "徳大寺 実定（とくだいじ さねさだ）は、平安時代末期から鎌倉時代初期にかけての公卿・歌人。右大臣・徳大寺公能の長男。官位は正二位・左大臣。後徳大寺左大臣（ごとくだいじの さだいじん）として知られる。"
       },
       {
         "@value": "［1139～1192］平安末期の公卿・歌人。左大臣。家集「林下集」、日記「庭槐抄」など。後徳大寺(ごとくだいじ)実定。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Tokudaiji_Sanesada.jpg?width=300"
       }
     ],
     "http://schema.org/name": [
@@ -21,10 +29,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/徳大寺実定"
+        "@id": "https://kotobank.jp/word/藤原実定"
       },
       {
-        "@id": "https://kotobank.jp/word/藤原実定"
+        "@id": "http://ja.wikipedia.org/wiki/徳大寺実定"
       }
     ]
   }

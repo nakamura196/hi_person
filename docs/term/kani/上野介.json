@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/上野介.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "上野国（こうずけのくに、かみつけぬのくに、かみつけののくに、かみつけのくに）は、かつて日本の地方行政区分だった令制国の一つ。東山道に属する。常陸国・上総国とともに親王が国司を務める親王任国であり、国府の実質的長官は上野介であった。"

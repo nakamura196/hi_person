@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/小舎人童.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "近衛(このえ)中将・少将が召し使った少年。また、公家・武家に仕えて雑用をつとめた少年。「―ちひさくて髪いとうるはしきが」〈枕・五四〉"

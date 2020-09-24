@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源季兼.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－?　平安時代後期の官吏。醍醐(だいご)源氏,源俊兼の子。石見守(いわみのかみ),木工権頭(もくのごんのかみ)となり,正四位下にいたる。康治(こうじ)2年(1143)父から伝領した能登(のと)(石川県)若山荘を皇嘉門院に寄進し,領家職を確保。のち荘園本家は九条家に,領家職は季兼の娘婿となった日野資長の子孫につたえられた。"

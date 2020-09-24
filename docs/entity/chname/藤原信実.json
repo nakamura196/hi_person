@@ -1,12 +1,20 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原信実.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
-        "@value": "藤原 信実（ふじわら の のぶざね）は、鎌倉時代前期から中期にかけての公家、画家、歌人。"
+        "@value": "鎌倉前・中期の廷臣。隆信の子。左京権大夫・正四位下に至る。のち出家して寂西と号する。画・和歌を能くし、写実的な肖像画技法を父に学ぶ。また藤原定家に師事し歌人としても知られた。文永3年(1266)存。"
       },
       {
-        "@value": "鎌倉前・中期の廷臣。隆信の子。左京権大夫・正四位下に至る。のち出家して寂西と号する。画・和歌を能くし、写実的な肖像画技法を父に学ぶ。また藤原定家に師事し歌人としても知られた。文永3年(1266)存。"
+        "@value": "藤原 信実（ふじわら の のぶざね）は、鎌倉時代前期から中期にかけての公家、画家、歌人。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujiwara_no_Nobuzane.jpg?width=300"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

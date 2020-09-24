@@ -1,12 +1,20 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源経信.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "源 経信（みなもと の つねのぶ、長和5年（1016年） - 永長2年閏1月6日（1097年2月20日））は、平安時代後期の公家・歌人。宇多源氏、権中納言・源道方の六男。官位は正二位・大納言。桂大納言と号す。小倉百人一首では大納言経信。"
       },
       {
         "@value": "[生]長和5(1016)[没]承徳1(1097).閏1.6. 大宰府平安時代中期の公卿，歌人。道方の子で，俊頼の父。正二位権大納言にいたり，晩年に大宰権帥に就任。その博識多才は藤原公任 (きんとう) と並称され，当時の歌壇の権威であったが，『後拾遺和歌集』の撰者になることができなかったので，『難後拾遺』 (1097) を書いて批判した。漢文日記の『帥記』も残している。家集『経信集』があり，『後拾遺和歌集』以下の勅撰集に約 85首入集。母も三十六歌仙の源信明 (さねあきら) や公忠 (きんただ) の血筋を受けた歌人で，『経信母集』という小家集がある。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Yoshitoshi_-_100_Aspects_of_the_Moon_-_14.jpg?width=300"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

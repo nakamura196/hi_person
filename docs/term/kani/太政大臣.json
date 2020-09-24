@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/太政大臣.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "太政大臣（だいじょうだいじん／だじょうだいじん）は、太政官の長官。前近代日本の律令官制と明治時代の太政官制における最高職。唐名は「（大）相国」「太師」。和訓は「おおまつりごとのおおまえつぎみ／おおきおとど」。定員1名。具体的な職掌のない名誉職で、適任者がなければ設置しない則闕（そっけつ）の官とされた。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/太政大臣"
+        "@id": "https://kotobank.jp/word/太政大臣"
       },
       {
-        "@id": "https://kotobank.jp/word/太政大臣"
+        "@id": "http://ja.wikipedia.org/wiki/太政大臣"
       }
     ]
   }

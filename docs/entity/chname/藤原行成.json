@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原行成.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 行成（ふじわら の ゆきなり/こうぜい、天禄3年（972年） - 万寿4年12月4日（1028年1月3日））は、平安時代中期の廷臣。藤原北家、右少将・藤原義孝の長男。官位は正二位・権大納言。一条朝四納言の一。世尊寺家の祖。当代の能書家として三蹟の一人に数えられ、その書は後世「権蹟」（ごんせき）と称された。書道世尊寺流の祖。"

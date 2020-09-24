@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原家通.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 家通（ふじわら の いえみち） 藤原俊信（1055年 - 1105年） - 初名は家通。藤原正家の子。正五位下右少弁文章博士。 藤原家通 (宮内卿) （1056年 - 1116年） - 藤原顕綱の子。正四位下宮内卿。 藤原家通 (権中納言) （1143年 - 1187年） - 藤原忠基の子、藤原重通の養子。正二位権中納言。 __DISAMBIG__"

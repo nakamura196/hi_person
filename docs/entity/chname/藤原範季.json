@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原範季.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1130－1205　平安後期-鎌倉時代の公卿(くぎょう)。大治(だいじ)5年生まれ。式部少輔(しょう)藤原能兼(よしかね)の3男。兄範兼(のりかね)の養子。後白河上皇の近臣で,九条兼実(かねざね)の家司(けいし)もつとめた。娘重子(修明門院)が後鳥羽(ごとば)天皇の後宮にはいって順徳天皇を生んだため,外祖父として従二位にすすむ。高倉(藪(やぶ))家の祖。元久2年5月10日死去。76歳。正一位,左大臣を追贈された。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原範季"
+        "@id": "https://kotobank.jp/word/藤原範季"
       },
       {
-        "@id": "https://kotobank.jp/word/藤原範季"
+        "@id": "http://ja.wikipedia.org/wiki/藤原範季"
       }
     ]
   }

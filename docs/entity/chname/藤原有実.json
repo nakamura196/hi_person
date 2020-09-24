@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原有実.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "847－914　平安時代前期-中期の公卿(くぎょう)。承和(じょうわ)14年生まれ。北家藤原良仁(よしひと)の次男。左近衛(さこんえの)中将兼蔵人頭(くろうどのとう)をへて,元慶(がんぎょう)6年(882)参議となる。左衛門督(さえもんのかみ),陸奥出羽按察使(むつでわあぜち)をかね,正三位にすすんだ。延喜(えんぎ)14年5月12日死去。68歳(「公卿補任(ぶにん)」では67歳)。"

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原家良.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1192－1264　鎌倉時代の公卿(くぎょう),歌人。建久3年生まれ。藤原忠良の次男。母は藤原定能(さだよし)の娘。正二位,内大臣にいたる。藤原定家に師事。「万代(まんだい)和歌集」を藤原光俊と共撰し,「続古今和歌集」の撰者にもくわえられた。「新勅撰和歌集」以下の勅撰集に118首がはいる。文永元年9月10日死去。73歳。号は衣笠(きぬがさ)。家集に「衣笠内大臣集」。"
@@ -21,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/藤原家良"
+        "@id": "http://ja.wikipedia.org/wiki/衣笠家良"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/衣笠家良"
+        "@id": "https://kotobank.jp/word/藤原家良"
       }
     ]
   }

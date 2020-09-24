@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/emperor/亀山天皇.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Emperor.json"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Emperor_Kameyama.jpg/140px-Emperor_Kameyama.jpg"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "亀山天皇"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1273"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1259"
+      }
+    ]
+  }
+]

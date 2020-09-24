@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原良経.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 良経（ふじわら の よしつね）世尊寺良経 - 平安中期の人物。藤原行成の子、世尊寺行経の兄弟。九条良経 - 平安末期の人物。九条兼実の子。 __DISAMBIG__"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原良経"
+        "@id": "https://kotobank.jp/word/藤原良経"
       },
       {
-        "@id": "https://kotobank.jp/word/藤原良経"
+        "@id": "http://ja.wikipedia.org/wiki/藤原良経"
       }
     ]
   }

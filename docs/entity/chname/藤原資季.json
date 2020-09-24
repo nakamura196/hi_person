@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原資季.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 資季（ふじわら の すけすえ）は鎌倉時代前期の公卿。二条資季とも。正二位権大納言。二条と号す。従三位左中将藤原資家の長男。母は参議九条光長の娘（宜秋門院帥）。琵琶で名高い二条大納言藤原定能の孫である。日記『荒涼記』（資季卿記）を残した。子の資氏は弘安7年（1284年）に病により出家したので、孫の資高を子として跡を継がせたという。歌人として知られる内大臣衣笠家良は定能の娘が母であり、資季とはいとこ同士ということになる。"

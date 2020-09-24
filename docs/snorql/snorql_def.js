@@ -164,32 +164,35 @@ Snorqldef.prop_description = {
 
 //list of example queries. each object represents one example: {label: Japanese label for select option, label_en: English label for select option, ns: [prefixes to use in query], query: SPARQL query (escaped)}
 Snorqldef.example = [
-	/*
+	
 	{
-		"label" : "文字列「あかつき」を含む行",
-		"label_en" : "文字列「あかつき」を含む行",
+		"label" : "天皇一覧",
+		"label_en" : "天皇一覧",
 		"ns" : [ ],
-		"query" : "SELECT DISTINCT * WHERE { \n\t?s rdfs:label ?label .\n\tfilter regex (?label, \"あかつき\")\n} ORDER BY ?s LIMIT 100"
-	},
-	*/
-	/*
-	{
-		"label": "「きりつぼ」のテキスト",
-		"label_en" : "「きりつぼ」のテキスト",
-		"ns" : [ ],
-		"query" : "SELECT DISTINCT ?s ?label WHERE { \n\t?s rdfs:label ?label;\n\t\tdct:isPartOf <https://w3id.org/kouigenjimonogatari/api/item_sets/01.json> .\n} ORDER BY ?s LIMIT 100"
+		"query" : "SELECT DISTINCT ?s ?start ?end ?image WHERE {\n	?s a type:Emperor.json;\n                      jps:start ?start;\n                      jps:end ?end . \n  optional {?s schema:image ?image}\n}\nORDER BY ?end\nLIMIT 100"
 	},
 	{
-		"label": "先頭行",
-		"label_en" : "先頭行",
+		"label" : "将軍一覧",
+		"label_en" : "将軍一覧",
 		"ns" : [ ],
-		"query" : "SELECT DISTINCT ?s ?label WHERE { \n\t?s rdfs:label ?label;\n\t\tgenji:row 1 .\n\t} ORDER BY ?s LIMIT 100"
-   },
-   {
-		"label": "巻毎の行数",
-		"label_en" : "巻毎の行数",
-		"ns" : [ ],
-		"query" : "SELECT DISTINCT (count(?s) as ?c) ?title ?work WHERE {\n\t?s dct:isPartOf ?work .\n\t?work rdfs:label ?title .\n} GROUP BY ?title ?work ORDER BY ?c"
+		"query" : "SELECT DISTINCT ?s ?start ?end ?image WHERE {\n	?s a type:Shogunate.json;\n                      jps:start ?start;\n                      jps:end ?end . \n  optional {?s schema:image ?image}\n}\nORDER BY ?end\nLIMIT 100"
 	},
-	*/
+	{
+		"label" : "出来事一覧",
+		"label_en" : "出来事一覧",
+		"ns" : [ ],
+		"query" : "SELECT DISTINCT ?s ?start ?end ?description WHERE {\n	?s a type:Time.json;\n                      jps:start ?start;\n                      jps:end ?end;\n                      schema:description ?description . \n}\nORDER BY ?end\nLIMIT 100"
+	},
+	{
+		"label": "官位一覧",
+		"label_en" : "官位一覧",
+		"ns" : [ ],
+		"query" : "SELECT DISTINCT ?s ?label WHERE {\n	?s a type:Kani.json;\n                   rdfs:label ?label.\n}\nLIMIT 100"
+	},
+	{
+		"label": "人物一覧",
+		"label_en" : "人物一覧",
+		"ns" : [ ],
+		"query" : "SELECT DISTINCT ?s ?label ?image WHERE {\n	?s a type:Person.json;\n                   rdfs:label ?label.\n  optional {?s schema:image ?image }\n}\nORDER BY desc(?image)\nLIMIT 100"
+	},
 ];

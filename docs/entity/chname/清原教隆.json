@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/清原教隆.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1199－1265　鎌倉時代の儒者。正治(しょうじ)元年生まれ。清原頼業(よりなり)の孫。家学の明経(みょうぎょう)道をつぐ。鎌倉幕府につかえ,将軍九条頼嗣(よりつぐ),宗尊(むねたか)親王の侍講となる。金沢実時(さねとき)をみちびき,実時が金沢文庫を創設するうえで影響をあたえた。晩年京都にかえり,大外記(だいげき)となる。文永2年7月18日死去。67歳。初名は仲光。"

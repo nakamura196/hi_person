@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原光長.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原光長平安時代後期の絵師。常盤光長。→ 常盤光長平安時代後期から鎌倉時代初期にかけての公卿。九条光長。 → 九条光長江戸時代中期から後期にかけての鏡師。→藤原光長 (鏡師) __DISAMBIG__"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原光長"
+        "@id": "https://kotobank.jp/word/藤原光長"
       },
       {
-        "@id": "https://kotobank.jp/word/藤原光長"
+        "@id": "http://ja.wikipedia.org/wiki/藤原光長"
       }
     ]
   }

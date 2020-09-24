@@ -19,6 +19,26 @@ arr = []
 
 all = Graph()
 
+t = "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+
+subject = URIRef(t)
+
+stmt = (subject, URIRef("http://www.w3.org/2000/01/rdf-schema#label"), Literal("官位"))
+
+all.add(stmt)
+
+stmt = (subject, URIRef("http://www.w3.org/1999/02/22-rdf-syntax-ns#type"), URIRef("http://www.w3.org/2000/01/rdf-schema#Class"))
+
+all.add(stmt)
+
+path = t.replace("https://nakamura196.github.io/hi_person", "../docs")
+
+dirname = os.path.dirname(path)
+
+os.makedirs(dirname, exist_ok=True)
+
+all.serialize(destination=path, format='json-ld')
+
 for file in files:
     filename = os.path.splitext(os.path.basename(file))[0]
     id = "https://nakamura196.github.io/hi_person/term/kani/" + filename + ".json"
@@ -31,6 +51,11 @@ for file in files:
     subject = URIRef(id)
 
     stmt = (subject, URIRef("http://www.w3.org/2000/01/rdf-schema#label"), Literal(filename))
+
+    g.add(stmt)
+    all.add(stmt)
+
+    stmt = (subject, URIRef("http://www.w3.org/1999/02/22-rdf-syntax-ns#type"), URIRef(t))
 
     g.add(stmt)
     all.add(stmt)

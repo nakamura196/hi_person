@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原宗経.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 宗経（ふじわら の むねつね、生没年不詳）は平安時代後期から鎌倉時代前期にかけての貴族。権大納言・藤原宗家の子。別名は宗国。左近衛少将・右近衛中将などを歴任し、極位極官は従四位上・左近衛中将に至るが、後の松木家第5代の当主ながら公卿昇進は叶わなかった。"

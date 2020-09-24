@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原定高.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1190－1238　鎌倉時代の公卿(くぎょう)。建久元年生まれ。藤原光長の3男。母は藤原朝親の娘。兄長房の養子。蔵人頭(くろうどのとう)をへて建保(けんぽ)6年(1218)参議兼左大弁となり,のち権(ごんの)中納言,正二位。摂関家の九条道家につかえた。嘉禎(かてい)4年1月22日死去。49歳。号は二条。"

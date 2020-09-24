@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/左近衛大将.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "令外(りょうげ)の官。左近衛府の長官。従三位相当。左近大将(さこんのだいしょう)。左大将(さだいしょう)。"

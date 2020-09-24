@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原琮子.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－1231　平安時代後期,後白河天皇の女御(にょうご)。三条公教(きんのり)の娘。母は藤原清隆の娘。保元(ほうげん)2年(1157)入内(じゅだい)し,同年女御となる。梅壺女御,三条女御とよばれた。従三位。承安(じょうあん)3年(1173)病のため出家。寛喜(かんぎ)3年4月6日死去。"

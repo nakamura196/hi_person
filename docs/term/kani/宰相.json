@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/宰相.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "１ 総理大臣。首相。「一国の宰相」「平民宰相」２ 古く中国で、天子を補佐して政治を行った官。丞相(じょうしょう)。３ 参議の唐名。"

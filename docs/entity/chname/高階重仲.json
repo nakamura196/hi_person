@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/高階重仲.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1069－1120　平安時代後期の官吏。延久元年生まれ。蔵人(くろうど),出雲守(いずものかみ)などをへて元永2年近江守(おうみのかみ)となる。藤原師通(もろみち)・忠実(ただざね)父子の家司(けいし)をつとめた。保安(ほうあん)元年9月26日死去。52歳。"

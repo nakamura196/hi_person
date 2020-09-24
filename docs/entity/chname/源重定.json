@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源重定.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "源 重貞（みなもと の しげさだ）は、平安時代末期の武将。源重実の子。清和源氏満政流で、近江矢島（現在の滋賀県守山市矢島町）を本拠とする在京軍事貴族（京武者）である。保元の乱では源為朝を捕縛した。平治の乱で多くの軍事貴族が淘汰された後も活動を続け、平氏政権下においても一定の勢力を保持した。諱は重定とも記される。"
@@ -21,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/源重貞"
+        "@id": "https://kotobank.jp/word/源重定"
       },
       {
-        "@id": "https://kotobank.jp/word/源重定"
+        "@id": "http://ja.wikipedia.org/wiki/源重貞"
       }
     ]
   }

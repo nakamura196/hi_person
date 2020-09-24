@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源頼子.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "源 頼子（みなもと の らいし、生没年不詳）は、平安時代後期の女官。三河守・源頼綱の女。姉妹に三河内侍源盛子がいた。白河天皇の後宮に奉仕し、その寵愛を受けて官子内親王（清和院斎院）を産んだ。永久3年（1115年）8月16日付の『源頼子家地相博券』という古文書によれば、頼子は当時左京七条坊門小路南・室町小路東に4戸主分の地所を所有していたらしい。長承元年（1132年）3月、官子内親王の邸宅清和院内に仏堂を建立供養した。"

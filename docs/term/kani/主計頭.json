@@ -1,12 +1,15 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/主計頭.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
-        "@value": "主計寮しゆけいりようの長官。"
+        "@value": "主計寮（しゅけいりょう）は律令制において民部省に属した機関。訓はかずえのつかさなど。"
       },
       {
-        "@value": "主計寮（しゅけいりょう）は律令制において民部省に属した機関。訓はかずえのつかさなど。"
+        "@value": "主計寮しゆけいりようの長官。"
       }
     ],
     "http://schema.org/name": [

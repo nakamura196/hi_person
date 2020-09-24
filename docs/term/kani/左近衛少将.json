@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/左近衛少将.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "令外(りょうげ)の官。左近衛府の次官。正五位下相当。左近少将(さこんのしょうしょう)。左少将(さしょうしょう)。"

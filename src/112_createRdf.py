@@ -13,11 +13,31 @@ from rdflib import URIRef, BNode, Literal, Graph
 from rdflib.namespace import RDF, RDFS, FOAF, XSD
 from rdflib import Namespace
 
-files = glob.glob("../../hi_kokiroku/test/kotobank/data/*.json")
+files = glob.glob("data/kotobank/*.json")
 
 arr = []
 
 all = Graph()
+
+t = "https://nakamura196.github.io/hi_person/term/type/Person.json"
+
+subject = URIRef(t)
+
+stmt = (subject, URIRef("http://www.w3.org/2000/01/rdf-schema#label"), Literal("Person"))
+
+all.add(stmt)
+
+stmt = (subject, URIRef("http://www.w3.org/1999/02/22-rdf-syntax-ns#type"), URIRef("http://www.w3.org/2000/01/rdf-schema#Class"))
+
+all.add(stmt)
+
+path = t.replace("https://nakamura196.github.io/hi_person", "../docs")
+
+dirname = os.path.dirname(path)
+
+os.makedirs(dirname, exist_ok=True)
+
+all.serialize(destination=path, format='json-ld')
 
 for file in files:
     filename = os.path.splitext(os.path.basename(file))[0]
@@ -35,8 +55,10 @@ for file in files:
     g.add(stmt)
     all.add(stmt)
     
+    stmt = (subject, URIRef("http://www.w3.org/1999/02/22-rdf-syntax-ns#type"), URIRef(t))
 
-    
+    g.add(stmt)
+    all.add(stmt)
 
     if "description" in json_load:
 
@@ -90,6 +112,13 @@ for file in files:
                 g.add(stmt)
                 all.add(stmt)
 
+        
+        if "http://dbpedia.org/ontology/thumbnail" in json_load2:
+
+            stmt = (subject, URIRef("http://schema.org/image"), URIRef(json_load2["http://dbpedia.org/ontology/thumbnail"][0]["value"]))
+
+            g.add(stmt)
+            all.add(stmt)
 
 
     except Exception as e:

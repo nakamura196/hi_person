@@ -1,12 +1,15 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源頼兼.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
-        "@value": "?－?　平安後期-鎌倉時代の武士。源頼政の子。寿永2年(1183)大内(おおうち)守護の任につく。元暦(げんりゃく)2年平重衡(しげひら)を南都衆徒にひきわたすため,鎌倉より護送。建久5年鎌倉にはいり,翌年源頼朝の京都入りに随伴して東大寺に参詣。元久2年石見守(いわみのかみ)。"
+        "@value": "源 頼兼（みなもと の よりかね）は、平安時代末期から鎌倉時代初期にかけての武将・御家人。源頼政の次男。父に続き大内守護を務める。"
       },
       {
-        "@value": "源 頼兼（みなもと の よりかね）は、平安時代末期から鎌倉時代初期にかけての武将・御家人。源頼政の次男。父に続き大内守護を務める。"
+        "@value": "?－?　平安後期-鎌倉時代の武士。源頼政の子。寿永2年(1183)大内(おおうち)守護の任につく。元暦(げんりゃく)2年平重衡(しげひら)を南都衆徒にひきわたすため,鎌倉より護送。建久5年鎌倉にはいり,翌年源頼朝の京都入りに随伴して東大寺に参詣。元久2年石見守(いわみのかみ)。"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/源頼兼"
+        "@id": "https://kotobank.jp/word/源頼兼"
       },
       {
-        "@id": "https://kotobank.jp/word/源頼兼"
+        "@id": "http://ja.wikipedia.org/wiki/源頼兼"
       }
     ]
   }

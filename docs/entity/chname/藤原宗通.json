@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原宗通.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 宗通（ふじわら の むねみち、延久3年（1071年） - 保安元年7月22日（1120年8月17日））は、平安時代後期の公卿。藤原北家、右大臣・藤原俊家の子で、藤原道長は曾祖父にあたる。官位は正二位・権大納言。坊門大納言と号した。幼名阿古丸。幼いころから白河院の手元で育てられた。14歳で叙爵され、累進して白河院別当となり、近臣として権勢を振るった。『金葉和歌集』（歌番号554）・『新勅撰和歌集』（歌番号274）に和歌作品が採録されている。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原宗通"
+        "@id": "https://kotobank.jp/word/藤原宗通"
       },
       {
-        "@id": "https://kotobank.jp/word/藤原宗通"
+        "@id": "http://ja.wikipedia.org/wiki/藤原宗通"
       }
     ]
   }

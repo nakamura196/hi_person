@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原忠光.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－1192　平安後期-鎌倉時代の武将。藤原忠清の子。平景清(かげきよ)の兄。平家の侍大将。壇ノ浦での敗戦後行方をくらまし,建久3年鎌倉永福寺の創建工事にまぎれて源頼朝の命をねらう。変装をみやぶられ,同年2月24日さらし首となった。通称は上総(かずさ)五郎兵衛尉。"

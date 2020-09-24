@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/少監物.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "監物（けんもつ）は律令制において中務省に属した品官（ほんかん）。"
@@ -21,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/監物"
+        "@id": "https://kotobank.jp/word/少監物"
       },
       {
-        "@id": "https://kotobank.jp/word/少監物"
+        "@id": "http://ja.wikipedia.org/wiki/監物"
       }
     ]
   }

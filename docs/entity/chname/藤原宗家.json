@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原宗家.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1139－1189　平安時代後期の公卿(くぎょう)。保延(ほうえん)5年生まれ。藤原宗能(むねよし)の子。母は藤原長実(ながざね)の娘。中御門(なかみかど)流の嫡流。父より家芸の神楽をうけついだ。永暦(えいりゃく)元年(1160)参議となり,権(ごんの)大納言,正二位にいたる。文治(ぶんじ)5年閏(うるう)4月22日死去。51歳。初名は信能。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原宗家"
+        "@id": "https://kotobank.jp/word/藤原宗家"
       },
       {
-        "@id": "https://kotobank.jp/word/藤原宗家"
+        "@id": "http://ja.wikipedia.org/wiki/藤原宗家"
       }
     ]
   }

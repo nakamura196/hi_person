@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/一条経嗣.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "一条 経嗣（いちじょう つねつぐ、正平13年/延文3年（1358年） - 応永25年11月17日（1418年12月14日））は、室町時代前期の公卿（関白）。関白二条良基の三男で、一条経通の猶子として一条家を継いだ。子に一条兼良・僧雲章一慶がいる。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/一条経嗣"
+        "@id": "http://ja.wikipedia.org/wiki/一条経嗣"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/一条経嗣"
+        "@id": "https://kotobank.jp/word/一条経嗣"
       }
     ]
   }

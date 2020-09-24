@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/肥後守.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "肥後守（ひごのかみ）とは、日本で戦前から使われていた簡易折りたたみ式刃物（ナイフ）のこと。登録商標であり特定の製品の名称であるが、同形状のナイフの総称として呼称されることが多い（後述）。"

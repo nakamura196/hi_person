@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原広綱.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "伏見 広綱（ふしみ ひろつな、生没年不詳）は、平安時代末期の人物。源頼朝の右筆。伏見冠者藤原広綱と呼ばれる。"

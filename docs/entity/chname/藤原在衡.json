@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原在衡.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 在衡（ふじわら の ありひら）は、平安時代中期の公卿。藤原北家魚名流、中納言・藤原山蔭の孫。大僧都・如無の子、叔父の但馬介・藤原有頼の養子。官位は従二位・左大臣、贈従一位。粟田左大臣、あるいは万里小路大臣と称す。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原在衡"
+        "@id": "https://kotobank.jp/word/藤原在衡"
       },
       {
-        "@id": "https://kotobank.jp/word/藤原在衡"
+        "@id": "http://ja.wikipedia.org/wiki/藤原在衡"
       }
     ]
   }

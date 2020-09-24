@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/emperor/後宇多天皇.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Emperor.json"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Emperor_Go-Uda.jpg/140px-Emperor_Go-Uda.jpg"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "後宇多天皇"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1286"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1274"
+      }
+    ]
+  }
+]

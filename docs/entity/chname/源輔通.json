@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源輔通.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "源 輔通（みなもと の すけみち）は鎌倉時代初期から中期の公卿。非参議従三位。歌人として知られる従四位下左少将源具親の息男。母は北条重時の娘。同じ年に輔通の叔父に当たる源泰光も高齢ながら従三位に叙されており、輔通の従三位叙位は後嵯峨院政下での村上源氏に対する処遇の一環であると考えられる。"

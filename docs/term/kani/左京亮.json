@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/左京亮.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "京職（きょうしき）とは、日本の律令制において京（みやこ）の司法、行政、警察を行った行政機関である。古訓はミサトヅカサ。京は碁盤の目状に大路・小路が整備され（条坊制）、京内の東側を「左京（さきょう＝玉座より見て左）」、西側を「右京（うきょう＝玉座より見て右）」と呼び、「左京職（さきょうしき）」・「右京職（うきょうしき）」に分かれていた。なお、京職（きょうしょく）は京都所司代の別称。"

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原賢子.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 賢子（ふじわら の けんし/かたいこ、天喜4年（1057年） - 応徳元年9月22日（1084年10月24日））は、第72代白河天皇の中宮、第73代堀河天皇の国母。父は右大臣・源顕房、母は源隆俊の女・隆子。太政大臣・藤原師実の養女。"

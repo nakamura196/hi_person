@@ -1,12 +1,15 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/雅楽頭.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
-        "@value": "雅楽寮（うたりょう）は、律令制において治部省に属する機関である。『和名抄』ではうたまいのつかさとされている。"
+        "@value": "雅楽寮の長官。従五位上相当。"
       },
       {
-        "@value": "雅楽寮の長官。従五位上相当。"
+        "@value": "雅楽寮（うたりょう）は、律令制において治部省に属する機関である。『和名抄』ではうたまいのつかさとされている。"
       }
     ],
     "http://schema.org/name": [

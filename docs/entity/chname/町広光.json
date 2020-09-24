@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/町広光.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "町 広光（まち ひろみつ、文安元年（1444年） - 永正元年6月15日（1504年7月26日））は室町時代後期から戦国時代にかけての公卿。藤原北家日野流柳原家の流れを汲む町家当主。正二位、権大納言。室町大納言と呼ばれる。出家して忍寂と号した。子はすべて出家・養子に出し、「我が家のことは執心なし。当時（現在）の様、断絶に如くべからず」として、町家を断絶させた。広光の死後町家は高辻家より養子をとって再興されたが、結局絶家となった。"

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/高階泰経.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1130－1201　平安後期-鎌倉時代の公卿(くぎょう)。大治(だいじ)5年生まれ。大蔵卿,皇后宮亮(すけ)などを歴任。側近として後白河法皇につかえるが,文治(ぶんじ)元年源義経の謀反にくわわったとして解任され伊豆(いず)に流される。のちゆるされ正三位にのぼった。建仁(けんにん)元年11月23日死去。72歳。"

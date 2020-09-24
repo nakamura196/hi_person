@@ -1,12 +1,20 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/平家貞.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "平 家貞（たいら の いえさだ）は、平安時代後期の武将。伊賀を本拠とする伊勢平氏譜代の有力家人である。平忠盛・平清盛の二代に渡って仕え、「一ノ郎等」（『愚管抄』）といわれた。"
       },
       {
         "@value": "?－?　平安時代後期の武士。平忠盛,清盛につかえる。伊賀(いが)(三重県)鞆田荘(ともだのしょう)の経営にあたり,また平家の鎮西(九州)経営に功があった。長承元年(1132)内昇殿をゆるされた忠盛にしたがい,貴族による闇討ちから忠盛をすくったという。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Taira_no_Iesada.jpg?width=300"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
@@ -16,10 +24,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/平家貞"
+        "@id": "https://kotobank.jp/word/平家貞"
       },
       {
-        "@id": "https://kotobank.jp/word/平家貞"
+        "@id": "http://ja.wikipedia.org/wiki/平家貞"
       }
     ]
   }

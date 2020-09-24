@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/菅原輔正.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "菅原 輔正（すがわら の すけまさ）は、日本の平安時代の公卿。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/菅原輔正"
+        "@id": "https://kotobank.jp/word/菅原輔正"
       },
       {
-        "@id": "https://kotobank.jp/word/菅原輔正"
+        "@id": "http://ja.wikipedia.org/wiki/菅原輔正"
       }
     ]
   }

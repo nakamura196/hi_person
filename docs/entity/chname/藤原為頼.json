@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原為頼.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 為頼（ふじわら の ためより、天慶2年（939年）? - 長徳4年（998年））は、平安時代中期の貴族・歌人。藤原北家良門流、刑部大輔・藤原雅正の長男。官位は従四位下・摂津守。紫式部の伯父にあたる。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "http://ja.wikipedia.org/wiki/藤原為頼"
+        "@id": "https://kotobank.jp/word/藤原為頼"
       },
       {
-        "@id": "https://kotobank.jp/word/藤原為頼"
+        "@id": "http://ja.wikipedia.org/wiki/藤原為頼"
       }
     ]
   }

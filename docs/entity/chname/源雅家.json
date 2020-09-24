@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源雅家.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1215－1275　鎌倉時代の公卿(くぎょう)。建保(けんぽ)3年生まれ。源(中院)通方(みちかた)の子。洛北(らくほく)北畠(京都市上京区)にすんで北畠と称したことから,北畠家の祖とされる。正二位,権(ごんの)大納言にすすんだ。文永12年3月27日死去。61歳。法名は如覚。"

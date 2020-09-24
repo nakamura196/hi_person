@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源顕定.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－1023　平安時代中期の官吏。為平(ためひら)親王の王子。母は源高明(たかあきら)の娘。村上源氏。侍従,弾正大弼(だんじょうのだいひつ)をへて長和5年(1016)斎宮別当。従四位上,民部大輔(たいふ)にいたる。「今昔物語集」などに奇矯な行動の逸話がみえる。治安(じあん)3年8月4日死去。"

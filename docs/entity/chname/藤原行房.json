@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原行房.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－1337　鎌倉-南北朝時代の公家,書家。後醍醐(ごだいご)天皇の近臣。蔵人頭(くろうどのとう),左近衛(さこんえの)中将。建武(けんむ)3=延元元年恒良(つねよし)親王,新田義貞らと越前(えちぜん)(福井県)金ケ崎城へはいり,建武4=延元2年3月6日落城に際して自害。世尊寺家11代の能書で,尊円入道親王に書法をつたえた。号は一条。"

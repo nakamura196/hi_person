@@ -1,0 +1,43 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/time/1235.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Time.json"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "西大寺：真言僧の叡尊が入寺し、鎌倉幕府や院などの帰依の下に東塔をはじめとする伽藍を再興する"
+      },
+      {
+        "@value": "藤原定家、私撰和歌集（小倉百人一首）を著す"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1235-01-01"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1235-01-01"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "1235年"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1235"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1235"
+      }
+    ]
+  }
+]

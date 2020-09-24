@@ -1,12 +1,15 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源基綱.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
-        "@value": "1049－1117*　平安時代後期の公卿(くぎょう),雅楽家。永承4年生まれ。源経信(つねのぶ)の次男。宇多源氏。父より桂流の琵琶(びわ)をうけつぐ。承徳(じょうとく)2年(1098)参議。権(ごんの)中納言,従二位にすすみ,大宰権帥(だざいのごんのそち)をかねた。任地で永久4年(一説に5年)12月30日死去。68歳。"
+        "@value": "源 基綱（みなもと の もとつな）は平安時代後期の公卿。宇多源氏、大納言・源経信の次男。"
       },
       {
-        "@value": "源 基綱（みなもと の もとつな）は平安時代後期の公卿。宇多源氏、大納言・源経信の次男。"
+        "@value": "1049－1117*　平安時代後期の公卿(くぎょう),雅楽家。永承4年生まれ。源経信(つねのぶ)の次男。宇多源氏。父より桂流の琵琶(びわ)をうけつぐ。承徳(じょうとく)2年(1098)参議。権(ごんの)中納言,従二位にすすみ,大宰権帥(だざいのごんのそち)をかねた。任地で永久4年(一説に5年)12月30日死去。68歳。"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/源基綱"
+        "@id": "http://ja.wikipedia.org/wiki/源基綱"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/源基綱"
+        "@id": "https://kotobank.jp/word/源基綱"
       }
     ]
   }

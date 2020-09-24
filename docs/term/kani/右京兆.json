@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/右京兆.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "〘名〙 右京職(うきょうしき)、右京大夫の唐名。〔吾妻鏡‐承久二年（1220）五月二〇日〕"

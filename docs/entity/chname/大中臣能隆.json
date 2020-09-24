@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/大中臣能隆.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "大中臣 能隆（おおなかとみ の よしたか）は平安時代後期から鎌倉時代前期にかけての公卿。伊勢神宮祭主。大中臣親隆の三男。伊勢神宮祭主を28年にも亘って務め、朝廷幕府双方と良好な関係を築いた。"

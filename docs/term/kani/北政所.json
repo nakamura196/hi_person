@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/北政所.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "北政所（きたの まんどころ）は、平安時代の三位以上の公卿の正室の呼び名。また後に、宣旨をもって特に授けられた摂政・関白の正室の称号。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/北政所"
+        "@id": "http://ja.wikipedia.org/wiki/北政所"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/北政所"
+        "@id": "https://kotobank.jp/word/北政所"
       }
     ]
   }

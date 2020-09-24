@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原忠家.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 忠家（ふじわら の ただいえ、長元6年（1033年） - 寛治5年11月7日（1091年12月19日）は、平安時代中期の公卿。藤原北家御子左流、権大納言・藤原長家の次男。官位は正二位・大納言。"

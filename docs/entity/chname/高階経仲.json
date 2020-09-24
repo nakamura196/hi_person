@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/高階経仲.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "1157－1226　平安後期-鎌倉時代の公卿(くぎょう)。保元(ほうげん)2年生まれ。高階泰経の長男。石見守(いわみのかみ),常陸介(ひたちのすけ),右馬頭(うまのかみ)を歴任。文治(ぶんじ)元年父が源義経の味方をしたとの嫌疑をうけ,父とともに解任された。のちゆるされて内蔵頭(くらのかみ)となり,正三位。嘉禄(かろく)2年2月死去。70歳。名ははじめ業仲。"

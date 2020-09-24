@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原能保.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "一条 能保（いちじょう よしやす）は平安時代末期から鎌倉時代前期にかけての公卿。藤原北家中御門流、藤原通重の長男。一条二位入道と号す。"

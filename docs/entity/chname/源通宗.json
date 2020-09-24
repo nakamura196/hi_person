@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源通宗.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "源 通宗（みなもと の みちむね）は、平安時代末期から鎌倉時代初期の公卿。内大臣・源通親の長男。後嵯峨天皇の外祖父。"

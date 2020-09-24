@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/読師.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "《「とくし」「とくじ」「どくじ」とも》１ 古代、諸国の国分寺に講師とともに一人置かれた僧官。講師より1階級低い。２ 維摩会(ゆいまえ)・最勝会などのとき、講師と相対して仏前の高座に上り、経題・経文を読み上げる役目の僧。３ 歌会などで、懐紙や短冊(たんざく)などを整理して講師に渡し、また講師に誤読のあった場合などには読み改める役。とうし。"

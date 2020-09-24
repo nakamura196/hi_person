@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/大宮司.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "宮司（ぐうじ、みやづかさ）とは神職や巫女をまとめる神社の長（おさ）である神職の職階（職名・職称）である。"

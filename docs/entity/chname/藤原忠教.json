@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原忠教.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 忠教（ふじわら の ただのり）は、平安時代後期の公卿・歌人。摂政関白太政大臣・藤原師実の五男。居住地に因み四条中納言あるいは四条民部卿と号した。"

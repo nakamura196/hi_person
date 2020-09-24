@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/木工少允.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "木工寮（もくりょう）は律令制において宮内省に属する機関。和名はコダクミノツカサ（古多久美乃豆加佐）。主に造営、および材木採集を掌り各職工を支配する役所である。"

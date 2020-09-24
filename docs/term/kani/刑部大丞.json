@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/刑部大丞.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "刑部省（ぎょうぶしょう）は、古代日本の律令制下の八省の一つ、もしくは明治時代の省庁の一つ。"

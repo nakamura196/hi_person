@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/中原章兼.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "?－?　鎌倉-南北朝時代の官吏,明法(みょうぼう)家。父中原章房(のりふさ)は鎌倉幕府をたおそうとする後醍醐(ごだいご)天皇をいさめたため,元徳2年(1330)天皇の命により暗殺された。章兼は暗殺の下手人をさがしだして討ち,文官のあだ討ちとして評判になった。京都出身。"

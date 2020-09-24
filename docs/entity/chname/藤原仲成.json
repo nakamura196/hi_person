@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原仲成.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "藤原 仲成（ふじわら の なかなり、天平宝字8年（764年）  - 大同5年9月11日（810年10月16日））は、平安時代初期の公卿。藤原式家、中納言・藤原種継の長男。官位は従四位下・参議。"

@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/entity/chname/源兼綱.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Person.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "源 兼綱（みなもと の かねつな）は、平安時代末期の武将。丹後守源頼行の次男（あるいは三男、五男）。源頼政の養子。"
@@ -16,10 +19,10 @@
     ],
     "http://www.w3.org/2002/07/owl#sameAs": [
       {
-        "@id": "https://kotobank.jp/word/源兼綱"
+        "@id": "http://ja.wikipedia.org/wiki/源兼綱"
       },
       {
-        "@id": "http://ja.wikipedia.org/wiki/源兼綱"
+        "@id": "https://kotobank.jp/word/源兼綱"
       }
     ]
   }

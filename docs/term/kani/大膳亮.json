@@ -1,6 +1,9 @@
 [
   {
     "@id": "https://nakamura196.github.io/hi_person/term/kani/大膳亮.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Kani.json"
+    ],
     "http://schema.org/description": [
       {
         "@value": "大膳職（だいぜんしき）は、日本の律令制において宮内省に属する官司。和訓は「おおかしわでのつかさ」。朝廷において臣下に対する饗膳を供する機関である。"

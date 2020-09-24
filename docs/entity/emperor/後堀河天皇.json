@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/emperor/後堀河天皇.json",
+    "@type": [
+      "https://nakamura196.github.io/hi_person/term/type/Emperor.json"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Emperor_Go-Horikawa.jpg/140px-Emperor_Go-Horikawa.jpg"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "後堀河天皇"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1231"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1221"
+      }
+    ]
+  }
+]
