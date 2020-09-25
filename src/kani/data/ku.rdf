@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="https://nakamura196.github.io/hi_person/term/type/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:ns2="http://schema.org/"
+  xmlns:ns3="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <ns1:蔵人所.json rdf:about="https://nakamura196.github.io/hi_person/term/蔵人所/五位蔵人.json">
+    <ns2:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:position>
+    <ns3:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正五位下.json"/>
+    <rdfs:label>五位蔵人</rdfs:label>
+  </ns1:蔵人所.json>
+  <ns1:蔵人所.json rdf:about="https://nakamura196.github.io/hi_person/term/蔵人所/蔵人頭.json">
+    <rdfs:label>蔵人頭</rdfs:label>
+    <ns2:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns2:position>
+    <ns3:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/従四位下.json"/>
+  </ns1:蔵人所.json>
+  <ns1:蔵人所.json rdf:about="https://nakamura196.github.io/hi_person/term/蔵人所/六位蔵人.json">
+    <ns2:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:position>
+    <rdfs:label>六位蔵人</rdfs:label>
+    <ns3:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/従六位下.json"/>
+  </ns1:蔵人所.json>
+  <ns1:蔵人所.json rdf:about="https://nakamura196.github.io/hi_person/term/蔵人所/蔵人別当.json">
+    <rdfs:label>蔵人別当</rdfs:label>
+    <ns3:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正二位.json"/>
+    <ns2:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns2:position>
+  </ns1:蔵人所.json>
+</rdf:RDF>

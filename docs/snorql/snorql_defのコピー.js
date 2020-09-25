@@ -199,30 +199,24 @@ Snorqldef.example = [
 		"label": "藤原経光の経歴",
 		"label_en" : "藤原経光の経歴",
 		"ns" : [ ],
-		"query" : "SELECT ?start ?end ?description ?value ?type WHERE {\n   \n    chname:藤原経光.json prop-ja:官位 ?o . \n    ?o schema:description ?description;\n       jps:start ?start . \n    optional { ?o jps:end ?end }\n    optional { ?o jps:relationType ?type }\n    optional { ?o jps:value ?value }\n   \n} order by ?start"
+		"query" : "SELECT ?start ?end ?description ?value ?type WHERE {\n  graph ?g { \n    chname:藤原経光.json prop-ja:官位 ?o . \n    ?o schema:description ?description;\n       jps:start ?start . \n    optional { ?o jps:end ?end }\n    optional { ?o jps:relationType ?type }\n    optional { ?o jps:value ?value }\n  } \n} order by ?start"
 	},
 	{
 		"label": "地名一覧",
 		"label_en" : "地名一覧",
 		"ns" : [ ],
-		"query" : "SELECT DISTINCT ?s ?label WHERE {\n	 ?s a type:Place.json;\n                    rdfs:label ?label .  \n}"
+		"query" : "SELECT DISTINCT ?s ?label WHERE {\n	graph ?g { ?s a type:Place.json;\n                    rdfs:label ?label . } \n}"
 	},
 	{
 		"label": "位階一覧",
 		"label_en" : "位階一覧",
 		"ns" : [ ],
-		"query" : "SELECT DISTINCT ?s ?label WHERE {\n	 ?s a type:位階.json;\n                    rdfs:label ?label;\n             schema:position ?position . \n} order by ?position"
+		"query" : "SELECT DISTINCT ?s ?label WHERE {\n	graph ?g { ?s a type:位階.json;\n                    rdfs:label ?label;\n             schema:position ?position .} \n} order by ?position"
 	},
 	{
 		"label": "太政官一覧",
 		"label_en" : "太政官一覧",
 		"ns" : [ ],
-		"query" : "SELECT DISTINCT ?s ?label ?ikai WHERE {\n	 ?s a type:太政官.json;\n                    rdfs:label ?label;\n             schema:position ?position;\n                    skos:closeMatch ?ikai .  \n} order by ?position"
-	},
-	{
-		"label": "官位相当表",
-		"label_en" : "官位相当表",
-		"ns" : [ ],
-		"query" : "SELECT DISTINCT ?s ?label sample(?da_label) as ?daLabel ?ku_label WHERE {\n	 ?s a type:位階.json;\n                    rdfs:label ?label;\n             schema:position ?position . \n  optional { ?da skos:closeMatch ?s; rdfs:label ?da_label; a type:太政官.json . } \n  optional { ?ku skos:closeMatch ?s; rdfs:label ?ku_label; a type:蔵人所.json . } \n} order by ?position"
+		"query" : "SELECT DISTINCT ?s ?label ?ikai WHERE {\n	graph ?g { ?s a type:太政官.json;\n                    rdfs:label ?label;\n             schema:position ?position;\n                    skos:closeMatch ?ikai . } \n} order by ?position"
 	},
 ];

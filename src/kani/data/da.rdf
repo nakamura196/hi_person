@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://www.w3.org/2004/02/skos/core#"
+  xmlns:ns2="https://nakamura196.github.io/hi_person/term/type/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:ns3="http://schema.org/"
+>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/大史.json">
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正六位上.json"/>
+    <rdfs:label>大史</rdfs:label>
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns3:position>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/中納言.json">
+    <rdfs:label>中納言</rdfs:label>
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns3:position>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/従三位.json"/>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/太政官.json">
+    <rdfs:label>太政官</rdfs:label>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正一位.json"/>
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns3:position>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/従一位.json"/>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/宰相.json">
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns3:position>
+    <rdfs:label>宰相</rdfs:label>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正四位下.json"/>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/大納言.json">
+    <rdfs:label>大納言</rdfs:label>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正三位.json"/>
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns3:position>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/少外記.json">
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns3:position>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正七位上.json"/>
+    <rdfs:label>少外記</rdfs:label>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/中弁.json">
+    <rdfs:label>中弁</rdfs:label>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正五位上.json"/>
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns3:position>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/大外記.json">
+    <rdfs:label>大外記</rdfs:label>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正六位上.json"/>
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns3:position>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/大弁.json">
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns3:position>
+    <rdfs:label>大弁</rdfs:label>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/従四位上.json"/>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/参議.json">
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正四位下.json"/>
+    <rdfs:label>参議</rdfs:label>
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns3:position>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/左大臣.json">
+    <rdfs:label>左大臣</rdfs:label>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/従二位.json"/>
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns3:position>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正二位.json"/>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/少納言.json">
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns3:position>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/従五位下.json"/>
+    <rdfs:label>少納言</rdfs:label>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/少弁.json">
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正五位下.json"/>
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns3:position>
+    <rdfs:label>少弁</rdfs:label>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/内大臣.json">
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正二位.json"/>
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns3:position>
+    <rdfs:label>内大臣</rdfs:label>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/従二位.json"/>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/少史.json">
+    <rdfs:label>少史</rdfs:label>
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns3:position>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正七位上.json"/>
+  </ns2:太政官.json>
+  <ns2:太政官.json rdf:about="https://nakamura196.github.io/hi_person/term/太政官/右大臣.json">
+    <rdfs:label>右大臣</rdfs:label>
+    <ns3:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns3:position>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/従二位.json"/>
+    <ns1:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/位階/正二位.json"/>
+  </ns2:太政官.json>
+</rdf:RDF>

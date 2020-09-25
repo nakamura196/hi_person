@@ -3,107 +3,63 @@ var Snorqldef, SPARQL, L, CMEditor;
 
 /** JavaScript port plus of Linked Data Browser (masaka)
  * created 2018-12-08
- * modified 2020-09-03
+ * modified 2020-08-14
  * @param {Object} snorql	calling object, i.e. instance of Snorql class
  * @param {String} target_uri	URI of the described resource (value of describe)
  * @param {String} is_home_uri	flag to indicate the uri to describe is a resource in this triple store
  */
 var JsonRDFFormatter = function(snorql, target_uri, is_home_uri){
-	/// short cut for snorql globals
 	this.snorql = snorql;
 	this.ns = snorql._namespaces;
 	this.endpoint = snorql._endpoint;
-	this.sq_formatter = new SPARQLResultFormatter(null, this.ns, snorql);	//reuse _formatNode
-	
-	/// basic global vars (uri related)
 	this.uris ={
 		tgrsrc: target_uri || "",	//target resource URI for SPARQL describe
 		img: [],	//could be multiple
 		thumb: null,
-		home: (Snorqldef.home ? Snorqldef.home.uri || "" : ""),
 		proced: []	//URIs already processed to format a table
 	};
-	this.is_home_uri = is_home_uri;	//whether the target is home resource's uri of this endpoint
 	this.has_target_resource = undefined;	//make sure result has target URI resource
-	
-	/// basic global vars (value holders)
+	this.is_home_uri = is_home_uri;	//whether the target is home resource's uri of this endpoint
+	this.sq_formatter = new SPARQLResultFormatter(null, this.ns, snorql);	//reuse _formatNode
 	this.rdfjson = null;	//RDF/JSON (Talis) = object {uri1 : {p1: [o1, o2...], p2: ...}, uri2: ...}
 	this.title = null;
 	this.thmub_tb = null,	//tbody that contains thumbnail info
 	this.rdftype = "";	//local name of rdf:type of the current object
 	this.category = "";	//local name of schema:category of the current object, if any
-	this.saved = {};	//hold anything that could be referred later
-	this.ovtds = {};	//key=object URI, value=td nodes of the URI (to add a label etc. async) 2020-08-25
-	this.media_types = {};	//register rdf:type of schema:url and schema:associatedMedia
-	
-	/// some predefined values
 	this.exserv = null;
 	this.relpath = snorql.homedef ? (snorql.homedef.relpath || "") : "";
 	this.langidx = Util.ulang === "ja" ? 0 : 1;
+	this.ndc = {prop: set_uri(["schema", "about"])};
+	for(var i=0; i<10; i++) this.ndc[i] = [];
+	this.saved = {};	//hold anything that could be referred later
 	this.dlink_props = [];	//props to treat value as direct link
+	this.media_types = {};	//register rdf:type of schema:url and schema:associatedMedia
 	this.xplabeluri = "urn:x-proplabels",	//extra label property uri (pseudo uri for construct) 2020-06-25
 	this.xplabels = null;	//holds xplabeluri resources if later query returns values for the uri
-	this.pdesc = Snorqldef.prop_description || {};	//description of some (app specific) properties for tool tips, if any
+
 	if(Snorqldef.ldb){
-		//if ldb, provide values for those predef props
-		setup_ldbspecific(this, Snorqldef.ldb);
-	}else{
-		//otherwise, leave them undefined
-		this.props = {dist:[]};
-		this.geo = {prop: null, strctprop: null, valprop: null};
-		this.link_sfx = null;
-		this.propclass = {};
-		this.acsinfo = {};
-		this.showrows = 4;
-	}
-	
-	//for NDC (nippon dicimal classification) display
-	this.ndc = {prop: this.ns.schema + "about"};
-	for(var i=0; i<10; i++) this.ndc[i] = [];
-	/// some functions / reg exp
-	this.objv_sort = function(a, b){return (a.value < b.value) ? -1 : 1; }; //sort by object value
-	this.description_sort = Snorqldef.ldb ? define_descr_sort() : this.objv_sort;
-	if(this.link_sfx) this.link_sfx.forEach(function(def){
-		def.len = def.ns.length;
-	});
-	this.relmatch_pat = new RegExp("^" + this.ns.skos + "(exact|close|related)Match$");	//@@expects skos ns def
-	
-	//instantiate associated classes
-	this.qh = new GnrQueryHandler(this);
-	this.addex = new AddExtraInfo(this);
-	this.askex = new AskExternal(this);
-	
-	////////// local procedures
-	// assign predifined values for ldb
-	function setup_ldbspecific(that, ldbdef){
-		that.props ={
-			"label": set_uri(ldbdef.label_prop),	//that.ns.rdfs + "label";
+		var ldbdef = Snorqldef.ldb;
+		this.props ={
+			"label": set_uri(ldbdef.label_prop),	//this.ns.rdfs + "label";
 			"img": set_uri(ldbdef.img_prop),
-			"thumb": set_uri(ldbdef.thumb_prop),
-			"dist": [	//describe in sub table
-				that.ns.schema + "about",
-				that.ns.schema + "isPartOf",
-				that.ns.schema + "exampleOfWork"
-			]
+			"thumb": set_uri(ldbdef.thumb_prop)
 		};
-		//properties whose values will be treated as direct external links, rather than describe=value
 		["url", "relatedLink", "image", "associatedMedia", "thumbnail"].forEach(function(ln){
-			that.dlink_props.push(that.ns.schema + ln);
-		}, that);
-		that.dlink_props.push(that.ns.jps + "sourceData");
-		that.dlink_props.push(that.ns.rdfs + "seeAlso");
-		//geo related properties
-		that.geo = {
+			this.dlink_props.push(this.ns.schema + ln);
+		}, this);
+		this.dlink_props.push(this.ns.jps + "sourceData");
+		this.dlink_props.push(this.ns.rdfs + "seeAlso");
+		this.geo = {
 			prop: {
 				geo: set_uri(ldbdef.geo.prop),
 				strct: set_uri(ldbdef.geo.strctprop),
 				region : set_uri(ldbdef.geo.regionprop),
 				val : set_uri(ldbdef.geo.valprop),
 				loc: set_uri(ldbdef.geo.locprop),
-				lat: that.ns.schema + "latitude",
-				long: that.ns.schema + "longitude",
-				cover: that.ns.schema + "geoCoveredBy",
-				within: that.ns.jps + "within"
+				lat: this.ns.schema + "latitude",
+				long: this.ns.schema + "longitude",
+				cover: this.ns.schema + "geoCoveredBy",
+				within: this.ns.jps + "within"
 			},
 			cover_obj: {},
 			//covering_obj: null,
@@ -122,44 +78,49 @@ var JsonRDFFormatter = function(snorql, target_uri, is_home_uri){
 			pseudop: {lat: "lat of coveredBy", long: "long of coveredBy"} //{lat: "(latitude)", long: "(longitude)"},
 			//hashv: {}	//lat/long of geohash of coveredby
 		};
-		//access info holder
-		that.acsinfo = {
+		this.acsinfo = {
 			pprop: set_uri(["jps", "accessInfo"]),
 			prvprop: set_uri(["schema", "provider"]),
 			provider: []
 		};
-		that.exserv = Util.misc.rset(Snorqldef.ldb.texternal, 32);
-		that.use_iiif_viewer = ldbdef.use_iiif_viewer;
-		Util.iiif.viewer = that.exserv + Util.iiif.viewer;
-		that.link_sfx = ldbdef.link_sfx;	//suffix mapping for external links
+		this.exserv = Util.misc.rset(Snorqldef.ldb.texternal, 32);
+		this.use_iiif_viewer = ldbdef.use_iiif_viewer;
+		Util.iiif.viewer = this.exserv + Util.iiif.viewer;
+		this.link_sfx = ldbdef.link_sfx;	//suffix mapping for external links
 		//propety based class attribute
-		that.propclass = ldbdef.propclass || {};
+		this.propclass = ldbdef.propclass || {};
 		//preferred order of properties
 		if(ldbdef.proporder){
 			var actions = {showup: "unshift", showdown: "push"};
-			that.proporder = {};
+			this.proporder = {};
 			for(var type in actions){
-				that.proporder[actions[type]] = [];
+				this.proporder[actions[type]] = [];
 				ldbdef.proporder[type].forEach(function(map){
-					that.proporder[actions[type]].push(set_uri(map));
-				});
+					this.proporder[actions[type]].push(set_uri(map));
+				}, this);
 			}
 		}
-		that.showrows = ldbdef.showrows || 4;
+		this.showrows = ldbdef.showrows || 4;
+	}else{
+		this.props = {};
+		this.geo = {prop: null, strctprop: null, valprop: null};
+		this.link_sfx = null;
+		this.propclass = {};
+		this.acsinfo = {};
+		this.showrows = 4;
 	}
-	//descriptionソートのための正規表現。unicode非対応ブラウザも
-	function define_descr_sort(){
-		var dsort_re = RegExp.prototype.hasOwnProperty("unicode") ? 
-			new RegExp("\\p{sc=Kana}", "u") : new RegExp("^(アクセス|サービス)");
-		//descriptionの場合、カタカナ導入句を後ろに
-		return function (a, b){
-			if(a.value.match(dsort_re)){
-				if(b.value.match(dsort_re)) return (a.value < b.value) ? -1 : 1; else return 1;
-			}else if(b.value.match(dsort_re)) return -1;
-			else return (a.value < b.value) ? -1 : 1;
-		};
-	}
-	//constructs a uri from [nspfx, localname] array
+	//end if Snorqldef.ldb
+	this.pdesc = Snorqldef.prop_description || {};
+	if(this.link_sfx) this.link_sfx.forEach(function(def){
+		def.len = def.ns.length;
+	});
+	this.relmatch_pat = new RegExp("^" + this.ns.skos + "(exact|close|related)Match$");	//@@expects skos ns def
+	//uri pattern to external query handler mapping to use in askex.proc
+	this.qh = new GnrQueryHandler(this);
+	this.addex = new AddExtraInfo(this);
+	this.askex = new AskExternal(this);
+	//uri pattern regexp to determine direct link in set_object_tdval
+
 	function set_uri(nslocal){
 		return (snorql._namespaces[nslocal[0]] || "") + nslocal[1];
 	}
@@ -173,77 +134,64 @@ JsonRDFFormatter.prototype = {
      */
     display_result: function(json, heading, qtype){
 		var that = this,
-		//div = Util.dom.element("div"),
-		div =document.getElementById("result");	//use #result itself, not append a new child div
+    	is_error = false,
+		div = Util.dom.element("div"),
+		h2 = Util.dom.element("h2");
+		h2.appendChild(Util.dom.text(heading));
+		div.appendChild(h2);
+    	if(qtype === "DESCRIBE") this.addex.test_external_link(h2);
+    	this.div_descr = div;
 		//error handling
 		if(!json){
 			this.__msg(div, "[query error: no response]", "p");
-			return;
+			is_error = true;
 		}else if(json.status && json.status === "error"){
 			this.snorql.__msg(div, "ajax error: " + json.response , "pre");
-			return;
+			is_error = true;
 		}else if(json.head && json.head.status === "error"){
 			this.snorql.__msg(div, "query error: " + json.head.msg , "pre");
-			return;
-		}
-		//prepare heading
-		var h2 = Util.dom.element("h2");
-		h2.appendChild(Util.dom.text(heading));
-		this.snorql._display(h2, "result");	//not append, but replace a message <p> with h2
-    	if(qtype === "DESCRIBE") this.addex.test_external_link(h2);
-		if(json.results.bindings.length === 0){
-			//resource not in RDF store is not a fail
-			//display h2 (w/ link to URI) and try to find if it is object(s) of any other resource
-			this.snorql.__msg(div, "[no result for " + qtype + " query]", "p");
+			is_error = true;
+		}else if (json.results.bindings.length === 0) {
+			this.snorql.__msg(div, "[no results for " + qtype + "]", "p");
 			if(qtype === "DESCRIBE"){
-				this.addex.ncname_hint(div, null, this.uris.tgrsrc);
 				this.askex.proc(div);
 				var msgarea = Util.dom.element("p");
 				div.appendChild(msgarea);
 				this.addex.osp(div, msgarea);
 			}
-			return;
+			is_error = qtype;
 		}
-		//if(is_error) return;	//error message is already put into div#result
-		this.div_descr = div;
-		var subdiv = this.proc_json(json, div);
-		Util.set_title(this, qtype);
-		//changed to call labels asynchronously 2020-08-25
-		if(this.is_home_uri===true) this.addex.labels(this.uris.tgrsrc, json.results);
-		this.addex.ncname_hint(div, subdiv, this.uris.tgrsrc);
+		if(is_error){
+			this.snorql._display(div, "result");
+			return;
+		}else if(this.is_home_uri){
+			//get labels for objects of the resource and merge
+			this.addex.labels(this.uris.tgrsrc, json.results).then(proc_json);
+		}else{
+			//if not, simply proc the results set
+			proc_json();
+		}
 		
-		//moved function proc_json and find_best_geo to independent method proc_json
-	},
-	/**
-	 * processes the results set json
-	 * @param {Object} json	SPARQL results in JSON format
-	 * @param {DOMNode} div	element node that has the description table
-	 * @return {DOMNode}	sub div element node that directly has the description table
-	 */
-	proc_json: function(json, div){
-		this.rdfjson = this.toRDFJson(json);
-		var subdiv = this.format();
-		div.appendChild(subdiv);
-		//this.format(div);
-		//this.snorql._display(div, "result");
-		if(this.geo.candcount){//that.geo.count === 0 && 
-			//to fetch geo. See one_object() in format_one_prop for direct geo properties
-			var that = this, cand = find_best_geo();
-			//if(cand) cand.otd.appendChild(that.addex.geo_table(cand.val, cand.lprop, true, cand.subj));
-			if(cand) this.addex.geo_table(cand.otd,cand.val, cand.lprop, true, cand.subj);
-			this.geo.candcount--;
-		};
-		if(this.addex.primimg_plus(div)) div.classList.add("with_pimg"); //h2.classList.add("with_pimg");
-		else if(this.rdftype === "和歌" || this.category === "和歌") Util.waka.show(this, div);
-		//title search for item (excluding dictionary entities) 2020-03-28
-		if(this.rdftype && !this.rdftype.match(/^\w/)) this.addex.title_more_search(this.rdftype);
-		//Util.set_title(this, qtype);
-		//2020-04-04, 2020-04-19
-		this.askex.proc(div);
-		//2019-02-11
-		this.addex.set_osp_btn(div);
-		return subdiv;
-	
+		function proc_json(){
+			div.appendChild(that.proc(json));
+			that.snorql._display(div, "result");
+			if(that.geo.candcount){//that.geo.count === 0 && 
+				//to fetch geo. See one_object() in format_one_prop for direct geo properties
+				var cand = find_best_geo();
+				//if(cand) cand.otd.appendChild(that.addex.geo_table(cand.val, cand.lprop, true, cand.subj));
+				if(cand) that.addex.geo_table(cand.otd,cand.val, cand.lprop, true, cand.subj);
+				that.geo.candcount--;
+			};
+			if(that.addex.primimg_plus(div)) div.classList.add("with_pimg"); //h2.classList.add("with_pimg");
+			else if(that.rdftype === "和歌" || that.category === "和歌") Util.waka.show(that, div);
+			//title search for item (excluding dictionary entities) 2020-03-28
+			if(that.rdftype && !that.rdftype.match(/^\w/)) that.addex.title_more_search(that.rdftype);
+			Util.set_title(that, qtype);
+			//2020-04-04, 2020-04-19
+			that.askex.proc(div);
+			//2019-02-11
+			that.addex.set_osp_btn(div);
+		}
 		function find_best_geo(){
 			//if no direct geo value found and has spatial value
 			var cands = {val:[], lprop: [], otd: null}, seglen, csubj;
@@ -276,18 +224,23 @@ JsonRDFFormatter.prototype = {
 			return null;
 		}
 	},
-	//proc() is replaced by (merged to) proc_json
+	/**
+	 * processes the results set
+	 * @param {Object} json	SPARQL results in JSON format
+	 * @return {DOMNode}	div element node that has the description table
+	 */
+	proc: function(json){
+		this.rdfjson = this.toRDFJson(json);
+		return this.format();
+	},
 	/**
 	* converts SPARQL result JSON to RDF/JSON (Talis)
 	 * @param {Object} json	SPARQL results in JSON format
 	 * @return {Object}	RDF/JSON (Talis)
 	 */
 	toRDFJson: function(json){
-		return this.binds2rdf(json.results.bindings);
-	},
-	binds2rdf: function(bindings){
 		var res = {};
-		bindings.forEach(function(binding){
+		json.results.bindings.forEach(function(binding){
 			var sv = binding.s.value,
 			pv = binding.p.value;
 			o = binding.o;
@@ -302,9 +255,8 @@ JsonRDFFormatter.prototype = {
 	 * generates description table from RDF/JSON
 	 * @return {DOMNode}	div element node that has the description table
 	 */
-	format: function(div){
-		if(!div) div = Util.dom.element("div");
-		//var div = Util.dom.element("div");
+	format: function(){
+		var div = Util.dom.element("div");
 		uris = Object.keys(this.rdfjson);
 		//if(this.uris.tgrsrc) uris = this.reorder_item(uris, this.uris.tgrsrc, "unshift");
 		if(this.uris.tgrsrc){
@@ -320,8 +272,7 @@ JsonRDFFormatter.prototype = {
 		//xplabeluri is special uri to represent prop labels and to be constructed by query e.g. ask_wikidata
 		if(this.rdfjson[this.xplabeluri]) this.xplabels = this.rdfjson[this.xplabeluri];	//2020-06-25
 		uris.forEach(function(uri){
-			if(uri === this.xplabeluri) return;	//xplabeluri resources are handled at proc_one_object()
-			if(this.uris.proced.indexOf(uri) !== -1) return;	//avoid outside table wikidata link 2020-09-13
+			if(uri === this.xplabeluri) return;	//xplabeluri resources are handled at set_object_tval()
 			var tbl = this.format_one_uri(uri);
 			if(tbl) div.appendChild(tbl);
 			//test
@@ -345,24 +296,27 @@ JsonRDFFormatter.prototype = {
 		//console.log(uri, pprop, table);
 		//if(this.uris.proced.indexOf(uri) !== -1) return null;
 		if(this.uris.proced.indexOf(uri) !== -1){
-			//return Util.dom.element("span", this.sq_formatter._toQNameOrURI(uri));
-			return this.sq_formatter._formatURI({value: uri, type: "uri"}, "o", 2);
+			return Util.dom.element("span", this.sq_formatter._toQName(uri));
 		}
 		var po = this.rdfjson[uri];	//property:object of this URI
 		if(!po) return null;	//in case reques uri has extension and rdf not
 		//console.log(uri, pprop);
-		if(uri === "http://www.wikidata.org/entity/Q5586") console.log(uri, table, this.is_home_uri, this.uris.proced.indexOf(uri));		if(!table){
+		if(!table){
 			table = Util.dom.element("table");
 			this.set_table_caption(table, uri, pprop);
 			this.uris.proced.push(uri);	//avoid re-format for nested URI
 		}
-		table = Util.dom.prepare_desc_table(table);
-		var pa = {	//parent objects
+		var col = [Util.dom.element("col"), Util.dom.element("col")],
+		//po = this.rdfjson[uri],	//property:object of this URI
+		pa = {	//parent objects
 			"prop": pprop,
 			"table": table,
 			"pdescr": pprop ? (this.pdesc[ppqname + "_g"] || {}) : this.pdesc
 		},
 		ttype = "";	//rdftype of the item described in this table
+		table.classList.add("describe");
+		col[0].className = "term";
+		col.forEach(function(c){table.appendChild(c);});
 		var geopo, coverpo;
 		if((coverpo = po[this.geo.prop.cover]) && (geopo = po[this.geo.prop.geo])){
 			//coverprop should be evalueted here because geo and nested props will be processed first in forEach
@@ -421,9 +375,9 @@ JsonRDFFormatter.prototype = {
 	 */
 	format_one_prop: function(po, sp, pa){
 		if(!po[sp.prop]) console.log(sp.subj, sp.prop, po);
-		//RDF objects array of this property-object set
-		var that = this,
-		objs = po[sp.prop].sort((sp.prop === this.ns.schema + "description") ? this.description_sort : this.objv_sort),
+		var objs = po[sp.prop].sort(
+			function(a, b){return (a.value < b.value) ? -1 : 1;}	//order by objs[i].value
+		),	//RDF objects array of this property-object set
 		tbody = Util.dom.element("tbody"),
 		params = {
 			numobj: objs.length,	//object count of this array
@@ -435,7 +389,7 @@ JsonRDFFormatter.prototype = {
 		if((params.pclass = this.propclass[params.pqname])){
 			tbody.className = params.pclass + " ats";	//agential, temporal, spatial
 			if(params.pclass === "type"){
-				find_rdftype(objs[0].value);
+				find_rdftype(objs[0].value, this);
 				//test to add microdata
 				if(pa.prop) tbody.setAttribute("data-type", this.rdftype);
 			}
@@ -468,18 +422,7 @@ JsonRDFFormatter.prototype = {
 		if(tbody.toggler) tbody.toggler.click();
 		return tbody;
 		
-		//objectのvalueを用いて並べ替える
-		function obj_value_sort(a, b){
-			return (a.value < b.value) ? -1 : 1;
-		}
-		//descriptionの場合、カタカナ導入句を後ろに
-		function description_sort(a, b){
-			if(a.value.match(that.dsort_re)){
-				if(b.value.match(that.dsort_re)) return (a.value < b.value) ? -1 : 1; else return 1;
-			}else if(b.value.match(that.dsort_re)) return -1;
-			else return (a.value < b.value) ? -1 : 1;
-		}
-		function find_rdftype(val){
+		function find_rdftype(val, that){
 			if(!that.rdftype){
 				//if(Snorqldef) val = val.replace(new RegExp("^" + Snorqldef.home.uri + "term/type/"), "");
 				//that.rdftype = val;
@@ -503,8 +446,7 @@ JsonRDFFormatter.prototype = {
 	proc_one_object: function(i, po, spo, pa, tbody, params){
 		var row = Util.dom.element("tr"),	//HTML tr element to include this one prop-obj pair
 		optd = Util.dom.element("td"),	//object property td = HTML td element for property
-		myoval = spo.obj.value,	//value of current one object
-		is_nonliteral = spo.obj.type !== "literal";
+		myoval = spo.obj.value;	//value of current one object
 		//property cell (td)
 		if(i === 0){
 			//property cell is generated only for the first value
@@ -540,19 +482,13 @@ JsonRDFFormatter.prototype = {
 		}else if(tbody.has_map){
 			pa.table.parent_has_map = true;	//one more step further
 		}
-		if(!this.ovtds[myoval]) this.ovtds[myoval] = [];
 	
 		//add microdata 2020-02-13
 		if(params.pqname) set_microdata_prop(ovtd);
 		if(ovtd_val){
 			//odtv could be an array, eg a geohash URI and a map table
-			if(ovtd_val instanceof Array){
-				if(is_nonliteral) this.ovtds[myoval].push(ovtd[0]);
-				ovtd_val.forEach(function(ov){ovtd.appendChild(ov);});
-			}else{
-				if(is_nonliteral) this.ovtds[myoval].push(ovtd);
-				ovtd.appendChild(ovtd_val);
-			}
+			if(ovtd_val instanceof Array) ovtd_val.forEach(function(ov){ovtd.appendChild(ov);});
+			else ovtd.appendChild(ovtd_val);
 			row.appendChild(ovtd);
 			tbody.appendChild(row);
 		}
@@ -600,7 +536,6 @@ JsonRDFFormatter.prototype = {
 		}else if(this.rdfjson[obj.value]){
 			//URI that is also a subject in this graph
 			if(!this.is_home_uri) return this.format_one_uri(obj.value, prop, pqname) ;
-			//if(!this.is_home_uri){console.log(obj.value, subj, tbody); return this.format_one_uri(obj.value, prop, pqname) ; }
 			
 			//special for home resource
 			var po = this.rdfjson[obj.value],	//Resources of this URI
@@ -609,12 +544,14 @@ JsonRDFFormatter.prototype = {
 			//if object is a label fetched by add_labels()
 			//if(keys.length === 1 && keys[0] === this.ns.rdfs + "label") return this.set_label_wrapper(obj, po, keys);
 			//else return this.format_one_uri(obj.value, prop, pqname);
-			
-			//not call to this.set_label_wrapper hrere 2020-08-25
-			//not to further process when more proc e.g. ask_wikidata to avoid arbitrary labels 2020-06-25
-			if(this.is_home_uri === "ask_wikidata") this.uris.proced.push(obj.value);	//ensure _formatURI on format_one_uri
-			span = this.format_one_uri(obj.value, prop, pqname);
-			if(obj.value.match(/http:\/\/(ja\.)?dbpedia\.org\/resource\/(.*)/) && typeof(this.is_home_uri) !== "string")
+			if(keys.length === 1 && keys[0] === this.ns.rdfs + "label"){
+				span = this.set_label_wrapper(obj, po, keys);
+				//not to further process when more proc e.g. ask_wikidata 2020-06-25
+				if(this.is_home_uri === "more_proc") this.uris.proced.push(obj.value);
+			}else{
+				span = this.format_one_uri(obj.value, prop, pqname);
+			}
+			if(obj.value.match(/http:\/\/(ja\.)?dbpedia\.org\/resource\/(.*)/) && this.is_home_uri !== "more_proc")
 				this.addex.wikipedia_link(span, RegExp.$1, RegExp.$2);
 			return span;
 		}else if(prop === this.geo.prop.geo){
@@ -624,14 +561,6 @@ JsonRDFFormatter.prototype = {
 				this.sq_formatter._formatURI(obj, "o", 2),	//render actual geo prop value as normal URI
 				this.addex.gen_geo_table(obj.value)	//then add further lat/long etc and a map
 			];
-		}else if(obj.type === "bnode"){
-			//not in rdfjson means no further nest values
-			var span = Util.dom.element("span", "structured values not fetched "),
-			anc = Util.dom.element("a", "(see subject URI for more)");
-			anc.href = "?describe=" + subj;
-			span.className = "structbnode";
-			span.appendChild(anc);
-			return span;
 		}else{
 			//external URI
 			var sfxoption;
@@ -662,11 +591,6 @@ JsonRDFFormatter.prototype = {
 			}else if(prop === this.ns.schema + "url" || prop === this.ns.schema + "associatedMedia"){
 				//add type info for a media url, and schema:url val which not handled by askex.proc
 				this.addex.test_url_type(span, obj.value);
-				
-			}else if(this.props.dist.includes(prop) && obj.value.match(new RegExp("^" +this.uris.home + "entity/ind/"))){
-				//indirect description 2020-09-03
-				this.addex.desciption_sub_table(obj.value, span);
-				
 			/*
 			}else if((prop === this.ns.owl + "sameAs" || prop.match(this.relmatch_pat))
 				&& obj.value.match(/http:\/\/(ja\.)?dbpedia\.org\/resource\/(.*)/)){
@@ -810,7 +734,15 @@ JsonRDFFormatter.prototype = {
 		this.proc_rdf_list(this.rdfjson[rest[0].value], tbody, pos + 1, rest[0].value);
 		if(pos === 1) return tbody;
 	},
-	//removed set_label_wrapper in favor of asynchronous addex.labels() at display_result() 2020-08-25
+	//setup a wrapper element for the post fetched label
+	set_label_wrapper: function(obj, po, keys){
+		var wrapper = Util.dom.element("span"),	//wrap the object desc and its label
+		link = this.sq_formatter._formatURI(obj, "o", 2),
+		label = this.set_wrapper_content(po[keys[0]][0].value); //Util.dom.element("span");
+		wrapper.appendChild(link);
+		wrapper.appendChild(label);
+		return wrapper;
+	},
 	//set wrapper sub span element. also be used to show type of a resource (url)
 	set_wrapper_content: function(val){
 		var label = Util.dom.element("span");
@@ -1060,7 +992,6 @@ AddExtraInfo.prototype = {
 	//try to get book cover image from ISBN, then add image elt if success. Also add bookinfo from the data
 	img_plus_from_isbn: function(div, isbn){
 		var that = this;
-		
 		Util.xhr.get("https://api.openbd.jp/v1/get?isbn=" + isbn, function(res){
 			if(!res || !res[0]) return no_isbn_img(false);
 			that.app.saved.openbd = res[0];
@@ -1069,11 +1000,6 @@ AddExtraInfo.prototype = {
 			if(!url) return no_isbn_img(true);	//, res[0].summary
 			that.prim_image_url(div, {which:"book", title:"Obtained via openBD API (not a part of RDF)"}, url);
 		});
-		//add calil link?
-		//var isbntd = document.querySelector("td[itemprop=isbn]");
-		//ancelt = Util.dom.element("a");
-		//ancelt.href = "https://calil.jp/book/" + isbn;
-		//this.finder.prepare_anchor(ancelt, isbntd, "to calil", "📔");//📖
 		function no_isbn_img(show_icon){
 			if(!show_icon) div.classList.remove("with_pimg");
 			else that.prim_image_url(div, {no_onerror:true}, Util.img.gen_icon("book"));
@@ -1205,7 +1131,7 @@ AddExtraInfo.prototype = {
 		}
 		query += "}";
 		//console.log(query);
-		return this.later_table(uri, query, "geo props", via_bnode);
+		return this.later_table(uri, query, "geo props", via_bnode, subj);
 		//build group pattern
 		function one_qgroup(myuri, locprop, bindp){
 			var qg = "BIND(<" + myuri + "> as ?s)\n";
@@ -1219,50 +1145,36 @@ AddExtraInfo.prototype = {
 		}
 		
 	},
-	//add description table to indirect statements e.g. advertisement about a book 2020-09-03
-	desciption_sub_table: function(uri, ptd){
-		//var query = "select ?s ?p ?o where {bind(<" + uri + "> as ?s) ?s ?p ?o}";
-		var query = "describe <" + uri + ">";
-		ptd.appendChild(this.later_table(uri, query));
-	},
 	/**
 	 * get p/o of a URI (e.g. geo which is not bnode and cannot get p/o as CBD) and generate nested table asynchronously
 	 * @param {String} uri	URI of (the parent node of) the subject to fetch further p/o
 	 * @param {String} query	query string to get p/o to fill the table
 	 * @param {String} prop	target property (parent of uri, or prop of uri if via_bnode)
 	 * @param {Boolean} via_bnode	set if to obtain target p/o as prop [?p ?o] . Use when fetch geocoord of an entity
-	 * @return {DOMNode}	table element of the p/o
 	 */
-	later_table: function(uri, query, prop, via_bnode){
+	later_table: function(uri, query, prop, via_bnode, subj){
 		var that = this, binds,
 		table = Util.dom.element("table");
 		//query asynchronous
 		this.qh.handler(null, query, function(newres){
-			if(!(binds = that.qh.check_res(newres, ""))) return false;	//"no po found for " + uri
+			if(!(binds = that.qh.check_res(newres, "no po found for " + uri))) return false;
 			//prepare solution object for the uri in rdfjson
-			var loc, gh, latlon = {}, rdfj, is_describe;
-			if(query.match(/^describe/i)){
-				is_describe = true;
-				that.app.saved.rdfjson = that.app.rdfjson;
-				that.app.rdfjson = that.app.binds2rdf(binds);
-			}else{
-				is_describe = false;
-				var rdfj_s = proc_binds(binds, loc, gh, latlon);
-				//then select result the sets of appropriate place (subject)
-				var lkey = Object.keys(rdfj_s),
-				rdfj = rdfj_s[uri] || rdfj_s[lkey[0]],
-				upos = that.uris.proced.indexOf(uri);
-				//in case lat/log is taken from proced uri resource (e.g. target uri)
-				if(upos !== -1) that.uris.proced.splice(upos, 1);
-				//then set caption for bnode
-				if(via_bnode) set_bnode_caption(rdfj, uri, lkey, latlon, loc, gh);
-				//uri was not set before query for bnode
-				that.app.rdfjson[uri] = rdfj;
-			}
+			var loc, gh, latlon = {},
+			rdfj_s = proc_binds(binds, loc, gh, latlon);
+			//then select result the sets of appropriate place (subject)
+			var lkey = Object.keys(rdfj_s),
+			rdfj = rdfj_s[uri] || rdfj_s[lkey[0]],
+			upos = that.uris.proced.indexOf(uri);
+			//in case lat/log is taken from proced uri resource (e.g. target uri)
+			if(upos !== -1) that.uris.proced.splice(upos, 1);
+			//then set caption for bnode
+			if(via_bnode) set_bnode_caption(rdfj, uri, lkey, latlon, loc, gh);
+			//uri was not set before query for bnode
+			that.app.rdfjson[uri] = rdfj;
 			//then generate a nested table
 			//that.format_one_uri(uri, prop, pqname, table);
 			that.app.format_one_uri(uri, null, "", table);
-			if(!is_describe) Util.map.refresh();
+			Util.map.refresh();
 		});
 		//return table (and display) not waiting query result
 		return table;
@@ -1320,40 +1232,58 @@ AddExtraInfo.prototype = {
 		}
 	},
 	/**
-	 * add labels for object resourece. modified to be called after main RDF processed 2020-08-25
+	 * add labels for object resourece
 	 * @param {String} uri	subject URI of the described resource
+	 * @param {Object} jsonres	'results' node of SPARQL JSON result, to add the label resources
 	 */
-	labels: function(uri){
-		//document.querySelector(".busy").innerText = "Getting labels ... ";
+	labels: function(uri, jsonres){
+		document.querySelector(".busy").innerText = "Getting labels ... ";
 		//setup another query to get labels for each RDF object
 		var that = this,
 		query = "SELECT DISTINCT ?s ?o ?en WHERE { {<" + uri +"> ?q ?s .} " +
-		"UNION {<" + uri +"> ?p [<" + this.ns.jps + "relationType> ?s]} " + 
-		"UNION {<" + uri +"#accessinfo> ?q ?s } " + 
-		"UNION {<" + uri +"#sourceinfo> ?q ?s } " + 
+		"UNION {<" + uri +"> ?p ?po . ?po <" + this.ns.jps + "relationType> ?s } " + 
+		"UNION {<" + uri +"#accessinfo> ?pa ?s } " + 
+		"UNION {<" + uri +"#sourceinfo> ?ps ?s } " + 
 		"?s <" + this.ns.rdfs + "label> ?o ." +	//use rdfs:label for Japanese
 		"OPTIONAL {?s <" + this.ns.schema + "name> ?en . FILTER(lang(?en)=\"en\")}"	//use schema:name label@en for other lang if available
 		+ "}",
 		binds,
-		service = this.qh.set_service(),
 		set_labels = function(newres){
 			if(!(binds = that.qh.check_res(newres, "label fetche failed"))) return false;
-			var done = [], ovtd;
 			binds.forEach(function(bind){
-				//some values have more than one labels (e.g.keyword:住居 rdfs:label "House", "Houses")
-				if(done.includes(bind.s.value)) return;
-				done.push(bind.s.value);
-				if(!(ovtd = that.app.ovtds[bind.s.value])) return;
-				var val = (Util.ulang !== "ja" && bind.en) ? bind.en.value : bind.o.value;
-				//now append label to the saved ovtd here, instead of adding to main jsonres.bindings
-				ovtd.forEach(function(td){td.appendChild(that.app.set_wrapper_content(val));});
+				//makes it as if the result from DESCRIBE
+				if(Util.ulang !== "ja" && bind.en) bind.o.value = bind.en.value;	//if name@en available
+				bind.p = {"type": "uri", "value": that.ns.rdfs + "label"};
+				//labels are merged with original RDF json, then processed at set_object_tdval -> set_label_wrapper as subtext
+				jsonres.bindings.push(bind);
 			});
 		},
+		done = function(){return true;},
 		failed =function(newres){
 			return that.qh.log_error_msg("label fetche failed", newres);
 		};
-		service.query(query, {success: set_labels, failure: failed});
-		//no more promise which call another query, wait for response, and then merge the result2020-08-25
+		//call another query, wait for response, and then merge the result
+		return new Promise(function(done, failed){
+			that.get_labels(query).then(function(newres){
+				//call label query, then merge
+				set_labels(newres);
+				//ensure to promise resolved
+				done();
+			}).catch(failed);
+		});
+	},
+	/**
+	 * call SPARQL query, and wait for the result
+	 * @param {Object} query	query to get labels
+	 */
+	get_labels: function(query){
+		var that = this,
+		OK = function(){return true;},
+		NG = function(){return false;};
+		return new Promise(function(OK, NG){
+			var service = that.qh.set_service();
+			service.query(query, {success: OK, failure: NG});
+		});
 	},
 	//test license uri is an individual (non conditional) policy
 	if_indiv_policy: function(ovtd, licenseuri){
@@ -1457,30 +1387,35 @@ AddExtraInfo.prototype = {
 		nxdl = ["次世代デジタルライブラリー", "Next Digital Library"],
 		tip = [[nxdl[0] + "画像検索", "のパネル表示切り替え", "：キーワードから"],
 			[nxdl[1] + " Illustration Search", ": toggle panel", " by keyword"]][this.langidx],
-		tipttl = ["この画像を用いて次世代DL類似画像検索","use this image for illustration search"][this.langidx],
-		kwdlink = iseach + "keyword=" + encodeURIComponent(titlekwd),
-		ancelt = Util.dom.element("a");
-		Util.xhr.get(dlurl + "api/illustration/of/" + bid, function(res){
-			//query illusts in the item
-			ancelt.classList.add("finder");
-			pelt.appendChild(ancelt);
-			if(res.list.length){
-				//if any illustration is registered, set image search panel
-				that.finder.prepare_anchor(ancelt, pelt, tip[0] + tip[1]);
-				pelt.appendChild(setup_selection_table(res.list));
-			}else{
-				ancelt.innerText = "🔖";
-				ancelt.setAttribute("href", kwdlink);
-				ancelt.setAttribute("title", tip[0] + tip[2]);
-			}
-		});
+		tipttl = ["この画像を用いて次世代DL類似画像検索","use this image for illustration search"][this.langidx];
+		for(var i=5; i<8; i++) if(this.app.ndc[i].length){
+			//if found an NDC which is within the range available in NextDL search
+			var kwdlink = iseach + "keyword=" + encodeURIComponent(titlekwd),
+			ancelt = Util.dom.element("a");
+			Util.xhr.get(dlurl + "api/illustration/of/" + bid, function(res){
+				//query illusts in the item
+				ancelt.classList.add("finder");
+				pelt.appendChild(ancelt);
+				if(res.list.length){
+					//if any illustration is registered, set image search panel
+					that.finder.prepare_anchor(ancelt, pelt, tip[0] + tip[1]);
+					pelt.appendChild(setup_selection_table(res.list));
+				}else{
+					//otherewise provide keyword search link
+					ancelt.innerText = "🔖";
+					ancelt.setAttribute("href", kwdlink);
+					ancelt.setAttribute("title", tip[0] + tip[2]);
+				}
+			});
+			break;
+		}
 		//prepare image search panel
 		function setup_selection_table(ilist){
 			var item,
 			parts = that.finder.prepare_parts(ancelt, 
 				["キーワード／この資料内の図表から<strong>"+nxdl[0]+"で類似画像を</strong>検索",
 				"Find <strong>similar images</strong> from keyword / figures in this item w/ "+nxdl[1]][that.langidx]),
-			kwdbx = Util.dom.element("span", ["🔖キーワード", "keyword"][that.langidx] + ": "),
+			kwdbx = Util.dom.element("span", ["キーワード", "keyword"][that.langidx] + ": "),
 			kwdanc = Util.dom.element("a", titlekwd, [["href", kwdlink]]);
 			kwdanc.setAttribute("title", tip[0] + tip[2]);
 			kwdbx.appendChild(kwdanc);
@@ -1610,44 +1545,6 @@ AddExtraInfo.prototype = {
 	
 	
 	///@@ misc utils for owner
-	/**
-	 * find if there is a corresponding chname for ncname, then show link table if found
-	 * @param {DOMNode} div	ancestor div element
-	 * @param {Object} subdiv	parent div element of a description table if results found
-	 * @param {String} uri	URI of current target resource
-	 */
-	ncname_hint: function(div, subdiv, uri){
-		if(!this.ns.ncname || !uri.match(new RegExp("^" + this.ns.ncname))) return; //only for ncname
-		var that = this,
-		tbl = subdiv ? subdiv.firstChild : null
-		chname = uri.replace("/ncname/", "/chname/"),
-		query = "ASK {<" + chname + "> rdfs:label ?label}";
-		if(!tbl){
-			tbl = Util.dom.element("table");
-			div.appendChild(tbl);
-		}
-		this.qh.handler(null, query, function(json){
-			if(!json.boolean) return false;
-			if(!subdiv) tbl = Util.dom.prepare_desc_table(tbl);
-			//if corresponding chname found, add a table row to link the chaname
-			var tb = Util.dom.element("tbody"),
-			tr = Util.dom.element("tr"),
-			td1 = Util.dom.element("td", "(chname found)"),
-			td2 = Util.dom.element("td"),
-			anc = Util.dom.element("a", chname);
-			anc.href = chname;
-			anc.className = "uri";
-			anc.innerHTML = anc.innerHTML.replace("/chname/", "/<b>chname</b>/");
-			if(subdiv) tb.className = "more-chname";
-			td2.appendChild(anc);
-			tr.appendChild(td1);
-			tr.appendChild(td2);
-			tb.appendChild(tr);
-			tbl.appendChild(tb);
-			return true;
-		});
-	},
-	
 	//2019-02-11 with this uri as object(o), get resources(s) that have relation(p)
 	set_osp_btn: function(div){
 		var that = this,
@@ -1666,14 +1563,14 @@ AddExtraInfo.prototype = {
 	osp: function(div, msgarea){
 		var that = this,
 		query = "SELECT DISTINCT ?s ?label ?p ?p2 WHERE {\n" +
-			"\t{?s ?p <" + this.uris.tgrsrc + ">  FILTER(isIRI(?s))} UNION\n" +
+			"\t{ graph ?g {?s ?p <" + this.uris.tgrsrc + "> . OPTIONAL {?s rdfs:label ?label} } } UNION\n" +
 			"\t{?s ?p ?o . ?o ?p2 <" + this.uris.tgrsrc + "> FILTER(isBLANK(?o))\n" +
 				"\t\tMINUS {?s ?p3 <" + this.uris.tgrsrc + ">}\n\t}\n" +
 		"\tOPTIONAL {?s rdfs:label ?label}\n} LIMIT 500";
 		msgarea.innerText = "asking ... ";
 		msgarea.className = "busy";
 		this.qh.handler(null, query, function(json){
-			if(!that.qh.check_res(json, "Nothing found that relates to ", msgarea)) return false;
+			if(!that.qh.check_res(json, "Resources that relate to ", msgarea)) return false;
 			var urid = Util.str.trim(that.uris.tgrsrc, 80, [50, 20]);
 			new SPARQLSelectTableFormatter(json, that.ns, that.snorql).toDOM(div, true);
 			msgarea.innerText = "Resources that relate to <" + urid +">";
@@ -1684,16 +1581,12 @@ AddExtraInfo.prototype = {
 	},
 	
 	graphdraw_form: function(){
-		var that = this,
+		var data = JSON.stringify(this.app.rdfjson),
 		f = Util.dom.element("form", null, [["action", this.app.exserv + "/works/2009/pub/graph-draw"], ["method", "POST"]]),
-		trigger = Util.dom.element("span", "🕸", [["class","strigger"], ["title", "draw graph"]]),
-		gddfld = Util.dom.element("input", null, [["type","hidden"], ["name", "jsonobj"], ["value", ""]]);
+		trigger = Util.dom.element("span", "🕸", [["class","strigger"], ["title", "draw graph"]]);
+		trigger.onclick = function(){f.submit();};
 		f.appendChild(trigger);
-		f.appendChild(gddfld);
-		trigger.onclick = function(){
-			f.jsonobj.value = JSON.stringify(that.app.rdfjson);
-			f.submit();
-		};
+		f.appendChild(Util.dom.element("input", null, [["type","hidden"], ["name", "jsonobj"], ["value", data]]));
 		return f;
 	}
 };
@@ -1702,16 +1595,14 @@ AddExtraInfo.prototype = {
 function AskExternal(jrdf_formatter){
 	this.app = jrdf_formatter;	//calling JsonRDFFormatter instance
 	this.qh = jrdf_formatter.qh;
-	//mapping of target uri pattern -> processing function
+	//target uri pattern to processing function mapping
 	this.map = {
 		"http://id.ndl.go.jp/auth/": this.ask_ndla,
 		"http://www.wikidata.org/entity/": this.ask_wikidata,
 		"http://(ja.)?dbpedia.org/resource/":  this.ask_dbpedia,
 		"http://viaf.org/viaf/": this.ask_viaf,
 		"http://id.loc.gov/authorities/names/": this.ask_lcnames,
-		"http://data.e-stat.go.jp/lod/sac/": this.ask_sac,
-		//
-		"https://khirin-ld.rekihaku.ac.jp/rdf/nmjh_kanzousiryou/[A-H]-\\d+$": this.ask_khirin
+		"http://data.e-stat.go.jp/lod/sac/": this.ask_sac
 	};
 	//map each key to actual function in order to excute as this[key]. necessary to use this in each function
 	for(var key in this.map) this[key] = this.map[key];
@@ -1735,34 +1626,27 @@ function AskExternal(jrdf_formatter){
 		"bflc": "http://id.loc.gov/ontologies/bflc/",
 		"chgset": "http://purl.org/vocab/changeset/schema#",
 		"sacs": "http://data.e-stat.go.jp/lod/terms/sacs#",
-		"imi": "http://imi.go.jp/ns/core/rdf#",
-		//
-		"iscrr": "http://khirin-ld.rekihaku.ac.jp/ns/iscrr/"	//Integrated Studies of Cultural and Research Resources
+		"imi": "http://imi.go.jp/ns/core/rdf#"
 	};
 	//rights statement types
 	this.rstypes = ["License", "IndividualPolicyStatement", "ReferencePolicy", "RightsStatement", "AboutPage"];
 };
-
 AskExternal.prototype ={
 	/**
-	 * ask external endpoint to add more info for LOD values about current target uri
+	 * ask external endpoint to add more info for LOD values
 	 * @param {DOMNode} div	<div> element to append resulting information table
 	 * @return {Boolean}	true if uri pattern is matched and subdiv generated
 	 */
 	proc: function(div){
-		if(typeof(this.app.is_home_uri) === "string"){
+		if(this.app.is_home_uri === "more_proc"){
 			console.log(this.app.is_home_uri, div);
 			return false;
-		}//else this.app.is_home_uri = "more_proc";	//to treat rdfs:label as subtext in set_object_tdval()
+		}else this.app.is_home_uri = "more_proc";	//to treat rdfs:label as subtext in set_object_tdval()
 		var mv, subdiv = Util.dom.element("div");
-		//this.map is defined in constructor
+		//ask_map is defined in constructor
 		for(var key in this.map) if(mv = this.tguri.match(new RegExp("^" + key))){
-			//key is a uri pattern, this[key] is a function to be excuted for corresponding key
 			//can be excuted by this.map[key], but "this" in each function becomes this.map
-			if(this[key](subdiv, mv[1])){
-				this.app.is_home_uri = this[key].name;
-				return add_subdiv(subdiv);
-			}
+			if(this[key](subdiv, mv[1])) return add_subdiv(subdiv);
 		}
 		if(this.app.rdfjson){
 			if(this.ask_license_def(subdiv)) return add_subdiv(subdiv);
@@ -1859,16 +1743,6 @@ AskExternal.prototype ={
 		return true;
 	},
 	
-	//// additional rdf resolvers
-	//Khirin collection test
-	ask_khirin: function(tgdiv){
-		this.distill_and_proc(tgdiv, "Khirin-ld", ["iscrr"], true);
-		//this.getnt_and_proc(tgdiv, this.tguri + ".n3", "Khirin-ld", ["iscrr"], true);
-		return true;
-	},
-	
-	
-	
 	/**
 	 * common handler to ask more query and append the resulting table.
 	 * @param {String} this.tguri	subject URI to get more information
@@ -1893,7 +1767,6 @@ AskExternal.prototype ={
 			if(cres[0] === "rdfjson") res = json;
 			else if(json.head.vars.includes("subject")) res = that.app.wdToRDFJson(json);
 			else res = that.app.toRDFJson(json);
-			//console.log(query, json, res);
 			that.proc_set_newrdfdiv(res, tgdiv, siglabel, endpoint);
 		});
 	},
@@ -1903,45 +1776,10 @@ AskExternal.prototype ={
 		if(nsmap) this.add_nsmap(nsmap);
 		var that = this;
 		Util.xhr.get(this.prep_rdf_distiller_uri(this.tguri), function(jld){
-			if(!jld){
-				//failed to get jld via distiller, for maybe no https proxy
-				tgdiv.removeChild(tgdiv.firstChild);
-				return false;
-			}
 			var myrdf = {},
 			//trim file extension that is not part of the target uri
 			tguri = that.tguri.replace(/\.(rdf|xml|json(ld)?|ttl|nt)$/, "");
 			if(trim_ext) tguri = tguri.replace(new RegExp(trim_ext + "$"), "");	//eg. .madsrdf for lcnames
-			//in case that the target URI is https while fetched RDF's URI is http
-			if(!jld[tguri] && tguri.match(/^https/)) tguri = tguri.replace(/^https/, "http");
-			//select the rdf object of target uri. e.g. VIAF also returns rdf from participating libraries
-			myrdf[tguri] = jld[tguri];
-			if(!tguri_only) for(var uri in jld){
-				if(uri === tguri) continue;
-				myrdf[uri] = jld[uri];
-			}
-			that.proc_set_newrdfdiv(myrdf, tgdiv, siglabel, true);
-		});
-	},
-	//general method to get N-Triples, convert to rdf/json, and process the result
-	getnt_and_proc: function(tgdiv, nturi, siglabel, nsmap, tguri_only, trim_ext){
-		this.notice_proc_external(tgdiv, siglabel);
-		if(nsmap) this.add_nsmap(nsmap);
-		var that = this;
-		//anyway, need a method to get nt even w/o CORS header
-		Util.xhr.get(nturi, function(ntriples){
-			if(!ntriples){
-				//failed to get jld via distiller, for maybe no https proxy
-				tgdiv.removeChild(tgdiv.firstChild);
-				return false;
-			}
-			var jld = Util.ntparser(ntriples),
-			myrdf = {},
-			//trim file extension that is not part of the target uri
-			tguri = that.tguri.replace(/\.(rdf|xml|json(ld)?|ttl|nt)$/, "");
-			if(trim_ext) tguri = tguri.replace(new RegExp(trim_ext + "$"), "");	//eg. .madsrdf for lcnames
-			//in case that the target URI is https while fetched RDF's URI is http
-			if(!jld[tguri] && tguri.match(/^https/)) tguri = tguri.replace(/^https/, "http");
 			//select the rdf object of target uri. e.g. VIAF also returns rdf from participating libraries
 			myrdf[tguri] = jld[tguri];
 			if(!tguri_only) for(var uri in jld){
@@ -1955,10 +1793,9 @@ AskExternal.prototype ={
 	prep_rdf_distiller_uri: function(uri){
 		return this.prep_https_proxy() + "http://rdf.greggkellogg.net/distiller?command=serialize&output_format=rj&raw&url=" + uri;
 	},
-	//cannot call http service from https
+	//provisional proxy setting
 	prep_https_proxy: function(){
-		return location.href.match(/^http:\/\/localhost/) ? "" : "https://ld.cultural.jp/app/prx/";
-		//return location.href.match(/ld\.cultural/) ? "/app/prx/" : "";
+		return location.href.match(/^http:\/\/localhost/) ? "" : "/app/prx/";
 	},
 	//processing notifier
 	notice_proc_external: function(div, siglabel){
@@ -1973,14 +1810,11 @@ AskExternal.prototype ={
 		//wikidata returns normal results
 		this.app.rdfjson = newrdf;
 		this.app.uris.proced = [];
-		//var newdiv = this.app.format();
-		this.app.format(tgdiv);	//directly add a table to the parent div
+		var newdiv = this.app.format();
 		if(has_external){
-			tgdiv.removeChild(tgdiv.firstChild);	//remove processing message <p>
-			//now tgdiv.firstChild is the table
-			if(tgdiv.hasChildNodes())
-			tgdiv.firstChild.firstChild.innerText += " (Description from " + siglabel + ")";	//update table caption
-		}
+			newdiv.firstChild.firstChild.innerText += " (Description from " + siglabel + ")";
+			tgdiv.replaceChild(newdiv, tgdiv.firstChild);
+		}else tgdiv.appendChild(newdiv);
 	},
 	//add nspfx mapping to more_ns so that properties can be displayed as qname
 	add_nsmap: function(nsmap){
@@ -2018,7 +1852,6 @@ GnrQueryHandler.prototype = {
 		var that = this;
 		this.last_query = query;
 		if(!service) service = this.set_service();
-		if(query.match(/^describe/i)) query = "define sql:describe-mode \"CBD\"\n" + query;
 		service.query(query, {
 			"success": success_fnc,
 			"failure": function(res){
@@ -2052,11 +1885,11 @@ GnrQueryHandler.prototype = {
 			//returns 0 instead of false, so that calling handlers can set no value results e.g. test_url_type
 			if(!notfound_msg) return 0;	//quiet
 			else if(this.app.is_home_uri){
-				error_msg(notfound_msg + "this resource");	// + " (this resource)"
+				error_msg(notfound_msg + "resource");
 			}else if(this.app.uris){
-				error_msg("", notfound_msg + "<a href=\"" + this.app.uris.tgrsrc + "\">this resource</a>.");
+				this.error_msg("", notfound_msg + "<a href=\"" + this.app.uris.tgrsrc + "\">this resource</a>.");
 			}else{
-				error_msg(notfound_msg);
+				this.error_msg(notfound_msg);
 			}
 			return 0;
 		}
@@ -2346,7 +2179,6 @@ SPARQLSelectTableFormatter.prototype = {
 	}
 };
 
-
 //Utilities to be called from any class
 var Util = {
 	//snorql_def.jsに記述しておき、Snorql.init_homedefで設定する
@@ -2379,20 +2211,11 @@ var Util = {
 			var e = document.createElementNS("http://www.w3.org/2000/svg", elt);
 			if(attrs) attrs.forEach(function(attr){e.setAttribute(attr[0], attr[1])});
 			return e;
-		},
-		//table for describe query results
-		prepare_desc_table: function(table){
-			if(!table) table = this.element("table");
-			table.classList.add("describe");
-			var col = [this.element("col"), this.element("col")];
-			col[0].className = "term";
-			col.forEach(function(c){table.appendChild(c);});
-			return table;
 		}
 	},
 	ulang: (navigator.userLanguage || navigator.language).substr(0, 2).toLowerCase(),
-	lang_limit: [80, 150, 110, 96],
-	lang_trim_offset: [[38, 36], [90, 50], [50, 42], [40, 42]],
+	lang_limit: [80, 150, 120, 100],
+	lang_trim_offset: [[38, 36], [92, 50], [62, 50], [50, 42]],
 	/**
 	 * trim long URI for display purpose
 	 * @param {DOMNode} elt	the element whose content to be the URI string
@@ -2409,12 +2232,10 @@ var Util = {
 		}
 		elt.appendChild(this.dom.text(dispuri.substr(0, offset[0])));
 		if(offset[1]){
-			//elt.appendChild(exspn(offset[0] + 1, len - offset[1] - offset[0]));
-			elt.appendChild(exspn(offset[0], len - offset[1] - offset[0]));
+			elt.appendChild(exspn(offset[0] + 1, len - offset[1] - offset[0]));
 			elt.appendChild(this.dom.text(dispuri.substr(len - offset[1], offset[1])));
 		}else{
-			//elt.appendChild(exspn(offset[0] + 1));
-			elt.appendChild(exspn(offset[0]));
+			elt.appendChild(exspn(offset[0] + 1));
 		}
 		function exspn(st, ed){
 			var splitter = " ... ",
@@ -2526,10 +2347,8 @@ var Util = {
 				}
 				qname = (pfx || "ns01:") + local;
 			}else qname = matched;	//\"\"
-			var title_sfx = "Description of " + Util.str.trim(qname, 50, [20, 20]);
-			title = (app.title ? app.title + ": " : "") + title_sfx;
+			title = (app.title ? app.title + ": " : "") + "Description of " + Util.str.trim(qname, 50, [20, 20]);
 			description_microdata(app.uris.tgrsrc);//"✍" + 
-			if(app.uris.img.length) this.set_twcards(app, app.uris.img, app.title || title_sfx);
 		}else title = qtype;
 		document.title = title + " - Snorql" + (this.homelabel ? " for " + this.homelabel : "");
 		this.map.refresh();
@@ -2549,18 +2368,6 @@ var Util = {
 			document.querySelector("title").setAttribute("itemprop", "name");
 		}
 	},
-	set_twcards: function(app, imguris, title){
-		add_meta("property", "og:title", title);
-		add_meta("name", "twitter:card", "summary");
-		add_meta("name", "twitter:image:src", imguris[0]);
-		
-		function add_meta(prop, propv, contentv){
-			var meta = Util.dom.element("meta");
-			meta.setAttribute(prop, propv);
-			meta.setAttribute("content", contentv);
-			document.head.appendChild(meta);
-		}
-	},
 	//very simple XHr handler (see add_img_plus_from_isbn)
 	xhr:{
 		getp: function(url, success){
@@ -2570,7 +2377,6 @@ var Util = {
 			});
 		},
 		get: function(url, success){
-			//if(location.href.match(/^http:\/\/localhost/) && url.match(/^https:/)) url = url.replace(/^https:/, "http:");
 			var xreq = new XMLHttpRequest();
 			xreq.onreadystatechange = function(){
 				if(xreq.readyState !== 4) return;
@@ -2669,8 +2475,12 @@ var Util = {
 		));
 		var ul = this.dom.element("ul");
 		gen_elt(ul, "li", [
+			"入力欄下にクエリ例があります。",
+			"Query examples are provided below the text area."
+			/*
 			"入力欄下にクエリ例があります。<a href=\"https://jpsearch.go.jp/api/sparql-explain/\">ジャパンサーチSPARQLエンドポイント解説</a>も参照してください。", 
 			"Query examples are provided below the text area. See also <a href=\"https://www.kanzaki.com/works/ld/jpsearch/primer/\">Japan Search RDF Model Primer</a> for the general description."
+			*/
 		][lang]);
 		if(idef) idef.forEach(function(v){
 			gen_elt(ul, "li", Util.str.langtext(v, lang));
@@ -2683,30 +2493,6 @@ var Util = {
 			elt.innerHTML = html;
 			pelt.appendChild(elt);
 		}
-	},
-	ntparser: function(ntliteral){
-		var rdf = {};
-		ntliteral.split(/[\r\n]+/).forEach(function(statement){
-			var m, s, p, ox;
-			if((m = statement.match(/^\s*<(.+?)>\s*<(.+?)>\s*(.+)/)) ||
-				(m = statement.match(/^\s*(_:.+?)\s<(.+?)>\s*(.+)/))
-			){
-				s = m[1];
-				p = m[2];
-				ox = m[3];
-			}else return;
-			if(!rdf[s]) rdf[s] = {};
-			if(!rdf[s][p]) rdf[s][p] = [];
-			if((m = ox.match(/^\s*<(.+)>/))){
-				rdf[s][p].push({"type": "uri", "value": m[1]});
-			}else if((m = ox.match(/^\s*(_:[^\s]+)/))){
-				rdf[s][p].push({"type": "bnode", "value": m[1]});
-			}else{
-				m = ox.match(/^\s"(.+)"\s*\.\s*$/);
-				rdf[s][p].push({"type": "literal", "value": m[1]});
-			}
-		});
-		return rdf;
 	}
 };
 //query rewriter
@@ -2826,7 +2612,7 @@ Util.queries = {
 	//virtuoso specific preamble
 	preamble: function(query, qtype){
 		if(qtype === "DESCRIBE"){
-			query = "define sql:describe-mode \"CBD\"\n" + query;
+			//query = "define sql:describe-mode \"CBD\"\n" + query;
 		}else if(qtype === "SELECT" && query.match(/SELECT \?type \(count.*\)/i)){
 			var exclude = "";
 			["http://www.w3.org/2002/07/owl#",
@@ -2843,8 +2629,6 @@ Util.queries = {
 		var current_q = CMEditor.getValue();
 		CMEditor.setValue(current_q.
 			replace(/SELECT (DISTINCT )?(\?\w+) .*WHERE/i, "SELECT ?key (count($1$2) as ?count) WHERE").
-			replace(/\?(cho|s) rdfs:label \?label/, "?$1 schema:creator ?key").
-			replace(/\s*OPTIONAL.*\n/ig, "\n").
 			replace(/LIMIT \d+/i, "GROUP BY ?key ORDER BY desc(?count)")
 		);
 	},
@@ -3046,7 +2830,7 @@ Util.waka = {
 	show: function(obj, div){
 		var body = obj.rdfjson[obj.uris.tgrsrc],
 		sinfo =  obj.rdfjson[obj.uris.tgrsrc + "#sourceinfo"],
-		provider = sinfo ?  Util.uri.split(sinfo[obj.ns.schema + "provider"][0].value, true) : null,
+		provider = Util.uri.split(sinfo[obj.ns.schema + "provider"][0].value, true),
 		wo;
 		switch(provider){
 		case "二十一代集データベース":
@@ -3056,8 +2840,7 @@ Util.waka = {
 			wo = this.get_manyo(body, obj.ns);
 			break;
 		default:
-			wo = this.get_general(body, obj.ns);
-			//return;
+			return;
 		}
 		var kami = wo.vparts.splice(0,3).join(" "),
 		shimo = [],
@@ -3151,16 +2934,6 @@ Util.waka = {
 			"vlen": verse.length
 		};
 	},
-	get_general: function(body, ns){
-		var verse = body[ns.rdfs + "label"][0].value || null,
-		author = body[ns.schema + "creator"] || null;
-		return {
-			"vparts": verse.split(/[ 　／]/),
-			"author": author ? author[0].value.replace(/^.*name\//, "") : null,
-			"zeros": "0000",
-			"vlen": verse.length
-		};
-	},
 	set_prev_next: function(uri, zeros){
 		var pn_uri = this.get_serial_prev_next(uri, zeros, [0, 34346]),
 		prev_next = [];
@@ -3196,19 +2969,3 @@ Util.waka = {
 		wbox.appendChild(box);
 	}
 };
-
-//for IE
-if(!Array.prototype.hasOwnProperty("includes")){
-	Array.prototype.includes = function(tgelt){
-		return (this.indexOf(tgelt) === -1) ? false: true;
-	}
-}
-if(!Element.prototype.hasOwnProperty("closest")){
-	Element.prototype.closest = function(tgelt){
-		var myelt = this.parentElement;
-		do{
-			if(myelt.tagName = tgelt) return myelt;
-		}while((myelt = myelt.parentElement));
-		return null;
-	}
-}

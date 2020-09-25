@@ -8,7 +8,7 @@ var D2R_namespacePrefixes = {
     //"work": "https://jpsearch.go.jp/entity/work/",
     //"role": "https://jpsearch.go.jp/term/role/",
     //"keyword": "https://jpsearch.go.jp/term/keyword/",
-    //"skos": "http://www.w3.org/2004/02/skos/core#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
     //"gvname": "https://jpsearch.go.jp/entity/gvname/",
     //"ncname": "https://jpsearch.go.jp/entity/ncname/",
     //"ncplace": "https://jpsearch.go.jp/entity/ncplace/",
@@ -22,6 +22,7 @@ var D2R_namespacePrefixes = {
     "prop-ja": "http://ja.dbpedia.org/property/",
     "emperor": "https://nakamura196.github.io/hi_person/entity/emperor/",
     "kani": "https://nakamura196.github.io/hi_person/term/kani/",
-    "role": "https://nakamura196.github.io/hi_person/term/role/"
+    "role": "https://nakamura196.github.io/hi_person/term/role/",
+    "term": "https://nakamura196.github.io/hi_person/term/"
 };
 
