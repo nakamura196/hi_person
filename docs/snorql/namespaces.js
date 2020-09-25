@@ -2,9 +2,9 @@ var D2R_namespacePrefixes = {
     "jps": "https://jpsearch.go.jp/term/property#",
     "schema": "http://schema.org/",
     "type": "https://nakamura196.github.io/hi_person/term/type/",
-    //"chname": "https://jpsearch.go.jp/entity/chname/",
+    "chname": "https://nakamura196.github.io/hi_person/entity/chname/",
     //"place": "https://jpsearch.go.jp/entity/place/",
-    //"time": "https://jpsearch.go.jp/entity/time/",
+    "time": "https://nakamura196.github.io/hi_person/entity/time/",
     //"work": "https://jpsearch.go.jp/entity/work/",
     //"role": "https://jpsearch.go.jp/term/role/",
     //"keyword": "https://jpsearch.go.jp/term/keyword/",
@@ -13,11 +13,14 @@ var D2R_namespacePrefixes = {
     //"ncname": "https://jpsearch.go.jp/entity/ncname/",
     //"ncplace": "https://jpsearch.go.jp/entity/ncplace/",
     //"series": "https://jpsearch.go.jp/entity/series/",
-    //"xsd": "http://www.w3.org/2001/XMLSchema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
     rdf: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#',
     rdfs: 'http://www.w3.org/2000/01/rdf-schema#',
-    //owl: 'http://www.w3.org/2002/07/owl#',
+    owl: 'http://www.w3.org/2002/07/owl#',
     dct: "http://purl.org/dc/terms/",
     genji: "https://w3id.org/kouigenjimonogatari/api/property/",
+    "prop-ja": "http://ja.dbpedia.org/property/",
+    "emperor": "https://nakamura196.github.io/hi_person/entity/emperor/",
+    "kani": "https://nakamura196.github.io/hi_person/term/kani/"
 };
 

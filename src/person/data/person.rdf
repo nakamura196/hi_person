@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://schema.org/"
+  xmlns:ns2="http://ja.dbpedia.org/property/"
+  xmlns:ns3="https://jpsearch.go.jp/term/property#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/entity/chname/藤原経光.json">
+    <ns3:主君 rdf:resource="https://nakamura196.github.io/hi_person/entity/emperor/順徳天皇.json"/>
+    <ns3:主君 rdf:resource="https://nakamura196.github.io/hi_person/entity/emperor/後鳥羽天皇.json"/>
+    <ns3:start>1212</ns3:start>
+    <ns2:子 rdf:resource="https://nakamura196.github.io/hi_person/entity/chname/藤原兼仲.json"/>
+    <ns3:end>1274-05-22</ns3:end>
+    <ns2:子 rdf:resource="https://nakamura196.github.io/hi_person/entity/chname/広橋兼頼.json"/>
+    <ns2:兄弟 rdf:resource="https://nakamura196.github.io/hi_person/entity/chname/藤原信光.json"/>
+    <ns2:兄弟 rdf:resource="https://nakamura196.github.io/hi_person/entity/chname/藤原経朝.json"/>
+    <ns2:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_002">
+        <ns1:description>穀倉院学問料</ns1:description>
+        <ns1:relatedLink rdf:resource="https://kotobank.jp/word/穀倉院-499578"/>
+        <ns1:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/学問料"/>
+        <ns3:start>1221-01-19</ns3:start>
+      </rdf:Description>
+    </ns2:官位>
+    <ns2:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_001">
+        <ns3:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/蔵人.json"/>
+        <ns3:start>1218-11-16</ns3:start>
+        <ns1:description>春宮蔵人</ns1:description>
+      </rdf:Description>
+    </ns2:官位>
+    <ns3:主君 rdf:resource="https://nakamura196.github.io/hi_person/entity/emperor/仲恭天皇.json"/>
+  </rdf:Description>
+</rdf:RDF>
