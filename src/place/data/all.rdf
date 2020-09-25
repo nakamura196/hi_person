@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:ns1="http://schema.org/"
+  xmlns:ns2="https://nakamura196.github.io/hi_person/term/type/"
+>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/信濃国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/信濃国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xnd282gc1z6m">
+        <ns1:latitude>36.654722</ns1:latitude>
+        <ns1:longitude>138.180277</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>信濃国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/播磨国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wypy1j6fj767">
+        <ns1:latitude>34.833888</ns1:latitude>
+        <ns1:longitude>134.696388</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/播磨国"/>
+    <rdfs:label>播磨国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/尾張国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn328cyt8s9b">
+        <ns1:longitude>136.799722</ns1:longitude>
+        <ns1:latitude>35.254722</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>尾張国</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/尾張国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/常陸国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/常陸国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn7tzuh6c13f">
+        <ns1:latitude>36.189444</ns1:latitude>
+        <ns1:longitude>140.268333</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>常陸国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/北海道.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xpssbrw33ftd">
+        <ns1:latitude>43.063888</ns1:latitude>
+        <ns1:longitude>141.347777</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/北海道"/>
+    <rdfs:label>北海道</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/飛騨国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn3te794zmuw">
+        <ns1:latitude>36.142777</ns1:latitude>
+        <ns1:longitude>137.253888</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>飛騨国</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/飛騨国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/因幡国.json">
+    <rdfs:label>因幡国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wyr3ywdr6fbv">
+        <ns1:latitude>35.500833</ns1:latitude>
+        <ns1:longitude>134.234166</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/因幡国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/薩摩国.json">
+    <rdfs:label>薩摩国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wvstj4vf9brq">
+        <ns1:longitude>130.305833</ns1:longitude>
+        <ns1:latitude>31.831944</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/薩摩国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/佐渡国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/佐渡国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xnf23eycudbw">
+        <ns1:longitude>138.239444</ns1:longitude>
+        <ns1:latitude>38.033611</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>佐渡国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/羽前国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xngc9s3m0zmj">
+        <ns1:latitude>38.256666</ns1:latitude>
+        <ns1:longitude>140.341111</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/羽前国"/>
+    <rdfs:label>羽前国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/土佐国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/土佐国"/>
+    <rdfs:label>土佐国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wvzp1h6wn513">
+        <ns1:latitude>33.598611</ns1:latitude>
+        <ns1:longitude>133.641388</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/肥後国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wvufx16cpnst">
+        <ns1:longitude>130.741388</ns1:longitude>
+        <ns1:latitude>32.790277</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>肥後国</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/肥後国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/岩代国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/岩代国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xneyu2m69cr6">
+        <ns1:longitude>140.4675</ns1:longitude>
+        <ns1:latitude>37.750833</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>岩代国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/加賀国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/加賀国"/>
+    <rdfs:label>加賀国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn3puxkdfntt">
+        <ns1:longitude>136.610277</ns1:longitude>
+        <ns1:latitude>36.558888</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/但馬国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/但馬国"/>
+    <rdfs:label>但馬国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wyrcf9newr5r">
+        <ns1:longitude>134.7675</ns1:longitude>
+        <ns1:latitude>35.47</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/武蔵国.json">
+    <rdfs:label>武蔵国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn74vvr5cqqx">
+        <ns1:longitude>139.481111</ns1:longitude>
+        <ns1:latitude>35.669166</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/武蔵国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/上総国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/上総国"/>
+    <rdfs:label>上総国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn79umcvryr4">
+        <ns1:longitude>140.111388</ns1:longitude>
+        <ns1:latitude>35.496388</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/備中国.json">
+    <rdfs:label>備中国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wypjk1g5mw09">
+        <ns1:longitude>133.773888</ns1:longitude>
+        <ns1:latitude>34.683055</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/備中国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/大阪.json">
+    <rdfs:label>大阪</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/大阪"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn0mjn1jhrnv">
+        <ns1:longitude>135.572854</ns1:longitude>
+        <ns1:latitude>34.662762</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/上野国.json">
+    <rdfs:label>上野国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn6z5bdg1exj">
+        <ns1:longitude>139.035833</ns1:longitude>
+        <ns1:latitude>36.39</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/上野国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/摂津国.json">
+    <rdfs:label>摂津国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn0m5rgfsqgd">
+        <ns1:latitude>34.671944</ns1:latitude>
+        <ns1:longitude>135.499722</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/摂津国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/備後国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/備後国"/>
+    <rdfs:label>備後国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wynsxync1gwt">
+        <ns1:longitude>133.240555</ns1:longitude>
+        <ns1:latitude>34.574166</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/紀伊国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/紀伊国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn04eyc67sg1">
+        <ns1:longitude>135.166666</ns1:longitude>
+        <ns1:latitude>34.226944</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>紀伊国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/下野国.json">
+    <rdfs:label>下野国</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/下野国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn7quysmdefs">
+        <ns1:longitude>139.785</ns1:longitude>
+        <ns1:latitude>36.379444</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/肥前国.json">
+    <rdfs:label>肥前国</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/肥前国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wvuts3n5sstw">
+        <ns1:latitude>33.316666</ns1:latitude>
+        <ns1:longitude>130.273333</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/駿河国.json">
+    <rdfs:label>駿河国</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/駿河国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn4rj1bh6k1c">
+        <ns1:longitude>138.383888</ns1:longitude>
+        <ns1:latitude>34.990833</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/豊前国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wvvps3dk2n48">
+        <ns1:latitude>33.671111</ns1:latitude>
+        <ns1:longitude>130.971111</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/豊前国"/>
+    <rdfs:label>豊前国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/越中国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/越中国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn93q9yt6wwz">
+        <ns1:latitude>36.792777</ns1:latitude>
+        <ns1:longitude>137.0525</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>越中国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/山城国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/山城国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn0x1pmuz0r2">
+        <ns1:latitude>35.021111</ns1:latitude>
+        <ns1:longitude>135.755277</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>山城国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/備前国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wypm27tt8y4y">
+        <ns1:latitude>34.693055</ns1:latitude>
+        <ns1:longitude>133.963888</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>備前国</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/備前国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/近江国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn0x5u223tsj">
+        <ns1:longitude>135.868333</ns1:longitude>
+        <ns1:latitude>35.003888</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>近江国</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/近江国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/東京.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn775stspkvt">
+        <ns1:longitude>139.731993</ns1:longitude>
+        <ns1:latitude>35.709026</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/東京"/>
+    <rdfs:label>東京</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/大和国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/大和国"/>
+    <rdfs:label>大和国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn0efpnjsqs8">
+        <ns1:latitude>34.448611</ns1:latitude>
+        <ns1:longitude>135.799444</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/和泉国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/和泉国"/>
+    <rdfs:label>和泉国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn0k1wnq9h5k">
+        <ns1:latitude>34.487222</ns1:latitude>
+        <ns1:longitude>135.426111</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/相模国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/相模国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn71dwswf1eu">
+        <ns1:longitude>139.334884</ns1:longitude>
+        <ns1:latitude>35.456795</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>相模国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/江戸.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/江戸"/>
+    <rdfs:label>江戸</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn76uqexxud4">
+        <ns1:latitude>35.676666</ns1:latitude>
+        <ns1:longitude>139.762222</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/越後国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/越後国"/>
+    <rdfs:label>越後国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xndzeeck3qrc">
+        <ns1:longitude>139.022777</ns1:longitude>
+        <ns1:latitude>37.902222</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/豊後国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/豊後国"/>
+    <rdfs:label>豊後国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wvvt4fv39w8c">
+        <ns1:latitude>33.238055</ns1:latitude>
+        <ns1:longitude>131.6125</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/伊豆国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn4zc1jqq70n">
+        <ns1:longitude>138.918611</ns1:longitude>
+        <ns1:latitude>35.118888</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>伊豆国</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/伊豆国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/陸前国.json">
+    <rdfs:label>陸前国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xnu3bm2qgu33">
+        <ns1:latitude>38.306388</ns1:latitude>
+        <ns1:longitude>140.988055</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/陸前国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/美濃国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/美濃国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn3168ykr163">
+        <ns1:latitude>35.380833</ns1:latitude>
+        <ns1:longitude>136.525</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>美濃国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/磐城国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xns4y48b82zh">
+        <ns1:longitude>140.889722</ns1:longitude>
+        <ns1:latitude>37.059722</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>磐城国</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/磐城国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/伊賀国.json">
+    <rdfs:label>伊賀国</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/伊賀国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn0vfrd7q8pz">
+        <ns1:longitude>136.156944</ns1:longitude>
+        <ns1:latitude>34.8025</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/名古屋.json">
+    <rdfs:label>名古屋</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn324fdj6vz8">
+        <ns1:latitude>35.170915</ns1:latitude>
+        <ns1:longitude>136.881537</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/名古屋"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/甲斐国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/甲斐国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn6depf3ywd7">
+        <ns1:latitude>35.638611</ns1:latitude>
+        <ns1:longitude>138.650833</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>甲斐国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/京都.json">
+    <rdfs:label>京都</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn0x1mxm83gz">
+        <ns1:longitude>135.768029</ns1:longitude>
+        <ns1:latitude>35.011636</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/京都"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/安芸国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/安芸国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wyn5xq62vufy">
+        <ns1:latitude>34.399722</ns1:latitude>
+        <ns1:longitude>132.509444</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>安芸国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/讃岐国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wyp5p6um5kde">
+        <ns1:latitude>34.293333</ns1:latitude>
+        <ns1:longitude>133.918333</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/讃岐国"/>
+    <rdfs:label>讃岐国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/三河国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/三河国"/>
+    <rdfs:label>三河国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn1wc669xkdz">
+        <ns1:longitude>137.168055</ns1:longitude>
+        <ns1:latitude>34.949166</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/丹後国.json">
+    <rdfs:label>丹後国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn2169vq72xh">
+        <ns1:latitude>35.386666</ns1:latitude>
+        <ns1:longitude>135.117222</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/丹後国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/下総国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/下総国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn77rdguj0pw">
+        <ns1:latitude>35.743333</ns1:latitude>
+        <ns1:longitude>139.905277</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>下総国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/筑前国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/筑前国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wvuxptz3f3nu">
+        <ns1:longitude>130.417777</ns1:longitude>
+        <ns1:latitude>33.606111</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>筑前国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/美作国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wypr91525yse">
+        <ns1:longitude>133.993888</ns1:longitude>
+        <ns1:latitude>35.073888</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>美作国</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/美作国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/伊予国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wyn9dg9k5kct">
+        <ns1:longitude>133.013333</ns1:longitude>
+        <ns1:latitude>34.033611</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/伊予国"/>
+    <rdfs:label>伊予国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/横浜.json">
+    <rdfs:label>横浜</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn739s369f4c">
+        <ns1:longitude>139.638026</ns1:longitude>
+        <ns1:latitude>35.443708</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/横浜"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/中国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wq6h502v29zn">
+        <ns1:longitude>104.195397</ns1:longitude>
+        <ns1:latitude>35.86166</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/中国"/>
+    <rdfs:label>中国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/丹波国.json">
+    <rdfs:label>丹波国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn0rs863d1vf">
+        <ns1:longitude>135.5525</ns1:longitude>
+        <ns1:latitude>35.07</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/丹波国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/羽後国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/羽後国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xp59ungt0b5g">
+        <ns1:longitude>140.1025</ns1:longitude>
+        <ns1:latitude>39.720555</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>羽後国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/阿波国.json">
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/wyp9gcxq2fts">
+        <ns1:latitude>34.066944</ns1:latitude>
+        <ns1:longitude>134.471666</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/阿波国"/>
+    <rdfs:label>阿波国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/伊勢国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/伊勢国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn1nd036vgv4">
+        <ns1:latitude>34.894444</ns1:latitude>
+        <ns1:longitude>136.496111</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>伊勢国</rdfs:label>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/越前国.json">
+    <rdfs:label>越前国</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/越前国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn2u4x9nk7e7">
+        <ns1:latitude>35.901666</ns1:latitude>
+        <ns1:longitude>136.166111</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/遠江国.json">
+    <rdfs:label>遠江国</rdfs:label>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xn4j91bc2xdr">
+        <ns1:longitude>137.8575</ns1:longitude>
+        <ns1:latitude>34.726666</ns1:latitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/遠江国"/>
+  </ns2:Place.json>
+  <ns2:Place.json rdf:about="https://nakamura196.github.io/hi_person/entity/place/陸奥国.json">
+    <rdfs:seeAlso rdf:resource="http://ja.dbpedia.org/resource/陸奥国"/>
+    <ns1:geo>
+      <rdf:Description rdf:about="http://geohash.org/xpk04xv0kurc">
+        <ns1:latitude>40.823888</ns1:latitude>
+        <ns1:longitude>140.741944</ns1:longitude>
+      </rdf:Description>
+    </ns1:geo>
+    <rdfs:label>陸奥国</rdfs:label>
+  </ns2:Place.json>
+  <rdfs:Class rdf:about="https://nakamura196.github.io/hi_person/term/type/Place.json">
+    <rdfs:label>Place</rdfs:label>
+    <rdfs:comment>場所を表す実体。</rdfs:comment>
+  </rdfs:Class>
+</rdf:RDF>

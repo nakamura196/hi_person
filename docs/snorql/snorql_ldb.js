@@ -1563,7 +1563,7 @@ AddExtraInfo.prototype = {
 	osp: function(div, msgarea){
 		var that = this,
 		query = "SELECT DISTINCT ?s ?label ?p ?p2 WHERE {\n" +
-			"\t{?s ?p <" + this.uris.tgrsrc + ">  FILTER(isIRI(?s))} UNION\n" +
+			"\t{ graph ?g {?s ?p <" + this.uris.tgrsrc + "> . OPTIONAL {?s rdfs:label ?label} } } UNION\n" +
 			"\t{?s ?p ?o . ?o ?p2 <" + this.uris.tgrsrc + "> FILTER(isBLANK(?o))\n" +
 				"\t\tMINUS {?s ?p3 <" + this.uris.tgrsrc + ">}\n\t}\n" +
 		"\tOPTIONAL {?s rdfs:label ?label}\n} LIMIT 500";
