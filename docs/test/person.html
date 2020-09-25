@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+</head>
+
+<body>
+  <div id="app">
+    <v-app>
+      <v-app-bar color="white">
+        <v-toolbar-title>民経記・人物DB</v-toolbar-title>
+        <!--
+        <v-spacer></v-spacer>
+
+        <v-btn text href="https://diyhistory.org/toyo/toyo2/">
+          test
+        </v-btn>
+        -->
+      </v-app-bar>
+
+      <v-main>
+        
+        <v-container class="my-5">
+
+          <template v-if="main['http://www.w3.org/2000/01/rdf-schema#label']">
+            <h1>
+              <a :href="'https://nakamura196.github.io/hi_person/snorql/?describe=' + u" target="new">
+                {{main["http://www.w3.org/2000/01/rdf-schema#label"][0]}}
+              </a>
+              </h1>
+
+            <br/>
+
+            <v-simple-table>
+              <template v-slot:default>
+                <thead>
+                  <tr>
+                    <th class="text-left">Year</th>
+                    <th class="text-left">年齢</th>
+                    <th class="text-left">内容</th>
+                    <th class="text-left">リンク</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>{{main["https://jpsearch.go.jp/term/property#start"][0]}}</td>
+                    <td>0齢</td>
+                    <td>生誕</td>
+                    <td></td>
+                  </tr>
+                  <tr v-for="item in items">
+                    
+                    <td>{{item.start}}</td>
+                    <td>{{getAge(item.start)}}</td>
+                    <td>{{item.description}}</td>
+                    <td>
+                      <template v-if="item.value">
+                        <a :href="'https://nakamura196.github.io/hi_person/snorql/?describe=' + item.value" target="new">
+                          {{item.value.split("/kani/")[1].replace(".json", "")}}
+                        </a>
+                      </template>
+                      <template v-else>
+                        {{item.value}}
+                      </template>
+                    </td>
+                  </tr>
+                </tbody>
+              </template>
+            </v-simple-table>
+          </template>
+
+          
+
+        </v-container>
+      </v-main>
+      <v-footer color="primary">
+        <span class="white--text text-center">Satoru Nakamura</span>
+      </v-footer>
+    </v-app>
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+  <script src="https://unpkg.com/vue-router@2.0.0/dist/vue-router.js"></script>
+  <script>
+    const router = new VueRouter({
+      mode: 'history',
+    })
+
+    new Vue({
+      router,
+      el: '#app',
+      vuetify: new Vuetify(),
+      data() {
+        return {
+          u: "",
+          main: {},
+          items: [],
+          startYear: ""
+        }
+      },
+      async created() {
+
+        const u = this.$route.query.u
+        this.u = u
+
+        let query = `
+          DESCRIBE <`+u+`>
+        `
+
+        const main = await axios
+          .get("https://dydra.com/ut-digital-archives/hi_person/sparql?query="+encodeURIComponent(query))
+          .then(function (res) {
+            return res.data
+          });
+
+        const map = {}
+
+        for(let i = 0; i < main.length; i++){
+          const obj = main[i]
+          const p = obj.p
+          const o = obj.o
+          if(!map[p]){
+            map[p] = []
+          }
+          map[p].push(o)
+        }
+
+        const startYear = map["https://jpsearch.go.jp/term/property#start"][0].split("-")[0]
+        this.startYear = startYear
+
+        this.main = map
+
+        query = `
+          prefix prop-ja: <http://ja.dbpedia.org/property/>
+          prefix schema: <http://schema.org/>
+          prefix jps: <https://jpsearch.go.jp/term/property#>
+          SELECT ?start ?description ?value WHERE {
+            graph ?g { 
+              <`+u+`> prop-ja:官位 ?o . 
+              ?o schema:description ?description;
+                jps:start ?start . 
+              optional { ?o jps:value ?value . }
+            } 
+          } order by ?start
+        `
+
+        const url = "https://dydra.com/ut-digital-archives/hi_person/sparql?query="+encodeURIComponent(query)
+
+        var self = this;
+        axios
+          .get(url)
+          .then(function (res) {
+            let results = res.data
+            self.items = results
+          });
+      },
+      methods : {
+        getAge: function(data){
+          const year = data.split("-")[0]
+          return (Number(year) - this.startYear) + "齢"
+        }
+      }
+    })
+  </script>
+</body>
+
+</html>

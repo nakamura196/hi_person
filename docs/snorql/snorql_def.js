@@ -195,4 +195,10 @@ Snorqldef.example = [
 		"ns" : [ ],
 		"query" : "SELECT DISTINCT ?s ?label ?image WHERE {\n	?s a type:Person.json;\n                   rdfs:label ?label.\n  optional {?s schema:image ?image }\n}\nORDER BY desc(?image)\nLIMIT 100"
 	},
+	{
+		"label": "藤原経光の経歴",
+		"label_en" : "藤原経光の経歴",
+		"ns" : [ ],
+		"query" : "SELECT ?start ?description ?value WHERE {\n  graph ?g { \n    chname:藤原経光.json prop-ja:官位 ?o . \n    ?o schema:description ?description;\n       jps:start ?start . \n    optional { ?o jps:value ?value }\n  } \n} order by ?start"
+	},
 ];
