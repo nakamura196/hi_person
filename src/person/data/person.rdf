@@ -1,34 +1,338 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-  xmlns:ns1="http://schema.org/"
-  xmlns:ns2="http://ja.dbpedia.org/property/"
-  xmlns:ns3="https://jpsearch.go.jp/term/property#"
+  xmlns:ns1="https://jpsearch.go.jp/term/property#"
+  xmlns:ns2="http://schema.org/"
+  xmlns:ns3="http://ja.dbpedia.org/property/"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
   <rdf:Description rdf:about="https://nakamura196.github.io/hi_person/entity/chname/藤原経光.json">
-    <ns3:主君 rdf:resource="https://nakamura196.github.io/hi_person/entity/emperor/順徳天皇.json"/>
-    <ns3:主君 rdf:resource="https://nakamura196.github.io/hi_person/entity/emperor/後鳥羽天皇.json"/>
-    <ns3:start>1212</ns3:start>
-    <ns2:子 rdf:resource="https://nakamura196.github.io/hi_person/entity/chname/藤原兼仲.json"/>
-    <ns3:end>1274-05-22</ns3:end>
-    <ns2:子 rdf:resource="https://nakamura196.github.io/hi_person/entity/chname/広橋兼頼.json"/>
-    <ns2:兄弟 rdf:resource="https://nakamura196.github.io/hi_person/entity/chname/藤原信光.json"/>
-    <ns2:兄弟 rdf:resource="https://nakamura196.github.io/hi_person/entity/chname/藤原経朝.json"/>
-    <ns2:官位>
-      <rdf:Description rdf:about="_:藤原経光_官位_002">
-        <ns1:description>穀倉院学問料</ns1:description>
-        <ns1:relatedLink rdf:resource="https://kotobank.jp/word/穀倉院-499578"/>
-        <ns1:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/学問料"/>
-        <ns3:start>1221-01-19</ns3:start>
+    <ns1:主君 rdf:resource="https://nakamura196.github.io/hi_person/entity/emperor/後鳥羽天皇.json"/>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_029">
+        <ns2:description>右大弁に転任。造東大寺長官と左宮城使は元の如し。</ns2:description>
+        <ns1:start>1238-07-20</ns1:start>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/右大弁.json"/>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/太政官.json"/>
       </rdf:Description>
-    </ns2:官位>
-    <ns2:官位>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_038">
+        <ns2:description>権中納言に任ぜられる。</ns2:description>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/太政官.json"/>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/権中納言.json"/>
+        <ns1:end>1248-10-29</ns1:end>
+        <ns1:start>1247-12-08</ns1:start>
+      </rdf:Description>
+    </ns3:官位>
+    <ns1:主君 rdf:resource="https://nakamura196.github.io/hi_person/entity/emperor/仲恭天皇.json"/>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_017">
+        <ns2:description>右衛門権佐を兼ねる。蔵人と右少弁は元の如し。</ns2:description>
+        <ns1:start>1233-12-15</ns1:start>
+        <ns1:end>1234-04-02</ns1:end>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/右衛門権佐.json"/>
+      </rdf:Description>
+    </ns3:官位>
+    <ns1:start>1212</ns1:start>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_027">
+        <ns1:start>1238-04-29</ns1:start>
+        <ns2:relatedLink rdf:resource="https://kotobank.jp/word/勾当-62843"/>
+        <ns2:description>卒分等勾当となす。</ns2:description>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_011">
+        <ns1:start>1227-04-20</ns1:start>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/官位.json"/>
+        <ns2:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/従五位"/>
+        <ns2:description>従五位上に昇叙。</ns2:description>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_016">
+        <ns1:end>1234-04-02</ns1:end>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/太政官.json"/>
+        <ns2:description>右少弁に任ぜられる。治部少輔を止め、蔵人は元の如し。</ns2:description>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/右少弁.json"/>
+        <ns1:start>1233-01-28</ns1:start>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_004">
+        <ns1:start>1222-01-06</ns1:start>
+        <ns2:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/文章得業生"/>
+        <ns2:description>文章得業生となる。</ns2:description>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_015">
+        <ns2:description>蔵人に補される。</ns2:description>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/蔵人所.json"/>
+        <ns1:end>1234-04-02</ns1:end>
+        <ns1:start>1232-10-04</ns1:start>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/蔵人.json"/>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_019">
+        <ns2:description>父・頼資が薨去し喪に服す。</ns2:description>
+        <ns1:start>1236-02-30</ns1:start>
+        <ns2:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/広橋頼資"/>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_034">
+        <ns2:description>勘解由長官を兼ねる。</ns2:description>
+        <ns1:start>1241-02-08</ns1:start>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/勘解由長官.json"/>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_006">
+        <ns1:start>1222-02-07</ns1:start>
+        <ns2:description>献策。式部大輔忠倫が問を行った。</ns2:description>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_007">
+        <ns2:description>判がある。</ns2:description>
+        <ns1:start>1222-02-09</ns1:start>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_037">
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/官位.json"/>
+        <ns2:description>正三位に昇叙。</ns2:description>
+        <ns1:start>1244-01-05</ns1:start>
+        <ns2:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/正三位"/>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_031">
+        <ns1:start>1239-01-27</ns1:start>
+        <ns2:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/正四位"/>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/官位.json"/>
+        <ns2:description>正四位下に昇叙。</ns2:description>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_023">
+        <ns1:start>1238-02-27</ns1:start>
+        <ns2:description>右中弁に転任</ns2:description>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/右中弁.json"/>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/太政官.json"/>
+      </rdf:Description>
+    </ns3:官位>
+    <ns1:主君 rdf:resource="https://nakamura196.github.io/hi_person/entity/emperor/順徳天皇.json"/>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_025">
+        <ns2:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/造寺司"/>
+        <ns1:start>1238-04-06</ns1:start>
+        <ns2:relatedLink rdf:resource="https://kotobank.jp/word/造東大寺司-848024"/>
+        <ns2:description>造東大寺長官に補される。</ns2:description>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_014">
+        <ns1:start>1230-10-28</ns1:start>
+        <ns2:relatedLink>weblio:春宮権大進</ns2:relatedLink>
+        <ns2:description>春宮権大進を兼ねる。</ns2:description>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_033">
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/参議.json"/>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/左大弁.json"/>
+        <ns2:description>参議に任ぜられ、同日中に左大弁に転任。</ns2:description>
+        <ns1:start>1241-02-01</ns1:start>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/太政官.json"/>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_039">
+        <ns2:description>権中納言を辞し従二位に昇叙。</ns2:description>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/官位.json"/>
+        <ns2:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/従二位"/>
+        <ns1:start>1248-10-29</ns1:start>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_013">
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/官位.json"/>
+        <ns2:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/従五位"/>
+        <ns2:description>正五位下に昇叙。</ns2:description>
+        <ns1:start>1229-10-05</ns1:start>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_032">
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/蔵人所.json"/>
+        <ns2:description>蔵人頭に補される。</ns2:description>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/蔵人頭.json"/>
+        <ns1:start>1239-11-06</ns1:start>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_040">
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/官位.json"/>
+        <ns1:start>1255-01-05</ns1:start>
+        <ns2:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/正二位"/>
+        <ns2:description>正二位に昇叙。</ns2:description>
+      </rdf:Description>
+    </ns3:官位>
+    <ns1:end>1274-05-22</ns1:end>
+    <ns3:子 rdf:resource="https://nakamura196.github.io/hi_person/entity/chname/広橋兼頼.json"/>
+    <ns3:官位>
       <rdf:Description rdf:about="_:藤原経光_官位_001">
-        <ns3:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/蔵人.json"/>
-        <ns3:start>1218-11-16</ns3:start>
-        <ns1:description>春宮蔵人</ns1:description>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/蔵人所.json"/>
+        <ns2:description>春宮蔵人に補される。</ns2:description>
+        <ns1:start>1218-11-16</ns1:start>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/蔵人.json"/>
       </rdf:Description>
-    </ns2:官位>
-    <ns3:主君 rdf:resource="https://nakamura196.github.io/hi_person/entity/emperor/仲恭天皇.json"/>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_003">
+        <ns1:end>1221-07-09</ns1:end>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/蔵人.json"/>
+        <ns2:description>蔵人に補される。同年7月9日、蔵人を止められる。</ns2:description>
+        <ns1:start>1221-04-20</ns1:start>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/蔵人所.json"/>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_008">
+        <ns1:start>1222-03-01</ns1:start>
+        <ns2:description>叙爵される。</ns2:description>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_026">
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/太政官.json"/>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/左中弁.json"/>
+        <ns2:description>左中弁に転任。</ns2:description>
+        <ns1:start>1238-04-20</ns1:start>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_024">
+        <ns2:description>従四位上に昇叙。</ns2:description>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/官位.json"/>
+        <ns1:start>1238-03-29</ns1:start>
+        <ns2:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/従四位"/>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:兄弟 rdf:resource="https://nakamura196.github.io/hi_person/entity/chname/藤原信光.json"/>
+    <ns3:兄弟 rdf:resource="https://nakamura196.github.io/hi_person/entity/chname/藤原経朝.json"/>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_020">
+        <ns1:start>1236-05-06</ns1:start>
+        <ns2:description>復任</ns2:description>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_010">
+        <ns2:description>昇殿を許される。</ns2:description>
+        <ns1:start>1226-07-07</ns1:start>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:子 rdf:resource="https://nakamura196.github.io/hi_person/entity/chname/藤原兼仲.json"/>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_002">
+        <ns2:relatedLink rdf:resource="https://kotobank.jp/word/穀倉院-499578"/>
+        <ns2:description>穀倉院学問料</ns2:description>
+        <ns2:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/学問料"/>
+        <ns1:start>1221-01-19</ns1:start>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_009">
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/治部少輔.json"/>
+        <ns1:start>1222-04-07</ns1:start>
+        <ns2:description>治部少輔に任ぜられる。</ns2:description>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_028">
+        <ns1:start>1238-05-23</ns1:start>
+        <ns2:description>左宮城使となす。</ns2:description>
+        <ns2:relatedLink rdf:resource="https://kotobank.jp/word/修理宮城使-78356"/>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_005">
+        <ns1:start>1222-01-27</ns1:start>
+        <ns2:description>因幡少掾を兼ねる。</ns2:description>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_018">
+        <ns1:start>1234-04-02</ns1:start>
+        <ns2:description>三職（蔵人、右少弁、右衛門権佐）を辞した。</ns2:description>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_012">
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/蔵人所.json"/>
+        <ns1:start>1227-09-16</ns1:start>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/蔵人.json"/>
+        <ns2:description>蔵人に補される。</ns2:description>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_035">
+        <ns2:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/従三位"/>
+        <ns2:description>従三位に叙される。</ns2:description>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/官位.json"/>
+        <ns1:start>1241-10-13</ns1:start>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_030">
+        <ns2:description>阿波権守を兼ねる。</ns2:description>
+        <ns1:start>1239-01-24</ns1:start>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_041">
+        <ns2:description>民部卿に任ぜられる。</ns2:description>
+        <ns1:start>1260-09-08</ns1:start>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/民部卿.json"/>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_021">
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/太政官.json"/>
+        <ns2:description>左少弁に任ぜられる。</ns2:description>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/左少弁.json"/>
+        <ns1:start>1236-12-19</ns1:start>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_022">
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/左少弁.json"/>
+        <ns2:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/従四位"/>
+        <ns2:description>権右中弁に転任し従四位下に昇叙。</ns2:description>
+        <ns2:relatedLink>weblio:権右中弁</ns2:relatedLink>
+        <ns1:start>1237-01-24</ns1:start>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/官位.json"/>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_036">
+        <ns1:start>1243-02-02</ns1:start>
+        <ns2:description>讃岐権守を兼ねる。</ns2:description>
+        <ns2:relatedLink>weblio:讃岐権守</ns2:relatedLink>
+      </rdf:Description>
+    </ns3:官位>
+    <ns3:官位>
+      <rdf:Description rdf:about="_:藤原経光_官位_042">
+        <ns2:description>正二位民部卿に在任のまま薨去。</ns2:description>
+        <ns1:start>1274-04-15</ns1:start>
+        <ns2:relatedLink rdf:resource="https://ja.wikipedia.org/wiki/正二位"/>
+        <ns1:relationType rdf:resource="https://nakamura196.github.io/hi_person/term/role/官位.json"/>
+        <ns1:value rdf:resource="https://nakamura196.github.io/hi_person/term/kani/民部卿.json"/>
+      </rdf:Description>
+    </ns3:官位>
   </rdf:Description>
 </rdf:RDF>

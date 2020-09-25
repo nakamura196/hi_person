@@ -76,7 +76,8 @@ def bbb(value):
         "emperor" : "https://nakamura196.github.io/hi_person/entity/emperor/",
         "wiki": "https://ja.wikipedia.org/wiki/",
         "kani" : "https://nakamura196.github.io/hi_person/term/kani/",
-        "person" : "https://nakamura196.github.io/hi_person/entity/chname/"
+        "person" : "https://nakamura196.github.io/hi_person/entity/chname/",
+        "role" : "https://nakamura196.github.io/hi_person/term/role/"
     }
 
     for key in map:
@@ -84,7 +85,7 @@ def bbb(value):
             flg = True
             value = value.replace(key+":", map[key])
 
-            if key in ["emperor", "kani", "person"]:
+            if key in ["emperor", "kani", "person", "role"]:
                 value += ".json"
 
 
@@ -98,7 +99,9 @@ def bbb(value):
 
 for sheetname in sheets:
 
-    result = read_data(spreadsheet_id, sheetname + "!A1:D200", service)
+    flg = False
+
+    result = read_data(spreadsheet_id, sheetname + "!A1:D1000", service)
 
     values = result["values"]
 
@@ -113,6 +116,13 @@ for sheetname in sheets:
 
 
         v = row[0]
+
+        if v == "":
+            continue
+
+        if v == "prop-ja:官位":
+            flg = True
+
         v = bbb(v)
         o = row[1]
         
@@ -120,37 +130,30 @@ for sheetname in sheets:
         v2 = None
         o2 = None
 
-        
-
-        if len(row) > 2:
-
-            if o not in map:
-                map[o] = []
-
-            v2 = row[2]
-            # print(v2)
-
-            v2 = bbb(v2)
-
-            # print("****", v2)
-
-            o2 = row[3]
-            o2 = bbb(o2)
-
-            # b = BNode()
-            # all.add((subject, v, b))
-            # all.add((b, v2, o2))
-
-            # print(v, o, v2, o2)
-
-            map[o].append({
-                "v" : v2,
-                "o" : o2
-            })
-
-        else:
+        if not flg:
             o = bbb(o)
             all.add((subject, v, o))
+
+        else:
+            o = values[i][1]
+
+            map[o] = []
+
+            for j in range(0, 6):
+                row1 = values[i+j]
+
+                if len(row1) < 4:
+                    continue
+
+                p = row1[2]
+
+                values1 = row1[3].split("|")
+
+                for value1 in values1:
+                    map[o].append({
+                        "v" : bbb(p),
+                        "o" : bbb(value1)
+                    })
 
     for key in map:
         b = BNode()

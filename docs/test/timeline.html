@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    -->
+    <title>Hello, world!</title>
+
+    <!-- 1 -->
+    <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+
+    <!-- 2 -->
+    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+
+    
+  </head>
+  <body>
+
+  
+      <div id='timeline-embed' style="width: 100%; height: 600px"></div>
+  
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    -->
+    <script type="text/javascript">
+
+    /**
+    * Get the URL parameter value
+    *
+    * @param  name {string} パラメータのキー文字列
+    * @return  url {url} 対象のURL文字列（任意）
+    */
+    function getParam(name, url) {
+        if (!url) url = window.location.href;
+        name = name.replace(/[\[\]]/g, "\\$&");
+        var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, " "));
+    }
+
+      const u = getParam("u")
+
+      let query = `
+          DESCRIBE <`+u+`>
+        `
+
+        const title = ""
+
+        $.getJSON("https://dydra.com/ut-digital-archives/hi_person/sparql?query="+encodeURIComponent(query), function(main){
+
+          const map = {}
+
+          for(let i = 0; i < main.length; i++){
+            const obj = main[i]
+            const p = obj.p
+            const o = obj.o
+            if(!map[p]){
+              map[p] = []
+            }
+            map[p].push(o)
+          }
+
+          const startYear = map["https://jpsearch.go.jp/term/property#start"][0].split("-")[0]
+          //this.startYear = startYear
+
+          query = `
+            prefix prop-ja: <http://ja.dbpedia.org/property/>
+            prefix schema: <http://schema.org/>
+            prefix jps: <https://jpsearch.go.jp/term/property#>
+            SELECT ?start ?description ?value ?end ?type WHERE {
+              graph ?g { 
+                <`+u+`> prop-ja:官位 ?o . 
+                ?o schema:description ?description;
+                  jps:start ?start . 
+                optional { ?o jps:end ?end . }
+                optional { ?o jps:value ?value . }
+                optional { ?o jps:relationType ?type . }
+              } 
+            } order by ?start
+          `
+
+          const url = "https://dydra.com/ut-digital-archives/hi_person/sparql?query="+encodeURIComponent(query)
+          
+          $.getJSON(url, function(results){
+
+            const events = [
+              /*
+              {
+                "media": {
+                  "url": "{{ static_url }}/img/examples/houston/family.jpg",
+                  "caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.",
+                  "credit": "bbb"
+                },
+                "start_date": {
+                  "month": "8",
+                  "day": "9",
+                  "year": "1963"
+                },
+                "text": {
+                  "headline": "A Musical Heritage",
+                  "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+                }
+              }
+              */
+            ]
+
+            for(let i = 0; i < results.length; i++){
+              const obj = results[i]
+
+              const starts = obj.start.split("-")
+
+              let group = ""
+
+              if(obj["type"]){
+                group = obj["type"].split("/role/")[1].replace(".json", "")
+              }
+
+              const event = {
+                "start_date" : {
+                  "month": starts[1],
+                  "day": starts[2],
+                  "year": starts[0]
+                },
+                "text": {
+                  "text" : obj["description"]
+                },
+                "group" : group
+              }
+              events.push(event)
+            }
+
+            var timeline_json = {
+              "title": {
+                  /*
+                  "media": {
+                    "url": "//www.flickr.com/photos/tm_10001/2310475988/",
+                    "caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
+                    "credit": "aaaa"
+                  },
+                  */
+                  "text": {
+                    "headline": map["http://www.w3.org/2000/01/rdf-schema#label"][0],
+                    "text": "<p>"+map["http://schema.org/description"][0]+"</p>"
+                  }
+              },
+              "events": events
+            }
+
+            var additionalOptions = {
+              timenav_height_percentage: 60,
+              language : "ja"
+            }
+
+            window.timeline = new TL.Timeline('timeline-embed',timeline_json, additionalOptions);
+          
+          });
+
+        });
+      </script>
+  
+  </body>
+</html>

@@ -21,6 +21,7 @@ var D2R_namespacePrefixes = {
     genji: "https://w3id.org/kouigenjimonogatari/api/property/",
     "prop-ja": "http://ja.dbpedia.org/property/",
     "emperor": "https://nakamura196.github.io/hi_person/entity/emperor/",
-    "kani": "https://nakamura196.github.io/hi_person/term/kani/"
+    "kani": "https://nakamura196.github.io/hi_person/term/kani/",
+    "role": "https://nakamura196.github.io/hi_person/term/role/"
 };
 

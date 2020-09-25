@@ -199,6 +199,6 @@ Snorqldef.example = [
 		"label": "藤原経光の経歴",
 		"label_en" : "藤原経光の経歴",
 		"ns" : [ ],
-		"query" : "SELECT ?start ?description ?value WHERE {\n  graph ?g { \n    chname:藤原経光.json prop-ja:官位 ?o . \n    ?o schema:description ?description;\n       jps:start ?start . \n    optional { ?o jps:value ?value }\n  } \n} order by ?start"
+		"query" : "SELECT ?start ?end ?description ?value ?type WHERE {\n  graph ?g { \n    chname:藤原経光.json prop-ja:官位 ?o . \n    ?o schema:description ?description;\n       jps:start ?start . \n    optional { ?o jps:end ?end }\n    optional { ?o jps:relationType ?type }\n    optional { ?o jps:value ?value }\n  } \n} order by ?start"
 	},
 ];
