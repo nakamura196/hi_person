@@ -1,0 +1,1043 @@
+[
+  {
+    "@id": "_:藤原経光_官位_026",
+    "http://schema.org/description": [
+      {
+        "@value": "左中弁に転任。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/太政官.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1238-04-20"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/左中弁.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_038",
+    "http://schema.org/description": [
+      {
+        "@value": "権中納言に任ぜられる。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1248-10-29"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/太政官.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1247-12-08"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/権中納言.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_039",
+    "http://schema.org/description": [
+      {
+        "@value": "権中納言を辞し従二位に昇叙。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://ja.wikipedia.org/wiki/従二位"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/官位.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1248-10-29"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_027",
+    "http://schema.org/description": [
+      {
+        "@value": "卒分等勾当となす。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://kotobank.jp/word/勾当-62843"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1238-04-29"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_011",
+    "http://schema.org/description": [
+      {
+        "@value": "従五位上に昇叙。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://ja.wikipedia.org/wiki/従五位"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/官位.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1227-04-20"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_010",
+    "http://schema.org/description": [
+      {
+        "@value": "昇殿を許される。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1226-07-07"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_023",
+    "http://schema.org/description": [
+      {
+        "@value": "右中弁に転任"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/太政官.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1238-02-27"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/右中弁.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_021",
+    "http://schema.org/description": [
+      {
+        "@value": "左少弁に任ぜられる。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/太政官.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1236-12-19"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/左少弁.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_016",
+    "http://schema.org/description": [
+      {
+        "@value": "右少弁に任ぜられる。治部少輔を止め、蔵人は元の如し。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1234-04-02"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/太政官.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1233-01-28"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/右少弁.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_037",
+    "http://schema.org/description": [
+      {
+        "@value": "正三位に昇叙。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://ja.wikipedia.org/wiki/正三位"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/官位.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1244-01-05"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_033",
+    "http://schema.org/description": [
+      {
+        "@value": "参議に任ぜられ、同日中に左大弁に転任。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/太政官.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1241-02-01"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/参議.json"
+      },
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/左大弁.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_029",
+    "http://schema.org/description": [
+      {
+        "@value": "右大弁に転任。造東大寺長官と左宮城使は元の如し。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/太政官.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1238-07-20"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/右大弁.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_031",
+    "http://schema.org/description": [
+      {
+        "@value": "正四位下に昇叙。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://ja.wikipedia.org/wiki/正四位"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/官位.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1239-01-27"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_007",
+    "http://schema.org/description": [
+      {
+        "@value": "判がある。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1222-02-09"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_019",
+    "http://schema.org/description": [
+      {
+        "@value": "父・頼資が薨去し喪に服す。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://ja.wikipedia.org/wiki/広橋頼資"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1236-02-30"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_030",
+    "http://schema.org/description": [
+      {
+        "@value": "阿波権守を兼ねる。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1239-01-24"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_036",
+    "http://schema.org/description": [
+      {
+        "@value": "讃岐権守を兼ねる。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@value": "weblio:讃岐権守"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1243-02-02"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_002",
+    "http://schema.org/description": [
+      {
+        "@value": "穀倉院学問料"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://kotobank.jp/word/穀倉院-499578"
+      },
+      {
+        "@id": "https://ja.wikipedia.org/wiki/学問料"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1221-01-19"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_006",
+    "http://schema.org/description": [
+      {
+        "@value": "献策。式部大輔忠倫が問を行った。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1222-02-07"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_001",
+    "http://schema.org/description": [
+      {
+        "@value": "春宮蔵人に補される。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/蔵人所.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1218-11-16"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/蔵人.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_028",
+    "http://schema.org/description": [
+      {
+        "@value": "左宮城使となす。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://kotobank.jp/word/修理宮城使-78356"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1238-05-23"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_025",
+    "http://schema.org/description": [
+      {
+        "@value": "造東大寺長官に補される。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://ja.wikipedia.org/wiki/造寺司"
+      },
+      {
+        "@id": "https://kotobank.jp/word/造東大寺司-848024"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1238-04-06"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_003",
+    "http://schema.org/description": [
+      {
+        "@value": "蔵人に補される。同年7月9日、蔵人を止められる。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1221-07-09"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/蔵人所.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1221-04-20"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/蔵人.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_008",
+    "http://schema.org/description": [
+      {
+        "@value": "叙爵される。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1222-03-01"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_022",
+    "http://schema.org/description": [
+      {
+        "@value": "権右中弁に転任し従四位下に昇叙。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@value": "weblio:権右中弁"
+      },
+      {
+        "@id": "https://ja.wikipedia.org/wiki/従四位"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/官位.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1237-01-24"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/左少弁.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_015",
+    "http://schema.org/description": [
+      {
+        "@value": "蔵人に補される。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1234-04-02"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/蔵人所.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1232-10-04"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/蔵人.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_012",
+    "http://schema.org/description": [
+      {
+        "@value": "蔵人に補される。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/蔵人所.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1227-09-16"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/蔵人.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原経光.json",
+    "http://ja.dbpedia.org/property/兄弟": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原信光.json"
+      },
+      {
+        "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原経朝.json"
+      }
+    ],
+    "http://ja.dbpedia.org/property/子": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/entity/chname/広橋兼頼.json"
+      },
+      {
+        "@id": "https://nakamura196.github.io/hi_person/entity/chname/藤原兼仲.json"
+      }
+    ],
+    "http://ja.dbpedia.org/property/官位": [
+      {
+        "@id": "_:藤原経光_官位_024"
+      },
+      {
+        "@id": "_:藤原経光_官位_031"
+      },
+      {
+        "@id": "_:藤原経光_官位_015"
+      },
+      {
+        "@id": "_:藤原経光_官位_041"
+      },
+      {
+        "@id": "_:藤原経光_官位_001"
+      },
+      {
+        "@id": "_:藤原経光_官位_012"
+      },
+      {
+        "@id": "_:藤原経光_官位_029"
+      },
+      {
+        "@id": "_:藤原経光_官位_016"
+      },
+      {
+        "@id": "_:藤原経光_官位_013"
+      },
+      {
+        "@id": "_:藤原経光_官位_023"
+      },
+      {
+        "@id": "_:藤原経光_官位_036"
+      },
+      {
+        "@id": "_:藤原経光_官位_006"
+      },
+      {
+        "@id": "_:藤原経光_官位_034"
+      },
+      {
+        "@id": "_:藤原経光_官位_010"
+      },
+      {
+        "@id": "_:藤原経光_官位_035"
+      },
+      {
+        "@id": "_:藤原経光_官位_017"
+      },
+      {
+        "@id": "_:藤原経光_官位_025"
+      },
+      {
+        "@id": "_:藤原経光_官位_042"
+      },
+      {
+        "@id": "_:藤原経光_官位_018"
+      },
+      {
+        "@id": "_:藤原経光_官位_021"
+      },
+      {
+        "@id": "_:藤原経光_官位_033"
+      },
+      {
+        "@id": "_:藤原経光_官位_003"
+      },
+      {
+        "@id": "_:藤原経光_官位_022"
+      },
+      {
+        "@id": "_:藤原経光_官位_026"
+      },
+      {
+        "@id": "_:藤原経光_官位_019"
+      },
+      {
+        "@id": "_:藤原経光_官位_040"
+      },
+      {
+        "@id": "_:藤原経光_官位_005"
+      },
+      {
+        "@id": "_:藤原経光_官位_004"
+      },
+      {
+        "@id": "_:藤原経光_官位_020"
+      },
+      {
+        "@id": "_:藤原経光_官位_011"
+      },
+      {
+        "@id": "_:藤原経光_官位_032"
+      },
+      {
+        "@id": "_:藤原経光_官位_038"
+      },
+      {
+        "@id": "_:藤原経光_官位_002"
+      },
+      {
+        "@id": "_:藤原経光_官位_030"
+      },
+      {
+        "@id": "_:藤原経光_官位_027"
+      },
+      {
+        "@id": "_:藤原経光_官位_007"
+      },
+      {
+        "@id": "_:藤原経光_官位_039"
+      },
+      {
+        "@id": "_:藤原経光_官位_009"
+      },
+      {
+        "@id": "_:藤原経光_官位_028"
+      },
+      {
+        "@id": "_:藤原経光_官位_037"
+      },
+      {
+        "@id": "_:藤原経光_官位_014"
+      },
+      {
+        "@id": "_:藤原経光_官位_008"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1274-05-22"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1212"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#主君": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/entity/emperor/後鳥羽天皇.json"
+      },
+      {
+        "@id": "https://nakamura196.github.io/hi_person/entity/emperor/仲恭天皇.json"
+      },
+      {
+        "@id": "https://nakamura196.github.io/hi_person/entity/emperor/順徳天皇.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_041",
+    "http://schema.org/description": [
+      {
+        "@value": "民部卿に任ぜられる。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1260-09-08"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/民部卿.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_018",
+    "http://schema.org/description": [
+      {
+        "@value": "三職（蔵人、右少弁、右衛門権佐）を辞した。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1234-04-02"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_004",
+    "http://schema.org/description": [
+      {
+        "@value": "文章得業生となる。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://ja.wikipedia.org/wiki/文章得業生"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1222-01-06"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_009",
+    "http://schema.org/description": [
+      {
+        "@value": "治部少輔に任ぜられる。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1222-04-07"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/治部少輔.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_042",
+    "http://schema.org/description": [
+      {
+        "@value": "正二位民部卿に在任のまま薨去。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://ja.wikipedia.org/wiki/正二位"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/官位.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1274-04-15"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/民部卿.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_017",
+    "http://schema.org/description": [
+      {
+        "@value": "右衛門権佐を兼ねる。蔵人と右少弁は元の如し。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#end": [
+      {
+        "@value": "1234-04-02"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1233-12-15"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/右衛門権佐.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_005",
+    "http://schema.org/description": [
+      {
+        "@value": "因幡少掾を兼ねる。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1222-01-27"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_024",
+    "http://schema.org/description": [
+      {
+        "@value": "従四位上に昇叙。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://ja.wikipedia.org/wiki/従四位"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/官位.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1238-03-29"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_020",
+    "http://schema.org/description": [
+      {
+        "@value": "復任"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1236-05-06"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_034",
+    "http://schema.org/description": [
+      {
+        "@value": "勘解由長官を兼ねる。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1241-02-08"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/勘解由長官.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_032",
+    "http://schema.org/description": [
+      {
+        "@value": "蔵人頭に補される。"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/蔵人所.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1239-11-06"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#value": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/kani/蔵人頭.json"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_014",
+    "http://schema.org/description": [
+      {
+        "@value": "春宮権大進を兼ねる。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@value": "weblio:春宮権大進"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1230-10-28"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_013",
+    "http://schema.org/description": [
+      {
+        "@value": "正五位下に昇叙。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://ja.wikipedia.org/wiki/従五位"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/官位.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1229-10-05"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_035",
+    "http://schema.org/description": [
+      {
+        "@value": "従三位に叙される。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://ja.wikipedia.org/wiki/従三位"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/官位.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1241-10-13"
+      }
+    ]
+  },
+  {
+    "@id": "_:藤原経光_官位_040",
+    "http://schema.org/description": [
+      {
+        "@value": "正二位に昇叙。"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://ja.wikipedia.org/wiki/正二位"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#relationType": [
+      {
+        "@id": "https://nakamura196.github.io/hi_person/term/role/官位.json"
+      }
+    ],
+    "https://jpsearch.go.jp/term/property#start": [
+      {
+        "@value": "1255-01-05"
+      }
+    ]
+  }
+]

@@ -99,6 +99,8 @@ def bbb(value):
 
 for sheetname in sheets:
 
+    g = Graph()
+
     flg = False
 
     result = read_data(spreadsheet_id, sheetname + "!A1:D1000", service)
@@ -133,6 +135,7 @@ for sheetname in sheets:
         if not flg:
             o = bbb(o)
             all.add((subject, v, o))
+            g.add((subject, v, o))
 
         else:
             o = values[i][1]
@@ -162,11 +165,20 @@ for sheetname in sheets:
         # b = URIRef(bbb(subject_str+"#"+str(key).zfill(2)))
         b = URIRef(bbb("_:"+sheetname+"_官位_"+str(key).zfill(3)))
         all.add((subject, v, b))
+        g.add((subject, v, b))
 
         for obj in map[key]:
             all.add((b, obj["v"], obj["o"]))
+            g.add((b, obj["v"], obj["o"]))
 
-    # print(result)
+    path = subject_str.replace("https://nakamura196.github.io/hi_person", "../../docs2")
+    print(path)
+
+    dirname = os.path.dirname(path)
+
+    os.makedirs(dirname, exist_ok=True)
+
+    g.serialize(destination=path, format='json-ld')
 
 # print(all)
 all.serialize(destination="data/person.rdf", format='pretty-xml')
