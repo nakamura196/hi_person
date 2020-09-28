@@ -1,0 +1,201 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "正六位（しょうろくい）とは、日本の位階及び神階における位のひとつ。従五位の下、従六位の上に位する。勲等では勲五等に、功級では功五級に相当。律令制下において六位は下国の国司及び国府の次官である介が叙せられる位であった。地下人の位階とされ、五位以上の貴族（通貴）とは一線を画する位階であり昇殿は許されなかった。但し、蔵人の場合、その職務上、六位であっても昇殿が許され、五位以上の者と六位蔵人の者を合わせて殿上人と称した。神階においては、正六位が最下位となる。明治時代以降は、少佐の階級にある者などがこの位に叙せられた。また、今日では警察官では警視正、消防吏員では消防監などがこの位に叙せられる他、市町村議会議長にあった者、特別施設や学校創立者その他、業種等で功労ある者などが没後に叙せられる。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://law.e-gov.go.jp/htmldata/T15/T15CO325.html"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 434484
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "623"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "24"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 56625176
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/金鵄勲章"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/殿上人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/市町村議会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/地下人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昇殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:位階制度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の警察官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/消防監"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/議長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少佐"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六位蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/消防吏員"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勲等"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/警視正"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Ja_icon"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:出典の明記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:日本の位階"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:位階制度"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "正六位（しょうろくい）とは、日本の位階及び神階における位のひとつ。従五位の下、従六位の上に位する。勲等では勲五等に、功級では功五級に相当。律令制下において六位は下国の国司及び国府の次官である介が叙せられる位であった。地下人の位階とされ、五位以上の貴族（通貴）とは一線を画する位階であり昇殿は許されなかった。但し、蔵人の場合、その職務上、六位であっても昇殿が許され、五位以上の者と六位蔵人の者を合わせて殿上人と称した。神階においては、正六位が最下位となる。明治時代以降は、少佐の階級にある者などがこの位に叙せられた。また、今日では警察官では警視正、消防吏員では消防監などがこの位に叙せられる他、市町村議会議長にあった者、特別施設や学校創立者その他、業種等で功労ある者などが没後に叙せられる。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "正六位"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/正六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11545372"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11545372"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/正六位?oldid=56625176"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/正六位"
+        }
+    ]
+}

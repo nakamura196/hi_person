@@ -1,0 +1,573 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "蔵人（くろうど、藏人）は日本の律令制下の令外官の一つ。天皇の秘書的役割を果たした。唐名は侍中（じちゅう）、夕郎（せきろう）、夕拝郎（せきはいろう）。蔵人所は事務を行う場所のことで、内裏校書殿の北部に置かれた。また、蔵人は百官名或いは人名の一つで、この場合は「くらんど」と読む。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://edb.kulib.kyoto-u.ac.jp/exhibit/h022/h022cont.html"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 355175
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "3416"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "133"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 56694202
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1991年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/百官名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原薬子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/人名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/押小路家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和田英松"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/雑色"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/滝口武者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/式部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/進物所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後宮十二司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弁官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中原俊章"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/巡爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内裏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一本御書所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秘書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/809年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清涼殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清原夏野"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六位蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/巨勢野足"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/頭弁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内侍司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/給仕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人所斤"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筧敏生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/書籍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出納"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原仲成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/訴訟"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/楽所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太上天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/画所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内豎所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内侍宣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官務"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人別当"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検非違使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昇殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/譲位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍中群要"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/作物所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/局務"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/頭中将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/地下家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/810年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/壬生家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上奏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嵯峨天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹狩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍中"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/史_(律令制)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大歌所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/受領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/殿上人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/家政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平田家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:令外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河村政久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原冬嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薬子の変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衛門府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原師実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/事務"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平城京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内御書所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平城天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/膳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/電子図書館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/廣庭基介"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇室"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/議政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大同_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/所功"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/詔勅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅旨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/警護"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/校書殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/渡辺直彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/納殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御書所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/亀田隆之"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三事兼帯"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尚侍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/主鷹司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/五位蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞観殿"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Otheruses"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:令外官"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "蔵人（くろうど、藏人）は日本の律令制下の令外官の一つ。天皇の秘書的役割を果たした。唐名は侍中（じちゅう）、夕郎（せきろう）、夕拝郎（せきはいろう）。蔵人所は事務を行う場所のことで、内裏校書殿の北部に置かれた。また、蔵人は百官名或いは人名の一つで、この場合は「くらんど」と読む。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "蔵人"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Kurōdo-dokoro"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Kurōdodokoro"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q6447696"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Kurōdo-dokoro"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/藏人_(官職)"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q6447696"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/蔵人?oldid=56694202"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/蔵人"
+        }
+    ]
+}

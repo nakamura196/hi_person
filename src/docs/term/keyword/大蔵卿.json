@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/keyword/大蔵卿.json",
+    "http://schema.org/description": [
+      {
+        "@value": "日本の大蔵大臣・財務大臣一覧では、近代日本の財務責任を負った歴代の人物をあげる。"
+      },
+      {
+        "@value": "イギリスの財務府高官。起源は中世にあるが，近代国家の公職としては，16世紀後半に大蔵省 Treasuryが財政官庁 Exchequerから分離したあとに発達。それを受けて 1714年以降常に複数の大蔵委員が任じられることになり，その首席，大蔵総裁 First Lord of the Treasuryは首相となっていった。財政担当大臣の職は財務府長官 Chancellor of the Exchequerがつとめたが，19世紀前半まで首相が下院議員のときはこれを兼任した。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Rubin_Miyazawa_19990426.jpg?width=300"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/日本の大蔵大臣・財務大臣一覧"
+      },
+      {
+        "@id": "https://kotobank.jp/word/大蔵卿"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大蔵卿"
+      }
+    ]
+  }
+]

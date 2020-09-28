@@ -2,127 +2,127 @@
 <rdf:RDF
   xmlns:ns1="http://schema.org/"
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:ns2="https://nakamura196.github.io/hi_person/term/type/"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:ns2="https://nakamura196.github.io/hi_person/term/type/"
 >
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/従五位上.json">
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:position>
-    <rdfs:label>従五位上</rdfs:label>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正五位上.json">
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:position>
+    <rdfs:label>正五位上</rdfs:label>
   </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/従四位上.json">
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:position>
-    <rdfs:label>従四位上</rdfs:label>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/従五位下.json">
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json">
     <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:position>
     <rdfs:label>従五位下</rdfs:label>
   </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/正三位.json">
-    <rdfs:label>正三位</rdfs:label>
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:position>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/従六位下.json">
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:position>
-    <rdfs:label>従六位下</rdfs:label>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/正七位上.json">
-    <rdfs:label>正七位上</rdfs:label>
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:position>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/大初位下.json">
-    <rdfs:label>大初位下</rdfs:label>
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns1:position>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/正八位下.json">
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns1:position>
-    <rdfs:label>正八位下</rdfs:label>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/正一位.json">
-    <rdfs:label>正一位</rdfs:label>
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:position>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/正五位下.json">
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:position>
-    <rdfs:label>正五位下</rdfs:label>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/正六位下.json">
-    <rdfs:label>正六位下</rdfs:label>
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:position>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/従七位下.json">
-    <rdfs:label>従七位下</rdfs:label>
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns1:position>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/正八位上.json">
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns1:position>
-    <rdfs:label>正八位上</rdfs:label>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/従八位上.json">
-    <rdfs:label>従八位上</rdfs:label>
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ns1:position>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/正二位.json">
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:position>
-    <rdfs:label>正二位</rdfs:label>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/少初位下.json">
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns1:position>
-    <rdfs:label>少初位下</rdfs:label>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/大初位上.json">
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大初位上.json">
     <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns1:position>
     <rdfs:label>大初位上</rdfs:label>
   </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/従三位.json">
-    <rdfs:label>従三位</rdfs:label>
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:position>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json">
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:position>
+    <rdfs:label>正七位上</rdfs:label>
   </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/正四位上.json">
-    <rdfs:label>正四位上</rdfs:label>
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:position>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json">
+    <rdfs:label>正五位下</rdfs:label>
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:position>
   </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/正四位下.json">
-    <rdfs:label>正四位下</rdfs:label>
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:position>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json">
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:position>
+    <rdfs:label>従五位上</rdfs:label>
   </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/従二位.json">
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json">
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:position>
+    <rdfs:label>正六位上</rdfs:label>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/従四位上.json">
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:position>
+    <rdfs:label>従四位上</rdfs:label>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/従二位.json">
     <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:position>
     <rdfs:label>従二位</rdfs:label>
   </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/従四位下.json">
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:position>
-    <rdfs:label>従四位下</rdfs:label>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json">
+    <rdfs:label>従七位上</rdfs:label>
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns1:position>
   </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/正七位下.json">
-    <rdfs:label>正七位下</rdfs:label>
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:position>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/正五位上.json">
-    <rdfs:label>正五位上</rdfs:label>
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:position>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/従八位下.json">
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ns1:position>
-    <rdfs:label>従八位下</rdfs:label>
-  </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/従六位上.json">
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json">
     <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:position>
     <rdfs:label>従六位上</rdfs:label>
   </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/従一位.json">
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:position>
-    <rdfs:label>従一位</rdfs:label>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/従三位.json">
+    <rdfs:label>従三位</rdfs:label>
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:position>
   </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/正六位上.json">
-    <rdfs:label>正六位上</rdfs:label>
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:position>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正七位下.json">
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:position>
+    <rdfs:label>正七位下</rdfs:label>
   </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/少初位上.json">
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正三位.json">
+    <rdfs:label>正三位</rdfs:label>
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:position>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/従七位下.json">
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns1:position>
+    <rdfs:label>従七位下</rdfs:label>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json">
+    <rdfs:label>正六位下</rdfs:label>
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:position>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/少初位下.json">
+    <rdfs:label>少初位下</rdfs:label>
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns1:position>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/少初位上.json">
     <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns1:position>
     <rdfs:label>少初位上</rdfs:label>
   </ns2:位階.json>
-  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/位階/従七位上.json">
-    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns1:position>
-    <rdfs:label>従七位上</rdfs:label>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正八位下.json">
+    <rdfs:label>正八位下</rdfs:label>
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns1:position>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正一位.json">
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:position>
+    <rdfs:label>正一位</rdfs:label>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/従八位下.json">
+    <rdfs:label>従八位下</rdfs:label>
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ns1:position>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正二位.json">
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:position>
+    <rdfs:label>正二位</rdfs:label>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正八位上.json">
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns1:position>
+    <rdfs:label>正八位上</rdfs:label>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正四位上.json">
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:position>
+    <rdfs:label>正四位上</rdfs:label>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正四位下.json">
+    <rdfs:label>正四位下</rdfs:label>
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:position>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/従八位上.json">
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ns1:position>
+    <rdfs:label>従八位上</rdfs:label>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大初位下.json">
+    <rdfs:label>大初位下</rdfs:label>
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns1:position>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json">
+    <rdfs:label>従四位下</rdfs:label>
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:position>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/従一位.json">
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:position>
+    <rdfs:label>従一位</rdfs:label>
+  </ns2:位階.json>
+  <ns2:位階.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json">
+    <ns1:position rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:position>
+    <rdfs:label>従六位下</rdfs:label>
   </ns2:位階.json>
 </rdf:RDF>

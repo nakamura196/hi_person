@@ -1,0 +1,1033 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従四位（じゅしい）とは、日本の位階及び神階における位のひとつ。正四位の下、正五位の上に位する。贈位の場合、贈従四位という。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://law.e-gov.go.jp/htmldata/T15/T15CO325.html"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 95801
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "5872"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "249"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 59021546
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大相撲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条維貞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広島大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清水澄子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条宣時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建部武彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/杉山忠一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石山洋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/稲田年行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紫綬褒章"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/田丸稲之衛門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:位階制度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天下人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/除目"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田信長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松尾伝蔵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中村博彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/守護代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/守護大名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/老中"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/室町幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山下芳男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前原一誠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小川俊雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/澤昭裕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勲三等"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/職_(律令制)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤山一郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐久良東雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤田小四郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陳舜臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/双葉山定次"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/金春惣右衛門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/台東区"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/杵屋五三郎_(3代目)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/華族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勲等"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田一葦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条時村_(政村流)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/渋谷伊予作"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三重野栄子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/警察庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本相撲協会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本画家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/瀬谷義彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/茨城大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡野行秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/早川養敬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/泉美治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/渡辺明正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/棟梁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣秀吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/溝上脩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公務員"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国主"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検非違使別当"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国民栄誉賞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中村円太"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下松市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/成富茂安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田利家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/所郁太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山田長政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田廣喜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川満元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丸谷金保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関鉄之介"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条守時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条宗宣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条師時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条貞時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条政村"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条貞顕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斯波義将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高知大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大浜方栄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/水谷幸正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/旭日中綬章"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嫡流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/力士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今野東吾"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義輝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/杉山正治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堀越二郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松永久秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/栗田寛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今川氏親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石津憲一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弁官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/横綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/畠山基国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/社会民主党_(日本_1996-)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高橋成人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石渡清元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/相伴衆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/川路聖謨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山形大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/池田町_(北海道)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川持之"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小田晋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川頼元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊福部昭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筑波大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浅田浩二"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福島大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中山忠光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秋山真之"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳井晴夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一橋大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳生亮三"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位相当"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐賀大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浜野保樹"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/杉浦守邦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/木造政宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川高国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/栄典"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/征夷大将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川勝元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川政元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桃井真"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/零式艦上戦闘機"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三善晃"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御家人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東京都"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/得宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鈴木縫殿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三好長慶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三好長逸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三好義興"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三好氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古村えり子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大学入試センター"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川家康"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/家門大名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北杜夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清和源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条義時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北海道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佛教大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/榊原新左衛門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西垣晴次"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/田村圓澄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/瑞宝小綬章"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/愛知県立芸術大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川頼之"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北畠政郷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/爵位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/物理学者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三島健二郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/群馬大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/叙位条例"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉住弘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/雀部幸隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九州大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大阪教育大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北の湖敏満"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/次官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/男爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北海道教育大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/畠山政長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石川滋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/瑞宝中綬章"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条重時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秋山駿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古賀政男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西口勇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高家_(江戸時代)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/譜代大名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衣非茂記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/水谷八重子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河村憐次"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/作曲家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/贈位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/室町時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山口県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/俳優"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/執権"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義昭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/芸能人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利将軍家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西橋靖雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/有賀貞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/服部良一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/辻みどり"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹取養巴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田能行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/都築嘉弘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外様大名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/工学博士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/駒ヶ嶺大三"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高木みどり"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/横死"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/女官"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:出典の明記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:See"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:脚注ヘルプ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:日本の位階"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:位階制度"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従四位（じゅしい）とは、日本の位階及び神階における位のひとつ。正四位の下、正五位の上に位する。贈位の場合、贈従四位という。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従四位"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11071127"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/從四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11071127"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/従四位?oldid=59021546"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/従四位"
+        }
+    ]
+}

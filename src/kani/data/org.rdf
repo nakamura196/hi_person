@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="https://nakamura196.github.io/hi_person/term/type/"
+  xmlns:ns2="http://schema.org/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内礼司.json">
+    <ns2:isPartOf>
+      <ns1:省.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/中務省.json">
+        <rdfs:label>中務省</rdfs:label>
+      </ns1:省.json>
+    </ns2:isPartOf>
+    <rdfs:label>内礼司</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内染司.json">
+    <ns2:isPartOf>
+      <ns1:省.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json">
+        <rdfs:label>宮内省</rdfs:label>
+      </ns1:省.json>
+    </ns2:isPartOf>
+    <rdfs:label>内染司</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/諸陵寮.json">
+    <ns2:isPartOf>
+      <ns1:省.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/治部省.json">
+        <rdfs:label>治部省</rdfs:label>
+      </ns1:省.json>
+    </ns2:isPartOf>
+    <rdfs:label>諸陵寮</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/園池司.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+    <rdfs:label>園池司</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/鍛冶司.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+    <rdfs:label>鍛冶司</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主油司.json">
+    <rdfs:label>主油司</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/画工司.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/中務省.json"/>
+    <rdfs:label>画工司</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/玄蕃寮.json">
+    <rdfs:label>玄蕃寮</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/治部省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主殿寮.json">
+    <rdfs:label>主殿寮</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内蔵寮.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/中務省.json"/>
+    <rdfs:label>内蔵寮</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/掃部寮.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+    <rdfs:label>掃部寮</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主税寮.json">
+    <ns2:isPartOf>
+      <ns1:省.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/民部省.json">
+        <rdfs:label>民部省</rdfs:label>
+      </ns1:省.json>
+    </ns2:isPartOf>
+    <rdfs:label>主税寮</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/図書寮.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/中務省.json"/>
+    <rdfs:label>図書寮</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/喪儀司.json">
+    <rdfs:label>喪儀司</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/治部省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/官奴司.json">
+    <rdfs:label>官奴司</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/中宮職.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/中務省.json"/>
+    <rdfs:label>中宮職</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/造酒司.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+    <rdfs:label>造酒司</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/令外官.json">
+    <rdfs:label>令外官</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内匠寮.json">
+    <rdfs:label>内匠寮</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/中務省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大膳職.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+    <rdfs:label>大膳職</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主水司.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+    <rdfs:label>主水司</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/雅楽寮.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/治部省.json"/>
+    <rdfs:label>雅楽寮</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/諸陵司.json">
+    <rdfs:label>諸陵司</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/治部省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大炊寮.json">
+    <rdfs:label>大炊寮</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/木工寮.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+    <rdfs:label>木工寮</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/土工司.json">
+    <rdfs:label>土工司</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/陰陽寮.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/中務省.json"/>
+    <rdfs:label>陰陽寮</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/典薬寮.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+    <rdfs:label>典薬寮</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正親司.json">
+    <rdfs:label>正親司</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内掃部司.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+    <rdfs:label>内掃部司</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内薬司.json">
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/中務省.json"/>
+    <rdfs:label>内薬司</rdfs:label>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大舎人寮.json">
+    <rdfs:label>大舎人寮</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/中務省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/縫殿寮.json">
+    <rdfs:label>縫殿寮</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/中務省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/采女司.json">
+    <rdfs:label>采女司</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主計寮.json">
+    <rdfs:label>主計寮</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/民部省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内膳司.json">
+    <rdfs:label>内膳司</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+  </ns1:機関.json>
+  <ns1:機関.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/筥陶司.json">
+    <rdfs:label>筥陶司</rdfs:label>
+    <ns2:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+  </ns1:機関.json>
+</rdf:RDF>

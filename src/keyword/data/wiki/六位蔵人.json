@@ -1,0 +1,251 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "六位蔵人（ろくいのくろうど）とは、令外官の役職で、蔵人所の官吏。五位蔵人の次位にあたる。定員はおおよそ4名から6名。天皇の膳の給仕等、秘書的役割を果たした。毎日出仕して働く下級役人であることから日下﨟（ひげろう）とも呼ばれた。六位の者が補任されるが、昇殿が許される殿上人となり、麹塵袍の着用が許されるなど、天皇の側近として名誉な職とされた。任官資格順位としては「公卿の子弟の非蔵人（蔵人の見習）」、「非蔵人」、「執柄勾当（摂家の家来）」、「院蔵人」　「雑色」、「儒生の修了者（明法道などの難試験に合格した者）」、「判官代」の順である。任官に年齢制限はなく、就任した順に「新蔵人」（しんくろうど）、「氏蔵人」（うじくろうど）、「差次」（さしつぎ）、「極﨟」（ごくろう）という席次があった。六位蔵人は式部丞・民部丞・外記・史・近衛将監・衛門尉などと同様に毎年正月の叙位で叙爵枠があり、上﨟者（在職年数の長い者）は従五位下に叙される慣例となっていた（巡爵）。この際、通常五位蔵人に転じることはなく蔵人を辞職し地下人になる。こういう人を蔵人五位（くろうどのごい）と呼んだ。なお、殿上人から退くことをよしとしない者はあえて叙爵を受けず、六位に留まり、改めて末席の「新蔵人」となる「鷁退（逆退とも。げきたい）」という慣例が生まれた。式部丞・民部丞・外記・史・検非違使衛門尉などから叙爵した者と同様に六位蔵人から五位に叙された者は受領に任じられる資格があり、叙爵後一定の待機期間の後、受領に任じられた。そのため、六位出身者にとって六位蔵人は重要な出世コースであった。中世以降、五位蔵人は次第に名家と呼ばれる堂上家が経る職となり六位蔵人が五位蔵人となることはなくなっていったため、「鷁退」か五位の地下人になるかいずれかを選ばなければならなくなった。さらに時代が下ると六位蔵人を経たものが公卿に至ることもなくなり、近世では『地下家伝』に記載されるなど、殿上人でありながら堂上家ではなく、あくまで地下人の中での上級層とみなされていた。近世では禁色勅許はもちろん、地下人であっても堂上家同様に鉄漿をつけることができた。禁色は五位になって地下人に降りれば使用できないが、鉄漿のほうは一生つけることができたという。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 695740
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "1344"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "51"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 44234040
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/受領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:令外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/麹塵袍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/五位蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/地下人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/雑色"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/巡爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/地下家伝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/史_(律令制)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名家_(公家)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/式部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源経任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/補任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明法道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検非違使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衛門府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堂上家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/給仕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/お歯黒"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官吏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秘書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/任官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/禁色"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/膳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/殿上人"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:令外官"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "六位蔵人（ろくいのくろうど）とは、令外官の役職で、蔵人所の官吏。五位蔵人の次位にあたる。定員はおおよそ4名から6名。天皇の膳の給仕等、秘書的役割を果たした。毎日出仕して働く下級役人であることから日下﨟（ひげろう）とも呼ばれた。六位の者が補任されるが、昇殿が許される殿上人となり、麹塵袍の着用が許されるなど、天皇の側近として名誉な職とされた。任官資格順位としては「公卿の子弟の非蔵人（蔵人の見習）」、「非蔵人」、「執柄勾当（摂家の家来）」、「院蔵人」　「雑色」、「儒生の修了者（明法道などの難試験に合格した者）」、「判官代」の順である。任官に年齢制限はなく、就任した順に「新蔵人」（しんくろうど）、「氏蔵人」（うじくろうど）、「差次」（さしつぎ）、「極﨟」（ごくろう）という席次があった。六位蔵人は式部丞・民部丞・外記・史・近衛将監・衛門尉などと同様に毎年正月の叙位で叙爵枠があり、上﨟者（在職年数の長い者）は従五位下に叙される慣例となっていた（巡爵）。この際、通常五位蔵人に転じることはなく蔵人を辞職し地下人になる。こういう人を蔵人五位（くろうどのごい）と呼んだ。なお、殿上人から退くことをよしとしない者はあえて叙爵を受けず、六位に留まり、改めて末席の「新蔵人」となる「鷁退（逆退とも。げきたい）」という慣例が生まれた。式部丞・民部丞・外記・史・検非違使衛門尉などから叙爵した者と同様に六位蔵人から五位に叙された者は受領に任じられる資格があり、叙爵後一定の待機期間の後、受領に任じられた。そのため、六位出身者にとって六位蔵人は重要な出世コースであった。中世以降、五位蔵人は次第に名家と呼ばれる堂上家が経る職となり六位蔵人が五位蔵人となることはなくなっていったため、「鷁退」か五位の地下人になるかいずれかを選ばなければならなくなった。さらに時代が下ると六位蔵人を経たものが公卿に至ることもなくなり、近世では『地下家伝』に記載されるなど、殿上人でありながら堂上家ではなく、あくまで地下人の中での上級層とみなされていた。近世では禁色勅許はもちろん、地下人であっても堂上家同様に鉄漿をつけることができた。禁色は五位になって地下人に降りれば使用できないが、鉄漿のほうは一生つけることができたという。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "六位蔵人"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11392278"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11392278"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/六位蔵人?oldid=44234040"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/六位蔵人"
+        }
+    ]
+}

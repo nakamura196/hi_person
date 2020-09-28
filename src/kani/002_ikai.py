@@ -125,7 +125,7 @@ for sheetname in sheets:
 
         label = row[0]
 
-        s = "https://nakamura196.github.io/hi_person/term/位階/" + label + ".json"
+        s = "https://nakamura196.github.io/hi_person/term/keyword/" + label + ".json"
 
         s = bbb(s)
 

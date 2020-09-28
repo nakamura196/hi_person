@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/keyword/肥後守.json",
+    "http://schema.org/description": [
+      {
+        "@value": "肥後守（ひごのかみ）とは、日本で戦前から使われていた簡易折りたたみ式刃物（ナイフ）のこと。登録商標であり特定の製品の名称であるが、同形状のナイフの総称として呼称されることが多い（後述）。"
+      },
+      {
+        "@value": "１ 肥後の国司。２ 文房具の小刀(こがたな)の一種。7、8センチの両刃が鉄製の折りたたみ式の鞘(さや)に収められるもの。鞘は柄(え)を兼ね、ふつう「肥後守」などの銘がある。大正半ばから兵庫県で生産され、片刃の切り出し小刀に代わって、昭和前期にかけて流行した。廃刀令後、旧熊本藩の御用鍛冶が作りはじめたのが起源という。"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://commons.wikimedia.org/wiki/Special:FilePath/Higonokami-style_knives1.jpg?width=300"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kotobank.jp/word/肥後守"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/肥後守"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "肥後守"
+      }
+    ]
+  }
+]

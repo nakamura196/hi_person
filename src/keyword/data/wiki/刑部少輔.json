@@ -1,0 +1,347 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "刑部省（ぎょうぶしょう）は、古代日本の律令制下の八省の一つ、もしくは明治時代の省庁の一つ。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 302158
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "1791"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "79"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58700930
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/翻訳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/刑罰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/裁判"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/廷尉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/管轄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弾正台"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:法務省の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月24日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月15日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正六位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平城天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平忠盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の裁判所_(廃止)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の刑罰史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/司法省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/省庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/刑部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の刑事司法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/贓贖司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近代日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1869年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1871年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大理"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/監獄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の司法行政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/囚獄司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/欧米"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:廃止された日本の中央省庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/司法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月8日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検非違使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月9日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四等官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:司法省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/法令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従六位"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Main"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の刑事司法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の司法行政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の裁判所_(廃止)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:法務省の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:司法省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:廃止された日本の中央省庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の刑罰史"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "刑部省（ぎょうぶしょう）は、古代日本の律令制下の八省の一つ、もしくは明治時代の省庁の一つ。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "刑部省"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q6867320"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/刑部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q6867320"
+        },
+        {
+            "type": "uri",
+            "value": "http://vi.dbpedia.org/resource/Hình_Bộ_Tỉnh_(Nhật_Bản)"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ministry_of_Justice_(pre-modern)"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Gyōbu-shō"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/刑部省?oldid=58700930"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/刑部省"
+        }
+    ]
+}

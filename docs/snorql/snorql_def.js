@@ -217,12 +217,12 @@ Snorqldef.example = [
 		"label": "太政官一覧",
 		"label_en" : "太政官一覧",
 		"ns" : [ ],
-		"query" : "SELECT DISTINCT ?s ?label ?ikai WHERE {\n	 ?s a type:太政官.json;\n                    rdfs:label ?label;\n             schema:position ?position;\n                    skos:closeMatch ?ikai .  \n} order by ?position"
+		"query" : "SELECT DISTINCT ?s ?label ?ikai WHERE {\n	 ?s schema:isPartOf keyword:太政官.json;\n                    rdfs:label ?label;\n                    skos:closeMatch ?ikai .  \n  ?ikai schema:position ?position . \n} order by ?position"
 	},
 	{
 		"label": "官位相当表",
 		"label_en" : "官位相当表",
 		"ns" : [ ],
-		"query" : "SELECT DISTINCT ?s ?label sample(?da_label) as ?daLabel ?ku_label WHERE {\n	 ?s a type:位階.json;\n                    rdfs:label ?label;\n             schema:position ?position . \n  optional { ?da skos:closeMatch ?s; rdfs:label ?da_label; a type:太政官.json . } \n  optional { ?ku skos:closeMatch ?s; rdfs:label ?ku_label; a type:蔵人所.json . } \n} order by ?position"
+		"query" : "SELECT DISTINCT ?s \nsample(?da2) as ?dazhokan\nsample(?ku2) as ?kuroudo\nsample(?sho2) as ?sho\n\nsample(?konoe2) as ?konoefu\nsample(?emon2) as ?emonfu\nsample(?hyo2) as ?hyoefu\n\nsample(?daz2) as ?dazaifu\nsample(?kuni2) as ?kokushi\nsample(?rei2) as ?reigai\nWHERE {\n	 ?s a type:位階.json;\n             schema:position ?position . \n  optional { ?da2 skos:closeMatch ?s; schema:isPartOf keyword:太政官.json . }\n  optional { ?ku2 skos:closeMatch ?s; schema:isPartOf keyword:蔵人所.json . }\n  optional { ?sho2 skos:closeMatch ?s; schema:isPartOf keyword:省.json . }\n  optional { ?konoe2 skos:closeMatch ?s; schema:isPartOf keyword:近衛府.json . }\n  optional { ?emon2 skos:closeMatch ?s; schema:isPartOf keyword:衛門府.json . }\n  optional { ?hyo2 skos:closeMatch ?s; schema:isPartOf keyword:兵衛府.json . }\n  optional { ?daz2 skos:closeMatch ?s; schema:isPartOf keyword:太宰府.json . }\n  optional { ?kuni2 skos:closeMatch ?s; schema:isPartOf keyword:国司.json . }\n  optional { ?rei2 skos:closeMatch ?s; schema:isPartOf keyword:令外官.json . }\n} order by ?position"
 	},
 ];

@@ -1,0 +1,937 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "若狭国（わかさのくに）は、かつて日本の地方行政区分だった令制国の一つ。北陸道に属する。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://www.rekihaku.ac.jp/up-cgi/login.pl?p=param/kyud/db_param"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.jnc.go.jp/04/turuga/jturuga/jkankou/echiwa.html"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 13292
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "6067"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "212"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 56415874
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/アメノヒボコ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/管領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桃井直常"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ヤマト王権"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/室町時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一色満範"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足羽県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/舞鶴鎮守府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/お水取り"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹羽長秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平経俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣政権"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山内一豊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治維新"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/サバ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東大寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上野国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一色詮範"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田信右"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条重時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/角鹿国造"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田信美"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月21日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/祭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月29日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/津々見忠季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斯波家兼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小浜藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北前船"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/廃藩置県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本書紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本海"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宝_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嶺北"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜式内社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嶺南"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/角川日本地名大辞典"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/幕末"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/滋賀県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条宗方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条時茂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元慶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大飯郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三方上中郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福井県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/敦賀市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大高重成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:北陸道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令制国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令制国一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永正の錯乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/遠敷郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小浜県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1871年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1873年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1876年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1881年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/原子力発電所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斯波氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一色義貫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花村親吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川清氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石橋和義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊賀兼光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/若狭国分寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/若狭彦神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月10日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/酒井忠氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月14日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高畠藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天童藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/愛宕王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条時宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条義時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/若狭湾"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国印"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南条郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:若狭国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鯖街道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/室町幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/若狭国造"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/敦賀県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/敦賀郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/総社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天狗党の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/越前国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斯波高経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐々木道誉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/荘園_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山名時氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の旧国名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堺県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月20日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尾張国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一色範光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田信長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御食国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小浜市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斯波氏頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斯波義種"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今立郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奈良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/比企朝宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北陸道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣秀吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信豊_(若狭武田氏)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇波西神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/本能寺の変"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条経時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条貞時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/旧高旧領取調帳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信栄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条高時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田信賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田元光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田元明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田国信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条時氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小幡藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/塩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出羽国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小浜線"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/庸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一色氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名神大社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/丹後国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:福井県の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承和_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/調"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奈良時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国道367号"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田元信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/木簡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田義統"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝倉氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/884年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月7日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三方郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/水戸市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国_(令制国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜式神名帳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/825年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月31日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/843年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京極高次"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条宣時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠時"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Commonscat"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:若狭国の郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:令制国地図_(令制国テンプレート用)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_令制国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:令制国一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        }
+    ],
+    "http://ja.dbpedia.org/property/一宮": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/若狭彦神社"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別称": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "若州（じゃくしゅう）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国分寺": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "福井県小浜市（若狭国分寺跡）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国分尼寺": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "（未詳）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国力": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国_(令制国)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "若狭国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国府": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "福井県小浜市"
+        }
+    ],
+    "http://ja.dbpedia.org/property/所属": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北陸道"
+        }
+    ],
+    "http://ja.dbpedia.org/property/距離": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/郡": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 3
+        }
+    ],
+    "http://ja.dbpedia.org/property/領域": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福井県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嶺南"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/敦賀市"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:若狭国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:福井県の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:北陸道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の旧国名"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "若狭国（わかさのくに）は、かつて日本の地方行政区分だった令制国の一つ。北陸道に属する。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "若狭国"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/若狹國"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Wakasa_Province"
+        },
+        {
+            "type": "uri",
+            "value": "http://lt.dbpedia.org/resource/Vakasos_žemė"
+        },
+        {
+            "type": "uri",
+            "value": "http://id.dbpedia.org/resource/Provinsi_Wakasa"
+        },
+        {
+            "type": "uri",
+            "value": "http://sk.dbpedia.org/resource/Wakasa_(provincia)"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1053713"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Provinz_Wakasa"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/와카사_국"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q1053713"
+        },
+        {
+            "type": "uri",
+            "value": "http://cs.dbpedia.org/resource/Provincie_Wakasa"
+        },
+        {
+            "type": "uri",
+            "value": "http://nl.dbpedia.org/resource/Wakasa_(provincie)"
+        },
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Провінція_Вакаса"
+        },
+        {
+            "type": "uri",
+            "value": "http://simple.dbpedia.org/resource/Wakasa_Province"
+        },
+        {
+            "type": "uri",
+            "value": "http://gl.dbpedia.org/resource/Provincia_de_Wakasa"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Província_de_Wakasa"
+        },
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Вакаса_(провинция)"
+        },
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Wakasa_(provincia)"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Province_de_Wakasa"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/若狭国?oldid=56415874"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/若狭国"
+        }
+    ]
+}

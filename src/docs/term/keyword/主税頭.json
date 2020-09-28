@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/keyword/主税頭.json",
+    "http://schema.org/description": [
+      {
+        "@value": "主税寮の長官。"
+      },
+      {
+        "@value": "主税寮（しゅぜいりょう）は律令制において民部省に属した機関。和訓は「ちからのつかさ」。"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kotobank.jp/word/主税頭"
+      },
+      {
+        "@id": "http://ja.wikipedia.org/wiki/主税寮"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "主税頭"
+      }
+    ]
+  }
+]

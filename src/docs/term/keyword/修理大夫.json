@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/keyword/修理大夫.json",
+    "http://schema.org/description": [
+      {
+        "@value": "修理職（しゅりしき、すりしき）は平安時代に設置された令外官。和名は「をさめ（おさめ）つくるつかさ」。"
+      },
+      {
+        "@value": "修理職の長官。しゅりのかみ。"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/修理職"
+      },
+      {
+        "@id": "https://kotobank.jp/word/修理大夫"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "修理大夫"
+      }
+    ]
+  }
+]

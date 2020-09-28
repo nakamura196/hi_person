@@ -1,0 +1,327 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "弁官（べんかん、辨官）は、朝廷の最高機関、太政官の職である左大弁（さだいべん）・右大弁（うだいべん）・左中弁（さちゅうべん）・右中弁（うちゅうべん）・左少弁（さしょうべん）・右少弁（うしょうべん）の総称である。唐名（漢風名称）は尚書。通説においては四等官の中の判官（じょう）に相当するが、異説として弁官を含めた弁官局を太政官の別局として捉え、元は本来の四等官の系列には含まない品官であったする説もある。また、『延喜式』においても、季禄・時服・馬料・要劇料などの給与の支給手続やそのために必要な上日の集計・考文の送付などが太政官とは別個に行われ、人事・財政体系における太政官からの独立性が確認できる。大弁は従四位上、中弁は正五位上相当、少弁は正五位下相当（養老令官位令）。官庁を指揮監督する役を負っていたため、後には少納言より高位に位置づけられ、参議と大弁を兼任する者もいた。また、蔵人頭と大弁または中弁を兼ねる者もおり、特に頭弁（とうのべん）と称された。左中弁以上の経験者には参議に昇進する資格があり（右中弁以下にはない）、将来三位以上に昇る道が開かれた出世の登竜門であった。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 286959
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "3440"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "72"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 57585497
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10世紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/頭弁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官牒"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勧修寺流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/式部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜式"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衛門府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中務省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/羽林家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/馬料"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/時服"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/考文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/五位蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/養老令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小槻氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四等官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/善がい訴訟事件"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12世紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/品官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大蔵省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大臣_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名家_(公家)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/春宮坊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神祇官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/要劇料"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三事兼帯"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官宣旨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/職事"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮内省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/刑部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/議政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小槻奉親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/史_(律令制)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/季禄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官符"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日野流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/諸大夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/非参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正六位"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:参照方法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "弁官（べんかん、辨官）は、朝廷の最高機関、太政官の職である左大弁（さだいべん）・右大弁（うだいべん）・左中弁（さちゅうべん）・右中弁（うちゅうべん）・左少弁（さしょうべん）・右少弁（うしょうべん）の総称である。唐名（漢風名称）は尚書。通説においては四等官の中の判官（じょう）に相当するが、異説として弁官を含めた弁官局を太政官の別局として捉え、元は本来の四等官の系列には含まない品官であったする説もある。また、『延喜式』においても、季禄・時服・馬料・要劇料などの給与の支給手続やそのために必要な上日の集計・考文の送付などが太政官とは別個に行われ、人事・財政体系における太政官からの独立性が確認できる。大弁は従四位上、中弁は正五位上相当、少弁は正五位下相当（養老令官位令）。官庁を指揮監督する役を負っていたため、後には少納言より高位に位置づけられ、参議と大弁を兼任する者もいた。また、蔵人頭と大弁または中弁を兼ねる者もおり、特に頭弁（とうのべん）と称された。左中弁以上の経験者には参議に昇進する資格があり（右中弁以下にはない）、将来三位以上に昇る道が開かれた出世の登竜門であった。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "弁官"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q3270768"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q3270768"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/辨官"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/弁官?oldid=57585497"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/弁官"
+        }
+    ]
+}

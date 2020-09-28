@@ -1,0 +1,497 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従五位（じゅごい）とは、日本の位階及び神階における位のひとつ。正五位の下、正六位の上に位する。贈位の場合、贈従五位という。近代以前の日本における位階制度では、従五位下以上の位階を持つ者が貴族とされている。また、華族の嫡男が従五位に叙せられることから、華族の嫡男の異称としても用いられた。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://law.e-gov.go.jp/htmldata/T15/T15CO325.html"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 681084
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2157"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "110"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58840686
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/軍事貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義栄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利将軍家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斉藤仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大久保忠行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/都道府県議会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩国藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/譜代大名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御家門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/栄爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/華族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/消防署長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊東甲子太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長州藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/守護代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉幕府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/守護"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/室町時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/消防団長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/叙爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嫡男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/始皇帝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:位階制度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中川五郎治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大相撲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/傍流"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/家老"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外様大名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/判官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/荒井郁之助"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四等官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福井藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/社長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中邨元起"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/年爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/辻村みちよ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第七管区海上保安本部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大身"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柔道家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橘氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柏戸剛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衛門府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御家人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御三卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御三家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/赤松小次郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/旗本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎮守府将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加賀藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清和源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/散位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/幕末"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中野方蔵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/マツ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尼子久次郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尼子長三郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/掛橋和泉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学校長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貴ノ花利彰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/巡爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/命婦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩瀬忠震"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安島直円"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/本多氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和算家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高階氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/贈位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉川氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/氏爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広瀬久兵衛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鈴鹿甚右衛門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/夷子健治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三輪壽雪"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/議長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/警察署長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/農学者"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:出典の明記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:日本の位階"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:位階制度"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従五位（じゅごい）とは、日本の位階及び神階における位のひとつ。正五位の下、正六位の上に位する。贈位の場合、贈従五位という。近代以前の日本における位階制度では、従五位下以上の位階を持つ者が貴族とされている。また、華族の嫡男が従五位に叙せられることから、華族の嫡男の異称としても用いられた。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従五位"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/從五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11071125"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11071125"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/従五位?oldid=58840686"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/従五位"
+        }
+    ]
+}

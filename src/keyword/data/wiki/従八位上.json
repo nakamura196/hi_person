@@ -1,0 +1,165 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従八位（じゅはちい）は、日本の位階における位の一つ。正八位の下、大初位または正九位の上の位階である。律令制においては、さらに従八位上と従八位下の二階に分けられた。従八位は、中務省の少典鑰、治部少解部、刑部少解部などに相当する。明治時代初期の太政官制においては上下の別がなくされた。従八位は、神祇官の史生、太政官の官掌などに相当する。栄典としての位階制が定められた叙位条例（明治20年勅令第10号）、位階令（大正15年勅令第325号）では、従八位が最も低い位階である。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://law.e-gov.go.jp/htmldata/T15/T15CO325.html"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 730760
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "558"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "15"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 56625196
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中務省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/栄典"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:位階制度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正九位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正八位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/刑部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大初位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神祇官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Ja_icon"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:No_footnotes"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:日本の位階"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:位階制度"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従八位（じゅはちい）は、日本の位階における位の一つ。正八位の下、大初位または正九位の上の位階である。律令制においては、さらに従八位上と従八位下の二階に分けられた。従八位は、中務省の少典鑰、治部少解部、刑部少解部などに相当する。明治時代初期の太政官制においては上下の別がなくされた。従八位は、神祇官の史生、太政官の官掌などに相当する。栄典としての位階制が定められた叙位条例（明治20年勅令第10号）、位階令（大正15年勅令第325号）では、従八位が最も低い位階である。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従八位"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11488720"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/從八位"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11488720"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/従八位?oldid=56625196"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/従八位"
+        }
+    ]
+}

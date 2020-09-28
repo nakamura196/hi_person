@@ -1,0 +1,195 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "正親司（おおきみのつかさ）は日本古代の律令制において宮内省に属する機関の一つである。「おおきんだちのつかさ」とも。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 499768
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "819"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "32"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 45854118
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奈良時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正六位上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宗正寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/別当"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/王_(皇族)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/796年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白川伯王家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内膳司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/給与"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/時服"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇籍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/季禄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮内省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "正親司（おおきみのつかさ）は日本古代の律令制において宮内省に属する機関の一つである。「おおきんだちのつかさ」とも。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "正親司"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11545651"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11545651"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/正親司?oldid=45854118"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/正親司"
+        }
+    ]
+}

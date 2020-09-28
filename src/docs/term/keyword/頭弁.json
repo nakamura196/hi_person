@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/keyword/頭弁.json",
+    "http://schema.org/description": [
+      {
+        "@value": "頭弁（とうのべん）とは日本の官制において、弁官を兼帯した蔵人頭に対する呼称の事である。頭中将が近衛中将の兼帯であったのに対して、頭弁は（左右）中弁の兼帯であったと解されることが多いが、特に平安時代末期以前には大弁と蔵人頭との兼帯例も見られ、以後も稀ながらそうした事例が存在する。"
+      },
+      {
+        "@value": "弁官で、蔵人頭(くろうどのとう)を兼ねた人。"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/頭弁"
+      },
+      {
+        "@id": "https://kotobank.jp/word/頭弁"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "頭弁"
+      }
+    ]
+  }
+]

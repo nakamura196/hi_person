@@ -1,0 +1,163 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大舎人寮（おおとねりりょう）は律令制において中務省に属する機関の一つである。律令制初期においては左右の大舎人寮が設定されていたが、大同3年（808年）に左大舎人寮と右大舎人寮が統合されて、大舎人寮となった。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 503460
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "625"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "20"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 40576493
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中務省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従八位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内舎人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正七位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従七位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大舎人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/舎人監"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中宮職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/808年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内豎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内豎所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大同_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斎宮寮"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大舎人寮（おおとねりりょう）は律令制において中務省に属する機関の一つである。律令制初期においては左右の大舎人寮が設定されていたが、大同3年（808年）に左大舎人寮と右大舎人寮が統合されて、大舎人寮となった。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大舎人寮"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11438594"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11438594"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/大舎人寮?oldid=40576493"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/大舎人寮"
+        }
+    ]
+}

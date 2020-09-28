@@ -1,0 +1,809 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大学寮（だいがくりょう）は、律令制のもとで作られた式部省（現在の人事院に相当する）直轄下の官僚育成機関である。官僚の候補生である学生に対する教育と試験及び儒教における重要儀式である釋奠を行った。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://kakitutei.gozaru.jp/kyoto07jan/13-2.html"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.city.kyoto.jp/somu/rekishi/fm/ishibumi/html/na008.html"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 236509
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "7285"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "251"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 50645548
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1154年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橘氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/舎人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官僚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大学校_(1869年)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/思文閣出版"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島田忠臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵範記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従八位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/家学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:奈良時代の文化"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1177年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従七位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三善清行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/書道_(大学寮)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/728年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:古代日本の教育機関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/カレッジ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学習院_(幕末維新期)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文章博士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/得業生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/757年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/都良香"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/806年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の儒学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/808年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/道年挙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/道挙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原清公"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大学別曹"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/法律"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文章生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文章道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勧学田"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/書道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1990年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/玉川大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/音道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/考試"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/林家_(儒学者)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/雅楽寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仏教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寮_(律令制)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本書紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀長谷雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学館院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天智天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秀才_(科挙)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:中京区の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜式"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/科挙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/数学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和気氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小野篁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10世紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秀才_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/判官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の教育の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:中京区の教育"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/在原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国語"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原道真"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/博士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/意見十二箇条"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/算道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/教授"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官司請負制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1994年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宝律令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/位子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学校"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/荘園_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/典薬寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原武智麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:大学寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神泉苑"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奨学院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/掾"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇室"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞観式"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正七位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/音博士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/人事院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂関政治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/雑任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/書博士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/成功_(任官)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/給料"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/漢文学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昌平坂学問所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朱雀大路"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/壬申の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9世紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/進士_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国学_(律令制の教育機関)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勧学院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/懐風藻"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/技官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嵯峨天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勇山文継"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公廨田"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中京区"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/儒教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/824年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/カバネ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/812年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀伝道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/834年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/式部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明法博士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/遣唐使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陰陽寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安元の大火"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明法道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鬼室集斯"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明法生"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明経道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇学所・漢学所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/対策"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/史部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉備真備"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔭位の制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/主典"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/職田"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/671年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出挙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/釋奠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院年挙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学問料"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/算道院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/綜芸種智院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/給食"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文章院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/914年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/春澄善縄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/730年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安京"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弘文院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明法道院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白丁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明経道院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/進士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/別当"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Otheruseslist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:大学寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:中京区の教育"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:中京区の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:古代日本の教育機関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の教育の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の儒学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:奈良時代の文化"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:平安京"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大学寮（だいがくりょう）は、律令制のもとで作られた式部省（現在の人事院に相当する）直轄下の官僚育成機関である。官僚の候補生である学生に対する教育と試験及び儒教における重要儀式である釋奠を行った。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "大学寮"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Daigaku-ryō"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Daigaku-ryō"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q3012048"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q3012048"
+        },
+        {
+            "type": "uri",
+            "value": "http://simple.dbpedia.org/resource/Daigaku-ryō"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/大学寮?oldid=50645548"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/大学寮"
+        }
+    ]
+}

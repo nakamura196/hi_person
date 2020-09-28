@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://nakamura196.github.io/hi_person/term/keyword/雅楽頭.json",
+    "http://schema.org/description": [
+      {
+        "@value": "雅楽寮（うたりょう）は、律令制において治部省に属する機関である。『和名抄』ではうたまいのつかさとされている。"
+      },
+      {
+        "@value": "雅楽寮の長官。従五位上相当。"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://ja.wikipedia.org/wiki/雅楽寮"
+      },
+      {
+        "@id": "https://kotobank.jp/word/雅楽頭"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "雅楽頭"
+      }
+    ]
+  }
+]

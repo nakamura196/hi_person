@@ -1,0 +1,1029 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "筑前国（ちくぜんのくに）は、かつて日本の地方行政区分だった令制国の一つ。西海道に属する。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://www.rekihaku.ac.jp/up-cgi/login.pl?p=param/kyud/db_param"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.nakamura-u.ac.jp/library/kaibara/archive05/"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 18182
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "7043"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "227"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 57771577
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戸沢正成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令制国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令制国一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大内氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/志摩郡_(福岡県)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大内義隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少弐頼尚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大友氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/怡土郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保科正経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源常基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筑紫野市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/和泉国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筑後国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩屋城の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/周防国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣秀吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秋月県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東区_(福岡市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/応仁の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大内政弘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/出羽国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利尊氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宗像大社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少弐冬資"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少弐満貞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原棟世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阿蘇惟直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少弐経資"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少弐貞経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少弐貞頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田利家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田長恒"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源満政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/休松の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大内持世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/香椎宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/志賀海神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大内教弘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下座郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福岡藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/竈門神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名神大社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/席田郡_(福岡県)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秋月種任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山口弘敞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/那珂郡_(福岡県)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:西海道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田光高"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/博多区"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/早良郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筑紫国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1019年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/対馬府中藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田利常"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/元寇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Tofuroｈ_dazaifu.JPG"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古河藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/美奈宜神社_(朝倉市林田)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今川貞世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/毛利元就"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宗像市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小早川秀秋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/726年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/733年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日向国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三好長慶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/常陸国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多々良浜の戦い"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筥崎宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝倉橘広庭宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊前国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新庄藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡部長寛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/夜須郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/750年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:福岡県の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鞍手郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/751年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛地"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大内義興"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1871年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少弐盛経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1869年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太宰府市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/廃藩置県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福岡市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小早川隆景"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/厳原県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田長政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/住吉神社_(福岡市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岸和田藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉備真備"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筑前国分尼寺跡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/旧高旧領取調帳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名島城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安中藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の旧国名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/遠国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:筑前国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/龍造寺氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/香椎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宗像氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/総社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筑前国分寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/糟屋郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/会津藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/壬生胤業"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田治之"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田治高"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田信成_(大名)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堀田正俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上座郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/刀伊の入寇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筑前国の式内社一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秋月氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秋月種実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月7日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田継高"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嘉麻郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筑紫神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九州征伐"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田秀綿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜式神名帳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/秋月藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多々良浜の戦い_(戦国時代)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田斉隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加賀藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田忠之"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武藤資頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/角川日本地名大辞典"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西海道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/厳原藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1586年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月25日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月26日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下総国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/遠賀郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大友宗麟"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下間頼秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大和国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織幡神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福岡県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上野国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1567年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菊池武敏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1569年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Chikuzen_Kokubunji_tou.JPG"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/穂波郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少弐頼澄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山上憶良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高鍋藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一色直氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡山藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜式内社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中津藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宗像郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田良頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菊池武光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宰府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月12日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/牛久藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中津県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1274年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1281年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少弐氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/美奈宜神社_(朝倉市荷原)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少弐資能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳本藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御笠郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/立花道雪"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月14日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月15日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高橋紹運"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1336年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/赤松貞範"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸奥国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Commonscat"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_令制国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Center"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:令制国一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:座標一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:節stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:ウィキ座標"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:令制国地図_(令制国テンプレート用)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:筑紫二国の郡"
+        }
+    ],
+    "http://ja.dbpedia.org/property/一宮": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/住吉神社_(福岡市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福岡市"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別称": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "筑州（ちくしゅう）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国分寺": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "福岡県太宰府市（筑前国分寺跡）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国分尼寺": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "福岡県太宰府市"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国力": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "筑前国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国府": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "（推定）福岡県太宰府市"
+        }
+    ],
+    "http://ja.dbpedia.org/property/所属": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西海道"
+        }
+    ],
+    "http://ja.dbpedia.org/property/距離": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/遠国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/郡": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 15
+        }
+    ],
+    "http://ja.dbpedia.org/property/領域": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福岡県"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:福岡県の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:西海道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:筑前国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の旧国名"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "筑前国（ちくぜんのくに）は、かつて日本の地方行政区分だった令制国の一つ。西海道に属する。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "筑前国"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Тикудзэн_(провинция)"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q1047664"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Província_de_Chikuzen"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1047664"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/지쿠젠_국"
+        },
+        {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Provincia_de_Chikuzen"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Chikuzen"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Provinz_Chikuzen"
+        },
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Chikuzen_(provincia)"
+        },
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Провінція_Тікудзен"
+        },
+        {
+            "type": "uri",
+            "value": "http://lt.dbpedia.org/resource/Čikudzeno_žemė"
+        },
+        {
+            "type": "uri",
+            "value": "http://nl.dbpedia.org/resource/Chikuzen_(provincie)"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/筑前國"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Chikuzen_Province"
+        },
+        {
+            "type": "uri",
+            "value": "http://cs.dbpedia.org/resource/Provincie_Čikuzen"
+        },
+        {
+            "type": "uri",
+            "value": "http://gl.dbpedia.org/resource/Provincia_de_Chikuzen"
+        },
+        {
+            "type": "uri",
+            "value": "http://id.dbpedia.org/resource/Provinsi_Chikuzen"
+        },
+        {
+            "type": "uri",
+            "value": "http://sk.dbpedia.org/resource/Čikuzen_(provincia)"
+        },
+        {
+            "type": "uri",
+            "value": "http://simple.dbpedia.org/resource/Chikuzen_Province"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/筑前国?oldid=57771577"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/筑前国"
+        }
+    ]
+}

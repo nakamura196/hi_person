@@ -1,0 +1,147 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "弾正尹（だんじょうのかみあるいはだんじょういん）は、律令制度における弾正台の長官（かみ）である。従三位相当。職務として、非違の糾弾、弾劾を司る。二官八省から独立して検察を行う。太政大臣を除くすべての役人の不正を摘発するのが主な任務である。平安時代の9世紀初頭に令外官の検非違使が設置された後は、皇族に与えられる名誉職のようになり実権は余りなかったという。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 114524
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "359"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "15"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 51949294
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の検察機関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検非違使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検察"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名誉職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弾正台"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9世紀"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の検察機関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "弾正尹（だんじょうのかみあるいはだんじょういん）は、律令制度における弾正台の長官（かみ）である。従三位相当。職務として、非違の糾弾、弾劾を司る。二官八省から独立して検察を行う。太政大臣を除くすべての役人の不正を摘発するのが主な任務である。平安時代の9世紀初頭に令外官の検非違使が設置された後は、皇族に与えられる名誉職のようになり実権は余りなかったという。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "弾正尹"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11487787"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11487787"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/弾正尹?oldid=51949294"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/弾正尹"
+        }
+    ]
+}

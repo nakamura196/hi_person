@@ -1,0 +1,903 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "侍従（じじゅう）とは、広義では（しばしば高貴な立場の）ある人物に付き従い、身の回りの世話などをする行為、または従う者そのものを指す。日本においては、特に天皇に側近奉仕する文官や位を意味するため、この項目ではこれについて解説する。なお、武官による侍従武官や皇太子に付される東宮侍従については、それぞれ項目を参照のこと。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Osaka_Rekishi_Hakubutsukan_Jiju.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 250336
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "5469"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "253"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58654584
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司煕通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩波書店"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内舎人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宝律令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺受長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/フィジー"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月29日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桂太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月13日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2007年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Osaka_Rekishi_Hakubutsukan_Jiju.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海軍大将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山縣有道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/幕臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤波言忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山口正定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河瀬真孝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橘休蔭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/子爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月15日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月5日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ポーランド"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/楠本祐一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昭和天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/入江相政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月20日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/田内三吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月12日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月24日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月21日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸軍少将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/掌典職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/特別職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/穂積重遠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月1日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月3日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大迫尚道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学習院大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月20日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/認証官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/儀礼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東久世通禧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥浄御原令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加藤泰秋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月4日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮内庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従武官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1985年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1912年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月16日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1922年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月29日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/水谷章"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月30日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1918年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月15日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島江王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1907年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1902年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月1日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1944年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1948年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1945年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1946年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1947年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1927年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1929年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月15日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1936年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月27日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/米田虎雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月22日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1884年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1871年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1873年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1869年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1878年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月13日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/チュニジア"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1877年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月30日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮内省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月3日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月22日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山本悟_(侍従長)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/男爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大洲藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/百武三郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/モザンビーク"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮内府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2015年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/卜部亮吾"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/卜部亮吾侍従日記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/渡邉允"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/在原善淵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/在原安貞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平野王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/首相秘書官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/卒業"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡部長職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1988年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議院議長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1964年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1965年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河相周夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1993年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1996年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島義勇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡部長章"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇太子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中央省庁再編"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1969年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文藝春秋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中尉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤田尚徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国家公務員法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/稲田周一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大金益次郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/珍田捨巳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従武官長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河井弥八"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大正天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/有馬純文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小笠原長守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/法律"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝日新聞社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勲等"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/多賀敏行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小笠原長育"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/最高裁判所裁判官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昭和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第二次世界大戦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊予国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東宮侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広幡忠隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中務省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月16日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/入国管理庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広幡忠朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2005年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治神宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/木下道雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我通相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/掌典長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正親町実正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:宮内庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大嶋英一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮内庁東宮職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉良義央"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都外国語大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侯爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三谷隆信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千沢治彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/川島裕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/特命全権大使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伯爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月21日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川達孝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/手塚英臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩崎輝弥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:11_KatsuraT.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小倉庫次"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原長房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山岡鉄舟"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川義寛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/穂積重道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺実則"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永積寅彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鈴木貫太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐名"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:出典の明記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:仮リンク"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:宮内庁"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "侍従（じじゅう）とは、広義では（しばしば高貴な立場の）ある人物に付き従い、身の回りの世話などをする行為、または従う者そのものを指す。日本においては、特に天皇に側近奉仕する文官や位を意味するため、この項目ではこれについて解説する。なお、武官による侍従武官や皇太子に付される東宮侍従については、それぞれ項目を参照のこと。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "侍従"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q2948088"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Chamberlain_of_Japan"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2948088"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Chambellan_du_Japon"
+        },
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Ciambellano_del_Giappone"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/侍従?oldid=58654584"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Osaka_Rekishi_Hakubutsukan_Jiju.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/侍従"
+        }
+    ]
+}

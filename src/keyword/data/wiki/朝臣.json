@@ -1,0 +1,483 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "朝臣（あそみ、あそん）は、684年（天武天皇13年）に制定された八色の姓の制度で新たに作られた姓（カバネ）で、上から二番目に相当する。一番上の真人（まひと）は、主に皇族に与えられたため、皇族以外の臣下の中では事実上一番上の地位にあたる。読みは「あそみ」が古い。古くは阿曽美、旦臣とも書いた。この朝臣が作られた背景には、従来の臣（おみ）、連（むらじ）、首（おびと）、直（あたい）などの姓の上位に位置する姓を作ることで、姓に優劣、待遇の差をつけ、天皇への忠誠の厚い氏（うじ）を優遇し、皇室への権力掌握をはかったと思われる。日本書紀には、684年（天武天皇13年）11月1日に初めて朝臣を賜った52氏として、大三輪氏、大春日氏、阿倍氏、巨瀬氏、膳氏、紀氏、波多氏、物部氏、平群氏、雀部氏、中臣氏、大宅氏、粟田氏、石川氏、桜井氏、采女氏、田中氏、小墾田氏、穂積氏、山背氏、鴨氏、小野氏、川辺氏、櫟井氏、柿本氏、軽部氏、若桜部氏、岸田氏、高向氏、宍人氏、来目氏、犬上氏、上毛野氏、角氏、星川氏、多氏、胸方氏、車持氏、綾氏、下道氏、伊賀氏、阿閉氏、林氏、波弥氏、下毛野氏、佐味氏、道守氏、大野氏、坂本氏、池田氏、玉手氏、笠氏が記されている。朝臣は、主に壬申の乱で功績の有った主に臣の姓を持つ氏族（古い時代に皇室から分かれたものが多い）に優先的に与えられた。その次に位置する主に連の姓を持つ氏族には宿禰の姓を与えていた。しかしながら、その後も朝廷に功績が有った氏族には朝臣の姓を下賜していき、奈良時代にはほとんどの氏が朝臣の姓を持つようになった。さらに時代が下ると、大半の貴族や武士は藤原朝臣、源朝臣、平朝臣などの子孫で占められてしまい、また、武家台頭による下級貴族の没落もあり、朝臣は、序列付けの為の姓としての意味を失ってしまい、公式文書で使う形式的なものになっていった。平安時代以降、公卿（三位以上及び参議）は、氏の下に朝臣、諱の下に公（大臣）ないし卿という敬称を以って称した。四位以下の者は氏、諱の下に姓をつけて呼称した。氏ではなく諱の下に朝臣とつけた者は特に名乗り朝臣という。 例　足利内大臣正二位源朝臣義政公（足利義政） 例　細川右京大夫従四位下源勝元朝臣（細川勝元）"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 82025
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2070"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "103"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58968723
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阿倍氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小山氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/車持氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/物部氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石川氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橘佐為"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/穂積氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貴族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/局務"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平群氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/波多氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/毛利氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊達氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/奈良時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/首_(曖昧さ回避)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/市正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下毛野氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇室"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大野氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/県犬養三千代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣秀吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/氏姓制度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坂本氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:飛鳥時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/膳氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上毛野氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八色の姓"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大三輪氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天武天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大枝諸上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源氏長者"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上杉氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/巨瀬氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊東氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鴨氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/十市有象"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明法道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明経道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文章道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大春日氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原鎌足"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清和源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中臣氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江広元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/カバネ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/采女氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/真人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/壬申の乱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宿禰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宅氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小野氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橘氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川勝元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/連"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柿本氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/十市以忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桓武平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/村上源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堂上家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橘諸兄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安土桃山時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野見宿禰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/684年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/臣"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:出典の明記"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:武士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:飛鳥時代"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "朝臣（あそみ、あそん）は、684年（天武天皇13年）に制定された八色の姓の制度で新たに作られた姓（カバネ）で、上から二番目に相当する。一番上の真人（まひと）は、主に皇族に与えられたため、皇族以外の臣下の中では事実上一番上の地位にあたる。読みは「あそみ」が古い。古くは阿曽美、旦臣とも書いた。この朝臣が作られた背景には、従来の臣（おみ）、連（むらじ）、首（おびと）、直（あたい）などの姓の上位に位置する姓を作ることで、姓に優劣、待遇の差をつけ、天皇への忠誠の厚い氏（うじ）を優遇し、皇室への権力掌握をはかったと思われる。日本書紀には、684年（天武天皇13年）11月1日に初めて朝臣を賜った52氏として、大三輪氏、大春日氏、阿倍氏、巨瀬氏、膳氏、紀氏、波多氏、物部氏、平群氏、雀部氏、中臣氏、大宅氏、粟田氏、石川氏、桜井氏、采女氏、田中氏、小墾田氏、穂積氏、山背氏、鴨氏、小野氏、川辺氏、櫟井氏、柿本氏、軽部氏、若桜部氏、岸田氏、高向氏、宍人氏、来目氏、犬上氏、上毛野氏、角氏、星川氏、多氏、胸方氏、車持氏、綾氏、下道氏、伊賀氏、阿閉氏、林氏、波弥氏、下毛野氏、佐味氏、道守氏、大野氏、坂本氏、池田氏、玉手氏、笠氏が記されている。朝臣は、主に壬申の乱で功績の有った主に臣の姓を持つ氏族（古い時代に皇室から分かれたものが多い）に優先的に与えられた。その次に位置する主に連の姓を持つ氏族には宿禰の姓を与えていた。しかしながら、その後も朝廷に功績が有った氏族には朝臣の姓を下賜していき、奈良時代にはほとんどの氏が朝臣の姓を持つようになった。さらに時代が下ると、大半の貴族や武士は藤原朝臣、源朝臣、平朝臣などの子孫で占められてしまい、また、武家台頭による下級貴族の没落もあり、朝臣は、序列付けの為の姓としての意味を失ってしまい、公式文書で使う形式的なものになっていった。平安時代以降、公卿（三位以上及び参議）は、氏の下に朝臣、諱の下に公（大臣）ないし卿という敬称を以って称した。四位以下の者は氏、諱の下に姓をつけて呼称した。氏ではなく諱の下に朝臣とつけた者は特に名乗り朝臣という。 例　足利内大臣正二位源朝臣義政公（足利義政） 例　細川右京大夫従四位下源勝元朝臣（細川勝元）"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "朝臣"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Ason_(titre_japonais)"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q4807592"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q4807592"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ason"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/朝臣?oldid=58968723"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/朝臣"
+        }
+    ]
+}

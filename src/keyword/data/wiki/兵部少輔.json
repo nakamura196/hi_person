@@ -1,0 +1,479 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "兵部省（ひょうぶしょう、つわもののつかさ）はかつて日本にあった軍政（国防）を司る行政機関。 律令制下の八省の一つ 明治時代の省庁の一つ"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 302404
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "3000"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "105"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 56912398
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/王政復古_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河田景与"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/叙位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/任官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷲尾隆聚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/治安"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝廷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵馬司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の行政機関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/散位寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/省庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1872年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西郷隆盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1869年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海軍省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/次官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/858年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衛士"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/健児"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前原一誠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大内義隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衛門府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:国防省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月15日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権威"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天安_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/造兵司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/軍政_(行政)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四等官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山縣有朋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武器"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山田顕義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/主船司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/有栖川宮熾仁親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/川村純義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小松宮彰仁親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/馬寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/政府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/薩摩藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国防"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/隼人司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我通久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国大名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/船越衛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/主鷹司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/防衛省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/防衛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/軍務官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/人事"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大村益次郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長州藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勝海舟"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陸軍省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:廃止された日本の中央省庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田清隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/管轄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/征夷大将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鼓吹司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正七位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正八位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵庫寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/軍事"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Main"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Japanese-history-stub"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:国防省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:廃止された日本の中央省庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "兵部省（ひょうぶしょう、つわもののつかさ）はかつて日本にあった軍政（国防）を司る行政機関。 律令制下の八省の一つ 明治時代の省庁の一つ"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "兵部省"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Міністерство_війни_Японії"
+        },
+        {
+            "type": "uri",
+            "value": "http://vi.dbpedia.org/resource/Binh_Bộ_Tỉnh_(Nhật_Bản)"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q3276048"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ministry_of_the_Military"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/兵部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q3276048"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/兵部省?oldid=56912398"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/兵部省"
+        }
+    ]
+}

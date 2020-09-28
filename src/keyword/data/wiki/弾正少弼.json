@@ -1,0 +1,401 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "弾正台（だんじょうだい、彈正臺）は、律令制下の八省の一つ明治時代の省庁の一つ"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 172759
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "2775"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "76"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 59066337
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上杉謙信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/幕末"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久邇宮朝彦親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阿蘇氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍女"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大学校_(1869年)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/織田信長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/司法省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尊皇攘夷派"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/検非違使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神戸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/熊本県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三弾正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/刑部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/横井小楠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1560年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海江田信義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高坂昌信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/因事管隷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:戦前の京都"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1552年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二品"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東京大学_(1877-1886)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/嵯峨天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/百日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上杉景勝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/監察"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/歴名土代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/警察"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上益城郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の検察機関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/府藩県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大村益次郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:明治時代の政治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阿蘇家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山都町"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/永禄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/真田幸隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:廃止された日本の国家機関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天長節"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/市川栄之助"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/愛宕通旭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弾正尹"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四等官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武田氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上杉定勝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保科正俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清洲三奉行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加藤弘之"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1871年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1872年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1869年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1870年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二卿事件"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松永久秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/省庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天文_(元号)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/浜の館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古賀十郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/親王"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:法務省の歴史"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:明治時代の政治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:戦前の京都"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の検察機関"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:法務省の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:廃止された日本の国家機関"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "弾正台（だんじょうだい、彈正臺）は、律令制下の八省の一つ明治時代の省庁の一つ"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "弾正台"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/탄정대"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11487784"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11487784"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/弾正台?oldid=59066337"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/弾正台"
+        }
+    ]
+}

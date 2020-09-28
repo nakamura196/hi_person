@@ -1,0 +1,998 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "宮内省（くないしょう）は、1947年（昭和22年）まで日本に存在した官庁名。古代のものと近代のものがあり、近代のものが1949年（昭和24年）以降の宮内庁の前身となる。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 87484
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "5480"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "237"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58508040
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学習院院長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東京市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇宮警察_(宮内省)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高橋紘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/事務次官等の一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮内庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/田中光顕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本国憲法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東宮職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉井友実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1889年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1883年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1884年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1885年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1886年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1877年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1879年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1869年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/波多野敬直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土工司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内務次官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1947年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/園池司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1949年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1924年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文部大臣_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1908年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都国立博物館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外交官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/総理府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外務大臣_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/李王職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1900年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昭和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1999年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/古代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1994年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第二次世界大戦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2001年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正倉院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松平慶民"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月13日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/連合国軍最高司令官総司令部"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/医療"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一木喜徳郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陵墓"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/主水司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勅任官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南満州鉄道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1990年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東京大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/李氏朝鮮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/掌典職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内膳司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大膳職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ティアラ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内染司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:大日本帝国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東京国立博物館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中央省庁再編"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河井弥八"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大炊寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/湯浅倉平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東京府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宝律令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中公新書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中央公論社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/パリュール"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松平春嶽"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/少将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮内大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/警視総監"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/主油司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩倉具視"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松平容保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:廃止された日本の中央省庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中村雄次郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/采女司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/林野庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石渡荘太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩波新書"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩波書店"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/烏丸光徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大臣官房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内匠寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万里小路博房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1992年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮中祭祀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩倉具定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内大臣府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/司法省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近代日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/密偵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝鮮総督府政務総監"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/麹町区"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/掃部寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇室典範_(1889年)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/主殿寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇后宮職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇太后宮職"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正親司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮中顧問官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣総理大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/李王家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍補"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/王公族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/典薬寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官奴司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伯爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/華族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/農商務大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊藤博文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/掃除"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御物"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御歌所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土方久元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学習院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/造酒司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/修繕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/香淳皇后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四等官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/枢密院_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大蔵大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内掃部司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/筥陶司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御料林"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大久保利通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/帝室林野局"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:宮内庁の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月29日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大日本帝国陸軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/禁衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大日本帝国憲法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/食事"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/会計監査"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大韓帝国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御璽"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右弁官局"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/首相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/帝室博物館"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/帝室技芸員"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/男爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大蔵省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/司法大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇統譜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松平恒雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/親任官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺実則"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国璽"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/被官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田裕_(歴史学者)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内蔵寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/渡辺千秋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/子爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/農商務省_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/杉孫七郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内務省_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鍛冶司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/木工寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/牧野伸顕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外局"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞明皇后"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:JPN"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Commonscat"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Redirect"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:行政官庁"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主席閣僚氏名": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松平慶民"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万里小路博房"
+        }
+    ],
+    "http://ja.dbpedia.org/property/主席閣僚職名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "[[#歴代の宮内卿"
+        }
+    ],
+    "http://ja.dbpedia.org/property/後身": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮内庁"
+        }
+    ],
+    "http://ja.dbpedia.org/property/所在地": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "東京府東京市麹町区"
+        }
+    ],
+    "http://ja.dbpedia.org/property/改称年月日": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1949
+        }
+    ],
+    "http://ja.dbpedia.org/property/正式名称": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "宮内省"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "Imperial Household Ministry in Meiji Era.JPG"
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像サイズ": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 280
+        }
+    ],
+    "http://ja.dbpedia.org/property/画像説明": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "明治期の宮内省"
+        }
+    ],
+    "http://ja.dbpedia.org/property/紋章サイズ": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 100
+        }
+    ],
+    "http://ja.dbpedia.org/property/設置年月日": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 1869
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:宮内庁の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:律令制の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:廃止された日本の中央省庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:大日本帝国"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "宮内省（くないしょう）は、1947年（昭和22年）まで日本に存在した官庁名。古代のものと近代のものがあり、近代のものが1949年（昭和24年）以降の宮内庁の前身となる。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "宮内省"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q8193428"
+        },
+        {
+            "type": "uri",
+            "value": "http://vi.dbpedia.org/resource/Cung_nội_sảnh"
+        },
+        {
+            "type": "uri",
+            "value": "http://commons.dbpedia.org/resource/Category:Ministry_of_Imperial_Household"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/宫内省"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ministry_of_the_Imperial_Household"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q8193428"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/宮内省?oldid=58508040"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/宮内省"
+        }
+    ]
+}

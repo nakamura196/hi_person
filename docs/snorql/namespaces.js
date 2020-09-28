@@ -3,7 +3,7 @@ var D2R_namespacePrefixes = {
     "schema": "http://schema.org/",
     "type": "https://nakamura196.github.io/hi_person/term/type/",
     "chname": "https://nakamura196.github.io/hi_person/entity/chname/",
-    //"place": "https://jpsearch.go.jp/entity/place/",
+    "place": "https://nakamura196.github.io/hi_person/entity/place/",
     "time": "https://nakamura196.github.io/hi_person/entity/time/",
     //"work": "https://jpsearch.go.jp/entity/work/",
     //"role": "https://jpsearch.go.jp/term/role/",
@@ -23,6 +23,6 @@ var D2R_namespacePrefixes = {
     "emperor": "https://nakamura196.github.io/hi_person/entity/emperor/",
     "kani": "https://nakamura196.github.io/hi_person/term/kani/",
     "role": "https://nakamura196.github.io/hi_person/term/role/",
-    "term": "https://nakamura196.github.io/hi_person/term/"
+    "keyword": "https://nakamura196.github.io/hi_person/term/keyword/"
 };
 

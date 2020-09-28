@@ -1,0 +1,849 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "加賀国（かがのくに）は、かつて日本の地方行政区分だった令制国の一つ。北陸道に属する。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageExternalLink": [
+        {
+            "type": "uri",
+            "value": "http://www.rekihaku.ac.jp/up-cgi/login.pl?p=param/kyud/db_param"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.ishikawa-maibun.or.jp/boujisatu_page/description/index.html"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 13268
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "5127"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "176"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 57949413
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月29日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北陸道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/本保県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河北郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月31日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜式内社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月11日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原景通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月25日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/718年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藩庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富樫稙泰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月20日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月29日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月17日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/養老律令"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月20日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月22日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:加賀国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/金沢県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大海川"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田斉泰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田治脩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田宗辰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令制国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田慶寧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田斉広"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令制国一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富樫高家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福井県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大聖寺藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田綱紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田重教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田重煕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田重靖"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石部神社_(小松市)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/越国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小松市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/版籍奉還"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富樫泰高"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斯波義種"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斯波満種"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/金沢市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源頼房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大久保忠増"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大久保忠朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野々市市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1871年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1872年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/能登国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1869年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/廃藩置県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/比企朝宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白山市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白山比め神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/老中"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加賀郡_(加賀国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国分寺"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富樫教家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石川県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富樫昌家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富樫満春"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石川郡_(石川県)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/角川日本地名大辞典"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:北陸道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/守護"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加賀一向一揆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大化の改新"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大聖寺県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月17日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大久保忠顕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大久保忠愨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大久保忠真"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大久保忠方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大久保忠由"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国_(令制国)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富樫氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀末成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/692年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源義国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/689年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/かが_(護衛艦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弘仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大久保忠礼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/斯波義重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一向一揆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅生石部神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大久保忠良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/郷長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/敦賀県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富樫成春"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富樫持春"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小田原藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江沼郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/825年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/823年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原師高"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の旧国名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/能美市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/熊坂荘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/841年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富樫氏春"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月2日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大聖寺新田藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富樫政親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白山比咩神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月17日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治維新"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/逃散"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/相模国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/荘園_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:石川県の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/総社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加賀市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/越後国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/能美郡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/かほく市"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/越前国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/式内社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/越中国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/持統天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加藤氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月14日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加賀_(空母)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/郡司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加賀藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承和_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一宮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延喜式神名帳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/富樫満成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/赤松政則"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名越朝時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月10日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足羽県"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Reflist"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Refnest"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:令制国地図_(令制国テンプレート用)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:令制国一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:Commonscat"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:基礎情報_令制国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/一宮": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白山比咩神社"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/白山市"
+        }
+    ],
+    "http://ja.dbpedia.org/property/別称": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "加州（かしゅう）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国分寺": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "（推定）石川県小松市"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国分尼寺": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "（未詳）"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国力": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国名": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "加賀国"
+        }
+    ],
+    "http://ja.dbpedia.org/property/国府": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "石川県小松市"
+        }
+    ],
+    "http://ja.dbpedia.org/property/所属": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北陸道"
+        }
+    ],
+    "http://ja.dbpedia.org/property/距離": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中国_(令制国)"
+        }
+    ],
+    "http://ja.dbpedia.org/property/郡": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 4
+        }
+    ],
+    "http://ja.dbpedia.org/property/領域": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石川県"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:加賀国"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の旧国名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:石川県の歴史"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:北陸道"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "加賀国（かがのくに）は、かつて日本の地方行政区分だった令制国の一つ。北陸道に属する。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "加賀国"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://nl.dbpedia.org/resource/Kaga_(provincie)"
+        },
+        {
+            "type": "uri",
+            "value": "http://lt.dbpedia.org/resource/Kagos_provincija"
+        },
+        {
+            "type": "uri",
+            "value": "http://simple.dbpedia.org/resource/Kaga_Province"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Provinz_Kaga"
+        },
+        {
+            "type": "uri",
+            "value": "http://sk.dbpedia.org/resource/Kaga_(provincia)"
+        },
+        {
+            "type": "uri",
+            "value": "http://gl.dbpedia.org/resource/Provincia_de_Kaga"
+        },
+        {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Кага_(провинция)"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q907469"
+        },
+        {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Kaga_(provincia)"
+        },
+        {
+            "type": "uri",
+            "value": "http://fa.dbpedia.org/resource/ولایت_کاگا"
+        },
+        {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Kaga_Province"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q907469"
+        },
+        {
+            "type": "uri",
+            "value": "http://id.dbpedia.org/resource/Provinsi_Kaga"
+        },
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/가가_국"
+        },
+        {
+            "type": "uri",
+            "value": "http://fi.dbpedia.org/resource/Kagan_provinssi"
+        },
+        {
+            "type": "uri",
+            "value": "http://cs.dbpedia.org/resource/Provincie_Kaga"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/加賀國"
+        },
+        {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Província_de_Kaga"
+        },
+        {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Провінція_Каґа"
+        },
+        {
+            "type": "uri",
+            "value": "http://eo.dbpedia.org/resource/Kaga_(provinco)"
+        },
+        {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Province_de_Kaga"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/加賀国?oldid=57949413"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/加賀国"
+        }
+    ]
+}

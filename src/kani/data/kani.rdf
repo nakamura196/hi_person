@@ -1,0 +1,1910 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="https://nakamura196.github.io/hi_person/term/type/"
+  xmlns:ns2="http://www.w3.org/2004/02/skos/core#"
+  xmlns:ns3="http://schema.org/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:ns4="https://nakamura196.github.io/hi_person/term/keyword/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:ns5="http://www.w3.org/2002/07/owl#"
+>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内大臣.json">
+    <rdfs:label>内大臣</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+    <ns3:name>ないだいじん</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正二位.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従二位.json"/>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/内大臣"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主殿頭.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>主殿頭</rdfs:label>
+    <ns3:name>とのものかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内蔵少允.json">
+    <ns3:name>くらのしょうじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位下.json"/>
+    <rdfs:label>内蔵少允</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左京大夫.json">
+    <ns3:name>さきょうだいぶ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json"/>
+    <rdfs:label>左京大夫</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/京職.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/紀伊守.json">
+    <rdfs:label>紀伊守</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>きいのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/紀伊国.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左近衛権少将.json">
+    <rdfs:label>左近衛権少将</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json"/>
+    <ns3:name>さこのえごんしょうしょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/下総守.json">
+    <ns3:name>しもうさのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/下総国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>下総守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大膳大進.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+    <ns3:name>たいぜんたいじょう</ns3:name>
+    <rdfs:label>大膳大進</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/西市正.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+    <rdfs:label>西市正</rdfs:label>
+    <ns3:name>にしのいちのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/蔵人.json">
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/蔵人別当.json">
+        <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/蔵人"/>
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/蔵人"/>
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正二位.json"/>
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/蔵人所.json"/>
+        <rdfs:label>蔵人別当</rdfs:label>
+        <ns3:name>くろんどべっとう</ns3:name>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/蔵人頭.json">
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位上.json"/>
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/蔵人所.json"/>
+        <rdfs:label>蔵人頭</rdfs:label>
+        <ns3:name>くろうどのとう</ns3:name>
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/蔵人"/>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/蔵人"/>
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/六位蔵人.json">
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+        <rdfs:label>六位蔵人</rdfs:label>
+        <ns3:name>ろくいのくろうど</ns3:name>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/蔵人所.json"/>
+    <rdfs:label>蔵人</rdfs:label>
+    <ns3:name>くろんど</ns3:name>
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/五位蔵人.json">
+        <ns3:name>ごいのくろうど</ns3:name>
+        <rdfs:label>五位蔵人</rdfs:label>
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/式部大輔.json">
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/式部省"/>
+    <ns3:isPartOf>
+      <ns1:省.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/式部省.json">
+        <ns3:name>しきぶしょう</ns3:name>
+        <rdfs:label>式部省</rdfs:label>
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/式部省"/>
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/省.json"/>
+      </ns1:省.json>
+    </ns3:isPartOf>
+    <ns3:name>しきぶたいふ</ns3:name>
+    <rdfs:label>式部大輔</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/参議.json">
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/相公"/>
+    <ns3:name>宰相</ns3:name>
+    <ns3:name>相公</ns3:name>
+    <ns3:name>さんぎ</ns3:name>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/宰相"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/参議"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正四位下.json"/>
+    <rdfs:label>参議</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/権大納言.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正三位.json"/>
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大納言.json">
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正三位.json"/>
+        <ns3:name>だいなごん</ns3:name>
+        <ns3:name>亜相</ns3:name>
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/大納言"/>
+        <rdfs:label>大納言</rdfs:label>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+    <rdfs:label>権大納言</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+    <ns3:name>ごんだいなごん</ns3:name>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/権官"/>
+  </ns1:役職.json>
+  <ns1:地位.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/別当.json">
+    <rdfs:label>別当</rdfs:label>
+    <ns3:name>べっとう</ns3:name>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/別当"/>
+  </ns1:地位.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/東市正.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+    <ns3:name>ひがしのいちのかみ</ns3:name>
+    <rdfs:label>東市正</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右近衛少将.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json"/>
+    <rdfs:label>右近衛少将</rdfs:label>
+    <ns3:name>右少将</ns3:name>
+    <ns3:name>うこのえしょうしょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右馬助.json">
+    <rdfs:label>右馬助</rdfs:label>
+    <ns3:name>うまのすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正親正.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+    <rdfs:label>正親正</rdfs:label>
+    <ns3:name>おおきみのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/縫殿助.json">
+    <ns3:name>ぬいどののすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <rdfs:label>縫殿助</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右大史.json">
+    <rdfs:label>右大史</rdfs:label>
+    <ns3:name>うだいき</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/和泉守.json">
+    <ns3:name>いずみのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/和泉国.json"/>
+    <rdfs:label>和泉守</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/土佐守.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>土佐守</rdfs:label>
+    <ns3:name>とさのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/長門守.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <rdfs:label>長門守</rdfs:label>
+    <ns3:name>ながとのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/民部大丞.json">
+    <ns3:name>みんぶだいじょう</ns3:name>
+    <rdfs:label>民部大丞</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/権中納言.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従三位.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+    <rdfs:label>権中納言</rdfs:label>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/権官"/>
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/中納言.json">
+        <rdfs:label>中納言</rdfs:label>
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従三位.json"/>
+        <ns3:name>ちゅうなごん</ns3:name>
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/中納言"/>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/中納言"/>
+    <ns3:name>ごんちゅうなごん</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/修理亮.json">
+    <rdfs:label>修理亮</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>しゅうりのすけ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内蔵助.json">
+    <rdfs:label>内蔵助</rdfs:label>
+    <ns3:name>くらのすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/修理少進.json">
+    <rdfs:label>修理少進</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+    <ns3:name>しゅうりしょうじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大内記.json">
+    <ns3:name>だいないき</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+    <rdfs:label>大内記</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/下野守.json">
+    <rdfs:label>下野守</rdfs:label>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/下野国.json"/>
+    <ns3:name>しもつけのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/安房守.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>安房守</rdfs:label>
+    <ns3:name>あわのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/頭弁.json">
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/頭弁"/>
+    <ns3:name>とうのべん</ns3:name>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/弁官"/>
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/弁官.json">
+        <ns2:relatedMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/右中弁.json"/>
+        <rdfs:label>弁官</rdfs:label>
+        <ns2:relatedMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/右大弁.json"/>
+        <ns3:name>べんかん</ns3:name>
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+        <ns2:relatedMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/左大弁.json"/>
+        <ns2:relatedMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/左中弁.json"/>
+        <ns2:relatedMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/左少弁.json"/>
+        <ns2:relatedMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/右少弁.json"/>
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/弁官"/>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+    <rdfs:label>頭弁</rdfs:label>
+    <ns2:relatedMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/蔵人頭.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主殿少允.json">
+    <rdfs:label>主殿少允</rdfs:label>
+    <ns3:name>とのものしょうじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/安芸守.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>安芸守</rdfs:label>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/安芸国.json"/>
+    <ns3:name>あきのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職その他.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/上卿.json">
+    <ns3:name>じょうけい</ns3:name>
+    <ns3:name>しょうけい</ns3:name>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/上卿"/>
+    <rdfs:label>上卿</rdfs:label>
+  </ns1:役職その他.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/縫殿少允.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位下.json"/>
+    <rdfs:label>縫殿少允</rdfs:label>
+    <ns3:name>ぬいどのしょうじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左近将監.json">
+    <rdfs:label>左近将監</rdfs:label>
+    <ns3:name>左将監</ns3:name>
+    <ns3:name>さこんしょうげん</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/上総守.json">
+    <ns3:name>かずさのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>上総守</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/上総国.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/宮内少丞.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <ns3:name>くないしょうじょう</ns3:name>
+    <rdfs:label>宮内少丞</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/西市佑.json">
+    <ns3:name>にしのいちのすけ</ns3:name>
+    <rdfs:label>西市佑</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位下.json"/>
+  </ns1:役職.json>
+  <ns4:令外官.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/修理職.json">
+    <ns3:name>しゅりしき</ns3:name>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/修理職"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/令外官.json"/>
+    <rdfs:label>修理職</rdfs:label>
+  </ns4:令外官.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/太宰帥.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太宰府.json"/>
+    <rdfs:label>太宰帥</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従三位.json"/>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/太宰帥"/>
+    <ns3:name>だざいそち</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/但馬守.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/但馬国.json"/>
+    <ns3:name>たじまのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>但馬守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/出羽介.json">
+    <ns3:name>でわのすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <rdfs:label>出羽介</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右兵衛尉.json">
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右兵衛少尉.json">
+        <rdfs:label>右兵衛少尉</rdfs:label>
+        <ns3:name>うひょうえしょうじょう</ns3:name>
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右兵衛大尉.json">
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+        <ns3:name>うひょうえたいじょう</ns3:name>
+        <rdfs:label>右兵衛大尉</rdfs:label>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <ns3:name>うひょうえじょう</ns3:name>
+    <rdfs:label>右兵衛尉</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内蔵佑.json">
+    <ns3:name>くらのすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位下.json"/>
+    <rdfs:label>内蔵佑</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/太宰少弐.json">
+    <ns3:name>だざいしょうに</ns3:name>
+    <rdfs:label>太宰少弐</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太宰府.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/相模守.json">
+    <ns3:name>さがみのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/相模国.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>相模守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主計少允.json">
+    <ns3:name>かずえのしょうじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+    <rdfs:label>主計少允</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/修理大夫.json">
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/修理職"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位上.json"/>
+    <ns3:name>しゅりだいぶ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/令外官.json"/>
+    <rdfs:label>修理大夫</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右京少進.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+    <rdfs:label>右京少進</rdfs:label>
+    <ns3:name>うきょうしょうじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/木工大允.json">
+    <ns3:name>もくのたいじょう</ns3:name>
+    <rdfs:label>木工大允</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/造酒佑.json">
+    <ns3:name>みきのすけ</ns3:name>
+    <rdfs:label>造酒佑</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/壱岐守.json">
+    <ns3:name>いきのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/壱岐国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>壱岐守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大炊大允.json">
+    <rdfs:label>大炊大允</rdfs:label>
+    <ns3:name>おおいのたいじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/奉膳.json">
+    <ns3:name>ぶぜん</ns3:name>
+    <rdfs:label>奉膳</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左京大進.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+    <rdfs:label>左京大進</rdfs:label>
+    <ns3:name>さきょうたいじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/頭権中将.json">
+    <ns3:name>とうのごんちゅうじょう</ns3:name>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/頭中将"/>
+    <rdfs:label>頭権中将</rdfs:label>
+    <ns2:relatedMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/蔵人頭.json"/>
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/近衛中将.json">
+        <ns3:name>このえちゅうじょう</ns3:name>
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json"/>
+        <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/近衛府"/>
+        <ns2:relatedMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/右近衛中将.json"/>
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/近衛府.json"/>
+        <ns2:relatedMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/左近衛中将.json"/>
+        <rdfs:label>近衛中将</rdfs:label>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/権官"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/近江守.json">
+    <rdfs:label>近江守</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <ns3:name>おうみのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/近江国.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/三河守.json">
+    <ns3:name>みかわのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/三河国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>三河守</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/上野介.json">
+    <ns3:name>こうずけのすけ</ns3:name>
+    <rdfs:label>上野介</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/若狭守.json">
+    <ns3:name>わかさのかみ</ns3:name>
+    <rdfs:label>若狭守</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/治部卿.json">
+    <ns3:name>じぶきょう</ns3:name>
+    <ns3:isPartOf>
+      <ns1:省.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/治部省.json">
+        <ns3:name>じぶしょう</ns3:name>
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/省.json"/>
+        <rdfs:label>治部省</rdfs:label>
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/治部省"/>
+      </ns1:省.json>
+    </ns3:isPartOf>
+    <rdfs:label>治部卿</rdfs:label>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/治部省"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正四位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/兵庫大記.json">
+    <rdfs:label>兵庫大記</rdfs:label>
+    <ns3:name>ひょうごのたいじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/志摩守.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+    <ns3:name>しまのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/志摩国.json"/>
+    <rdfs:label>志摩守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左少史.json">
+    <ns3:name>さしょうし</ns3:name>
+    <rdfs:label>左少史</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/修理大進.json">
+    <ns3:name>しゅうりたいじょう</ns3:name>
+    <rdfs:label>修理大進</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/刑部少輔.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>刑部少輔</rdfs:label>
+    <ns3:name>ぎょうぶしょうゆう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大蔵大輔.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json"/>
+    <ns3:name>おおくらたいふ</ns3:name>
+    <ns3:isPartOf>
+      <ns1:省.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大蔵省.json">
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/省.json"/>
+        <rdfs:label>大蔵省</rdfs:label>
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/大蔵省"/>
+        <ns3:name>おおくらしょう</ns3:name>
+      </ns1:省.json>
+    </ns3:isPartOf>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/大蔵省"/>
+    <rdfs:label>大蔵大輔</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/式部大丞.json">
+    <rdfs:label>式部大丞</rdfs:label>
+    <ns3:name>しきぶたいじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右衛門尉.json">
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右衛門大尉.json">
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+        <rdfs:label>右衛門大尉</rdfs:label>
+        <ns3:name>うえもんたいじょう</ns3:name>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右衛門少尉.json">
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+        <rdfs:label>右衛門少尉</rdfs:label>
+        <ns3:name>うえもんしょうじょう</ns3:name>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+    <ns3:name>右衛門大夫</ns3:name>
+    <rdfs:label>右衛門尉</rdfs:label>
+    <ns3:name>うえもんじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/山城守.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/山城国.json"/>
+    <rdfs:label>山城守</rdfs:label>
+    <ns3:name>やましろのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右近衛権少将.json">
+    <rdfs:label>右近衛権少将</rdfs:label>
+    <ns3:name>うこのえごんしょうしょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主馬首.json">
+    <rdfs:label>主馬首</rdfs:label>
+    <ns3:name>しゅめのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右大臣.json">
+    <rdfs:label>右大臣</rdfs:label>
+    <ns3:name>うだいじん</ns3:name>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/右大臣"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正二位.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従二位.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/駿河守.json">
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/駿河国.json"/>
+    <rdfs:label>駿河守</rdfs:label>
+    <ns3:name>するがのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内蔵正.json">
+    <ns3:name>くらのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+    <rdfs:label>内蔵正</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大舎人少允.json">
+    <ns3:name>おおとねりのしょうじょう</ns3:name>
+    <rdfs:label>大舎人少允</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/伊賀守.json">
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/伊賀国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:name>いがのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+    <rdfs:label>伊賀守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左衛門尉.json">
+    <ns3:name>左衛門大夫</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <rdfs:label>左衛門尉</rdfs:label>
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左衛門少尉.json">
+        <rdfs:label>左衛門少尉</rdfs:label>
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+        <ns3:name>さえもんしょうじょう</ns3:name>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+    <ns3:name>さえもんじょう</ns3:name>
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左衛門大尉.json">
+        <rdfs:label>左衛門大尉</rdfs:label>
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+        <ns3:name>さえもんたいじょう</ns3:name>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/木工助.json">
+    <rdfs:label>木工助</rdfs:label>
+    <ns3:name>もくのすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/周防守.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>すおうのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/周防国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>周防守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/兵部少輔.json">
+    <rdfs:label>兵部少輔</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>ひょうぶしょうゆう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右京亮.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>右京亮</rdfs:label>
+    <ns3:name>うきょうのすけ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左馬頭.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <ns3:name>さまのかみ</ns3:name>
+    <rdfs:label>左馬頭</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大学頭.json">
+    <rdfs:label>大学頭</rdfs:label>
+    <ns3:name>だいがくのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内匠助.json">
+    <ns3:name>たくみのすけ</ns3:name>
+    <rdfs:label>内匠助</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/帯刀先生.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <ns3:name>たちはきせんじょう</ns3:name>
+    <rdfs:label>帯刀先生</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左近衛少将.json">
+    <rdfs:label>左近衛少将</rdfs:label>
+    <ns3:name>さこのえしょうしょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json"/>
+    <ns3:name>左少将</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左衛門佐.json">
+    <rdfs:label>左衛門佐</rdfs:label>
+    <ns3:name>さえもんのすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右衛門佐.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <rdfs:label>右衛門佐</rdfs:label>
+    <ns3:name>うえもんのすけ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/刑部大丞.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <rdfs:label>刑部大丞</rdfs:label>
+    <ns3:name>ぎょうぶだいじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/常陸守.json">
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/常陸国.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <ns3:name>ひたちのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>常陸守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/対馬守.json">
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/対馬国.json"/>
+    <ns3:name>つしまのかみ</ns3:name>
+    <rdfs:label>対馬守</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右馬少允.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+    <rdfs:label>右馬少允</rdfs:label>
+    <ns3:name>うまのしょうじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/掃部頭.json">
+    <ns3:name>かもんのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>掃部頭</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/阿波守.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/阿波国.json"/>
+    <ns3:name>あわのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>阿波守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/東市佑.json">
+    <ns3:name>ひがしのいちのすけ</ns3:name>
+    <rdfs:label>東市佑</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主税大允.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位下.json"/>
+    <ns3:name>ちからのたいじょう</ns3:name>
+    <rdfs:label>主税大允</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/弾正大弼.json">
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/弾正台"/>
+    <ns3:name>だんじょうだいひつ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/弾正台.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json"/>
+    <rdfs:label>弾正大弼</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/尾張守.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/尾張国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>尾張守</rdfs:label>
+    <ns3:name>おわりのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大膳大夫.json">
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/大膳職"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位上.json"/>
+    <rdfs:label>大膳大夫</rdfs:label>
+    <ns3:name>だいぜんだいぶ</ns3:name>
+    <ns3:isPartOf>
+      <ns1:省.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json">
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/宮内省"/>
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/省.json"/>
+        <rdfs:label>宮内省</rdfs:label>
+        <ns3:name>くないしょう</ns3:name>
+      </ns1:省.json>
+    </ns3:isPartOf>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/出雲守.json">
+    <ns3:name>いずものかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/出雲国.json"/>
+    <rdfs:label>出雲守</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大炊頭.json">
+    <ns3:name>おおいのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>大炊頭</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/石見守.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <rdfs:label>石見守</rdfs:label>
+    <ns3:name>いわみのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/侍従.json">
+    <ns3:name>じじゅう</ns3:name>
+    <rdfs:label>侍従</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+  </ns1:役職.json>
+  <ns1:官司.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大膳職.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+    <ns3:name>だいぜんしき</ns3:name>
+    <rdfs:label>大膳職</rdfs:label>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/大膳職"/>
+  </ns1:官司.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/薩摩守.json">
+    <rdfs:label>薩摩守</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:name>さつまのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左兵衛尉.json">
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左兵衛大尉.json">
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+        <ns3:name>さひょうえたいじょう</ns3:name>
+        <rdfs:label>左兵衛大尉</rdfs:label>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+    <ns3:name>さひょうえじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <rdfs:label>左兵衛尉</rdfs:label>
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左兵衛少尉.json">
+        <rdfs:label>左兵衛少尉</rdfs:label>
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+        <ns3:name>さひょうえしょうじょう</ns3:name>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左衛門督.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/衛門府.json"/>
+    <ns3:name>さえもんのかみ</ns3:name>
+    <rdfs:label>左衛門督</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/玄蕃頭.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <ns3:name>げんぱのかみ</ns3:name>
+    <rdfs:label>玄蕃頭</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/近衛大将.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/近衛府.json"/>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/近衛大将"/>
+    <ns3:name>このえたいしょう</ns3:name>
+    <ns3:name>大将</ns3:name>
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右近衛大将.json">
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/近衛府.json"/>
+        <ns3:name>右大将</ns3:name>
+        <ns3:name>うこのえたいしょう</ns3:name>
+        <rdfs:label>右近衛大将</rdfs:label>
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従三位.json"/>
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/近衛大将"/>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従三位.json"/>
+    <rdfs:label>近衛大将</rdfs:label>
+    <ns2:relatedMatch>
+      <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左近衛大将.json">
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/近衛大将"/>
+        <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従三位.json"/>
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/近衛府.json"/>
+        <ns3:name>さこのえたいしょう</ns3:name>
+        <ns3:name>左大将</ns3:name>
+        <rdfs:label>左近衛大将</rdfs:label>
+      </ns1:役職.json>
+    </ns2:relatedMatch>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大膳亮.json">
+    <ns3:name>たいぜんのすけ</ns3:name>
+    <rdfs:label>大膳亮</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/刑部卿.json">
+    <ns3:isPartOf>
+      <ns1:省.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/刑部省.json">
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/省.json"/>
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/刑部省"/>
+        <ns3:name>ぎょうぶしょう</ns3:name>
+        <rdfs:label>刑部省</rdfs:label>
+      </ns1:省.json>
+    </ns3:isPartOf>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/刑部省"/>
+    <ns3:name>ぎょうぶきょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正四位下.json"/>
+    <rdfs:label>刑部卿</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/刑部少丞.json">
+    <rdfs:label>刑部少丞</rdfs:label>
+    <ns3:name>ぎょうぶしょうじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大蔵大丞.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <ns3:name>おおくらだいじょう</ns3:name>
+    <rdfs:label>大蔵大丞</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主殿首.json">
+    <ns3:name>とのもりのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+    <rdfs:label>主殿首</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/上野守.json">
+    <rdfs:label>上野守</rdfs:label>
+    <ns3:name>こうずけのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/上野国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/中務少輔.json">
+    <rdfs:label>中務少輔</rdfs:label>
+    <ns3:name>なかつかさしょうゆう</ns3:name>
+    <ns3:isPartOf>
+      <ns1:省.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/中務省.json">
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/省.json"/>
+        <rdfs:label>中務省</rdfs:label>
+        <ns3:name>ちゅうむしょう</ns3:name>
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/中務省"/>
+      </ns1:省.json>
+    </ns3:isPartOf>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主計助.json">
+    <ns3:name>かずえのすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <rdfs:label>主計助</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/太宰大弐.json">
+    <rdfs:label>太宰大弐</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json"/>
+    <ns3:name>だざいだいに</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太宰府.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/式部少輔.json">
+    <rdfs:label>式部少輔</rdfs:label>
+    <ns3:name>しきぶしょうゆう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/伯耆守.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>ほうきのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/伯耆国.json"/>
+    <rdfs:label>伯耆守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/伊予守.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>伊予守</rdfs:label>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/伊予国.json"/>
+    <ns3:name>いよのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大監物.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>だいけんもつ</ns3:name>
+    <rdfs:label>大監物</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右京大夫.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/京職.json"/>
+    <rdfs:label>右京大夫</rdfs:label>
+    <ns3:name>うきょうだいぶ</ns3:name>
+    <ns3:name>右京兆</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/宮内大輔.json">
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/宮内省"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+    <ns3:name>くないたいふ</ns3:name>
+    <rdfs:label>宮内大輔</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大炊助.json">
+    <rdfs:label>大炊助</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <ns3:name>おおいのすけ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/河内守.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <rdfs:label>河内守</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:name>かわちのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/河内国.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/越後守.json">
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/越後国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>越後守</rdfs:label>
+    <ns3:name>えちごのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主税助.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <rdfs:label>主税助</rdfs:label>
+    <ns3:name>ちからのすけ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内膳正.json">
+    <ns3:name>ないぜんのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+    <rdfs:label>内膳正</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/式部卿.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正四位下.json"/>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/式部省"/>
+    <ns3:name>しきぶきょう</ns3:name>
+    <rdfs:label>式部卿</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/式部省.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大隅守.json">
+    <ns3:name>おおすみのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <rdfs:label>大隅守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/雅楽大允.json">
+    <rdfs:label>雅楽大允</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位下.json"/>
+    <ns3:name>うたのたいじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/越前守.json">
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/越前国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:name>えちぜんのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <rdfs:label>越前守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/上総介.json">
+    <ns3:name>かずさのすけ</ns3:name>
+    <rdfs:label>上総介</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/加賀守.json">
+    <ns3:name>かがのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/加賀国.json"/>
+    <rdfs:label>加賀守</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左大臣.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従二位.json"/>
+    <rdfs:label>左大臣</rdfs:label>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/左大臣"/>
+    <ns3:name>さだいじん</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正二位.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内匠頭.json">
+    <rdfs:label>内匠頭</rdfs:label>
+    <ns3:name>たくみのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/摂津守.json">
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/摂津国.json"/>
+    <rdfs:label>摂津守</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:name>せっつのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右衛門督.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/衛門府.json"/>
+    <rdfs:label>右衛門督</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json"/>
+    <ns3:name>うえもんのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/図書少允.json">
+    <rdfs:label>図書少允</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+    <ns3:name>ずしょのしょうじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/肥後守.json">
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/肥後国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:name>ひごのかみ</ns3:name>
+    <rdfs:label>肥後守</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/越中守.json">
+    <ns3:name>えっちゅうのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>越中守</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/越中国.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/雅楽少允.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+    <rdfs:label>雅楽少允</rdfs:label>
+    <ns3:name>うたのしょうじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/典膳.json">
+    <rdfs:label>典膳</rdfs:label>
+    <ns3:name>てんぜん</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/豊後守.json">
+    <ns3:name>ぶんごのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>豊後守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:敬称.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/朝臣.json">
+    <rdfs:label>朝臣</rdfs:label>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/朝臣"/>
+    <ns3:name>あそん</ns3:name>
+  </ns1:敬称.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/勘解由使.json">
+    <rdfs:label>勘解由使</rdfs:label>
+    <ns3:name>かげゆし</ns3:name>
+    <ns3:name>勾勘</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/令外官.json"/>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/勘解由使"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/中務卿.json">
+    <ns3:name>なかつかさきょう</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/中務省.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正四位上.json"/>
+    <rdfs:label>中務卿</rdfs:label>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/中務省"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/頭中将.json">
+    <ns3:name>とうのちゅうじょう</ns3:name>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/頭中将"/>
+    <ns2:relatedMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/蔵人頭.json"/>
+    <ns2:relatedMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/近衛中将.json"/>
+    <rdfs:label>頭中将</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/淡路守.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>淡路守</rdfs:label>
+    <ns3:name>あわじのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/淡路国.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/雅楽頭.json">
+    <rdfs:label>雅楽頭</rdfs:label>
+    <ns3:name>うたのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/備前守.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>備前守</rdfs:label>
+    <ns3:name>びぜんのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/備前国.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/弾正少弼.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json"/>
+    <rdfs:label>弾正少弼</rdfs:label>
+    <ns3:name>だんじょうしょうひつ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/日向守.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>日向守</rdfs:label>
+    <ns3:name>ひゅうがのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/丹波守.json">
+    <ns3:name>たんばのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/丹波国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>丹波守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大学少允.json">
+    <rdfs:label>大学少允</rdfs:label>
+    <ns3:name>だいがくのしょうじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/中務大輔.json">
+    <rdfs:label>中務大輔</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位上.json"/>
+    <ns3:name>なかつかさたいふ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/中務省.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/勘解由長官.json">
+    <rdfs:label>勘解由長官</rdfs:label>
+    <ns3:name>かげゆのかみ</ns3:name>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/勘解由使"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/令外官.json"/>
+  </ns1:役職.json>
+  <ns1:官庁名.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/神祇官.json">
+    <ns3:name>かんづかさ</ns3:name>
+    <rdfs:label>神祇官</rdfs:label>
+    <ns3:name>じんぎかん</ns3:name>
+    <ns3:name>かみづかさ</ns3:name>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/神祇官"/>
+  </ns1:官庁名.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/出羽守.json">
+    <ns3:name>でわのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/出羽国.json"/>
+    <rdfs:label>出羽守</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/佐渡守.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:name>さどのかみ</ns3:name>
+    <rdfs:label>佐渡守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/刑部大輔.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/刑部省.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json"/>
+    <rdfs:label>刑部大輔</rdfs:label>
+    <ns3:name>ぎょうぶたいふ</ns3:name>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/刑部省"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/甲斐守.json">
+    <ns3:name>かいのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/甲斐国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>甲斐守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左馬少允.json">
+    <ns3:name>さまのしょうじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+    <rdfs:label>左馬少允</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/治部大輔.json">
+    <ns3:name>じぶたいふ</ns3:name>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/治部省"/>
+    <rdfs:label>治部大輔</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/治部省.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/美濃守.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/美濃国.json"/>
+    <rdfs:label>美濃守</rdfs:label>
+    <ns3:name>みののかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大舎人頭.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <rdfs:label>大舎人頭</rdfs:label>
+    <ns3:name>おおとねりのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/太政大臣.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/太政大臣"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正一位.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従一位.json"/>
+    <rdfs:label>太政大臣</rdfs:label>
+    <ns3:name>だじょうだいじん</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/兵部大輔.json">
+    <ns3:isPartOf>
+      <ns1:省.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/兵部省.json">
+        <rdfs:label>兵部省</rdfs:label>
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/兵部省"/>
+        <ns3:name>ひょうぶしょう</ns3:name>
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/省.json"/>
+      </ns1:省.json>
+    </ns3:isPartOf>
+    <rdfs:label>兵部大輔</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json"/>
+    <ns3:name>ひょうぶたいふ</ns3:name>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/兵部省"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大炊少允.json">
+    <ns3:name>おおいのしょうじょう</ns3:name>
+    <rdfs:label>大炊少允</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主蔵正.json">
+    <rdfs:label>主蔵正</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <ns3:name>くらのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/兵部卿.json">
+    <rdfs:label>兵部卿</rdfs:label>
+    <ns3:name>ひょうぶきょう</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/兵部省.json"/>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/兵部省"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正四位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/少外記.json">
+    <ns3:name>しょうげき</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+    <rdfs:label>少外記</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左兵衛佐.json">
+    <rdfs:label>左兵衛佐</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <ns3:name>さひょうえのすけ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/宮内少輔.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>くないしょうゆう</ns3:name>
+    <rdfs:label>宮内少輔</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/民部大輔.json">
+    <rdfs:label>民部大輔</rdfs:label>
+    <ns3:name>みんぶたいふ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json"/>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/民部省"/>
+    <ns3:isPartOf>
+      <ns1:省.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/民部省.json">
+        <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/民部省"/>
+        <rdfs:label>民部省</rdfs:label>
+        <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/省.json"/>
+        <ns3:name>みんぶしょう</ns3:name>
+      </ns1:省.json>
+    </ns3:isPartOf>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/伊豆守.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/伊豆国.json"/>
+    <ns3:name>いずのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+    <rdfs:label>伊豆守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右馬頭.json">
+    <ns3:name>うまのかみ</ns3:name>
+    <rdfs:label>右馬頭</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/飛騨守.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>飛騨守</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/飛騨国.json"/>
+    <ns3:name>ひだのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主税少允.json">
+    <ns3:name>ちからのしょうじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+    <rdfs:label>主税少允</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/正親佑.json">
+    <rdfs:label>正親佑</rdfs:label>
+    <ns3:name>おおきみのすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/兵庫助.json">
+    <rdfs:label>兵庫助</rdfs:label>
+    <ns3:name>ひょうごのすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右兵衛督.json">
+    <ns3:name>うひょうえのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/兵衛府.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json"/>
+    <rdfs:label>右兵衛督</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左馬助.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <ns3:name>さまのすけ</ns3:name>
+    <rdfs:label>左馬助</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/少内記.json">
+    <rdfs:label>少内記</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+    <ns3:name>しょうないき</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右近将監.json">
+    <ns3:name>うこんしょうげん</ns3:name>
+    <rdfs:label>右近将監</rdfs:label>
+    <ns3:name>右将監</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左馬大記.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+    <rdfs:label>左馬大記</rdfs:label>
+    <ns3:name>さまのたいじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大和守.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <ns3:name>やまとのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>大和守</rdfs:label>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/大和国.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/玄蕃助.json">
+    <ns3:name>げんぱのすけ</ns3:name>
+    <rdfs:label>玄蕃助</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大舎人大允.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位下.json"/>
+    <ns3:name>おおとねりのたいじょう</ns3:name>
+    <rdfs:label>大舎人大允</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/隼人正.json">
+    <rdfs:label>隼人正</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <ns3:name>はやとのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/図書頭.json">
+    <ns3:name>ずしょのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <rdfs:label>図書頭</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/武蔵守.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/武蔵国.json"/>
+    <rdfs:label>武蔵守</rdfs:label>
+    <ns3:name>むさしのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/縫殿頭.json">
+    <ns3:name>ぬいどののかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>縫殿頭</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/釆女正.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <rdfs:label>釆女正</rdfs:label>
+    <ns3:name>うねめのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/中務少丞.json">
+    <ns3:name>なかつかさしょうじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/省.json"/>
+    <rdfs:label>中務少丞</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主計大允.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位下.json"/>
+    <rdfs:label>主計大允</rdfs:label>
+    <ns3:name>かずえのたいじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内匠大允.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位下.json"/>
+    <ns3:name>たくみのたいじょう</ns3:name>
+    <rdfs:label>内匠大允</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/兵庫頭.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <rdfs:label>兵庫頭</rdfs:label>
+    <ns3:name>ひょうごのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/能登守.json">
+    <rdfs:label>能登守</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:name>のとのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/弾正尹.json">
+    <ns3:name>だんじょういん</ns3:name>
+    <rdfs:label>弾正尹</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/弾正台.json"/>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/弾正尹"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従三位.json"/>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/弾正台"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/伊勢守.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <rdfs:label>伊勢守</rdfs:label>
+    <ns3:name>いせのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/伊勢国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大蔵少輔.json">
+    <rdfs:label>大蔵少輔</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>おおくらしょうゆう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/播磨守.json">
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/播磨国.json"/>
+    <rdfs:label>播磨守</rdfs:label>
+    <ns3:name>はりまのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右兵衛佐.json">
+    <rdfs:label>右兵衛佐</rdfs:label>
+    <ns3:name>うひょうえのすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左京少進.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+    <ns3:name>さきょうしょうじょう</ns3:name>
+    <rdfs:label>左京少進</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/中務大丞.json">
+    <ns3:name>なかつかさたいじょう</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/中務省.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+    <rdfs:label>中務大丞</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/掃部助.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <ns3:name>かもんのすけ</ns3:name>
+    <rdfs:label>掃部助</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大学大允.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位下.json"/>
+    <ns3:name>だいがくのたいじょう</ns3:name>
+    <rdfs:label>大学大允</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大蔵卿.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/大蔵省.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正四位下.json"/>
+    <ns3:name>おおくらきょう</ns3:name>
+    <rdfs:label>大蔵卿</rdfs:label>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/大蔵省"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/勘解由次官.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>かげゆのすけ</ns3:name>
+    <rdfs:label>勘解由次官</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/玄蕃少允.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+    <ns3:name>げんぱのしょうじょう</ns3:name>
+    <rdfs:label>玄蕃少允</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/備後守.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>備後守</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/備後国.json"/>
+    <ns3:name>びんごのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右馬大記.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+    <rdfs:label>右馬大記</rdfs:label>
+    <ns3:name>うまのたいじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/兵部少丞.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <rdfs:label>兵部少丞</rdfs:label>
+    <ns3:name>ひょうぶしょうじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/陸奥守.json">
+    <ns3:name>むつのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>陸奥守</rdfs:label>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/陸奥国.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/讃岐守.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>讃岐守</rdfs:label>
+    <ns3:name>さぬきのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/讃岐国.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/図書大允.json">
+    <rdfs:label>図書大允</rdfs:label>
+    <ns3:name>ずしょのたいじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/隼人佑.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正八位上.json"/>
+    <ns3:name>はやとのすけ</ns3:name>
+    <rdfs:label>隼人佑</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内蔵頭.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>くらのかみ</ns3:name>
+    <rdfs:label>内蔵頭</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/民部卿.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/民部省.json"/>
+    <ns3:name>みんぶきょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正四位下.json"/>
+    <rdfs:label>民部卿</rdfs:label>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/民部省"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/常陸介.json">
+    <rdfs:label>常陸介</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:name>ひたちのすけ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/文章博士.json">
+    <ns3:name>もんじょうはかせ</ns3:name>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/文章博士"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>文章博士</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/令外官.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/縫殿大允.json">
+    <rdfs:label>縫殿大允</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+    <ns3:name>ぬいどののたいじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/舎人助.json">
+    <ns3:name>とねりのすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <rdfs:label>舎人助</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/隠岐守.json">
+    <ns3:name>おきのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+    <rdfs:label>隠岐守</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/隠岐国.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/掃部少允.json">
+    <ns3:name>かもんのしょうじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位下.json"/>
+    <rdfs:label>掃部少允</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/弾正少忠.json">
+    <ns3:name>だんじょうしょうちゅう</ns3:name>
+    <rdfs:label>弾正少忠</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/宮内大丞.json">
+    <rdfs:label>宮内大丞</rdfs:label>
+    <ns3:name>くないだいじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/雅楽助.json">
+    <rdfs:label>雅楽助</rdfs:label>
+    <ns3:name>うたのすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/勘解由判官.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+    <rdfs:label>勘解由判官</rdfs:label>
+    <ns3:name>かげゆのじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主殿大允.json">
+    <ns3:name>とのものたいじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+    <rdfs:label>主殿大允</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/民部少丞.json">
+    <rdfs:label>民部少丞</rdfs:label>
+    <ns3:name>みんぶしょうじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右近衛権中将.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json"/>
+    <rdfs:label>右近衛権中将</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/近衛府.json"/>
+    <ns3:name>うこのえごんちゅうじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/織部正.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <rdfs:label>織部正</rdfs:label>
+    <ns3:name>おりべのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大蔵少丞.json">
+    <rdfs:label>大蔵少丞</rdfs:label>
+    <ns3:name>おおくらしょうじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左兵衛督.json">
+    <rdfs:label>左兵衛督</rdfs:label>
+    <ns3:name>さひょうえのかみ</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/兵衛府.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/遠江守.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>とおとうみのかみ</ns3:name>
+    <rdfs:label>遠江守</rdfs:label>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/遠江国.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左大史.json">
+    <rdfs:label>左大史</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+    <ns3:name>さだいき</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/宮内卿.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/宮内省.json"/>
+    <ns3:name>くないきょう</ns3:name>
+    <ns3:relatedLink rdf:resource="http://ja.dbpedia.org/resource/宮内省"/>
+    <rdfs:label>宮内卿</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正四位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/玄蕃大允.json">
+    <ns3:name>げんぱのたいじょう</ns3:name>
+    <rdfs:label>玄蕃大允</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/筑前守.json">
+    <ns3:name>ちくぜんのかみ</ns3:name>
+    <rdfs:label>筑前守</rdfs:label>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/筑前国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/備中守.json">
+    <rdfs:label>備中守</rdfs:label>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/備中国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>びっちゅうのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右京大進.json">
+    <rdfs:label>右京大進</rdfs:label>
+    <ns3:name>うきょうたいじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主税頭.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <rdfs:label>主税頭</rdfs:label>
+    <ns3:name>ちからのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内膳佑.json">
+    <ns3:name>ないぜんのすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位下.json"/>
+    <rdfs:label>内膳佑</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主計頭.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <ns3:name>がずえのかみ</ns3:name>
+    <rdfs:label>主計頭</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/造酒正.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+    <ns3:name>みきのかみ</ns3:name>
+    <rdfs:label>造酒正</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/因幡守.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/因幡国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns3:name>いなばのかみ</ns3:name>
+    <rdfs:label>因幡守</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大膳少進.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+    <rdfs:label>大膳少進</rdfs:label>
+    <ns3:name>たいぜんしょうじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/木工頭.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位上.json"/>
+    <ns3:name>もくのかみ</ns3:name>
+    <rdfs:label>木工頭</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/関白.json">
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/関白"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正一位.json"/>
+    <ns3:name>かんぱく</ns3:name>
+    <rdfs:label>関白</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大外記.json">
+    <ns3:name>だいげき</ns3:name>
+    <rdfs:label>大外記</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大舎人助.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+    <rdfs:label>大舎人助</rdfs:label>
+    <ns3:name>おおとねりのすけ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/大学助.json">
+    <rdfs:label>大学助</rdfs:label>
+    <ns3:name>だいがくのすけ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/治部少輔.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <rdfs:label>治部少輔</rdfs:label>
+    <ns3:name>じぶしょうゆう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/民部少輔.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>みんぶしょうゆう</ns3:name>
+    <rdfs:label>民部少輔</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内蔵大允.json">
+    <rdfs:label>内蔵大允</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+    <ns3:name>くらのたいじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/信濃守.json">
+    <rdfs:label>信濃守</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>しなののかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/信濃国.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主工首.json">
+    <ns3:name>たくみのかみ</ns3:name>
+    <rdfs:label>主工首</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主膳正.json">
+    <rdfs:label>主膳正</rdfs:label>
+    <ns3:name>しゅぜんのかみ</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/木工少允.json">
+    <ns3:name>もくのしょうじょう</ns3:name>
+    <rdfs:label>木工少允</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/内匠少允.json">
+    <rdfs:label>内匠少允</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+    <ns3:name>たくみのしょうじょう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左近衛権中将.json">
+    <rdfs:label>左近衛権中将</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json"/>
+    <ns3:name>さこのえごんちゅうじょう</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/近衛府.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/図書助.json">
+    <ns3:name>ずしょのすけ</ns3:name>
+    <rdfs:label>図書助</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/織部佑.json">
+    <rdfs:label>織部佑</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正八位上.json"/>
+    <ns3:name>おりべのすけ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/治部大丞.json">
+    <rdfs:label>治部大丞</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <ns3:name>じぶだいじょう</ns3:name>
+    <ns3:name>じぶしょうじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/筑後守.json">
+    <ns3:name>ちくごのかみ</ns3:name>
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/筑後国.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>筑後守</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右少史.json">
+    <rdfs:label>右少史</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位上.json"/>
+    <ns3:name>うしょうし</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/美作守.json">
+    <ns3:place rdf:resource="https://nakamura196.github.io/hi_person/entity/place/美作国.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/国司.json"/>
+    <rdfs:label>美作守</rdfs:label>
+    <ns3:name>みまさかのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左京亮.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従五位下.json"/>
+    <ns3:name>さきょうのすけ</ns3:name>
+    <rdfs:label>左京亮</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/弾正大忠.json">
+    <rdfs:label>弾正大忠</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位上.json"/>
+    <ns3:name>だんじょうだいちゅう</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/式部少丞.json">
+    <rdfs:label>式部少丞</rdfs:label>
+    <ns3:name>しきぶしょうじょう</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主水正.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <rdfs:label>主水正</rdfs:label>
+    <ns3:name>もんどのかみ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/兵部大丞.json">
+    <ns3:name>ひょうぶだいじょう</ns3:name>
+    <rdfs:label>兵部大丞</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正六位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/少監物.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正七位下.json"/>
+    <rdfs:label>少監物</rdfs:label>
+    <ns3:name>しょうけんもつ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/掃部大允.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従七位上.json"/>
+    <ns3:name>かもんのたいじょう</ns3:name>
+    <rdfs:label>掃部大允</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/主殿助.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従六位上.json"/>
+    <rdfs:label>主殿助</rdfs:label>
+    <ns3:name>とのものすけ</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右近衛中将.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json"/>
+    <ns3:name>右中将</ns3:name>
+    <ns3:name>うこのえちゅうじょう</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/近衛府.json"/>
+    <rdfs:label>右近衛中将</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右大弁.json">
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位上.json"/>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/弁官"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+    <rdfs:label>右大弁</rdfs:label>
+    <ns2:relatedMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/弁官.json"/>
+    <ns3:name>うだいべん</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右少弁.json">
+    <ns3:name>うしょうべん</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+    <rdfs:label>右少弁</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左中弁.json">
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+    <rdfs:label>左中弁</rdfs:label>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位上.json"/>
+    <ns3:name>さちゅうべん</ns3:name>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左少弁.json">
+    <ns3:name>さしょうべん</ns3:name>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位下.json"/>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+    <rdfs:label>左少弁</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/右中弁.json">
+    <ns3:name>うちゅうべん</ns3:name>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/正五位上.json"/>
+    <rdfs:label>右中弁</rdfs:label>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左大弁.json">
+    <ns3:name>さだいべん</ns3:name>
+    <ns5:sameAs rdf:resource="http://ja.dbpedia.org/resource/弁官"/>
+    <ns2:relatedMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/弁官.json"/>
+    <rdfs:label>左大弁</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/太政官.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位上.json"/>
+  </ns1:役職.json>
+  <ns1:役職.json rdf:about="https://nakamura196.github.io/hi_person/term/keyword/左近衛中将.json">
+    <ns3:name>さこのえちゅうじょう</ns3:name>
+    <rdfs:label>左近衛中将</rdfs:label>
+    <ns3:isPartOf rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/近衛府.json"/>
+    <ns2:closeMatch rdf:resource="https://nakamura196.github.io/hi_person/term/keyword/従四位下.json"/>
+    <ns3:name>左中将</ns3:name>
+  </ns1:役職.json>
+</rdf:RDF>

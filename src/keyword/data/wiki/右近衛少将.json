@@ -1,0 +1,447 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 246375
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "4211"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "123"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 56379587
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/権官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/村上源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月8日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/巡爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月18日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/羽林"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:令外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/781年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原頼通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条教実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/延暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/793年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/765年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/唐名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本の官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天平神護"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/仁和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/信西"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/頭中将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1098年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/醍醐源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/諸大夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清華家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貞観_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/五位蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/弁官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/式部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇多源氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/馬寮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左近桜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/左大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/羽林家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛大将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/羽林大将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊勢平氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/授刀衛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/承明門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大内裏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大同_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/殿上人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/非参議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/史_(律令制)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平安時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/兵衛府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/陰明門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/官位相当"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堂上家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六位蔵人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月3日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂関家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/888年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衛門府"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/875年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原道長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/摂家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原基実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/玄輝門"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大臣家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人頭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/院近臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公達"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/行幸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/右近橘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宣陽門"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:節スタブ"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:令外官"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "近衛府（このえふ）は令外官のひとつ。765年に授刀衛を改めて設置された。左近衛府と右近衛府の二つが存在する。唐名は羽林。長は近衛大将（左近衛大将・右近衛大将）である。（左右）衛門府、（左右）兵衛府とあわせて「六衛府」と呼ばれる。別名「おおきちかきまもり」「ちかきまもりのつかさ」と呼ぶ。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "近衛府"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11638974"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11638974"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/近衛府?oldid=56379587"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/近衛府"
+        }
+    ]
+}

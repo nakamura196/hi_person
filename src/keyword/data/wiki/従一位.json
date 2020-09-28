@@ -1,0 +1,2331 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従一位（じゅいちい）は、日本の位階及び神階の位の一つ。正一位の下に位し、正二位の上位にあたる。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 95802
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "16561"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "644"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58573955
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大江磐代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花山院定好"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院通淳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中御門明豊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/准大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源倫子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勲等"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条宗基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正一位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺公衡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条治孝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋仲光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/毛利元徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋兼綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条教良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松木宗顕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条斉信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/半家_(公家)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐藤栄作"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川家定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司輔平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺実淳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万里小路冬房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正親町季秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正親町実連"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源雅信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正親町公通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条時宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/烏丸資任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺公晃"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺公朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺公俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺実時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺公顕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺実宣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺公益"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今小路師冬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四条隆量"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/葉室頼胤"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利満詮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今小路基冬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺実遠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛家実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源宗明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武者小路実陰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺実永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原淳光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺実益"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/牧野伸顕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋綱光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺賞季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/櫛笥隆賀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東郷平八郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原忠光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六条有庸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/池田慶徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平清盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋光成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広幡基豊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広幡豊忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大谷光勝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条公茂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条実重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大宮季衡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/烏丸光政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/裏松重光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/羽林家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮中"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清閑寺共房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今出川公彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛内前"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今出川公直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛家久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今出川公興"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今出川公行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/洞院公守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条吉忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条康道"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条政嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条綱平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛基平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛経熙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今出川公規"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日野資教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条光平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛兼経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条良平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条経通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺公名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1891年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原愛子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条内基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今出川教季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今出川実直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今出川実種"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勧修寺経敬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/洞院公賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条輝良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/庭田重嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花山院常雅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条公頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条忠良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原兼雅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1904年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松平恒雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/霊亀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義視"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義詮"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥井雅香"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義量"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原範季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋兼秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:位階制度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義満"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義澄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義稙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1949年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋兼宣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛良嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利尊氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/庭田重能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義晴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義勝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義尚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中御門宣秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義持"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1975年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1967年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺元長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺兼長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上原勇作"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司孝子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田定房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1951年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/葉室光親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日野資愛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1960年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大炊御門信経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正親町三条実雅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/庭田雅行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条公修"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/洞院実夏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山科忠言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原資定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名和長年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋兼胤"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺実基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条兼冬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺公清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺公継"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺公胤"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺公信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺公城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/粟田口良教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺公有"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大久保利通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源師子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/醍醐冬熙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四条隆盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/醍醐輝弘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四条隆叙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/葉室教忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四条隆永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坊城俊明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中山慶子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院通秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院通冬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坊城俊任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司冬教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司基忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/烏丸光宣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花山院定熙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司信子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥井雅久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条尚実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛経平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条幸家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本国憲法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条房通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宗輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桂昌院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条輔実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋前豊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋胤定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋隆豊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院通頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原道長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/庭田重條"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条昭良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司熙通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/庭田重熙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川治寶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条満教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原兼通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六条有房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条家経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中山忠能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/准后"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/葉室頼要"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平宗盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/雲光院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原信長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原経宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺実組"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原頼実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原在衡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川斉昭"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原継縄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日野勝光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/葉室頼孝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺致孝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原良世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原為光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/追贈"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正親町三条公積"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/裏辻実秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原淑子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源雅実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/櫛笥隆成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛政家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源融"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原定方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原三守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/醍醐兼潔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条斉敬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原是公"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛尚通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/姉小路公文"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花山院師信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大炊御門経孝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/井上良馨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我通相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今出川兼季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我通雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我長通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/旧暦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥井雅綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原頼宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条忠教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条師教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条尚忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条忠家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四辻善成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万里小路宣房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/栄典"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条実親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源多"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日野資時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衆議院議長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条実香"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋兼賢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣総理大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坊城俊広"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司政通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司兼熙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条道香"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/園基福"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源俊房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正親町三条実継"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条実良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正親町三条実音"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条忠香"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/洞院満季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条実冬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条実量"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司兼平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条公忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条西実隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条実美"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源顕房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺公経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八条良輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日野有光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条公光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条西公保"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昭和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我通光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源師房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今小路良冬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源有仁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川茂承"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川治済"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛基前"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門保光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条西実条"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中御門宣胤"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松木宗長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛兼教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋伊光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橘氏公"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条実起"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条実顕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛前久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第二次世界大戦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛基熙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛家熙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条公富"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛信尋"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛信尹"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原資行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岩倉恒具"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条実治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原資廉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条実秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条公敦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万里小路稙房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司冬家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条季晴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条教実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条経教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原光綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条道孝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条政基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勧修寺教秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛忠房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛稙家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条忠基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名家_(公家)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公爵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勧修寺尹豊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我豊通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛教基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥井雅光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛家基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛家平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条兼香"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条内経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正親町実胤"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正親町時季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武者小路縁光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武者小路資世"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土御門定実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺公孝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条道平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正親町公兼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷲尾隆純"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/町資広"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条冬良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条実経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条兼実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/六条有容"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条兼良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/木戸孝允"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条教房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条経嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万里小路嗣房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司輔熙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/源有雅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堀川具守"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛忠熙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/堀川基具"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花山院家定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万里小路時房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花山院愛徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中山愛親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清閑寺共綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条公房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司房輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/柳原資綱"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司教平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院通重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司信尚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利義輝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司信房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司忠冬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川光貞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山階実雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/油小路隆前"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鈴木貫太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川斉匡"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺実俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菊池武時"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥井雅重"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川慶勝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/征夷大将軍"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺公相"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原隆忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清閑寺昶定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清閑寺益房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条実忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛房嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛道嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺実能"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛兼嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛基嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺公純"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/敬称"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/飛鳥井雅章"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院通村"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳大寺実堅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原師長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原教通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠雅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日野資枝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原兼房_(太政大臣)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原宗忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日野資矩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原家忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/律令制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原仲麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司政熙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/烏丸光康"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/烏丸光胤"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花山院政長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山内容堂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条昭実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原頼長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松殿基房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司冬平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津久光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原実資"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原師実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条満基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川家光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我通博"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川家康"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋守光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川家慶"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川光圀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高台院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橘諸兄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/崇源院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川家斉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川家茂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山科言継"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条兼輝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原良継"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原豊成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原頼忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津斉彬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花山院通雅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鍋島直正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原緒嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勧修寺晴豊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条良経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条道家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺伊長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺篤長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昭和天皇"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川秀忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川慶喜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大御所_(江戸時代)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/花山院家厚"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原公季"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川綱吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坊城俊清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原兼家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原内麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣秀吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条良基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条良実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広橋兼勝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原基経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原実頼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣制度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/令外官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大炊御門信量"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条尚経"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大炊御門冬信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大炊御門冬宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大勲位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月17日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大炊御門信宗"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田茂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/四条隆郷"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原良房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我具通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院通茂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中院通躬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我惟通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司冬通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司師平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司房平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司政平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原頼通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司兼忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我通基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鷹司兼輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条兼基"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我通兄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原忠通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議院議長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原師通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原永手"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条尹房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条師忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条晴良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大炊御門家孝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条道良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大炊御門経久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万里小路建房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/幣原喜重郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万里小路政房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大炊御門経光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三条実行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大炊御門経名"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一条実永"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/万里小路淳房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条道教"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石上麻呂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我清通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大谷光尊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺国長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外務大臣_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/洞院公定"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条道前"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我通明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/甘露寺規長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我通言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久我通誠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大炊御門信嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺実晴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大炊御門冬氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛基通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛忠煕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛経忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勧修寺経顕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条兼孝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清閑寺熙房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/九条稙通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中山兼親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/近衛尚嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中山篤親"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/洞院実泰"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/洞院実熙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条師嗣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条師良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二条持通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広大院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺実兼"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺実氏"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:日本の位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:出典の明記"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:位階制度"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従一位（じゅいちい）は、日本の位階及び神階の位の一つ。正一位の下に位し、正二位の上位にあたる。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従一位"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/종1위"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11071121"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/從一位"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11071121"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/従一位?oldid=58573955"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/従一位"
+        }
+    ]
+}

@@ -1,0 +1,2005 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "日本の大蔵大臣・財務大臣一覧では、近代日本の財務責任を負った歴代の人物をあげる。"
+        }
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Rubin_Miyazawa_19990426.jpg?width=300"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 354814
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "16388"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "702"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 59091304
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/城島光力"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月7日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月2日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福田康夫内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野田佳彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1987年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第一銀行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月10日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇野内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月12日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月17日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本興業銀行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月19日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本社会党"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/若槻禮次郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民主党_(日本_1947-1950)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/津島寿一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1978年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野田内閣_(第2次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野田内閣_(第3次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月26日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/泉山三六"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/田中角栄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野田内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳩山由紀夫内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本国憲法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/濱口内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月12日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小倉正恒"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月14日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大隈重信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2006年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1980年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月11日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1983年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/研究会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月1日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本商工会議所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本民主党"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊吹文明"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月5日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2010年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/幣原内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月7日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣府特命担当大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月28日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/財務大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/黒田内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1998年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/賀屋興宣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貴族院_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月14日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月22日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮澤内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮澤内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/吉田茂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高橋是清"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/5月21日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月18日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/立憲同志会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月19日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/早速整爾"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月21日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/立憲政友会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安住淳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅内閣_(第2次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月16日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福田赳夫内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月26日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月29日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月22日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武村正義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅内閣_(第1次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福田赳夫内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/塩川正十郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福井藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/緑風会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平沼内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次小泉内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日銀総裁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月3日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月4日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海部俊樹"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新党さきがけ"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月25日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月30日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/市来乙彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/経済財政政策担当大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/井上準之助"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月22日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/与謝野馨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小渕内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小渕内閣_(第1次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小渕内閣_(第2次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月30日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月8日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/林内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本勧業銀行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/濱口雄幸"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次安倍内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松平春嶽"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月13日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次安倍内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/羽田孜"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/明治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月10日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松永光"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/太政官制"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月17日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/久保亘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次安倍内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/細川内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/額賀福志郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/竹下内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月28日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月27日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大屋晋三"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月10日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐野常民"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北村徳太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月12日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松田正久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/副総理"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広瀬豊作"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1871年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月18日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1872年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月19日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1873年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ファイル:Rubin_Miyazawa_19990426.jpg"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月14日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1869年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勝田主計"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月16日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月17日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊達宗城"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1880年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/井上馨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1885年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/齋藤内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月5日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/金融担当大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1881年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次安倍内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月2日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月16日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月30日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/渡辺国武"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月4日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1892年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次小泉内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次近衛内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月2日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐藤栄作"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次伊藤内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寺内内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月18日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/馬場鍈一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次小泉内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月19日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第4次伊藤内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鈴木善幸内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月21日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鈴木貫太郎内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月14日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/麻生内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月15日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月16日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/竹下内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月22日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次安倍内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の人物一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石橋内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次安倍内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武富時敏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民主党_(日本_1998-2016)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次小泉内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次小泉内閣_(第1次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次森内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山本達雄_(政治家)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/自由民主党_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次中曽根内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次中曽根内閣_(第1次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月9日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次吉田内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次中曽根内閣_(第2次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次大隈内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/憲政党"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次山縣内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次松方内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次伊藤内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次森内閣_(改造_中央省庁再編後)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次橋本内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1927年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次中曽根内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次池田内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次海部内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1929年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次海部内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次吉田内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1923年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次岸内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次森内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1924年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次桂内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次岸内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次森内閣_(改造_中央省庁再編前)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1925年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次橋本内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次桂内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/犬養内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次西園寺内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1934年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次松方内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/9月2日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1936年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月5日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次橋本内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1937年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次近衛内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次田中角栄内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次田中角栄内閣_(第1次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月7日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1931年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月28日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次田中角栄内閣_(第2次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次鳩山一郎内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次伊藤内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1941年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月30日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次山縣内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣府特命担当大臣（金融担当）"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1944年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1938年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加藤友三郎内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月8日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1939年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1940年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月9日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/青木一男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/羽田内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1948年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1949年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1945年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1946年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月14日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1947年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次岸内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次岸内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月16日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次池田内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月24日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月20日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次海部内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1900年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1896年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月21日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/愛知揆一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月22日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1898年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/原内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月23日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/谷垣禎一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1906年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次田中角栄内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高橋内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月30日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次鳩山一郎内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1901年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清浦内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/片山哲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1911年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月25日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1976年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1912年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1913年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月9日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1914年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1908年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1922年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1915年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/10月12日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1916年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1918年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1993年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民部省"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月23日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/村山達雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1994年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1996年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1968年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月25日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1989年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月27日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/11月19日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1990年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮澤喜一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西園寺公望"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/片山内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次中曽根内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次吉田内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次吉田内閣_(第1次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第4次吉田内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/渋沢敬三"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小笠原三九郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2008年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次吉田内閣_(第2次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次吉田内閣_(第3次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/池田勇人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次鳩山一郎内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/村山内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/村山内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三塚博"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1955年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/住友財閥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1956年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1957年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1958年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/渋沢財閥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第5次吉田内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1952年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1953年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桂太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1954年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1962年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1963年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1964年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1965年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1960年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡田内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福田赳夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1973年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/矢野庄太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1974年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1977年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/町田忠治"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1966年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/尾身幸次"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1967年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加藤高明内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1972年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1988年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月7日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三土忠造"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1979年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/7月8日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1982年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2000年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月27日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大平正芳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2001年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藩閥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坊秀男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/自由党_(日本_1950-1955)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中央省庁再編"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大久保利通"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2003年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阿部内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2011年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/麻生太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寺内正毅"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2009年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/橋本龍太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次大平内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次山本内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1971年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/結城豊太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次若槻内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/池田成彬"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次佐藤内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月13日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次佐藤内閣_(第1次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1986年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/水田三喜男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次佐藤内閣_(第2次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次佐藤内閣_(第3次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1991年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/片岡直温"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中川昭一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小磯内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月10日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/栗栖赳夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東久邇宮内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1992年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/6月27日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/林義郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阪谷芳郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/新生党"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/廣田内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/田中義一内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次佐藤内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松方正義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次佐藤内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の国務大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次桂内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次若槻内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次西園寺内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/金子一平_(政治家)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/櫻内幸雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次池田内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第3次池田内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大蔵大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福田康夫内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月7日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月5日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/植木庚子郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月6日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大木喬任"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/立憲民政党"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月16日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/民主自由党_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/米内内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/企画院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月11日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月16日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1970年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石渡荘太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月25日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月27日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/8月24日_(旧暦)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月19日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大蔵次官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次佐藤内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/渡辺美智雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月20日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2月21日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月3日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次山本内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月7日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次池田内閣_(第1次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月8日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次池田内閣_(第2次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次池田内閣_(第3次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月2日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次佐藤内閣_(第1次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次佐藤内閣_(第2次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月31日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次大平内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次小泉内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤井裕久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第2次大隈内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大日本帝国憲法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤井真信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の大蔵大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月11日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/芦田内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/12月9日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次小泉内閣_(第2次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/向井忠晴"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2007年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月14日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/憲政会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/菅直人"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河田烈"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月30日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2005年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鈴木善幸内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1月28日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東洋経済新報"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三木内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三木内閣_(改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東條内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/第1次近衛内閣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇和島藩"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三井財閥"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/3月9日"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石橋湛山"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/竹下登"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野田内閣_(第1次改造)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/曾禰荒助"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/社会民主党_(日本_1996-)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一万田尚登"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/4月26日"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の人物一覧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の大蔵大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:日本の国務大臣"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "日本の大蔵大臣・財務大臣一覧では、近代日本の財務責任を負った歴代の人物をあげる。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "日本の大蔵大臣・財務大臣一覧"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://id.dbpedia.org/resource/Daftar_Menteri_Keuangan_Jepang"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q20675766"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q20675766"
+        },
+        {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Liste_der_Finanzminister_Japans"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/日本の大蔵大臣・財務大臣一覧?oldid=59091304"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Rubin_Miyazawa_19990426.jpg"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/日本の大蔵大臣・財務大臣一覧"
+        }
+    ]
+}

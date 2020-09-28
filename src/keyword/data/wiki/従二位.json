@@ -1,0 +1,1315 @@
+{
+    "http://dbpedia.org/ontology/abstract": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従二位（じゅにい）は、日本の位階及び神階における位の一つ。正二位の下、正三位の上に位する。"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 395783
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageLength": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "8868"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageOutDegree": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+            "type": "literal",
+            "value": "496"
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageRevisionID": [
+        {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": 58874172
+        }
+    ],
+    "http://dbpedia.org/ontology/wikiPageWikiLink": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/田中二郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/湯川秀樹"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鎌倉公方"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐藤達夫_(法制官僚)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/茅誠司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平成輔"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/牛場信彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河井彌八"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/渡邉美智雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/羽田亨"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/重宗雄三"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平岩外四"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高橋誠一郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正田建次郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松村謙三"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/長岡半太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中山伊知郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/武井守成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/入江誠一郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/池田輝政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/農商大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土屋義彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河野養哲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/桜内義雄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河野謙三"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河野一郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/天野貞祐"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/川島正次郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下田武三"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/村上朝一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/ノーベル賞"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/熊谷岱蔵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/二階堂進"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阿蘇氏"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/加藤鐐五郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/土光敏夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/昭和"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戸田忠至"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東久邇稔彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/紀貫之"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川綱條"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1971年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/台北帝国大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三谷隆信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/管領"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西岡武夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊田貞次郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都帝国大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/京都大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東京大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/町尻説久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本国憲法"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戸沢正実"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/田村元"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内田祥三"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内務大臣_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/林譲治_(政治家)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣秀長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/中村梅吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石井光次郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大蔵大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1969年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/佐藤尚武"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/立入宗継"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松平康昌"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/豊臣秀吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大村純熈"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/朝永振一郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田米蔵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平成"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田利常"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大審院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/益谷秀次"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1970年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/広島大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/塾長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本芸術院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/田中芳男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/埼玉県"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/水田三喜男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平時子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大阪大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/人事官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/入江相政"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前尾繁三郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福田一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/公卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福永健司"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田綱紀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八木秀次"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/最高裁判所長官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/前田慶寧"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/星島二郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名古屋大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本学術会議"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本学術振興会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日本学士院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/法務大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/内閣総理大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/稲田周一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2008年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東畑精一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/江戸時代"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/坂田道太"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御台所"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤田尚徳"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/日野資朝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/入江俊郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石田和外_(裁判官)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/服部高顯"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/金森徳次郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/楠木正行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/河本文一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/有松英義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/外務大臣_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/葉室宗行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/貴族院_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利将軍家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正七位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/牧野英一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正八位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山梨東平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2004年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/福井謙一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/厚生大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1990年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/船田中"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/西村英一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1976年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/勝沼精蔵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/愛知揆一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正四位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1981年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/芳澤謙吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/井上裕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/松野鶴平"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/廣瀬久忠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮内庁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/名誉教授"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2006年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/八代六郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位上"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東宮大夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/立教大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/灘尾弘吉"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/矢口洪一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1991年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1986年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安倍晋太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北条政子"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/運輸通信省_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇野宗佑"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1998年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1997年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/森鴎外"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宮沢俊義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1995年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正力松太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/位階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡田忠彦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/副総理"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/下条康麿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/椎名悦三郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従七位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/小原直"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/国務大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/宇佐美毅_(宮内庁長官)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/学習院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川義寛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/田中館愛橘"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/後藤文夫"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1987年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/参議院議長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1985年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/関白"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1983年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/原文兵衛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1980年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1978年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/横田喜三郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/横田正俊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/上杉謙信"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/青木一男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2007年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/北里柴三郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/経済団体連合会"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安藤廣太郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/由利公正"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位下"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/栄典"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/足利直義"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/衆議院議長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/海軍大将"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/人事院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山梨勝之進"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/文部大臣_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/阿蘇惟豊"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/侍従長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大谷光沢"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/神階"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/町村信孝"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大村益次郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/御三卿"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/真島利行"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/鳥養利三郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/建設大臣"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川将軍家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川御三家"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/保利茂"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤山愛一郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/寺田治郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/平清盛"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/会計検査院"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高辻正己"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/岡原昌男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東北大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石黒忠篤"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/霜山精一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従五位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/藤原行房"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/芦田均"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/南原繁"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:位階制度"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1949年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1950年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/従四位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/戦国時代_(日本)"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/我妻栄"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/千種忠顕"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/蔵人別当"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳川昭武"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/今出川公言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/三浦謹之助"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大内義隆"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/森戸辰男"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/石橋湛山"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/一橋大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大鳥圭介"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/東京帝国大学"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/島津忠久"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/皇族"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大納言"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/片山哲"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/重光葵"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/山田三良"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/野村行一"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2015年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/式部官長"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/特命全権大使"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/清瀬一郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/最高裁判所裁判官"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/伊藤宗一郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/安井謙"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正六位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正三位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1999年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1993年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1994年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1996年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/高倉永秀"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1988年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1979年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/原健三郎"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1982年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/慶應義塾"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1984年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1973年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1974年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1975年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1977年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/穗積重遠"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1966年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1967年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1972年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1962年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1963年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1964年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1965年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1959年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1960年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1961年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/大野伴睦"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1955年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1957年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1958年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1951年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1952年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1953年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/1954年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2011年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2014年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2003年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/徳永正利"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2002年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/正二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2001年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/2000年"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/幣原坦"
+        }
+    ],
+    "http://ja.dbpedia.org/property/wikiPageUsesTemplate": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:出典の明記"
+        },
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Template:日本の位階"
+        }
+    ],
+    "http://purl.org/dc/terms/subject": [
+        {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/Category:位階制度"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従二位（じゅにい）は、日本の位階及び神階における位の一つ。正二位の下、正三位の上に位する。"
+        }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+            "lang": "ja",
+            "type": "literal",
+            "value": "従二位"
+        }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+        {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/종2위"
+        },
+        {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11488721"
+        },
+        {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/從二位"
+        },
+        {
+            "type": "uri",
+            "value": "http://wikidata.dbpedia.org/resource/Q11488721"
+        }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/従二位?oldid=58874172"
+        }
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        {
+            "type": "uri",
+            "value": "http://ja.wikipedia.org/wiki/従二位"
+        }
+    ]
+}
